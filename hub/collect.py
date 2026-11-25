@@ -37,6 +37,7 @@ PIB_OFFICES = {
 # Other official RSS feeds: name, url, kind, default region
 FEEDS = [
     ("RBI", "https://www.rbi.org.in/pressreleases_rss.xml", "rss", "national"),
+    # MahaSamvad returns 403 to GitHub Actions servers (works from a home connection); skipped if blocked.
     ("महासंवाद (महाराष्ट्र शासन)", "https://mahasamvad.in/feed/", "wordpress", "maharashtra"),
     ("महासंवाद (महाराष्ट्र शासन)", "https://mahasamvad.in/feed/?paged=2", "wordpress", "maharashtra"),
     # Add other official state government feeds here.
