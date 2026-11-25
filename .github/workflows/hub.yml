@@ -1,0 +1,62 @@
+name: CA Hub
+
+# collect:  hourly, saves new official releases (free, no AI)
+# generate: ~6 AM, 12 PM, 6 PM, 10 PM IST: AI writes, checks and auto-publishes to every app
+on:
+  schedule:
+    - cron: "5 * * * *"              # collect
+    - cron: "35 0,6,12,16 * * *"     # generate (00:35 UTC = 6:05 AM IST)
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "collect | generate | retract"
+        default: generate
+      item:
+        description: "for retract: item id or source URL"
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ca-hub
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+      - run: pip install -r requirements.txt
+
+      - name: Collect
+        if: inputs.task != 'retract'
+        run: python hub/collect.py
+
+      - name: Generate and publish
+        if: inputs.task == 'generate' || github.event.schedule == '35 0,6,12,16 * * *'
+        run: python hub/generate.py
+        env:
+          AI_PROVIDER: ${{ vars.AI_PROVIDER || 'gemini' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Retract
+        if: inputs.task == 'retract'
+        run: python hub/retract.py "$ITEM"
+        env:
+          ITEM: ${{ inputs.item }}
+
+      - name: Commit
+        run: |
+          git config user.name "ca-hub-bot"
+          git config user.email "ca-hub-bot@users.noreply.github.com"
+          git add store apps
+          git diff --cached --quiet && exit 0
+          git commit -m "hub: $(TZ=Asia/Kolkata date '+%F %H:%M')"
+          git pull --rebase && git push

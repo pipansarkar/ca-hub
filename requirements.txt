@@ -1,0 +1,5 @@
+feedparser>=6.0
+requests>=2.31
+pydantic>=2.0
+google-genai>=1.0      # free Gemini (default)
+anthropic>=0.70        # only if AI_PROVIDER=claude
