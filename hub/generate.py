@@ -232,6 +232,8 @@ def main() -> None:
                 published += make_items(chosen[k:k + BATCH], date, time)
     except QuotaExhausted as exc:
         log(f"[quota] free quota used up; the rest waits for the next run ({exc})")
+    except RuntimeError as exc:  # models busy (503) etc.: keep what's done, retry the rest next run
+        log(f"[busy] AI unavailable, the rest waits for the next run ({str(exc)[:200]})")
     finally:
         save(POOL, pool)
 

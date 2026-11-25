@@ -53,6 +53,7 @@ jobs:
           ITEM: ${{ inputs.item }}
 
       - name: Commit
+        if: success() || failure()
         run: |
           git config user.name "ca-hub-bot"
           git config user.email "ca-hub-bot@users.noreply.github.com"
