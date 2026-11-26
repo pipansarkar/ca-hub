@@ -13,7 +13,7 @@ hourly         hub/collect.py   PIB "All Releases" pages of all 28 offices (Delh
 
 | App | Reads | Gets |
 |---|---|---|
-| current_affairs_today | `apps/today/` | English + Bengali; categories + West Bengal, Tripura/NE, States (with state name) |
+| current_affairs_today | `apps/today/` | English; categories + West Bengal, Tripura/NE, States (with state name) |
 | current_affairs_in_bengali | `apps/bengali/` | Bengali; categories + west_bengal, tripura, north_east, states |
 | current_affairs_marathi | `apps/marathi/` | Marathi; categories + महाराष्ट्र (own tab), इतर राज्ये |
 

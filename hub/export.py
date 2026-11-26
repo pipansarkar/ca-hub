@@ -1,6 +1,6 @@
 """Write each app's JSON (in the exact format that app already reads) from store/items.
 
-apps/today/    current_affairs_today      (English + Bengali in one item)
+apps/today/    current_affairs_today      (English)
 apps/bengali/  current_affairs_in_bengali (Bengali)
 apps/marathi/  current_affairs_marathi    (Marathi)
 
@@ -51,7 +51,7 @@ TODAY_TAGS = {"UPSC", "Bank", "SSC", "Railways", "WBCS", "TPSC", "State PSC"}
 
 def export_today(items, out):
     def conv(i):
-        L = {k: v for k, v in i["langs"].items() if k in ("en", "bn")}
+        L = {"en": i["langs"]["en"]}  # English only; Bengali has its own app
         return {
             "id": i["id"],
             "category": today_category(i),
