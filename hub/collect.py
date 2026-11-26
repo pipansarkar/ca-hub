@@ -139,6 +139,47 @@ def isro_list() -> list:
     return out
 
 
+def sebi_list() -> list:
+    """(link, title, body) of recent SEBI press releases (capital markets)."""
+    page = get("https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=6&ssid=23&smid=0").text
+    out = []
+    for row in re.split(r"<tr\b", page):
+        d = re.search(r"<td>([A-Z][a-z]{2} \d{2}, \d{4})</td>", row)
+        a = re.search(r'href="(https://www\.sebi\.gov\.in/media-and-notifications/press-releases/[^"]+\.html)"[^>]*title="([^"]+)"', row)
+        if not (d and a) or (now_ist().date() - dt.datetime.strptime(d.group(1), "%b %d, %Y").date()).days > KEEP_DAYS:
+            continue
+        link = a.group(1)
+        out.append((link, clean(a.group(2)), lambda link=link: clean(get(link).text.split("</header>")[-1])[:6000]))
+    return out
+
+
+def pdf_text(url: str) -> str:
+    import io
+    from pypdf import PdfReader
+    reader = PdfReader(io.BytesIO(get(url).content))
+    text = " ".join((p.extract_text() or "") for p in reader.pages[:4])
+    for bad, good in {"Ʃ": "tt", "Ɵ": "ti", "ﬁ": "fi", "ﬂ": "fl", "ﬀ": "ff", "ﬃ": "ffi", "ﬄ": "ffl"}.items():
+        text = text.replace(bad, good)
+    return clean(text)[:6000]
+
+
+def irdai_list() -> list:
+    """(link, title, body) of recent IRDAI press releases (insurance). Releases are PDFs."""
+    page = get("https://irdai.gov.in/press-releases").text
+    out = []
+    for row in re.split(r"<tr\b", page):
+        pdf = re.search(r'href="(https://irdai\.gov\.in/documents/[^"]+\.pdf[^"]*)"', row)
+        d = re.search(r">\s*(\d{2}-\d{2}-\d{4})\s*<", row)
+        if not (pdf and d) or (now_ist().date() - dt.datetime.strptime(d.group(1), "%d-%m-%Y").date()).days > KEEP_DAYS:
+            continue
+        cells = [clean(c) for c in re.findall(r"<td[^>]*>(.*?)</td>", row, re.S)]
+        title = next((c for c in cells if len(c) > 15), "")
+        title = title.split(" / ")[-1].strip()  # bilingual "Hindi / English" -> English
+        link = html.unescape(pdf.group(1))
+        out.append((link, title, lambda link=link: pdf_text(link)))
+    return out
+
+
 def add(pool, titles, stamp, name, region, link, title, body_fn) -> bool:
     if not link or not title or link in pool or title.lower() in titles:
         return False
@@ -171,7 +212,7 @@ def main() -> None:
             print(f"[pib] {name} {day}: {len(rels)}", file=sys.stderr)
             for link, title in rels:
                 added += add(pool, titles, stamp, name, region, link, title, lambda: pib_body(link))
-    for name, fn in (("MEA", mea_list), ("ISRO", isro_list)):
+    for name, fn in (("MEA", mea_list), ("ISRO", isro_list), ("SEBI", sebi_list), ("IRDAI", irdai_list)):
         try:
             rels = fn()
         except Exception as exc:

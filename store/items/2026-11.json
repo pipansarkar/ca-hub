@@ -119,7 +119,49 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Republic of India",
+    "short": "India",
+    "kind": "country",
+    "indian": true
+   },
+   {
+    "name": "Georgia",
+    "short": "",
+    "kind": "country",
+    "indian": false
+   },
+   {
+    "name": "Ministry of External Affairs",
+    "short": "MEA",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "New Delhi",
+    "short": "",
+    "kind": "place",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of Georgia: Tbilisi",
+    "bn": "জর্জিয়া-এর রাজধানী: তিবিলিসি",
+    "mr": "जॉर्जिया ची राजधानी: त्बिलिसी"
+   },
+   {
+    "en": "Currency of Georgia: Georgian lari",
+    "mr": "जॉर्जिया चे चलन: जॉर्जियन लारी"
+   },
+   {
+    "en": "Ministry of External Affairs was established in 1946",
+    "bn": "বিদেশ মন্ত্রক প্রতিষ্ঠিত হয় 1946 সালে",
+    "mr": "परराष्ट्र मंत्रालय (भारत) ची स्थापना: 1946"
+   }
+  ]
  },
  {
   "id": "a9499d607f3a",
@@ -241,7 +283,28 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Indian Ocean Rim Association",
+    "short": "IORA",
+    "kind": "organisation",
+    "indian": false
+   },
+   {
+    "name": "Republic of India",
+    "short": "India",
+    "kind": "country",
+    "indian": true
+   },
+   {
+    "name": "New Delhi",
+    "short": "",
+    "kind": "place",
+    "indian": true
+   }
+  ],
+  "gk": []
  },
  {
   "id": "41cd2f9ed69e",
@@ -363,7 +426,37 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Kingdom of the Netherlands",
+    "short": "Netherlands",
+    "kind": "country",
+    "indian": false
+   },
+   {
+    "name": "Republic of India",
+    "short": "India",
+    "kind": "country",
+    "indian": true
+   },
+   {
+    "name": "Ministry of Foreign Affairs",
+    "short": "",
+    "kind": "organisation",
+    "indian": false
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of Kingdom of the Netherlands: Amsterdam",
+    "bn": "নেদারল্যান্ড রাজ্য-এর রাজধানী: আমস্টারডাম"
+   },
+   {
+    "en": "Currency of Kingdom of the Netherlands: euro",
+    "bn": "নেদারল্যান্ড রাজ্য-এর মুদ্রা: ইউরো"
+   }
+  ]
  },
  {
   "id": "ea7c4b811b7c",
@@ -486,7 +579,47 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Republic of India",
+    "short": "India",
+    "kind": "country",
+    "indian": true
+   },
+   {
+    "name": "Republic of Panama",
+    "short": "Panama",
+    "kind": "country",
+    "indian": false
+   },
+   {
+    "name": "Republic of Nicaragua",
+    "short": "Nicaragua",
+    "kind": "country",
+    "indian": false
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of Panama: Panama City",
+    "bn": "পানামা-এর রাজধানী: পানামা সিটি",
+    "mr": "पनामा ची राजधानी: पनामा सिटी"
+   },
+   {
+    "en": "Currency of Panama: Panamanian balboa",
+    "mr": "पनामा चे चलन: पनामेनियन बाल्बोआ"
+   },
+   {
+    "en": "Capital of Nicaragua: Managua",
+    "bn": "নিকারাগুয়া-এর রাজধানী: মানাগুয়া",
+    "mr": "निकाराग्वा ची राजधानी: Managua"
+   },
+   {
+    "en": "Currency of Nicaragua: Nicaraguan córdoba",
+    "mr": "निकाराग्वा चे चलन: निकाराग्वन कोर्डोबा"
+   }
+  ]
  },
  {
   "id": "cffc0e3d74c1",
@@ -574,7 +707,33 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Kingdom of Nepal",
+    "short": "Nepal",
+    "kind": "country",
+    "indian": false
+   },
+   {
+    "name": "Republic of India",
+    "short": "India",
+    "kind": "country",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of Nepal: Kathmandu",
+    "bn": "নেপাল-এর রাজধানী: কাঠমান্ডু",
+    "mr": "नेपाळ ची राजधानी: काठमांडू"
+   },
+   {
+    "en": "Currency of Nepal: Nepalese rupee",
+    "bn": "নেপাল-এর মুদ্রা: নেপালি রুপি",
+    "mr": "नेपाळ चे चलन: नेपाळी रुपया"
+   }
+  ]
  },
  {
   "id": "476bce5be749",
@@ -696,7 +855,43 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Shanghai Cooperation Organisation",
+    "short": "SCO",
+    "kind": "organisation",
+    "indian": false
+   },
+   {
+    "name": "Purana Qila",
+    "short": "",
+    "kind": "place",
+    "indian": true
+   },
+   {
+    "name": "New Delhi",
+    "short": "",
+    "kind": "place",
+    "indian": true
+   },
+   {
+    "name": "Republic of India",
+    "short": "India",
+    "kind": "country",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of Shanghai Cooperation Organisation: Beijing",
+    "bn": "সাংহাই সহযোগিতা সংস্থা-এর সদর দপ্তর: বেইজিং"
+   },
+   {
+    "en": "Shanghai Cooperation Organisation was established in 2001",
+    "bn": "সাংহাই সহযোগিতা সংস্থা প্রতিষ্ঠিত হয় 2001 সালে"
+   }
+  ]
  },
  {
   "id": "84a8b26b24f2",
@@ -818,7 +1013,51 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Republic of India",
+    "short": "India",
+    "kind": "country",
+    "indian": true
+   },
+   {
+    "name": "French Republic",
+    "short": "France",
+    "kind": "country",
+    "indian": false
+   },
+   {
+    "name": "New Delhi",
+    "short": "",
+    "kind": "place",
+    "indian": true
+   },
+   {
+    "name": "Financial Action Task Force",
+    "short": "FATF",
+    "kind": "organisation",
+    "indian": false
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of France: Paris",
+    "bn": "ফ্রান্স-এর রাজধানী: প্যারিস",
+    "mr": "फ्रान्स ची राजधानी: पॅरिस"
+   },
+   {
+    "en": "Currency of France: euro",
+    "bn": "ফ্রান্স-এর মুদ্রা: ইউরো",
+    "mr": "फ्रान्स चे चलन: युरो"
+   },
+   {
+    "en": "Headquarters of Financial Action Task Force: Paris"
+   },
+   {
+    "en": "Financial Action Task Force was established in 1989"
+   }
+  ]
  },
  {
   "id": "809cbbce0c7b",
@@ -940,7 +1179,45 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "United States Navy",
+    "short": "US Navy",
+    "kind": "organisation",
+    "indian": false
+   },
+   {
+    "name": "Kattupalli",
+    "short": "",
+    "kind": "place",
+    "indian": true
+   },
+   {
+    "name": "Chennai",
+    "short": "",
+    "kind": "place",
+    "indian": true
+   },
+   {
+    "name": "Republic of India",
+    "short": "India",
+    "kind": "country",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of United States Navy: The Pentagon",
+    "bn": "মার্কিন নৌবাহিনী-এর সদর দপ্তর: পেন্টাগন",
+    "mr": "अमेरिकेचे आरमार चे मुख्यालय: पेंटॅगॉन"
+   },
+   {
+    "en": "United States Navy was established in 1775",
+    "bn": "মার্কিন নৌবাহিনী প্রতিষ্ঠিত হয় 1775 সালে",
+    "mr": "अमेरिकेचे आरमार ची स्थापना: 1775"
+   }
+  ]
  },
  {
   "id": "b70acac5e750",
@@ -1062,7 +1339,55 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Republic of India",
+    "short": "India",
+    "kind": "country",
+    "indian": true
+   },
+   {
+    "name": "Portuguese Republic",
+    "short": "Portugal",
+    "kind": "country",
+    "indian": false
+   },
+   {
+    "name": "New Delhi",
+    "short": "",
+    "kind": "place",
+    "indian": true
+   },
+   {
+    "name": "European Union",
+    "short": "EU",
+    "kind": "organisation",
+    "indian": false
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of Portugal: Lisbon",
+    "bn": "পর্তুগাল-এর রাজধানী: লিসবন",
+    "mr": "पोर्तुगाल ची राजधानी: लिस्बन"
+   },
+   {
+    "en": "Currency of Portugal: euro",
+    "bn": "পর্তুগাল-এর মুদ্রা: ইউরো",
+    "mr": "पोर्तुगाल चे चलन: युरो"
+   },
+   {
+    "en": "Headquarters of European Union: Brussels",
+    "bn": "ইউরোপীয় ইউনিয়ন-এর সদর দপ্তর: ব্রাসেলস",
+    "mr": "युरोपीय संघ चे मुख्यालय: ब्रसेल्स"
+   },
+   {
+    "en": "European Union was established in 1993",
+    "bn": "ইউরোপীয় ইউনিয়ন প্রতিষ্ঠিত হয় 1993 সালে",
+    "mr": "युरोपीय संघ ची स्थापना: 1993"
+   }
+  ]
  },
  {
   "id": "a6c3926ac345",
@@ -1184,7 +1509,45 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Republic of India",
+    "short": "India",
+    "kind": "country",
+    "indian": true
+   },
+   {
+    "name": "Japan",
+    "short": "",
+    "kind": "country",
+    "indian": false
+   },
+   {
+    "name": "National Institute of Design",
+    "short": "NID",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Bengaluru",
+    "short": "",
+    "kind": "place",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of Japan: Tokyo",
+    "bn": "জাপান-এর রাজধানী: টোকিও",
+    "mr": "जपान ची राजधानी: तोक्यो"
+   },
+   {
+    "en": "Currency of Japan: yen",
+    "bn": "জাপান-এর মুদ্রা: জাপানি ইয়েন",
+    "mr": "जपान चे चलन: जपानी येन"
+   }
+  ]
  },
  {
   "id": "04d34390604d",
@@ -1306,7 +1669,33 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Republic of India",
+    "short": "India",
+    "kind": "country",
+    "indian": true
+   },
+   {
+    "name": "Japan",
+    "short": "",
+    "kind": "country",
+    "indian": false
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of Japan: Tokyo",
+    "bn": "জাপান-এর রাজধানী: টোকিও",
+    "mr": "जपान ची राजधानी: तोक्यो"
+   },
+   {
+    "en": "Currency of Japan: yen",
+    "bn": "জাপান-এর মুদ্রা: জাপানি ইয়েন",
+    "mr": "जपान चे चलन: जपानी येन"
+   }
+  ]
  },
  {
   "id": "4132bd6c8f81",
@@ -1429,7 +1818,55 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Manila",
+    "short": "",
+    "kind": "place",
+    "indian": false
+   },
+   {
+    "name": "United States of America",
+    "short": "US",
+    "kind": "country",
+    "indian": false
+   },
+   {
+    "name": "Australia",
+    "short": "",
+    "kind": "country",
+    "indian": false
+   },
+   {
+    "name": "Republic of India",
+    "short": "India",
+    "kind": "country",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of United States: Washington, D.C.",
+    "bn": "মার্কিন যুক্তরাষ্ট্র-এর রাজধানী: ওয়াশিংটন ডি. সি.",
+    "mr": "अमेरिकेची संयुक्त संस्थाने ची राजधानी: वॉशिंग्टन"
+   },
+   {
+    "en": "Currency of United States: United States dollar",
+    "bn": "মার্কিন যুক্তরাষ্ট্র-এর মুদ্রা: মার্কিন ডলার",
+    "mr": "अमेरिकेची संयुक्त संस्थाने चे चलन: अमेरिकन डॉलर"
+   },
+   {
+    "en": "Capital of Australia: Canberra",
+    "bn": "অস্ট্রেলিয়া-এর রাজধানী: ক্যানবেরা",
+    "mr": "ऑस्ट्रेलिया ची राजधानी: कॅनबेरा"
+   },
+   {
+    "en": "Currency of Australia: Australian dollar",
+    "bn": "অস্ট্রেলিয়া-এর মুদ্রা: অস্ট্রেলীয় ডলার",
+    "mr": "ऑस्ट्रेलिया चे चलन: ऑस्ट्रेलियन डॉलर"
+   }
+  ]
  },
  {
   "id": "5f7522360ce0",
@@ -1551,7 +1988,22 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Republic of India",
+    "short": "India",
+    "kind": "country",
+    "indian": true
+   },
+   {
+    "name": "Venice",
+    "short": "",
+    "kind": "place",
+    "indian": false
+   }
+  ],
+  "gk": []
  },
  {
   "id": "13bbb6c4b638",
@@ -1640,7 +2092,33 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Department of Posts",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Finance Commission",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of India Post: New Delhi",
+    "bn": "ভারতীয় ডাক-এর সদর দপ্তর: নয়াদিল্লি",
+    "mr": "भारतीय टपाल सेवा चे मुख्यालय: नवी दिल्ली"
+   },
+   {
+    "en": "India Post was established in 1854",
+    "bn": "ভারতীয় ডাক প্রতিষ্ঠিত হয় 1854 সালে",
+    "mr": "भारतीय टपाल सेवा ची स्थापना: 1854"
+   }
+  ]
  },
  {
   "id": "5c2bec7a7f12",
@@ -1729,7 +2207,16 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Finance Commission",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": []
  },
  {
   "id": "6c7841bd1f49",
@@ -1853,7 +2340,22 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Ministry of Heavy Industries",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "India",
+    "short": "",
+    "kind": "country",
+    "indian": true
+   }
+  ],
+  "gk": []
  },
  {
   "id": "023e38429866",
@@ -1976,7 +2478,38 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Airports Authority of India",
+    "short": "AAI",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Assam",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of Airports Authority of India: New Delhi",
+    "bn": "ভারতীয় বিমানবন্দর কর্তৃপক্ষ-এর সদর দপ্তর: নয়াদিল্লি",
+    "mr": "भारतीय विमानतळ प्राधिकरण चे मुख्यालय: नवी दिल्ली"
+   },
+   {
+    "en": "Airports Authority of India was established in 1995",
+    "bn": "ভারতীয় বিমানবন্দর কর্তৃপক্ষ প্রতিষ্ঠিত হয় 1995 সালে",
+    "mr": "भारतीय विमानतळ प्राधिकरण ची स्थापना: 1995"
+   },
+   {
+    "en": "Capital of Assam: Dispur",
+    "bn": "আসাম-এর রাজধানী: দিসপুর",
+    "mr": "आसाम ची राजधानी: दिसपूर"
+   }
+  ]
  },
  {
   "id": "feb966c322e1",
@@ -2099,7 +2632,33 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "India",
+    "short": "",
+    "kind": "country",
+    "indian": true
+   },
+   {
+    "name": "Republic of Singapore",
+    "short": "Singapore",
+    "kind": "country",
+    "indian": false
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of Singapore: Singapore",
+    "bn": "সিঙ্গাপুর-এর রাজধানী: সিঙ্গাপুর",
+    "mr": "सिंगापूर ची राजधानी: सिंगापूर"
+   },
+   {
+    "en": "Currency of Singapore: Singapore dollar",
+    "bn": "সিঙ্গাপুর-এর মুদ্রা: সিঙ্গাপুর ডলার",
+    "mr": "सिंगापूर चे चलन: सिंगापूर डॉलर"
+   }
+  ]
  },
  {
   "id": "d8e437db1350",
@@ -2221,7 +2780,27 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Nepal",
+    "short": "",
+    "kind": "country",
+    "indian": false
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of Nepal: Kathmandu",
+    "bn": "নেপাল-এর রাজধানী: কাঠমান্ডু",
+    "mr": "नेपाळ ची राजधानी: काठमांडू"
+   },
+   {
+    "en": "Currency of Nepal: Nepalese rupee",
+    "bn": "নেপাল-এর মুদ্রা: নেপালি রুপি",
+    "mr": "नेपाळ चे चलन: नेपाळी रुपया"
+   }
+  ]
  },
  {
   "id": "b24316b5d6da",
@@ -2345,7 +2924,22 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Department of Drinking Water and Sanitation",
+    "short": "DDWS",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Directorate General of Training",
+    "short": "DGT",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": []
  },
  {
   "id": "85fdc8682333",
@@ -2467,7 +3061,22 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Department of Rural Development",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "National Legal Services Authority",
+    "short": "NALSA",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": []
  },
  {
   "id": "a9104eaa0ebd",
@@ -2589,7 +3198,28 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "National Bank for Agriculture and Rural Development",
+    "short": "NABARD",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Department of Rural Development",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of National Bank for Agriculture and Rural Development: Mumbai",
+    "bn": "ন্যাশনাল ব্যাংক ফর এগ্রিকালচার অ্যান্ড রুরাল ডেভেলপমেন্ট-এর সদর দপ্তর: মুম্বই",
+    "mr": "राष्ट्रीय शेती व ग्रामीण विकास बँक चे मुख्यालय: मुंबई"
+   }
+  ]
  },
  {
   "id": "4693070bce13",
@@ -2710,7 +3340,33 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Mizoram",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   },
+   {
+    "name": "Meghalaya",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of Mizoram: Aizawl",
+    "bn": "মিজোরাম-এর রাজধানী: আইজল",
+    "mr": "मिझोरम ची राजधानी: ऐझॉल"
+   },
+   {
+    "en": "Capital of Meghalaya: Shillong",
+    "bn": "মেঘালয়-এর রাজধানী: শিলং",
+    "mr": "मेघालय ची राजधानी: शिलाँग"
+   }
+  ]
  },
  {
   "id": "d0d125108016",
@@ -2832,7 +3488,29 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Ministry of Statistics and Programme Implementation",
+    "short": "MoSPI",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Data Security Council of India",
+    "short": "DSCI",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of Data Security Council of India: New Delhi"
+   },
+   {
+    "en": "Data Security Council of India was established in 2008"
+   }
+  ]
  },
  {
   "id": "73b0f1f46019",
@@ -2955,7 +3633,55 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Tamil Nadu",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   },
+   {
+    "name": "Punjab",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   },
+   {
+    "name": "Uttar Pradesh",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   },
+   {
+    "name": "Rajasthan",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of Tamil Nadu: Chennai",
+    "bn": "তামিলনাড়ু-এর রাজধানী: চেন্নাই",
+    "mr": "तमिळनाडू ची राजधानी: चेन्नई"
+   },
+   {
+    "en": "Capital of Punjab: Chandigarh",
+    "bn": "পাঞ্জাব, ভারত-এর রাজধানী: চণ্ডীগড়",
+    "mr": "पंजाब ची राजधानी: चंदिगढ"
+   },
+   {
+    "en": "Capital of Uttar Pradesh: Lucknow",
+    "bn": "উত্তরপ্রদেশ-এর রাজধানী: লক্ষ্ণৌ",
+    "mr": "उत्तर प्रदेश ची राजधानी: लखनौ"
+   },
+   {
+    "en": "Capital of Rajasthan: Jaipur",
+    "bn": "রাজস্থান-এর রাজধানী: জয়পুর",
+    "mr": "राजस्थान ची राजधानी: जयपूर"
+   }
+  ]
  },
  {
   "id": "452f3fec1f93",
@@ -3077,7 +3803,31 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "American Geophysical Union",
+    "short": "AGU",
+    "kind": "organisation",
+    "indian": false
+   },
+   {
+    "name": "India",
+    "short": "",
+    "kind": "country",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of American Geophysical Union: Washington, D.C.",
+    "bn": "আমেরিকান জিওফিজিক্যাল ইউনিয়ন-এর সদর দপ্তর: ওয়াশিংটন ডি. সি."
+   },
+   {
+    "en": "American Geophysical Union was established in 1919",
+    "bn": "আমেরিকান জিওফিজিক্যাল ইউনিয়ন প্রতিষ্ঠিত হয় 1919 সালে"
+   }
+  ]
  },
  {
   "id": "7c4eadd270b4",
@@ -3165,7 +3915,16 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Pune",
+    "short": "",
+    "kind": "place",
+    "indian": true
+   }
+  ],
+  "gk": []
  },
  {
   "id": "02a8f6812473",
@@ -3288,6 +4047,58 @@
      }
     ]
    }
-  }
+  },
+  "entities": [
+   {
+    "name": "Goa",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   },
+   {
+    "name": "National Film Development Corporation of India",
+    "short": "NFDC",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "India",
+    "short": "",
+    "kind": "country",
+    "indian": true
+   },
+   {
+    "name": "Chile",
+    "short": "",
+    "kind": "country",
+    "indian": false
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of Goa: Panaji",
+    "bn": "গোয়া-এর রাজধানী: পানাজি",
+    "mr": "गोवा ची राजधानी: पणजी"
+   },
+   {
+    "en": "Headquarters of National Film Development Corporation of India: Mumbai",
+    "bn": "জাতীয় চলচ্চিত্র উন্নয়ন কর্পোরেশন-এর সদর দপ্তর: মুম্বই",
+    "mr": "भारतीय राष्ट्रीय फिल्म विकास कॉर्पोरेशन चे मुख्यालय: मुंबई"
+   },
+   {
+    "en": "National Film Development Corporation of India was established in 1975",
+    "bn": "জাতীয় চলচ্চিত্র উন্নয়ন কর্পোরেশন প্রতিষ্ঠিত হয় 1975 সালে",
+    "mr": "भारतीय राष्ट्रीय फिल्म विकास कॉर्पोरेशन ची स्थापना: 1975"
+   },
+   {
+    "en": "Capital of Chile: Santiago",
+    "bn": "চিলি-এর রাজধানী: সান্তিয়াগো",
+    "mr": "चिली ची राजधानी: सान्तियागो"
+   },
+   {
+    "en": "Currency of Chile: Chilean peso",
+    "mr": "चिली चे चलन: चिलीयन पेसो"
+   }
+  ]
  }
 ]

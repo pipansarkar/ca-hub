@@ -64,6 +64,10 @@ def export_today(items, out):
             "mcq": {"answer": i["answers"][0],
                     **{k: {"question": b["mcqs"][0]["question"], "options": b["mcqs"][0]["options"]}
                        for k, b in L.items()}},
+            "mcqs": [{"question": q["question"], "options": q["options"], "answer": a,
+                      "explanation": q["explanation"]} for q, a in zip(L["en"]["mcqs"], i["answers"])],
+            "gk": [g["en"] for g in i.get("gk", []) if "en" in g],
+            "source_kind": i["source_name"].split()[0],
             "source_name": i["source_name"], "source_url": i["source_url"],
         }
 
@@ -100,6 +104,7 @@ def export_bengali(items, out):
         return {"id": i["id"], "date": i["date"],
                 "category": bn_category(i),
                 "title_bn": b["title"], "points_bn": b["points"], "static_gk_bn": b["static_gk"],
+                "related_gk_bn": [g["bn"] for g in i.get("gk", []) if "bn" in g],
                 "mcqs": [{"question": q["question"], "options": q["options"], "answer_index": a,
                           "explanation": q["explanation"]} for q, a in zip(b["mcqs"], i["answers"])],
                 "source_name": i["source_name"], "source_url": i["source_url"]}
@@ -129,6 +134,7 @@ def export_marathi(items, out):
                 "category": "महाराष्ट्र" if maha else MR_CAT.get(i["category"], "राष्ट्रीय") if i["region"] == "national" else "इतर राज्ये",
                 "maharashtra": maha,
                 "source": i["source_name"], "source_url": i["source_url"],
+                "related_gk": [g["mr"] for g in i.get("gk", []) if "mr" in g],
                 "mcqs": [{"q": q["question"], "options": q["options"], "answer": a,
                           "explanation": q["explanation"]} for q, a in zip(b["mcqs"], i["answers"])]}
 

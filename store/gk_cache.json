@@ -1,0 +1,494 @@
+{
+"country:True:republic of india": {
+"at": "2026-11-26",
+"facts": []
+},
+"country:False:georgia": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Georgia: Tbilisi",
+"bn": "জর্জিয়া-এর রাজধানী: তিবিলিসি",
+"mr": "जॉर्जिया ची राजधानी: त्बिलिसी"
+},
+{
+"en": "Currency of Georgia: Georgian lari",
+"mr": "जॉर्जिया चे चलन: जॉर्जियन लारी"
+}
+]
+},
+"organisation:True:ministry of external affairs": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Ministry of External Affairs was established in 1946",
+"bn": "বিদেশ মন্ত্রক প্রতিষ্ঠিত হয় 1946 সালে",
+"mr": "परराष्ट्र मंत्रालय (भारत) ची स्थापना: 1946"
+}
+]
+},
+"place:True:new delhi": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:False:indian ocean rim association": {
+"at": "2026-11-26",
+"facts": []
+},
+"country:False:kingdom of the netherlands": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Kingdom of the Netherlands: Amsterdam",
+"bn": "নেদারল্যান্ড রাজ্য-এর রাজধানী: আমস্টারডাম"
+},
+{
+"en": "Currency of Kingdom of the Netherlands: euro",
+"bn": "নেদারল্যান্ড রাজ্য-এর মুদ্রা: ইউরো"
+}
+]
+},
+"organisation:False:ministry of foreign affairs": {
+"at": "2026-11-26",
+"facts": []
+},
+"country:False:republic of panama": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Panama: Panama City",
+"bn": "পানামা-এর রাজধানী: পানামা সিটি",
+"mr": "पनामा ची राजधानी: पनामा सिटी"
+},
+{
+"en": "Currency of Panama: Panamanian balboa",
+"mr": "पनामा चे चलन: पनामेनियन बाल्बोआ"
+}
+]
+},
+"country:False:republic of nicaragua": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Nicaragua: Managua",
+"bn": "নিকারাগুয়া-এর রাজধানী: মানাগুয়া",
+"mr": "निकाराग्वा ची राजधानी: Managua"
+},
+{
+"en": "Currency of Nicaragua: Nicaraguan córdoba",
+"mr": "निकाराग्वा चे चलन: निकाराग्वन कोर्डोबा"
+}
+]
+},
+"country:False:kingdom of nepal": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Nepal: Kathmandu",
+"bn": "নেপাল-এর রাজধানী: কাঠমান্ডু",
+"mr": "नेपाळ ची राजधानी: काठमांडू"
+},
+{
+"en": "Currency of Nepal: Nepalese rupee",
+"bn": "নেপাল-এর মুদ্রা: নেপালি রুপি",
+"mr": "नेपाळ चे चलन: नेपाळी रुपया"
+}
+]
+},
+"organisation:False:shanghai cooperation organisation": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Shanghai Cooperation Organisation: Beijing",
+"bn": "সাংহাই সহযোগিতা সংস্থা-এর সদর দপ্তর: বেইজিং"
+},
+{
+"en": "Shanghai Cooperation Organisation was established in 2001",
+"bn": "সাংহাই সহযোগিতা সংস্থা প্রতিষ্ঠিত হয় 2001 সালে"
+}
+]
+},
+"place:True:purana qila": {
+"at": "2026-11-26",
+"facts": []
+},
+"country:False:french republic": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of France: Paris",
+"bn": "ফ্রান্স-এর রাজধানী: প্যারিস",
+"mr": "फ्रान्स ची राजधानी: पॅरिस"
+},
+{
+"en": "Currency of France: euro",
+"bn": "ফ্রান্স-এর মুদ্রা: ইউরো",
+"mr": "फ्रान्स चे चलन: युरो"
+}
+]
+},
+"organisation:False:financial action task force": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Financial Action Task Force: Paris"
+},
+{
+"en": "Financial Action Task Force was established in 1989"
+}
+]
+},
+"organisation:False:united states navy": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of United States Navy: The Pentagon",
+"bn": "মার্কিন নৌবাহিনী-এর সদর দপ্তর: পেন্টাগন",
+"mr": "अमेरिकेचे आरमार चे मुख्यालय: पेंटॅगॉन"
+},
+{
+"en": "United States Navy was established in 1775",
+"bn": "মার্কিন নৌবাহিনী প্রতিষ্ঠিত হয় 1775 সালে",
+"mr": "अमेरिकेचे आरमार ची स्थापना: 1775"
+}
+]
+},
+"place:True:kattupalli": {
+"at": "2026-11-26",
+"facts": []
+},
+"place:True:chennai": {
+"at": "2026-11-26",
+"facts": []
+},
+"country:False:portuguese republic": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Portugal: Lisbon",
+"bn": "পর্তুগাল-এর রাজধানী: লিসবন",
+"mr": "पोर्तुगाल ची राजधानी: लिस्बन"
+},
+{
+"en": "Currency of Portugal: euro",
+"bn": "পর্তুগাল-এর মুদ্রা: ইউরো",
+"mr": "पोर्तुगाल चे चलन: युरो"
+}
+]
+},
+"organisation:False:european union": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of European Union: Brussels",
+"bn": "ইউরোপীয় ইউনিয়ন-এর সদর দপ্তর: ব্রাসেলস",
+"mr": "युरोपीय संघ चे मुख्यालय: ब्रसेल्स"
+},
+{
+"en": "European Union was established in 1993",
+"bn": "ইউরোপীয় ইউনিয়ন প্রতিষ্ঠিত হয় 1993 সালে",
+"mr": "युरोपीय संघ ची स्थापना: 1993"
+}
+]
+},
+"country:False:japan": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Japan: Tokyo",
+"bn": "জাপান-এর রাজধানী: টোকিও",
+"mr": "जपान ची राजधानी: तोक्यो"
+},
+{
+"en": "Currency of Japan: yen",
+"bn": "জাপান-এর মুদ্রা: জাপানি ইয়েন",
+"mr": "जपान चे चलन: जपानी येन"
+}
+]
+},
+"organisation:True:national institute of design": {
+"at": "2026-11-26",
+"facts": []
+},
+"place:True:bengaluru": {
+"at": "2026-11-26",
+"facts": []
+},
+"place:False:manila": {
+"at": "2026-11-26",
+"facts": []
+},
+"country:False:united states of america": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of United States: Washington, D.C.",
+"bn": "মার্কিন যুক্তরাষ্ট্র-এর রাজধানী: ওয়াশিংটন ডি. সি.",
+"mr": "अमेरिकेची संयुक्त संस्थाने ची राजधानी: वॉशिंग्टन"
+},
+{
+"en": "Currency of United States: United States dollar",
+"bn": "মার্কিন যুক্তরাষ্ট্র-এর মুদ্রা: মার্কিন ডলার",
+"mr": "अमेरिकेची संयुक्त संस्थाने चे चलन: अमेरिकन डॉलर"
+}
+]
+},
+"country:False:australia": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Australia: Canberra",
+"bn": "অস্ট্রেলিয়া-এর রাজধানী: ক্যানবেরা",
+"mr": "ऑस्ट्रेलिया ची राजधानी: कॅनबेरा"
+},
+{
+"en": "Currency of Australia: Australian dollar",
+"bn": "অস্ট্রেলিয়া-এর মুদ্রা: অস্ট্রেলীয় ডলার",
+"mr": "ऑस्ट्रेलिया चे चलन: ऑस्ट्रेलियन डॉलर"
+}
+]
+},
+"place:False:venice": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:department of posts": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of India Post: New Delhi",
+"bn": "ভারতীয় ডাক-এর সদর দপ্তর: নয়াদিল্লি",
+"mr": "भारतीय टपाल सेवा चे मुख्यालय: नवी दिल्ली"
+},
+{
+"en": "India Post was established in 1854",
+"bn": "ভারতীয় ডাক প্রতিষ্ঠিত হয় 1854 সালে",
+"mr": "भारतीय टपाल सेवा ची स्थापना: 1854"
+}
+]
+},
+"organisation:True:finance commission": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:ministry of heavy industries": {
+"at": "2026-11-26",
+"facts": []
+},
+"country:True:india": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:airports authority of india": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Airports Authority of India: New Delhi",
+"bn": "ভারতীয় বিমানবন্দর কর্তৃপক্ষ-এর সদর দপ্তর: নয়াদিল্লি",
+"mr": "भारतीय विमानतळ प्राधिकरण चे मुख्यालय: नवी दिल्ली"
+},
+{
+"en": "Airports Authority of India was established in 1995",
+"bn": "ভারতীয় বিমানবন্দর কর্তৃপক্ষ প্রতিষ্ঠিত হয় 1995 সালে",
+"mr": "भारतीय विमानतळ प्राधिकरण ची स्थापना: 1995"
+}
+]
+},
+"state:True:assam": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Assam: Dispur",
+"bn": "আসাম-এর রাজধানী: দিসপুর",
+"mr": "आसाम ची राजधानी: दिसपूर"
+}
+]
+},
+"country:False:republic of singapore": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Singapore: Singapore",
+"bn": "সিঙ্গাপুর-এর রাজধানী: সিঙ্গাপুর",
+"mr": "सिंगापूर ची राजधानी: सिंगापूर"
+},
+{
+"en": "Currency of Singapore: Singapore dollar",
+"bn": "সিঙ্গাপুর-এর মুদ্রা: সিঙ্গাপুর ডলার",
+"mr": "सिंगापूर चे चलन: सिंगापूर डॉलर"
+}
+]
+},
+"country:False:nepal": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Nepal: Kathmandu",
+"bn": "নেপাল-এর রাজধানী: কাঠমান্ডু",
+"mr": "नेपाळ ची राजधानी: काठमांडू"
+},
+{
+"en": "Currency of Nepal: Nepalese rupee",
+"bn": "নেপাল-এর মুদ্রা: নেপালি রুপি",
+"mr": "नेपाळ चे चलन: नेपाळी रुपया"
+}
+]
+},
+"organisation:True:department of drinking water and sanitation": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:directorate general of training": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:department of rural development": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:national legal services authority": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:national bank for agriculture and rural development": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of National Bank for Agriculture and Rural Development: Mumbai",
+"bn": "ন্যাশনাল ব্যাংক ফর এগ্রিকালচার অ্যান্ড রুরাল ডেভেলপমেন্ট-এর সদর দপ্তর: মুম্বই",
+"mr": "राष्ट्रीय शेती व ग्रामीण विकास बँक चे मुख्यालय: मुंबई"
+}
+]
+},
+"state:True:mizoram": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Mizoram: Aizawl",
+"bn": "মিজোরাম-এর রাজধানী: আইজল",
+"mr": "मिझोरम ची राजधानी: ऐझॉल"
+}
+]
+},
+"state:True:meghalaya": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Meghalaya: Shillong",
+"bn": "মেঘালয়-এর রাজধানী: শিলং",
+"mr": "मेघालय ची राजधानी: शिलाँग"
+}
+]
+},
+"organisation:True:ministry of statistics and programme implementation": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:data security council of india": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Data Security Council of India: New Delhi"
+},
+{
+"en": "Data Security Council of India was established in 2008"
+}
+]
+},
+"state:True:tamil nadu": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Tamil Nadu: Chennai",
+"bn": "তামিলনাড়ু-এর রাজধানী: চেন্নাই",
+"mr": "तमिळनाडू ची राजधानी: चेन्नई"
+}
+]
+},
+"state:True:punjab": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Punjab: Chandigarh",
+"bn": "পাঞ্জাব, ভারত-এর রাজধানী: চণ্ডীগড়",
+"mr": "पंजाब ची राजधानी: चंदिगढ"
+}
+]
+},
+"state:True:uttar pradesh": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Uttar Pradesh: Lucknow",
+"bn": "উত্তরপ্রদেশ-এর রাজধানী: লক্ষ্ণৌ",
+"mr": "उत्तर प्रदेश ची राजधानी: लखनौ"
+}
+]
+},
+"state:True:rajasthan": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Rajasthan: Jaipur",
+"bn": "রাজস্থান-এর রাজধানী: জয়পুর",
+"mr": "राजस्थान ची राजधानी: जयपूर"
+}
+]
+},
+"organisation:False:american geophysical union": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of American Geophysical Union: Washington, D.C.",
+"bn": "আমেরিকান জিওফিজিক্যাল ইউনিয়ন-এর সদর দপ্তর: ওয়াশিংটন ডি. সি."
+},
+{
+"en": "American Geophysical Union was established in 1919",
+"bn": "আমেরিকান জিওফিজিক্যাল ইউনিয়ন প্রতিষ্ঠিত হয় 1919 সালে"
+}
+]
+},
+"place:True:pune": {
+"at": "2026-11-26",
+"facts": []
+},
+"state:True:goa": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Goa: Panaji",
+"bn": "গোয়া-এর রাজধানী: পানাজি",
+"mr": "गोवा ची राजधानी: पणजी"
+}
+]
+},
+"organisation:True:national film development corporation of india": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of National Film Development Corporation of India: Mumbai",
+"bn": "জাতীয় চলচ্চিত্র উন্নয়ন কর্পোরেশন-এর সদর দপ্তর: মুম্বই",
+"mr": "भारतीय राष्ट्रीय फिल्म विकास कॉर्पोरेशन चे मुख्यालय: मुंबई"
+},
+{
+"en": "National Film Development Corporation of India was established in 1975",
+"bn": "জাতীয় চলচ্চিত্র উন্নয়ন কর্পোরেশন প্রতিষ্ঠিত হয় 1975 সালে",
+"mr": "भारतीय राष्ट्रीय फिल्म विकास कॉर्पोरेशन ची स्थापना: 1975"
+}
+]
+},
+"country:False:chile": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Chile: Santiago",
+"bn": "চিলি-এর রাজধানী: সান্তিয়াগো",
+"mr": "चिली ची राजधानी: सान्तियागो"
+},
+{
+"en": "Currency of Chile: Chilean peso",
+"mr": "चिली चे चलन: चिलीयन पेसो"
+}
+]
+}
+}

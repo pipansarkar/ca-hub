@@ -19,6 +19,7 @@ from pydantic import BaseModel, Field
 import export
 from ai import QuotaExhausted, ask
 from checks import check_lang, safe_static_gk
+from related_gk import facts_for
 from config import (BATCH, CATEGORIES, EXAM_TAGS, ITEMS, LANGS, MAX_PER_RUN, MIN_BODY_CHARS,
                     POOL, REGIONS, STATES, now_ist)
 
@@ -35,8 +36,16 @@ class Q(BaseModel):
     explanation: str
 
 
+class Entity(BaseModel):
+    name: str = Field(description="full official English name, e.g. 'Securities and Exchange Board of India'")
+    short: str = Field(description="common abbreviation if any, e.g. 'SEBI', else ''")
+    kind: str = Field(description="country | state | organisation | place")
+    indian: bool = Field(description="true if it is an Indian organisation/place")
+
+
 class Core(BaseModel):
     n: int
+    entities: List[Entity]
     category: str
     region: str
     tags: List[str]
@@ -104,6 +113,10 @@ Fields:
 - static_gk: one related well-known static fact (e.g. HQ of an organisation) only if you are certain; else ""
 - mcqs: exactly 2, each with exactly 4 distinct plausible options, answer = 0-based index of the correct
   option (vary its position), and a one-line explanation. Both must be answerable from the release.
+- entities: up to 4 key named entities that exams attach static GK to: organisations (ministries,
+  regulators, banks, UN bodies, companies), countries, Indian states/UTs, and places such as national
+  parks or wetlands. Give the full official English name (e.g. "National Film Development Corporation
+  of India"), the abbreviation, the kind (state = Indian state/UT only), and whether it is Indian. No people.
 - n: the release number you were given."""
 
 
@@ -174,7 +187,13 @@ def make_items(batch: list, date: str, time: str) -> list:
             "tags": [t for t in core.tags if t in EXAM_TAGS],
             "source_name": src["source"], "source_url": src["link"],
             "answers": answers, "langs": {"en": en}, "_source": source_text,
+            "entities": [e.model_dump() for e in core.entities][:4],
         }
+        try:
+            items[core.n]["gk"] = facts_for(items[core.n]["entities"])  # verified Wikidata facts
+        except Exception as exc:
+            log(f"  ! related GK failed: {exc}")
+            items[core.n]["gk"] = []
 
     for lang, cfg in LANGS.items():
         if lang == "en":
