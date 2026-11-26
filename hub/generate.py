@@ -96,7 +96,8 @@ Fields:
   SEBI, insurance, payments; culture = art, heritage, festivals, GI tags; reports_indices = reports,
   rankings, surveys, indices; national = anything that fits nothing else)
 - region: "national", or the key of the ONE state/UT the release is mainly about: {list(STATES)}.
-  For state news, the title must name the state.
+  For state news, the title must name the state. An event merely held in a state (summits, visits,
+  conferences) is "national" unless it is about that state's own affairs.
 - tags: 1-4 of {EXAM_TAGS}
 - title (max 12 words), one_liner (one exam-style sentence, max 25 words), summary (60-80 words),
   points (3-4 short facts: who/what/when/where/key number)
