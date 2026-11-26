@@ -92,6 +92,9 @@ Accuracy rules (critical; notes are published automatically):
 - Restate in your own concise words; do not copy sentences. Never exaggerate or editorialise.
 Fields:
 - category: one of {CATEGORIES}
+  (polity = constitution, parliament, laws, courts, elections, governance; banking = RBI, banks,
+  SEBI, insurance, payments; culture = art, heritage, festivals, GI tags; reports_indices = reports,
+  rankings, surveys, indices; national = anything that fits nothing else)
 - region: "national", or the key of the ONE state/UT the release is mainly about: {list(STATES)}.
   For state news, the title must name the state.
 - tags: 1-4 of {EXAM_TAGS}

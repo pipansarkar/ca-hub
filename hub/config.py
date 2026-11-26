@@ -44,8 +44,10 @@ NORTH_EAST = {"arunachal_pradesh", "assam", "manipur", "meghalaya", "mizoram", "
 REGIONS = ["national", *STATES]
 
 # Language-neutral category keys. Each app maps them to its own labels (export.py).
-CATEGORIES = ["national", "international", "economy", "schemes", "appointments", "awards",
-              "sports", "defence", "science", "environment"]
+# Exam subjects (as in Vision IAS PT 365 / AffairsCloud topic-wise PDFs).
+CATEGORIES = ["polity", "economy", "banking", "schemes", "international", "defence", "science",
+              "environment", "culture", "reports_indices", "important_days", "sports", "awards",
+              "appointments", "national"]
 
 EXAM_TAGS = ["UPSC", "Bank", "SSC", "Railways", "State PSC", "WBCS", "TPSC", "MPSC", "Police Bharti"]
 

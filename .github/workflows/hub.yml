@@ -6,10 +6,11 @@ on:
   schedule:
     - cron: "5 * * * *"              # collect
     - cron: "35 0,6,12,16 * * *"     # generate (00:35 UTC = 6:05 AM IST)
+    - cron: "0 22 * * 6"             # static GK rebuild from Wikidata, Sunday 3:30 AM IST
   workflow_dispatch:
     inputs:
       task:
-        description: "collect | generate | retract"
+        description: "collect | generate | static_gk | retract"
         default: generate
       item:
         description: "for retract: item id or source URL"
@@ -34,8 +35,12 @@ jobs:
           cache-dependency-path: requirements.txt
       - run: pip install -r requirements.txt
 
+      - name: Static GK (Wikidata)
+        if: inputs.task == 'static_gk' || github.event.schedule == '0 22 * * 6'
+        run: python hub/static_gk.py && python hub/export.py
+
       - name: Collect
-        if: inputs.task != 'retract'
+        if: inputs.task != 'retract' && inputs.task != 'static_gk'
         run: python hub/collect.py
 
       - name: Generate and publish

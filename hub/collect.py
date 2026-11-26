@@ -91,6 +91,54 @@ def pib_list(reg: int, day: dt.date) -> list:
     return out
 
 
+MONTHS = "January|February|March|April|May|June|July|August|September|October|November|December"
+
+
+def recent(text: str, days: int = KEEP_DAYS) -> bool:
+    """True if the first date found in text ('25 November, 2026' or 'August 12, 2026') is recent."""
+    m = re.search(rf"(\d{{1,2}})(?:st|nd|rd|th)?\s+({MONTHS}),?\s+(\d{{4}})|({MONTHS})\s+(\d{{1,2}}),\s+(\d{{4}})", text)
+    if not m:
+        return False
+    d, mon, y = (m.group(1), m.group(2), m.group(3)) if m.group(1) else (m.group(5), m.group(4), m.group(6))
+    when = dt.datetime.strptime(f"{d} {mon} {y}", "%d %B %Y").date()
+    return (now_ist().date() - when).days <= days
+
+
+def mea_list() -> list:
+    """(link, title, body) of recent MEA press releases (international relations)."""
+    base = "https://www.mea.gov.in/FrontEnd/"
+    hdr = {**UA, "X-Requested-With": "XMLHttpRequest"}
+    page = requests.get(base + "FetchPublicationListingData", headers=hdr, timeout=40, params={
+        "publicationId": 51, "page": 1, "PageSize": 20, "PLngId": 1, "SortBy": "", "KeywordName": "",
+        "DateRange": "", "IsInternalMEA": "false"}).text
+    out = []
+    rows = re.findall(r'class="date">([^<]+)</span>.*?<a href="(/press-releases\?dtl/\d+/[^"]*)">\s*([^<]+?)\s*</a>',
+                      page, re.S)
+    for date, href, title in rows:
+        if not recent(date):
+            continue
+        pkid = re.search(r"dtl/(\d+)/", href).group(1)
+        link = "https://www.mea.gov.in" + href
+        out.append((link, clean(title), lambda pkid=pkid: clean(requests.get(
+            base + "FetchPublicationDetailData", headers=hdr, timeout=40,
+            params={"pkid": pkid, "languageId": 1}).text)[:6000]))
+    return out
+
+
+def isro_list() -> list:
+    """(link, title, body) of recent ISRO press releases (space / science)."""
+    page = get("https://www.isro.gov.in/Press.html").text
+    out = []
+    for href, title in re.findall(r'href="([A-Za-z0-9_\-]+\.html)"[^>]*?title="([^"]{10,200})"', page, re.S)[:15]:
+        link = "https://www.isro.gov.in/" + href
+
+        def body(link=link):
+            t = clean(re.sub(r"(?is)<(nav|header|footer)\b.*?</\1>", " ", get(link).text))
+            return t[:6000]
+        out.append((link, clean(title), body))
+    return out
+
+
 def add(pool, titles, stamp, name, region, link, title, body_fn) -> bool:
     if not link or not title or link in pool or title.lower() in titles:
         return False
@@ -123,6 +171,26 @@ def main() -> None:
             print(f"[pib] {name} {day}: {len(rels)}", file=sys.stderr)
             for link, title in rels:
                 added += add(pool, titles, stamp, name, region, link, title, lambda: pib_body(link))
+    for name, fn in (("MEA", mea_list), ("ISRO", isro_list)):
+        try:
+            rels = fn()
+        except Exception as exc:
+            print(f"[skip] {name}: {exc}", file=sys.stderr)
+            continue
+        print(f"[web] {name}: {len(rels)}", file=sys.stderr)
+        for link, title, body_fn in rels:
+            if link in pool or title.lower() in titles:
+                continue
+            if name == "ISRO":  # the ISRO list has no dates; check the release text instead
+                try:
+                    text = body_fn()
+                except Exception as exc:
+                    print(f"[body-fail] {link}: {exc}", file=sys.stderr)
+                    continue
+                if not recent(text):
+                    continue
+                body_fn = lambda text=text: text
+            added += add(pool, titles, stamp, name, "national", link, title, body_fn)
     for name, url, kind, region in FEEDS:
         try:
             entries = feedparser.parse(get(url).content.lstrip(b"\xef\xbb\xbf")).entries

@@ -36,15 +36,17 @@ def by_date(items):
 
 
 # ---------------------------------------------------------------- today
-TODAY_CAT = {"national": "National", "international": "International", "economy": "Banking & Economy",
-             "schemes": "Schemes", "appointments": "Appointments", "awards": "Awards", "sports": "Sports",
-             "defence": "Defence", "science": "Science", "environment": "Environment"}
+TODAY_CAT = {"polity": "Polity", "economy": "Economy", "banking": "Banking", "schemes": "Schemes",
+             "international": "International", "defence": "Defence", "science": "Science & Tech",
+             "environment": "Environment", "culture": "Art & Culture", "reports_indices": "Reports & Indices",
+             "important_days": "Important Days", "sports": "Sports", "awards": "Awards",
+             "appointments": "Appointments", "national": "National"}
 
 
 def today_category(i):
     r = i["region"]
     if r == "national":
-        return TODAY_CAT[i["category"]]
+        return TODAY_CAT.get(i["category"], "National")
     return "West Bengal" if r == "west_bengal" else "Tripura/NE" if r in NORTH_EAST else "States"
 TODAY_TAGS = {"UPSC", "Bank", "SSC", "Railways", "WBCS", "TPSC", "State PSC"}
 
@@ -78,15 +80,17 @@ def export_today(items, out):
 
 
 # ---------------------------------------------------------------- bengali
-BN_CAT = {"national": "national", "international": "international", "economy": "economy",
-          "schemes": "national", "appointments": "appointments_awards", "awards": "appointments_awards",
-          "sports": "sports", "defence": "national", "science": "science", "environment": "environment"}
+BN_CAT = {"polity": "polity", "economy": "economy", "banking": "banking", "schemes": "schemes",
+          "international": "international", "defence": "defence", "science": "science",
+          "environment": "environment", "culture": "culture", "reports_indices": "reports_indices",
+          "important_days": "important_days", "sports": "sports", "awards": "appointments_awards",
+          "appointments": "appointments_awards", "national": "national"}
 
 
 def bn_category(i):
     r = i["region"]
     if r == "national":
-        return BN_CAT[i["category"]]
+        return BN_CAT.get(i["category"], "national")
     return {"west_bengal": "west_bengal", "tripura": "tripura"}.get(r) or ("north_east" if r in NORTH_EAST else "states")
 
 
@@ -110,9 +114,11 @@ def export_bengali(items, out):
 
 
 # ---------------------------------------------------------------- marathi
-MR_CAT = {"national": "राष्ट्रीय", "international": "आंतरराष्ट्रीय", "economy": "अर्थव्यवस्था",
-          "schemes": "योजना", "appointments": "पुरस्कार-नियुक्ती", "awards": "पुरस्कार-नियुक्ती",
-          "sports": "क्रीडा", "defence": "राष्ट्रीय", "science": "विज्ञान-तंत्रज्ञान", "environment": "पर्यावरण"}
+MR_CAT = {"polity": "राज्यव्यवस्था", "economy": "अर्थव्यवस्था", "banking": "बँकिंग", "schemes": "योजना",
+          "international": "आंतरराष्ट्रीय", "defence": "संरक्षण", "science": "विज्ञान-तंत्रज्ञान",
+          "environment": "पर्यावरण", "culture": "कला-संस्कृती", "reports_indices": "अहवाल-निर्देशांक",
+          "important_days": "महत्त्वाचे दिवस", "sports": "क्रीडा", "awards": "पुरस्कार-नियुक्ती",
+          "appointments": "पुरस्कार-नियुक्ती", "national": "राष्ट्रीय"}
 
 
 def export_marathi(items, out):
@@ -120,7 +126,7 @@ def export_marathi(items, out):
         b, maha = i["langs"]["mr"], i["region"] == "maharashtra"
         return {"id": i["id"], "lang": "mr", "date": i["date"], "time": i["time"],
                 "title": b["title"], "points": b["points"],
-                "category": "महाराष्ट्र" if maha else MR_CAT[i["category"]] if i["region"] == "national" else "इतर राज्ये",
+                "category": "महाराष्ट्र" if maha else MR_CAT.get(i["category"], "राष्ट्रीय") if i["region"] == "national" else "इतर राज्ये",
                 "maharashtra": maha,
                 "source": i["source_name"], "source_url": i["source_url"],
                 "mcqs": [{"q": q["question"], "options": q["options"], "answer": a,
@@ -138,6 +144,20 @@ def export_marathi(items, out):
 
 
 EXPORTERS = {"today": export_today, "bengali": export_bengali, "marathi": export_marathi}
+APP_LANG = {"today": "en", "bengali": "bn", "marathi": "mr"}
+
+
+def export_static_gk(out, lang):
+    """apps/<app>/static_gk.json: {"source", "topics": {key: label}, "items": [question...]}"""
+    src = ITEMS.parent / "static_gk.json"
+    if not src.exists():
+        return
+    bank = json.loads(src.read_text(encoding="utf-8"))
+    items = [{"id": i["id"], "topic": i["topic"], **i["langs"][lang], "source_url": i["source_url"]}
+             for i in bank["items"] if lang in i["langs"]]
+    topics = {k: v.get(lang, v["en"]) for k, v in bank["topics"].items()
+              if any(i["topic"] == k for i in items)}
+    save(out / "static_gk.json", {"source": bank["source"], "topics": topics, "items": items})
 
 
 def main() -> None:
@@ -146,6 +166,7 @@ def main() -> None:
         out = APPS / name
         shutil.rmtree(out, ignore_errors=True)  # full rebuild keeps retractions effective
         fn(items, out)
+        export_static_gk(out, APP_LANG[name])
     print(f"[export] {len(items)} items -> {', '.join(EXPORTERS)}")
 
 
