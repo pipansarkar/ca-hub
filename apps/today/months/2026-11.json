@@ -3,11 +3,13 @@
  "days": [
   {
    "date": "2026-11-26",
-   "ai_assisted": true,
    "items": [
     {
      "id": "4b35dd726e15",
-     "category": "Banking",
+     "date": "2026-11-26",
+     "time": "2026-11-26T07:27+05:30",
+     "category": "banking",
+     "region": "national",
      "state": "",
      "tags": [
       "Bank",
@@ -15,7 +17,9 @@
       "State PSC",
       "UPSC"
      ],
-     "en": {
+     "source_name": "SEBI",
+     "source_url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-hosts-iosco-s-asia-pacific-regional-committee-regulatory-roundtable-on-market-infrastructure-institutions_105848.html",
+     "text": {
       "title": "SEBI Hosts IOSCO Asia-Pacific Regional Committee Regulatory Roundtable",
       "one_liner": "SEBI hosted the IOSCO Asia-Pacific Regional Committee Regulatory Roundtable on Market Infrastructure Institutions on November 19, 2026.",
       "summary": "SEBI hosted IOSCO’s Asia-Pacific Regional Committee Regulatory Roundtable focusing on Market Infrastructure Institutions on November 19, 2026. The event brought together regional regulators to discuss regulatory frameworks and market infrastructure.",
@@ -25,18 +29,6 @@
        "Focus: Market Infrastructure Institutions",
        "Date: November 19, 2026"
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Which organization hosted the IOSCO Asia-Pacific Regional Committee Regulatory Roundtable on Market Infrastructure Institutions in November 2026?",
-       "options": [
-        "RBI",
-        "SEBI",
-        "IRDAI",
-        "PFRDA"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -62,19 +54,41 @@
        "explanation": "The roundtable specifically focused on Market Infrastructure Institutions under the IOSCO Asia-Pacific Regional Committee."
       }
      ],
+     "mcq": {
+      "question": "Which organization hosted the IOSCO Asia-Pacific Regional Committee Regulatory Roundtable on Market Infrastructure Institutions in November 2026?",
+      "options": [
+       "RBI",
+       "SEBI",
+       "IRDAI",
+       "PFRDA"
+      ],
+      "answer": 1,
+      "explanation": "SEBI hosted the IOSCO Asia-Pacific Regional Committee Regulatory Roundtable on Market Infrastructure Institutions on November 19, 2026."
+     },
      "gk": [
       "Headquarters of Securities and Exchange Board of India: Mumbai",
       "Securities and Exchange Board of India was established in 1992",
       "Headquarters of International Organization of Securities Commissions: Madrid",
       "International Organization of Securities Commissions was established in 1983"
      ],
-     "source_kind": "SEBI",
-     "source_name": "SEBI",
-     "source_url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-hosts-iosco-s-asia-pacific-regional-committee-regulatory-roundtable-on-market-infrastructure-institutions_105848.html"
+     "en": {
+      "title": "SEBI Hosts IOSCO Asia-Pacific Regional Committee Regulatory Roundtable",
+      "one_liner": "SEBI hosted the IOSCO Asia-Pacific Regional Committee Regulatory Roundtable on Market Infrastructure Institutions on November 19, 2026.",
+      "summary": "SEBI hosted IOSCO’s Asia-Pacific Regional Committee Regulatory Roundtable focusing on Market Infrastructure Institutions on November 19, 2026. The event brought together regional regulators to discuss regulatory frameworks and market infrastructure.",
+      "key_points": [
+       "Event: IOSCO Asia-Pacific Regional Committee Regulatory Roundtable",
+       "Host: SEBI",
+       "Focus: Market Infrastructure Institutions",
+       "Date: November 19, 2026"
+      ]
+     }
     },
     {
      "id": "6480d237c933",
-     "category": "Banking",
+     "date": "2026-11-26",
+     "time": "2026-11-26T07:27+05:30",
+     "category": "banking",
+     "region": "national",
      "state": "",
      "tags": [
       "Bank",
@@ -82,7 +96,9 @@
       "State PSC",
       "UPSC"
      ],
-     "en": {
+     "source_name": "SEBI",
+     "source_url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-a-sub-group-of-pmac-to-review-specified-provisions-of-the-sebi-icdr-regulations-2018_105790.html",
+     "text": {
       "title": "SEBI Constitutes Sub-Group of PMAC to Review ICDR Regulations",
       "one_liner": "SEBI has constituted a sub-group of PMAC to review specified provisions of the SEBI (ICDR) Regulations, 2018.",
       "summary": "SEBI constituted a sub-group of its Primary Market Advisory Committee (PMAC) on November 16, 2026. The sub-group has been tasked with reviewing specified provisions of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018.",
@@ -92,18 +108,6 @@
        "Subject: SEBI (ICDR) Regulations, 2018",
        "Date: November 16, 2026"
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "SEBI constituted a sub-group of which committee to review specific provisions in November 2026?",
-       "options": [
-        "MFAC",
-        "PMAC",
-        "FSRCC",
-        "TAC"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -129,17 +133,39 @@
        "explanation": "The sub-group was formed to review specified provisions of the SEBI (ICDR) Regulations, 2018."
       }
      ],
+     "mcq": {
+      "question": "SEBI constituted a sub-group of which committee to review specific provisions in November 2026?",
+      "options": [
+       "MFAC",
+       "PMAC",
+       "FSRCC",
+       "TAC"
+      ],
+      "answer": 1,
+      "explanation": "SEBI constituted a sub-group of PMAC (Primary Market Advisory Committee) to review specified provisions of the ICDR Regulations."
+     },
      "gk": [
       "Headquarters of Securities and Exchange Board of India: Mumbai",
       "Securities and Exchange Board of India was established in 1992"
      ],
-     "source_kind": "SEBI",
-     "source_name": "SEBI",
-     "source_url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-a-sub-group-of-pmac-to-review-specified-provisions-of-the-sebi-icdr-regulations-2018_105790.html"
+     "en": {
+      "title": "SEBI Constitutes Sub-Group of PMAC to Review ICDR Regulations",
+      "one_liner": "SEBI has constituted a sub-group of PMAC to review specified provisions of the SEBI (ICDR) Regulations, 2018.",
+      "summary": "SEBI constituted a sub-group of its Primary Market Advisory Committee (PMAC) on November 16, 2026. The sub-group has been tasked with reviewing specified provisions of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018.",
+      "key_points": [
+       "Body: PMAC Sub-Group",
+       "Regulator: SEBI",
+       "Subject: SEBI (ICDR) Regulations, 2018",
+       "Date: November 16, 2026"
+      ]
+     }
     },
     {
      "id": "12b00525bf68",
-     "category": "Banking",
+     "date": "2026-11-26",
+     "time": "2026-11-26T07:27+05:30",
+     "category": "banking",
+     "region": "national",
      "state": "",
      "tags": [
       "Bank",
@@ -147,7 +173,9 @@
       "State PSC",
       "UPSC"
      ],
-     "en": {
+     "source_name": "IRDAI",
+     "source_url": "https://irdai.gov.in/documents/37343/366347/Press+release+-+IRDAI+forms+two+study+groups+to+enhance+transparency+and+strengthen+accountability+in+health+insurance+claims.pdf/21cbd70f-fc2f-acc3-4636-4b3411389f04?version=1.0&t=1795532361323&download=true",
+     "text": {
       "title": "IRDAI Forms Study Groups for Health Insurance Claims Transparency",
       "one_liner": "The IAC Sub-Committee on Health Insurance formed two study groups to enhance transparency and accountability in health insurance claims.",
       "summary": "The IAC Sub-Committee on Health Insurance, constituted by IRDAI, formed two study groups to recommend standardised claims and grievance metrics, a common reason code framework, and real-time visibility of the claims journey. Both study groups are chaired by Dr. Ayyaj Tamboli, Executive Director, IRDAI, and will submit their reports by December 26, 2026.",
@@ -157,18 +185,6 @@
        "Chairperson: Dr. Ayyaj Tamboli, Executive Director, IRDAI",
        "Submission Deadline: December 26, 2026"
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Who is the chairperson of the two health insurance study groups formed by IRDAI in November 2026?",
-       "options": [
-        "Dr. Indu Bhushan",
-        "Dr. Ayyaj Tamboli",
-        "Shri Ajay Seth",
-        "Shri Manoj Kumar"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -194,19 +210,41 @@
        "explanation": "Both groups will submit their reports to IRDAI by 26th December 2026."
       }
      ],
+     "mcq": {
+      "question": "Who is the chairperson of the two health insurance study groups formed by IRDAI in November 2026?",
+      "options": [
+       "Dr. Indu Bhushan",
+       "Dr. Ayyaj Tamboli",
+       "Shri Ajay Seth",
+       "Shri Manoj Kumar"
+      ],
+      "answer": 1,
+      "explanation": "Both study groups are chaired by Dr. Ayyaj Tamboli, Executive Director, IRDAI."
+     },
      "gk": [
       "Headquarters of Insurance Regulatory and Development Authority: Hyderabad",
       "Headquarters of Asian Development Bank: Mandaluyong",
       "Asian Development Bank was established in 1966",
       "World Bank was established in 1945"
      ],
-     "source_kind": "IRDAI",
-     "source_name": "IRDAI",
-     "source_url": "https://irdai.gov.in/documents/37343/366347/Press+release+-+IRDAI+forms+two+study+groups+to+enhance+transparency+and+strengthen+accountability+in+health+insurance+claims.pdf/21cbd70f-fc2f-acc3-4636-4b3411389f04?version=1.0&t=1795532361323&download=true"
+     "en": {
+      "title": "IRDAI Forms Study Groups for Health Insurance Claims Transparency",
+      "one_liner": "The IAC Sub-Committee on Health Insurance formed two study groups to enhance transparency and accountability in health insurance claims.",
+      "summary": "The IAC Sub-Committee on Health Insurance, constituted by IRDAI, formed two study groups to recommend standardised claims and grievance metrics, a common reason code framework, and real-time visibility of the claims journey. Both study groups are chaired by Dr. Ayyaj Tamboli, Executive Director, IRDAI, and will submit their reports by December 26, 2026.",
+      "key_points": [
+       "Regulator: IRDAI",
+       "Action: Formed two study groups via IAC Sub-Committee on Health Insurance",
+       "Chairperson: Dr. Ayyaj Tamboli, Executive Director, IRDAI",
+       "Submission Deadline: December 26, 2026"
+      ]
+     }
     },
     {
      "id": "d62909433d23",
-     "category": "Banking",
+     "date": "2026-11-26",
+     "time": "2026-11-26T07:27+05:30",
+     "category": "banking",
+     "region": "national",
      "state": "",
      "tags": [
       "Bank",
@@ -214,7 +252,9 @@
       "State PSC",
       "UPSC"
      ],
-     "en": {
+     "source_name": "IRDAI",
+     "source_url": "https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%A8+%E0%A4%94%E0%A4%B0+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%8B+%E0%A4%AE%E0%A4%9C%E0%A4%AC%E0%A5%82%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87++%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%9C%E0%A5%8D%E0%A4%9E+%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF+%E0%A4%95%E0%A4%BE+%E0%A4%97%E0%A4%A0%E0%A4%A8+%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88+_+IRDAI+constitutes+Expert+Committee+to+strengthen+the+design+and+implementation+of+its+distribution+reforms.pdf/c70f41b4-1cfc-4f69-c4c1-e206e39b0167?version=3.0&t=1795496981191&download=true",
+     "text": {
       "title": "IRDAI Constitutes Expert Committee for Distribution Reforms",
       "one_liner": "IRDAI constituted an Expert Committee chaired by Dr. Indu Bhushan to strengthen the design and implementation of insurance distribution reforms.",
       "summary": "IRDAI formed an Expert Committee comprising independent economists and insurance professionals to suggest measures on distribution reforms following a public consultation paper issued on September 23, 2026. The committee is chaired by Dr. Indu Bhushan, former CEO of Ayushman Bharat Mission, with Dr. Ayyaj Tamboli as Convenor. The committee will submit its report by December 31, 2026.",
@@ -224,18 +264,6 @@
        "Reporting Deadline: December 31, 2026",
        "Consultation Paper Date: September 23, 2026"
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Who is appointed as the chairperson of the Expert Committee on distribution reforms constituted by IRDAI?",
-       "options": [
-        "Shri Ajay Seth",
-        "Dr. Indu Bhushan",
-        "Shri Suresh Goyal",
-        "Dr. Ayyaj Tamboli"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -261,25 +289,49 @@
        "explanation": "The committee has been given time until 31 December 2026 to submit its report."
       }
      ],
+     "mcq": {
+      "question": "Who is appointed as the chairperson of the Expert Committee on distribution reforms constituted by IRDAI?",
+      "options": [
+       "Shri Ajay Seth",
+       "Dr. Indu Bhushan",
+       "Shri Suresh Goyal",
+       "Dr. Ayyaj Tamboli"
+      ],
+      "answer": 1,
+      "explanation": "The committee is chaired by Dr. Indu Bhushan, former CEO of Ayushman Bharat Mission."
+     },
      "gk": [
       "Headquarters of Insurance Regulatory and Development Authority: Hyderabad",
       "Headquarters of National Council of Applied Economic Research: New Delhi",
       "National Council of Applied Economic Research was established in 1956"
      ],
-     "source_kind": "IRDAI",
-     "source_name": "IRDAI",
-     "source_url": "https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%A8+%E0%A4%94%E0%A4%B0+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%8B+%E0%A4%AE%E0%A4%9C%E0%A4%AC%E0%A5%82%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87++%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%9C%E0%A5%8D%E0%A4%9E+%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF+%E0%A4%95%E0%A4%BE+%E0%A4%97%E0%A4%A0%E0%A4%A8+%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88+_+IRDAI+constitutes+Expert+Committee+to+strengthen+the+design+and+implementation+of+its+distribution+reforms.pdf/c70f41b4-1cfc-4f69-c4c1-e206e39b0167?version=3.0&t=1795496981191&download=true"
+     "en": {
+      "title": "IRDAI Constitutes Expert Committee for Distribution Reforms",
+      "one_liner": "IRDAI constituted an Expert Committee chaired by Dr. Indu Bhushan to strengthen the design and implementation of insurance distribution reforms.",
+      "summary": "IRDAI formed an Expert Committee comprising independent economists and insurance professionals to suggest measures on distribution reforms following a public consultation paper issued on September 23, 2026. The committee is chaired by Dr. Indu Bhushan, former CEO of Ayushman Bharat Mission, with Dr. Ayyaj Tamboli as Convenor. The committee will submit its report by December 31, 2026.",
+      "key_points": [
+       "Committee Chairperson: Dr. Indu Bhushan",
+       "Convenor: Dr. Ayyaj Tamboli",
+       "Reporting Deadline: December 31, 2026",
+       "Consultation Paper Date: September 23, 2026"
+      ]
+     }
     },
     {
      "id": "f299235faa78",
-     "category": "International",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:51+05:30",
+     "category": "international",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
       "SSC",
       "State PSC"
      ],
-     "en": {
+     "source_name": "MEA",
+     "source_url": "https://www.mea.gov.in/press-releases?dtl/42004/9th_IndiaGeorgia_Foreign_Office_Consultations_November_25_2026",
+     "text": {
       "title": "9th India-Georgia Foreign Office Consultations Held in New Delhi",
       "one_liner": "India and Georgia held their 9th Foreign Office Consultations in New Delhi on November 25, 2026, reviewing bilateral cooperation.",
       "summary": "The 9th round of India–Georgia Foreign Office Consultations took place in New Delhi on 25 November 2026. The Indian delegation was led by Shri. Sibi George, Secretary (West), Ministry of External Affairs, while the Georgian side was headed by H.E. Mr. Alexander Khvitisiashvili, Deputy Minister of Foreign Affairs. Both sides reviewed bilateral relations encompassing trade, investment, energy, infrastructure, culture, and education, and agreed to hold the next session in Tbilisi.",
@@ -289,18 +341,6 @@
        "Venue: New Delhi",
        "Indian delegation leader: Shri. Sibi George, Secretary (West), MEA"
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Who led the Indian delegation at the 9th India–Georgia Foreign Office Consultations?",
-       "options": [
-        "Dr. S. Jaishankar",
-        "Shri. Sibi George",
-        "Mr. Alexander Khvitisiashvili",
-        "Shri Narendra Modi"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -326,25 +366,49 @@
        "explanation": "Both sides agreed to hold the next session of FOC in Tbilisi."
       }
      ],
+     "mcq": {
+      "question": "Who led the Indian delegation at the 9th India–Georgia Foreign Office Consultations?",
+      "options": [
+       "Dr. S. Jaishankar",
+       "Shri. Sibi George",
+       "Mr. Alexander Khvitisiashvili",
+       "Shri Narendra Modi"
+      ],
+      "answer": 1,
+      "explanation": "Shri. Sibi George, Secretary (West), Ministry of External Affairs, led the Indian delegation."
+     },
      "gk": [
       "Capital of Georgia: Tbilisi",
       "Currency of Georgia: Georgian lari",
       "Ministry of External Affairs was established in 1946"
      ],
-     "source_kind": "MEA",
-     "source_name": "MEA",
-     "source_url": "https://www.mea.gov.in/press-releases?dtl/42004/9th_IndiaGeorgia_Foreign_Office_Consultations_November_25_2026"
+     "en": {
+      "title": "9th India-Georgia Foreign Office Consultations Held in New Delhi",
+      "one_liner": "India and Georgia held their 9th Foreign Office Consultations in New Delhi on November 25, 2026, reviewing bilateral cooperation.",
+      "summary": "The 9th round of India–Georgia Foreign Office Consultations took place in New Delhi on 25 November 2026. The Indian delegation was led by Shri. Sibi George, Secretary (West), Ministry of External Affairs, while the Georgian side was headed by H.E. Mr. Alexander Khvitisiashvili, Deputy Minister of Foreign Affairs. Both sides reviewed bilateral relations encompassing trade, investment, energy, infrastructure, culture, and education, and agreed to hold the next session in Tbilisi.",
+      "key_points": [
+       "Event: 9th India–Georgia Foreign Office Consultations",
+       "Date: 25 November 2026",
+       "Venue: New Delhi",
+       "Indian delegation leader: Shri. Sibi George, Secretary (West), MEA"
+      ]
+     }
     },
     {
      "id": "a9499d607f3a",
-     "category": "International",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:51+05:30",
+     "category": "international",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
       "Bank",
       "SSC"
      ],
-     "en": {
+     "source_name": "MEA",
+     "source_url": "https://www.mea.gov.in/press-releases?dtl/42003/Indian_Ocean_Rim_Association_IORA_Ministerial_Meeting",
+     "text": {
       "title": "India to Host IORA 25th Council of Ministers Meeting",
       "one_liner": "India is hosting the Indian Ocean Rim Association 25th Council of Ministers Meeting in New Delhi on November 27, 2026.",
       "summary": "India is hosting the Indian Ocean Rim Association 25th Council of Ministers Meeting on 27 November 2026 in New Delhi, preceded by the 29th Committee of Senior Officials Meeting on 25-26 November 2026. The theme for India's IORA chairship 2025-2027 is Innovation, Openness, Resilience and Adaptability in the Indian Ocean Region. The meeting includes 23 Member States and 12 Dialogue Partners, emphasizing regional stability and MAHASAGAR.",
@@ -354,18 +418,6 @@
        "Theme: Innovation, Openness, Resilience and Adaptability in the Indian Ocean Region",
        "Chairship period: 2025-2027"
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "What is the theme for India's IORA chairship 2025-2027?",
-       "options": [
-        "Security and Growth for All in the Region",
-        "Innovation, Openness, Resilience and Adaptability in the Indian Ocean Region",
-        "Sustainable Maritime Partnership and Security",
-        "Inclusive Growth and Maritime Freedom"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -391,21 +443,45 @@
        "explanation": "The gathering includes delegates across 23 Member States and 12 Dialogue Partners."
       }
      ],
+     "mcq": {
+      "question": "What is the theme for India's IORA chairship 2025-2027?",
+      "options": [
+       "Security and Growth for All in the Region",
+       "Innovation, Openness, Resilience and Adaptability in the Indian Ocean Region",
+       "Sustainable Maritime Partnership and Security",
+       "Inclusive Growth and Maritime Freedom"
+      ],
+      "answer": 1,
+      "explanation": "The theme for India's IORA chairship 2025-2027 is Innovation, Openness, Resilience and Adaptability in the Indian Ocean Region."
+     },
      "gk": [],
-     "source_kind": "MEA",
-     "source_name": "MEA",
-     "source_url": "https://www.mea.gov.in/press-releases?dtl/42003/Indian_Ocean_Rim_Association_IORA_Ministerial_Meeting"
+     "en": {
+      "title": "India to Host IORA 25th Council of Ministers Meeting",
+      "one_liner": "India is hosting the Indian Ocean Rim Association 25th Council of Ministers Meeting in New Delhi on November 27, 2026.",
+      "summary": "India is hosting the Indian Ocean Rim Association 25th Council of Ministers Meeting on 27 November 2026 in New Delhi, preceded by the 29th Committee of Senior Officials Meeting on 25-26 November 2026. The theme for India's IORA chairship 2025-2027 is Innovation, Openness, Resilience and Adaptability in the Indian Ocean Region. The meeting includes 23 Member States and 12 Dialogue Partners, emphasizing regional stability and MAHASAGAR.",
+      "key_points": [
+       "Event: IORA 25th Council of Ministers Meeting",
+       "Date: 27 November 2026",
+       "Theme: Innovation, Openness, Resilience and Adaptability in the Indian Ocean Region",
+       "Chairship period: 2025-2027"
+      ]
+     }
     },
     {
      "id": "41cd2f9ed69e",
-     "category": "International",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:51+05:30",
+     "category": "international",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
       "State PSC",
       "SSC"
      ],
-     "en": {
+     "source_name": "MEA",
+     "source_url": "https://www.mea.gov.in/press-releases?dtl/41999/Visit_of_Mr_Tom_Berendsen_Minister_of_Foreign_Affairs_of_the_Kingdom_of_the_Netherlands_to_India_November_2223_2026",
+     "text": {
       "title": "Netherlands Foreign Minister Tom Berendsen Visits India",
       "one_liner": "Netherlands Foreign Minister Tom Berendsen visited India on November 22-23, 2026, for strategic partnership talks with Dr. S. Jaishankar.",
       "summary": "Mr. Tom Berendsen, Minister of Foreign Affairs of the Kingdom of the Netherlands, visited India on 22-23 November 2026 at the invitation of External Affairs Minister Dr. S. Jaishankar. They held the inaugural meeting of the annual Foreign Ministers’ mechanism reviewing the India-Netherlands Strategic Partnership 2026-2030 roadmap, covering sectors like semiconductors, renewable energy, green shipping, and priority areas of Water, Agriculture, and Health (WAH).",
@@ -415,18 +491,6 @@
        "Host: Dr. S. Jaishankar, External Affairs Minister",
        "Key focus areas: Water, Agriculture and Health (WAH), semiconductors, and green shipping"
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Who is the Minister of Foreign Affairs of the Kingdom of the Netherlands who visited India in November 2026?",
-       "options": [
-        "Mark Rutte",
-        "Tom Berendsen",
-        "Caspar Veldkamp",
-        "Wopke Hoekstra"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -452,17 +516,39 @@
        "explanation": "WAH stands for Water, Agriculture and Health."
       }
      ],
+     "mcq": {
+      "question": "Who is the Minister of Foreign Affairs of the Kingdom of the Netherlands who visited India in November 2026?",
+      "options": [
+       "Mark Rutte",
+       "Tom Berendsen",
+       "Caspar Veldkamp",
+       "Wopke Hoekstra"
+      ],
+      "answer": 1,
+      "explanation": "Mr. Tom Berendsen is the Minister of Foreign Affairs of the Kingdom of the Netherlands who visited India."
+     },
      "gk": [
       "Capital of Kingdom of the Netherlands: Amsterdam",
       "Currency of Kingdom of the Netherlands: euro"
      ],
-     "source_kind": "MEA",
-     "source_name": "MEA",
-     "source_url": "https://www.mea.gov.in/press-releases?dtl/41999/Visit_of_Mr_Tom_Berendsen_Minister_of_Foreign_Affairs_of_the_Kingdom_of_the_Netherlands_to_India_November_2223_2026"
+     "en": {
+      "title": "Netherlands Foreign Minister Tom Berendsen Visits India",
+      "one_liner": "Netherlands Foreign Minister Tom Berendsen visited India on November 22-23, 2026, for strategic partnership talks with Dr. S. Jaishankar.",
+      "summary": "Mr. Tom Berendsen, Minister of Foreign Affairs of the Kingdom of the Netherlands, visited India on 22-23 November 2026 at the invitation of External Affairs Minister Dr. S. Jaishankar. They held the inaugural meeting of the annual Foreign Ministers’ mechanism reviewing the India-Netherlands Strategic Partnership 2026-2030 roadmap, covering sectors like semiconductors, renewable energy, green shipping, and priority areas of Water, Agriculture, and Health (WAH).",
+      "key_points": [
+       "Visitor: Mr. Tom Berendsen, Foreign Minister of the Netherlands",
+       "Dates of visit: 22-23 November 2026",
+       "Host: Dr. S. Jaishankar, External Affairs Minister",
+       "Key focus areas: Water, Agriculture and Health (WAH), semiconductors, and green shipping"
+      ]
+     }
     },
     {
      "id": "ea7c4b811b7c",
-     "category": "Appointments",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:51+05:30",
+     "category": "appointments",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
@@ -470,7 +556,9 @@
       "SSC",
       "State PSC"
      ],
-     "en": {
+     "source_name": "MEA",
+     "source_url": "https://www.mea.gov.in/press-releases?dtl/41996/Ms_Pratibha_Parkar_concurrently_accredited_as_the_next_Ambassador_of_India_to_the_Republic_of_Nicaragua",
+     "text": {
       "title": "Pratibha Parkar Appointed Concurrently as Ambassador to Nicaragua",
       "one_liner": "Pratibha Parkar has been concurrently accredited as India's next Ambassador to the Republic of Nicaragua, with residence in Panama.",
       "summary": "Ms. Pratibha Parkar (IFS:2000), currently serving as the Ambassador of India to the Republic of Panama, has been concurrently accredited as the next Ambassador of India to the Republic of Nicaragua. She will maintain her residence in Panama and is expected to assume her assignment shortly.",
@@ -480,18 +568,6 @@
        "Existing role: Ambassador of India to the Republic of Panama",
        "Residency of ambassador: Panama"
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Ms. Pratibha Parkar is currently the Indian Ambassador to which country before her concurrent accreditation to Nicaragua?",
-       "options": [
-        "Costa Rica",
-        "Panama",
-        "Honduras",
-        "Guatemala"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -517,26 +593,50 @@
        "explanation": "She has been concurrently accredited as the next Ambassador of India to the Republic of Nicaragua."
       }
      ],
+     "mcq": {
+      "question": "Ms. Pratibha Parkar is currently the Indian Ambassador to which country before her concurrent accreditation to Nicaragua?",
+      "options": [
+       "Costa Rica",
+       "Panama",
+       "Honduras",
+       "Guatemala"
+      ],
+      "answer": 1,
+      "explanation": "Ms. Pratibha Parkar is presently the Ambassador of India to the Republic of Panama."
+     },
      "gk": [
       "Capital of Panama: Panama City",
       "Currency of Panama: Panamanian balboa",
       "Capital of Nicaragua: Managua",
       "Currency of Nicaragua: Nicaraguan córdoba"
      ],
-     "source_kind": "MEA",
-     "source_name": "MEA",
-     "source_url": "https://www.mea.gov.in/press-releases?dtl/41996/Ms_Pratibha_Parkar_concurrently_accredited_as_the_next_Ambassador_of_India_to_the_Republic_of_Nicaragua"
+     "en": {
+      "title": "Pratibha Parkar Appointed Concurrently as Ambassador to Nicaragua",
+      "one_liner": "Pratibha Parkar has been concurrently accredited as India's next Ambassador to the Republic of Nicaragua, with residence in Panama.",
+      "summary": "Ms. Pratibha Parkar (IFS:2000), currently serving as the Ambassador of India to the Republic of Panama, has been concurrently accredited as the next Ambassador of India to the Republic of Nicaragua. She will maintain her residence in Panama and is expected to assume her assignment shortly.",
+      "key_points": [
+       "Appointee: Ms. Pratibha Parkar (IFS:2000)",
+       "New role: Ambassador of India to the Republic of Nicaragua",
+       "Existing role: Ambassador of India to the Republic of Panama",
+       "Residency of ambassador: Panama"
+      ]
+     }
     },
     {
      "id": "cffc0e3d74c1",
-     "category": "International",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:51+05:30",
+     "category": "international",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
       "SSC",
       "State PSC"
      ],
-     "en": {
+     "source_name": "MEA",
+     "source_url": "https://www.mea.gov.in/press-releases?dtl/41993/Joint_Press_Release_on_the_State_Visit_of_the_Prime_Minister_of_Nepal_to_India_November_2223_2026",
+     "text": {
       "title": "Prime Minister of Nepal Undertakes State Visit to India",
       "one_liner": "Prime Minister of Nepal Balendra Shah visited India from November 22-23, 2026, signing key agreements and development packages.",
       "summary": "Prime Minister of Nepal Balendra Shah paid a State Visit to India from November 22-23, 2026, at the invitation of Prime Minister Narendra Modi. Both leaders adopted a Joint Vision for a Viksit Bharat and Samunnat Nepal. India announced development assistance of INR 15,000 crores, including grant assistance for reconstruction and a Rupee-denominated Line of Credit for energy projects. Several connectivity initiatives, transit trade facilities, and cross-border infrastructure projects were inaugurated or announced.",
@@ -546,18 +646,6 @@
        "Phase II of the Motihari-Amlekhgunj Pipeline was dedicated to the people of Nepal.",
        "A new cross-border motorable bridge between Dharchula and Darchula was inaugurated."
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "What is the total development assistance announced by India for Nepal during PM Balendra Shah's visit?",
-       "options": [
-        "INR 10,000 crores",
-        "INR 15,000 crores",
-        "INR 20,000 crores",
-        "INR 25,000 crores"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -583,24 +671,48 @@
        "explanation": "The Sarayu-Kamala Express connects Ayodhya in India to Janakpur in Nepal."
       }
      ],
+     "mcq": {
+      "question": "What is the total development assistance announced by India for Nepal during PM Balendra Shah's visit?",
+      "options": [
+       "INR 10,000 crores",
+       "INR 15,000 crores",
+       "INR 20,000 crores",
+       "INR 25,000 crores"
+      ],
+      "answer": 1,
+      "explanation": "India announced a total development assistance of INR 15,000 crores comprising grants and lines of credit."
+     },
      "gk": [
       "Capital of Nepal: Kathmandu",
       "Currency of Nepal: Nepalese rupee"
      ],
-     "source_kind": "MEA",
-     "source_name": "MEA",
-     "source_url": "https://www.mea.gov.in/press-releases?dtl/41993/Joint_Press_Release_on_the_State_Visit_of_the_Prime_Minister_of_Nepal_to_India_November_2223_2026"
+     "en": {
+      "title": "Prime Minister of Nepal Undertakes State Visit to India",
+      "one_liner": "Prime Minister of Nepal Balendra Shah visited India from November 22-23, 2026, signing key agreements and development packages.",
+      "summary": "Prime Minister of Nepal Balendra Shah paid a State Visit to India from November 22-23, 2026, at the invitation of Prime Minister Narendra Modi. Both leaders adopted a Joint Vision for a Viksit Bharat and Samunnat Nepal. India announced development assistance of INR 15,000 crores, including grant assistance for reconstruction and a Rupee-denominated Line of Credit for energy projects. Several connectivity initiatives, transit trade facilities, and cross-border infrastructure projects were inaugurated or announced.",
+      "key_points": [
+       "India extended development assistance of INR 15,000 crores (NPR 24,000 crores) to Nepal.",
+       "The inaugural Sarayu-Kamala Express rail service between Ayodhya and Janakpur was flagged off.",
+       "Phase II of the Motihari-Amlekhgunj Pipeline was dedicated to the people of Nepal.",
+       "A new cross-border motorable bridge between Dharchula and Darchula was inaugurated."
+      ]
+     }
     },
     {
      "id": "476bce5be749",
-     "category": "States",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:51+05:30",
+     "category": "culture",
+     "region": "delhi",
      "state": "Delhi",
      "tags": [
       "UPSC",
       "SSC",
       "State PSC"
      ],
-     "en": {
+     "source_name": "MEA",
+     "source_url": "https://www.mea.gov.in/press-releases?dtl/41987/Prime_Minister_Shri_Narendra_Modi_inaugurates_First_SCO_Civilisational_Dialogue_Forum_November_20_2026",
+     "text": {
       "title": "Prime Minister Inaugurates First SCO Civilisational Dialogue Forum",
       "one_liner": "PM Narendra Modi inaugurated the First SCO Civilisational Dialogue Forum at Purana Qila in New Delhi on November 20, 2026.",
       "summary": "Prime Minister Shri Narendra Modi inaugurated the First Shanghai Cooperation Organisation Civilisational Dialogue Forum at Purana Qila, New Delhi. He emphasized the importance of cultural connections, shared history, and heritage in promoting world peace. He proposed cooperation in digitizing ancient texts, utilizing AI for translations, and expanding academic and cultural exchanges among SCO member states.",
@@ -610,18 +722,6 @@
        "PM Modi suggested using AI to translate literary works and digitizing ancient manuscripts.",
        "The event showcased cultural performances, Vedic recitations, and Buddhist philosophy presentations."
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Where was the First SCO Civilisational Dialogue Forum inaugurated?",
-       "options": [
-        "Red Fort, New Delhi",
-        "Purana Qila, New Delhi",
-        "Rashtrapati Bhavan, New Delhi",
-        "India Gate, New Delhi"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -647,24 +747,48 @@
        "explanation": "PM Modi stated that new momentum can be given to translations with the help of AI."
       }
      ],
+     "mcq": {
+      "question": "Where was the First SCO Civilisational Dialogue Forum inaugurated?",
+      "options": [
+       "Red Fort, New Delhi",
+       "Purana Qila, New Delhi",
+       "Rashtrapati Bhavan, New Delhi",
+       "India Gate, New Delhi"
+      ],
+      "answer": 1,
+      "explanation": "The First SCO Civilisational Dialogue Forum was inaugurated at Purana Qila, New Delhi."
+     },
      "gk": [
       "Headquarters of Shanghai Cooperation Organisation: Beijing",
       "Shanghai Cooperation Organisation was established in 2001"
      ],
-     "source_kind": "MEA",
-     "source_name": "MEA",
-     "source_url": "https://www.mea.gov.in/press-releases?dtl/41987/Prime_Minister_Shri_Narendra_Modi_inaugurates_First_SCO_Civilisational_Dialogue_Forum_November_20_2026"
+     "en": {
+      "title": "Prime Minister Inaugurates First SCO Civilisational Dialogue Forum",
+      "one_liner": "PM Narendra Modi inaugurated the First SCO Civilisational Dialogue Forum at Purana Qila in New Delhi on November 20, 2026.",
+      "summary": "Prime Minister Shri Narendra Modi inaugurated the First Shanghai Cooperation Organisation Civilisational Dialogue Forum at Purana Qila, New Delhi. He emphasized the importance of cultural connections, shared history, and heritage in promoting world peace. He proposed cooperation in digitizing ancient texts, utilizing AI for translations, and expanding academic and cultural exchanges among SCO member states.",
+      "key_points": [
+       "The First SCO Civilisational Dialogue Forum was held at Purana Qila, New Delhi.",
+       "The forum marks the 25th anniversary of the Shanghai Cooperation Organisation.",
+       "PM Modi suggested using AI to translate literary works and digitizing ancient manuscripts.",
+       "The event showcased cultural performances, Vedic recitations, and Buddhist philosophy presentations."
+      ]
+     }
     },
     {
      "id": "84a8b26b24f2",
-     "category": "Defence",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:51+05:30",
+     "category": "defence",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
       "SSC",
       "State PSC"
      ],
-     "en": {
+     "source_name": "MEA",
+     "source_url": "https://www.mea.gov.in/press-releases?dtl/41983/18th_meeting_of_the_IndiaFrance_Joint_Working_Group_on_Counter_Terrorism",
+     "text": {
       "title": "18th Meeting of India-France Joint Working Group on Counter Terrorism",
       "one_liner": "India and France held the 18th meeting of their Joint Working Group on Counter Terrorism in New Delhi on November 20, 2026.",
       "summary": "The 18th meeting of the India-France Joint Working Group on Counter Terrorism took place in New Delhi on November 20, 2026. Co-chaired by Dr. Suhel Ajaz Khan and H.E. Mr. Olivier Caron, both sides strongly condemned terrorism in all forms, including cross-border terrorism. They discussed regional threat assessments, misuse of emerging technologies by terrorists, counter-terrorism financing, and enhancing bilateral cooperation in multilateral forums like the UN and FATF.",
@@ -674,18 +798,6 @@
        "Both sides condemned terror attacks including the Pahalgam attack and the Red Fort incident.",
        "India briefed the French side on the National Counter Terrorism Policy and Strategy – PRAHAAR."
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Where was the 18th meeting of the India-France Joint Working Group on Counter Terrorism held?",
-       "options": [
-        "Paris",
-        "New Delhi",
-        "Lyon",
-        "Mumbai"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -711,26 +823,50 @@
        "explanation": "The Indian side briefed the French delegation on the comprehensive National Counter Terrorism Policy and Strategy – PRAHAAR."
       }
      ],
+     "mcq": {
+      "question": "Where was the 18th meeting of the India-France Joint Working Group on Counter Terrorism held?",
+      "options": [
+       "Paris",
+       "New Delhi",
+       "Lyon",
+       "Mumbai"
+      ],
+      "answer": 1,
+      "explanation": "The 18th meeting of the India-France JWG on Counter Terrorism was held in New Delhi."
+     },
      "gk": [
       "Capital of France: Paris",
       "Currency of France: euro",
       "Headquarters of Financial Action Task Force: Paris",
       "Financial Action Task Force was established in 1989"
      ],
-     "source_kind": "MEA",
-     "source_name": "MEA",
-     "source_url": "https://www.mea.gov.in/press-releases?dtl/41983/18th_meeting_of_the_IndiaFrance_Joint_Working_Group_on_Counter_Terrorism"
+     "en": {
+      "title": "18th Meeting of India-France Joint Working Group on Counter Terrorism",
+      "one_liner": "India and France held the 18th meeting of their Joint Working Group on Counter Terrorism in New Delhi on November 20, 2026.",
+      "summary": "The 18th meeting of the India-France Joint Working Group on Counter Terrorism took place in New Delhi on November 20, 2026. Co-chaired by Dr. Suhel Ajaz Khan and H.E. Mr. Olivier Caron, both sides strongly condemned terrorism in all forms, including cross-border terrorism. They discussed regional threat assessments, misuse of emerging technologies by terrorists, counter-terrorism financing, and enhancing bilateral cooperation in multilateral forums like the UN and FATF.",
+      "key_points": [
+       "The 18th meeting was held in New Delhi on November 20, 2026.",
+       "The meeting was co-chaired by Dr. Suhel Ajaz Khan (India) and H.E. Mr. Olivier Caron (France).",
+       "Both sides condemned terror attacks including the Pahalgam attack and the Red Fort incident.",
+       "India briefed the French side on the National Counter Terrorism Policy and Strategy – PRAHAAR."
+      ]
+     }
     },
     {
      "id": "809cbbce0c7b",
-     "category": "States",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:51+05:30",
+     "category": "defence",
+     "region": "tamil_nadu",
      "state": "Tamil Nadu",
      "tags": [
       "UPSC",
       "SSC",
       "State PSC"
      ],
-     "en": {
+     "source_name": "MEA",
+     "source_url": "https://www.mea.gov.in/press-releases?dtl/41981/USNS_Wally_Schirra_arrives_at_Kattupalli_for_repairs_highlighting_Indias_Growing_ShipRepair_Capabilities",
+     "text": {
       "title": "USNS Wally Schirra Arrives at Kattupalli for Repairs",
       "one_liner": "US Navy supply ship USNS Wally Schirra arrived at L&T's Kattupalli shipyard in Tamil Nadu for repairs on November 20, 2026.",
       "summary": "The US Navy supply ship USNS Wally Schirra arrived at L&T’s Kattupalli shipyard near Chennai on November 20, 2026, for repairs under the India-US Master Ship Repair Agreement. This marks the fifth US naval vessel to undergo repairs at an Indian shipyard and the first under the revised Standard Operating Procedure for ship crew movement. The visit underscores India's growing technical capabilities and status as a hub for ship maintenance in the Indo-Pacific.",
@@ -740,18 +876,6 @@
        "Repairs are conducted under the India-US Master Ship Repair Agreement (MSRA).",
        "It is the first US vessel to arrive following the implementation of the revised Standard Operating Procedure (SOP) for crew entry and exit."
       ]
-     },
-     "mcq": {
-      "answer": 2,
-      "en": {
-       "question": "At which Indian shipyard did the USNS Wally Schirra arrive for repairs?",
-       "options": [
-        "Mazagon Dock Shipbuilders",
-        "Cochin Shipyard",
-        "L&T Kattupalli Shipyard",
-        "Garden Reach Shipbuilders"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -777,24 +901,48 @@
        "explanation": "The vessel is part of the US Navy's Military Sealift Command (MSC)."
       }
      ],
+     "mcq": {
+      "question": "At which Indian shipyard did the USNS Wally Schirra arrive for repairs?",
+      "options": [
+       "Mazagon Dock Shipbuilders",
+       "Cochin Shipyard",
+       "L&T Kattupalli Shipyard",
+       "Garden Reach Shipbuilders"
+      ],
+      "answer": 2,
+      "explanation": "The USNS Wally Schirra arrived at L&T's Kattupalli shipyard near Chennai."
+     },
      "gk": [
       "Headquarters of United States Navy: The Pentagon",
       "United States Navy was established in 1775"
      ],
-     "source_kind": "MEA",
-     "source_name": "MEA",
-     "source_url": "https://www.mea.gov.in/press-releases?dtl/41981/USNS_Wally_Schirra_arrives_at_Kattupalli_for_repairs_highlighting_Indias_Growing_ShipRepair_Capabilities"
+     "en": {
+      "title": "USNS Wally Schirra Arrives at Kattupalli for Repairs",
+      "one_liner": "US Navy supply ship USNS Wally Schirra arrived at L&T's Kattupalli shipyard in Tamil Nadu for repairs on November 20, 2026.",
+      "summary": "The US Navy supply ship USNS Wally Schirra arrived at L&T’s Kattupalli shipyard near Chennai on November 20, 2026, for repairs under the India-US Master Ship Repair Agreement. This marks the fifth US naval vessel to undergo repairs at an Indian shipyard and the first under the revised Standard Operating Procedure for ship crew movement. The visit underscores India's growing technical capabilities and status as a hub for ship maintenance in the Indo-Pacific.",
+      "key_points": [
+       "USNS Wally Schirra arrived at L&T's Kattupalli shipyard near Chennai on November 20, 2026.",
+       "This is the fifth US naval vessel to undertake repairs at Kattupalli.",
+       "Repairs are conducted under the India-US Master Ship Repair Agreement (MSRA).",
+       "It is the first US vessel to arrive following the implementation of the revised Standard Operating Procedure (SOP) for crew entry and exit."
+      ]
+     }
     },
     {
      "id": "b70acac5e750",
-     "category": "International",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:51+05:30",
+     "category": "international",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
       "State PSC",
       "SSC"
      ],
-     "en": {
+     "source_name": "MEA",
+     "source_url": "https://www.mea.gov.in/press-releases?dtl/41980/6th_India_Portugal_Foreign_Office_Consultations_November_19_2026",
+     "text": {
       "title": "6th India-Portugal Foreign Office Consultations Held in New Delhi",
       "one_liner": "India and Portugal held the 6th Foreign Office Consultations in New Delhi to review bilateral ties and regional issues.",
       "summary": "India and Portugal convened their 6th Foreign Office Consultations in New Delhi on November 19, 2026. Co-chaired by Shri Sibi George and Ms. Helena Malcata, both sides comprehensively reviewed political, trade, defence, energy, and cultural ties. They committed to finalising a Five-Year Roadmap for 2027–2032 and welcomed the conclusion of India-EU Free Trade Agreement negotiations.",
@@ -804,18 +952,6 @@
        "Both sides committed to finalising the Five-Year Roadmap for India-Portugal Relations (2027–2032).",
        "The previous round took place in Lisbon in November 2025."
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Where were the 6th India-Portugal Foreign Office Consultations held?",
-       "options": [
-        "Lisbon",
-        "New Delhi",
-        "Mumbai",
-        "Porto"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -841,26 +977,50 @@
        "explanation": "Both sides underscored their shared commitment to finalise the Five-Year Roadmap for India-Portugal Relations (2027–2032)."
       }
      ],
+     "mcq": {
+      "question": "Where were the 6th India-Portugal Foreign Office Consultations held?",
+      "options": [
+       "Lisbon",
+       "New Delhi",
+       "Mumbai",
+       "Porto"
+      ],
+      "answer": 1,
+      "explanation": "The 6th India-Portugal Foreign Office Consultations were held in New Delhi on 19 November 2026."
+     },
      "gk": [
       "Capital of Portugal: Lisbon",
       "Currency of Portugal: euro",
       "Headquarters of European Union: Brussels",
       "European Union was established in 1993"
      ],
-     "source_kind": "MEA",
-     "source_name": "MEA",
-     "source_url": "https://www.mea.gov.in/press-releases?dtl/41980/6th_India_Portugal_Foreign_Office_Consultations_November_19_2026"
+     "en": {
+      "title": "6th India-Portugal Foreign Office Consultations Held in New Delhi",
+      "one_liner": "India and Portugal held the 6th Foreign Office Consultations in New Delhi to review bilateral ties and regional issues.",
+      "summary": "India and Portugal convened their 6th Foreign Office Consultations in New Delhi on November 19, 2026. Co-chaired by Shri Sibi George and Ms. Helena Malcata, both sides comprehensively reviewed political, trade, defence, energy, and cultural ties. They committed to finalising a Five-Year Roadmap for 2027–2032 and welcomed the conclusion of India-EU Free Trade Agreement negotiations.",
+      "key_points": [
+       "Co-chaired by Shri Sibi George (MEA India) and Ms. Helena Malcata (Ministry of Foreign Affairs, Portugal).",
+       "Held in New Delhi on November 19, 2026.",
+       "Both sides committed to finalising the Five-Year Roadmap for India-Portugal Relations (2027–2032).",
+       "The previous round took place in Lisbon in November 2025."
+      ]
+     }
     },
     {
      "id": "a6c3926ac345",
-     "category": "International",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:51+05:30",
+     "category": "international",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
       "SSC",
       "State PSC"
      ],
-     "en": {
+     "source_name": "MEA",
+     "source_url": "https://www.mea.gov.in/press-releases?dtl/41977/Announcement_of_the_Joint_Logo_for_celebrating_2027_as_the_IndiaJapan_Year_of_Shared_Horizons",
+     "text": {
       "title": "Joint Logo Announced for 2027 India-Japan Year of Shared Horizons",
       "one_liner": "A joint logo designed by NID student Akhil Cleatus was unveiled for the 2027 India-Japan Year of Shared Horizons.",
       "summary": "The Governments of India and Japan announced the winning design for a joint commemorative logo to celebrate 2027 as the India-Japan Year of Shared Horizons, marking 75 years of diplomatic relations. Designed by Mr. Akhil Cleatus, a Master of Design student at NID Bengaluru, the logo creatively combines an Indian lamp and the Japanese rising sun within the number 75.",
@@ -870,18 +1030,6 @@
        "Designed by Mr. Akhil Cleatus from the National Institute of Design (NID), Bengaluru.",
        "Features an Indian lamp (diya) and the Japanese rising sun integrated within the number 75."
       ]
-     },
-     "mcq": {
-      "answer": 0,
-      "en": {
-       "question": "Who designed the winning joint logo for the India-Japan Year of Shared Horizons 2027?",
-       "options": [
-        "Akhil Cleatus",
-        "Sibi George",
-        "Toshimitsu Motegi",
-        "Shinjiro Koizumi"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -907,24 +1055,48 @@
        "explanation": "The celebration marks the 75th Anniversary of the establishment of diplomatic relations between the two countries."
       }
      ],
+     "mcq": {
+      "question": "Who designed the winning joint logo for the India-Japan Year of Shared Horizons 2027?",
+      "options": [
+       "Akhil Cleatus",
+       "Sibi George",
+       "Toshimitsu Motegi",
+       "Shinjiro Koizumi"
+      ],
+      "answer": 0,
+      "explanation": "The logo has been designed by Mr. Akhil Cleatus, a student at the National Institute of Design (NID), Bengaluru."
+     },
      "gk": [
       "Capital of Japan: Tokyo",
       "Currency of Japan: yen"
      ],
-     "source_kind": "MEA",
-     "source_name": "MEA",
-     "source_url": "https://www.mea.gov.in/press-releases?dtl/41977/Announcement_of_the_Joint_Logo_for_celebrating_2027_as_the_IndiaJapan_Year_of_Shared_Horizons"
+     "en": {
+      "title": "Joint Logo Announced for 2027 India-Japan Year of Shared Horizons",
+      "one_liner": "A joint logo designed by NID student Akhil Cleatus was unveiled for the 2027 India-Japan Year of Shared Horizons.",
+      "summary": "The Governments of India and Japan announced the winning design for a joint commemorative logo to celebrate 2027 as the India-Japan Year of Shared Horizons, marking 75 years of diplomatic relations. Designed by Mr. Akhil Cleatus, a Master of Design student at NID Bengaluru, the logo creatively combines an Indian lamp and the Japanese rising sun within the number 75.",
+      "key_points": [
+       "Marking the 75th Anniversary of diplomatic relations between India and Japan in 2027.",
+       "Over 850 entries were received during the public call held from August 17 to September 15, 2026.",
+       "Designed by Mr. Akhil Cleatus from the National Institute of Design (NID), Bengaluru.",
+       "Features an Indian lamp (diya) and the Japanese rising sun integrated within the number 75."
+      ]
+     }
     },
     {
      "id": "04d34390604d",
-     "category": "International",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:51+05:30",
+     "category": "international",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
       "State PSC",
       "Bank"
      ],
-     "en": {
+     "source_name": "MEA",
+     "source_url": "https://www.mea.gov.in/press-releases?dtl/41976/Visit_of_External_Affairs_Minister_Dr_S_Jaishankar_to_Japan_November_1820_2026",
+     "text": {
       "title": "External Affairs Minister Dr. S. Jaishankar Visits Japan",
       "one_liner": "Dr. S. Jaishankar visited Japan to attend the 4th India-Japan 2+2 Ministerial Dialogue and strategic talks.",
       "summary": "External Affairs Minister Dr. S. Jaishankar visited Japan from November 18-20, 2026. He participated in the fourth India-Japan Foreign and Defence Ministerial Dialogue (2+2) alongside Raksha Mantri Shri Rajnath Singh and Japanese counterparts. The leaders reviewed defence, maritime security, cybersecurity, and space cooperation, signed a Letter of Intent on firing range usage, and unveiled the 75th-anniversary joint logo.",
@@ -934,18 +1106,6 @@
        "A Letter of Intent was signed regarding the utilisation of firing ranges in India by Japan Self-Defence Forces.",
        "EAM also held the 19th Foreign Ministers' Strategic Dialogue with Foreign Minister Toshimitsu Motegi."
       ]
-     },
-     "mcq": {
-      "answer": 2,
-      "en": {
-       "question": "Which edition of the Foreign Ministers' Strategic Dialogue was held between India and Japan during this visit?",
-       "options": [
-        "15th",
-        "17th",
-        "19th",
-        "21st"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -971,17 +1131,39 @@
        "explanation": "The ministers welcomed the signing of a Letter of Intent on the utilisation of firing ranges in India by Japan Self-Defence Forces."
       }
      ],
+     "mcq": {
+      "question": "Which edition of the Foreign Ministers' Strategic Dialogue was held between India and Japan during this visit?",
+      "options": [
+       "15th",
+       "17th",
+       "19th",
+       "21st"
+      ],
+      "answer": 2,
+      "explanation": "EAM held the 19th Foreign Ministers’ Strategic Dialogue (FMSD) with Foreign Minister of Japan Mr. Toshimitsu Motegi."
+     },
      "gk": [
       "Capital of Japan: Tokyo",
       "Currency of Japan: yen"
      ],
-     "source_kind": "MEA",
-     "source_name": "MEA",
-     "source_url": "https://www.mea.gov.in/press-releases?dtl/41976/Visit_of_External_Affairs_Minister_Dr_S_Jaishankar_to_Japan_November_1820_2026"
+     "en": {
+      "title": "External Affairs Minister Dr. S. Jaishankar Visits Japan",
+      "one_liner": "Dr. S. Jaishankar visited Japan to attend the 4th India-Japan 2+2 Ministerial Dialogue and strategic talks.",
+      "summary": "External Affairs Minister Dr. S. Jaishankar visited Japan from November 18-20, 2026. He participated in the fourth India-Japan Foreign and Defence Ministerial Dialogue (2+2) alongside Raksha Mantri Shri Rajnath Singh and Japanese counterparts. The leaders reviewed defence, maritime security, cybersecurity, and space cooperation, signed a Letter of Intent on firing range usage, and unveiled the 75th-anniversary joint logo.",
+      "key_points": [
+       "Visit took place from November 18-20, 2026.",
+       "Attended the 4th India-Japan Foreign and Defence Ministerial Dialogue (2+2) in Tokyo.",
+       "A Letter of Intent was signed regarding the utilisation of firing ranges in India by Japan Self-Defence Forces.",
+       "EAM also held the 19th Foreign Ministers' Strategic Dialogue with Foreign Minister Toshimitsu Motegi."
+      ]
+     }
     },
     {
      "id": "4132bd6c8f81",
-     "category": "International",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:51+05:30",
+     "category": "international",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
@@ -989,7 +1171,9 @@
       "State PSC",
       "Railways"
      ],
-     "en": {
+     "source_name": "MEA",
+     "source_url": "https://www.mea.gov.in/press-releases?dtl/41963/Quad_Leaders_Summit_Joint_Press_Release",
+     "text": {
       "title": "Quad Leaders’ Summit 2026 Held in Manila",
       "one_liner": "Leaders of the Quad nations met in Manila on November 17, 2026, marking a decade of the Indo-Pacific vision and announcing key collaborative initiatives.",
       "summary": "The Quad Leaders met in Manila on November 17, 2026, comprising leaders from the United States, Australia, India, and Japan. They committed to a free and open Indo-Pacific, opposed economic coercion, and announced new initiatives including the inaugural Quad Business Leaders' Forum in early 2027, the AI Accelerator, the Indo-Pacific Maritime Surveillance Collaboration, and enhanced cybersecurity cooperation. They also condemned terrorism in all its forms.",
@@ -999,18 +1183,6 @@
        "Quad patrol aircraft are scheduled to fly in a maritime exercise together for the first time in 2027.",
        "Leaders announced enhanced Quad Cybersecurity Cooperation and condemned cross-border terrorism."
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Where was the Quad Leaders' Summit held on November 17, 2026?",
-       "options": [
-        "Tokyo",
-        "Manila",
-        "Washington",
-        "New Delhi"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1036,26 +1208,50 @@
        "explanation": "The inaugural Quad Business Leaders’ Forum is scheduled to be held in early 2027."
       }
      ],
+     "mcq": {
+      "question": "Where was the Quad Leaders' Summit held on November 17, 2026?",
+      "options": [
+       "Tokyo",
+       "Manila",
+       "Washington",
+       "New Delhi"
+      ],
+      "answer": 1,
+      "explanation": "The Quad Leaders' Summit on November 17, 2026, was held in Manila."
+     },
      "gk": [
       "Capital of United States: Washington, D.C.",
       "Currency of United States: United States dollar",
       "Capital of Australia: Canberra",
       "Currency of Australia: Australian dollar"
      ],
-     "source_kind": "MEA",
-     "source_name": "MEA",
-     "source_url": "https://www.mea.gov.in/press-releases?dtl/41963/Quad_Leaders_Summit_Joint_Press_Release"
+     "en": {
+      "title": "Quad Leaders’ Summit 2026 Held in Manila",
+      "one_liner": "Leaders of the Quad nations met in Manila on November 17, 2026, marking a decade of the Indo-Pacific vision and announcing key collaborative initiatives.",
+      "summary": "The Quad Leaders met in Manila on November 17, 2026, comprising leaders from the United States, Australia, India, and Japan. They committed to a free and open Indo-Pacific, opposed economic coercion, and announced new initiatives including the inaugural Quad Business Leaders' Forum in early 2027, the AI Accelerator, the Indo-Pacific Maritime Surveillance Collaboration, and enhanced cybersecurity cooperation. They also condemned terrorism in all its forms.",
+      "key_points": [
+       "The Quad Leaders' Summit took place in Manila on November 17, 2026.",
+       "An inaugural Quad Business Leaders' Forum is scheduled for early 2027.",
+       "Quad patrol aircraft are scheduled to fly in a maritime exercise together for the first time in 2027.",
+       "Leaders announced enhanced Quad Cybersecurity Cooperation and condemned cross-border terrorism."
+      ]
+     }
     },
     {
      "id": "5f7522360ce0",
-     "category": "Awards",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "awards",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
       "SSC",
       "State PSC"
      ],
-     "en": {
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341518",
+     "text": {
       "title": "India Pavilion Wins Visitors’ Lion at Venice Art Biennale",
       "one_liner": "The India Pavilion won the prestigious Visitors’ Lion for Best National Pavilion at the Venice Art Biennale.",
       "summary": "Prime Minister Shri Narendra Modi expressed delight as the India Pavilion won the prestigious Visitors’ Lion for Best National Pavilion at the Venice Art Biennale. He noted that this is a proud moment for India’s art and cultural world, highlighting how artists are bringing fresh perspectives inspired by India’s rich cultural heritage.",
@@ -1065,18 +1261,6 @@
        "Recipient: India Pavilion",
        "Announced by: Prime Minister Shri Narendra Modi"
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Which award did the India Pavilion win at the Venice Art Biennale?",
-       "options": [
-        "Golden Lion for Best Pavilion",
-        "Visitors’ Lion for Best National Pavilion",
-        "Silver Bear for Art",
-        "Venice Art Excellency Award"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1102,14 +1286,36 @@
        "explanation": "Prime Minister Shri Narendra Modi expressed delight and congratulated the art world via X."
       }
      ],
+     "mcq": {
+      "question": "Which award did the India Pavilion win at the Venice Art Biennale?",
+      "options": [
+       "Golden Lion for Best Pavilion",
+       "Visitors’ Lion for Best National Pavilion",
+       "Silver Bear for Art",
+       "Venice Art Excellency Award"
+      ],
+      "answer": 1,
+      "explanation": "The India Pavilion won the prestigious Visitors’ Lion for Best National Pavilion at the Venice Art Biennale."
+     },
      "gk": [],
-     "source_kind": "PIB",
-     "source_name": "PIB Delhi",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341518"
+     "en": {
+      "title": "India Pavilion Wins Visitors’ Lion at Venice Art Biennale",
+      "one_liner": "The India Pavilion won the prestigious Visitors’ Lion for Best National Pavilion at the Venice Art Biennale.",
+      "summary": "Prime Minister Shri Narendra Modi expressed delight as the India Pavilion won the prestigious Visitors’ Lion for Best National Pavilion at the Venice Art Biennale. He noted that this is a proud moment for India’s art and cultural world, highlighting how artists are bringing fresh perspectives inspired by India’s rich cultural heritage.",
+      "key_points": [
+       "Event: Venice Art Biennale",
+       "Award won: Visitors’ Lion for Best National Pavilion",
+       "Recipient: India Pavilion",
+       "Announced by: Prime Minister Shri Narendra Modi"
+      ]
+     }
     },
     {
      "id": "13bbb6c4b638",
-     "category": "Schemes",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "schemes",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
@@ -1117,7 +1323,9 @@
       "SSC",
       "Railways"
      ],
-     "en": {
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341181",
+     "text": {
       "title": "Cabinet Approves Estates Management Scheme for Department of Posts",
       "one_liner": "The Union Cabinet approved the continuation of the Estates Management Scheme for the Department of Posts with an outlay of Rs. 1,491 crore.",
       "summary": "The Union Cabinet chaired by Prime Minister Shri Narendra Modi approved the continuation of the Central Sector Scheme 'Estates Management Scheme' during the 16th Finance Commission Cycle from FY 2026-27 to FY 2030-31. Carrying a total financial outlay of Rs. 1,491 crores over five years, the scheme aims to modernize estates infrastructure, construct new departmental buildings, and preserve heritage postal structures.",
@@ -1127,18 +1335,6 @@
        "Duration: 16th Finance Commission Cycle from FY 2026-27 to FY 2030-31",
        "Target: Modernization of post offices and residential colonies infrastructure"
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "What is the total financial outlay of the Estates Management Scheme approved for the Department of Posts?",
-       "options": [
-        "Rs. 1,141 crore",
-        "Rs. 1,491 crore",
-        "Rs. 11,000 crore",
-        "Rs. 375 crore"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1164,17 +1360,39 @@
        "explanation": "The scheme was approved for continuation during the 16th Finance Commission Cycle from FY 2026-27 to FY 2030-31."
       }
      ],
+     "mcq": {
+      "question": "What is the total financial outlay of the Estates Management Scheme approved for the Department of Posts?",
+      "options": [
+       "Rs. 1,141 crore",
+       "Rs. 1,491 crore",
+       "Rs. 11,000 crore",
+       "Rs. 375 crore"
+      ],
+      "answer": 1,
+      "explanation": "The Estates Management Scheme carries a total financial outlay of Rs. 1,491 crores over a five-year period."
+     },
      "gk": [
       "Headquarters of India Post: New Delhi",
       "India Post was established in 1854"
      ],
-     "source_kind": "PIB",
-     "source_name": "PIB Delhi",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341181"
+     "en": {
+      "title": "Cabinet Approves Estates Management Scheme for Department of Posts",
+      "one_liner": "The Union Cabinet approved the continuation of the Estates Management Scheme for the Department of Posts with an outlay of Rs. 1,491 crore.",
+      "summary": "The Union Cabinet chaired by Prime Minister Shri Narendra Modi approved the continuation of the Central Sector Scheme 'Estates Management Scheme' during the 16th Finance Commission Cycle from FY 2026-27 to FY 2030-31. Carrying a total financial outlay of Rs. 1,491 crores over five years, the scheme aims to modernize estates infrastructure, construct new departmental buildings, and preserve heritage postal structures.",
+      "key_points": [
+       "Scheme Name: Estates Management Scheme",
+       "Outlay: Rs. 1,491 crore",
+       "Duration: 16th Finance Commission Cycle from FY 2026-27 to FY 2030-31",
+       "Target: Modernization of post offices and residential colonies infrastructure"
+      ]
+     }
     },
     {
      "id": "5c2bec7a7f12",
-     "category": "Schemes",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "schemes",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
@@ -1182,7 +1400,9 @@
       "SSC",
       "State PSC"
      ],
-     "en": {
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341179",
+     "text": {
       "title": "Cabinet Approves Postal Operations Scheme with Rs. 1,141 Crore Outlay",
       "one_liner": "The Cabinet approved the continuation of the Postal Operations Scheme with an outlay of Rs. 1,141 crore.",
       "summary": "The Union Cabinet approved the continuation of the Central Sector Scheme 'Postal Operations' for the 16th Finance Commission Cycle from FY 2026-27 to FY 2030-31 with an outlay of Rs. 1,141 Crore. Comprising six sub-schemes, it aims to modernize the postal network, optimize mail and parcel operations, enhance rural connectivity, and support e-commerce logistics.",
@@ -1192,18 +1412,6 @@
        "Period: FY 2026-27 to FY 2030-31",
        "Sub-components include: Rural Business, Mail Network Optimization, Parcel Network Optimization, International Mails, Marketing, and Philately Operations"
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "What is the financial outlay approved for the Postal Operations Scheme for the 16th Finance Commission Cycle?",
-       "options": [
-        "Rs. 1,491 crore",
-        "Rs. 1,141 crore",
-        "Rs. 11,000 crore",
-        "Rs. 575 crore"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1229,14 +1437,36 @@
        "explanation": "The Postal Operations Scheme comprises six sub-schemes covering rural business, mail network, parcel network, international mails, marketing, and philately."
       }
      ],
+     "mcq": {
+      "question": "What is the financial outlay approved for the Postal Operations Scheme for the 16th Finance Commission Cycle?",
+      "options": [
+       "Rs. 1,491 crore",
+       "Rs. 1,141 crore",
+       "Rs. 11,000 crore",
+       "Rs. 575 crore"
+      ],
+      "answer": 1,
+      "explanation": "The Postal Operations Scheme was approved with a proposed outlay of Rs. 1,141 Crore."
+     },
      "gk": [],
-     "source_kind": "PIB",
-     "source_name": "PIB Delhi",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341179"
+     "en": {
+      "title": "Cabinet Approves Postal Operations Scheme with Rs. 1,141 Crore Outlay",
+      "one_liner": "The Cabinet approved the continuation of the Postal Operations Scheme with an outlay of Rs. 1,141 crore.",
+      "summary": "The Union Cabinet approved the continuation of the Central Sector Scheme 'Postal Operations' for the 16th Finance Commission Cycle from FY 2026-27 to FY 2030-31 with an outlay of Rs. 1,141 Crore. Comprising six sub-schemes, it aims to modernize the postal network, optimize mail and parcel operations, enhance rural connectivity, and support e-commerce logistics.",
+      "key_points": [
+       "Scheme: Postal Operations Scheme",
+       "Financial Outlay: Rs. 1,141 Crore",
+       "Period: FY 2026-27 to FY 2030-31",
+       "Sub-components include: Rural Business, Mail Network Optimization, Parcel Network Optimization, International Mails, Marketing, and Philately Operations"
+      ]
+     }
     },
     {
      "id": "6c7841bd1f49",
-     "category": "Schemes",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "schemes",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
@@ -1245,7 +1475,9 @@
       "Railways",
       "State PSC"
      ],
-     "en": {
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341171",
+     "text": {
       "title": "Cabinet Approves Rs. 11,000 Crore Scheme for CIE Manufacturing Ecosystem",
       "one_liner": "The Union Cabinet approved an Rs. 11,000 crore scheme to enhance the Construction and Infrastructure Equipment manufacturing ecosystem.",
       "summary": "The Union Cabinet approved the 'Scheme for Enhancement of Construction and Infrastructure Equipment (CIE) Manufacturing Ecosystem' with an outlay of Rs. 11,000 crore. Implemented by the Ministry of Heavy Industries, it aims to incentivize domestic manufacturing of CIE and components, establish a dedicated testing facility, and position India as a key global player.",
@@ -1255,18 +1487,6 @@
        "Implementing Ministry: Ministry of Heavy Industries (MHI)",
        "Components: Sales-linked Incentive and Grant for CIE Testing Facility of up to Rs. 375 crore"
       ]
-     },
-     "mcq": {
-      "answer": 2,
-      "en": {
-       "question": "What is the financial outlay for the Scheme for Enhancement of CIE Manufacturing Ecosystem?",
-       "options": [
-        "Rs. 1,141 crore",
-        "Rs. 1,491 crore",
-        "Rs. 11,000 crore",
-        "Rs. 97,500 crore"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1292,14 +1512,36 @@
        "explanation": "The scheme is to be implemented by the Ministry of Heavy Industries (MHI)."
       }
      ],
+     "mcq": {
+      "question": "What is the financial outlay for the Scheme for Enhancement of CIE Manufacturing Ecosystem?",
+      "options": [
+       "Rs. 1,141 crore",
+       "Rs. 1,491 crore",
+       "Rs. 11,000 crore",
+       "Rs. 97,500 crore"
+      ],
+      "answer": 2,
+      "explanation": "The CIE Manufacturing Ecosystem scheme was approved with a financial outlay of Rs. 11,000 crore."
+     },
      "gk": [],
-     "source_kind": "PIB",
-     "source_name": "PIB Delhi",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341171"
+     "en": {
+      "title": "Cabinet Approves Rs. 11,000 Crore Scheme for CIE Manufacturing Ecosystem",
+      "one_liner": "The Union Cabinet approved an Rs. 11,000 crore scheme to enhance the Construction and Infrastructure Equipment manufacturing ecosystem.",
+      "summary": "The Union Cabinet approved the 'Scheme for Enhancement of Construction and Infrastructure Equipment (CIE) Manufacturing Ecosystem' with an outlay of Rs. 11,000 crore. Implemented by the Ministry of Heavy Industries, it aims to incentivize domestic manufacturing of CIE and components, establish a dedicated testing facility, and position India as a key global player.",
+      "key_points": [
+       "Scheme Name: Scheme for Enhancement of Construction and Infrastructure Equipment (CIE) Manufacturing Ecosystem",
+       "Total Financial Outlay: Rs. 11,000 crore",
+       "Implementing Ministry: Ministry of Heavy Industries (MHI)",
+       "Components: Sales-linked Incentive and Grant for CIE Testing Facility of up to Rs. 375 crore"
+      ]
+     }
     },
     {
      "id": "023e38429866",
-     "category": "Tripura/NE",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "national",
+     "region": "assam",
      "state": "Assam",
      "tags": [
       "UPSC",
@@ -1307,7 +1549,9 @@
       "SSC",
       "Railways"
      ],
-     "en": {
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341175",
+     "text": {
       "title": "Cabinet approves Greenfield Airport at Doloo in Silchar, Assam",
       "one_liner": "The CCEA approved the development of a new Greenfield Airport at Doloo, Silchar, Assam by AAI at an estimated cost of Rs. 2,014 crore.",
       "summary": "The Cabinet Committee on Economic Affairs approved the construction of a new Greenfield Airport at Doloo in the Cachar District of Assam. Executed by the Airports Authority of India at an estimated cost of Rs. 2,014 crore, the project aims to resolve operational constraints of the existing defense landlocked civil enclave at Silchar Airport. The airport will feature a 2,705m x 45m Code-4C runway and cater to sustained passenger and regional economic growth in the Barak Valley.",
@@ -1317,18 +1561,6 @@
        "Located in Doloo, Cachar District, serving the Barak Valley region of Assam.",
        "Includes a terminal building spanning 12,351 sqm and a 2,705m x 45m Code-4C compliant runway."
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "What is the estimated cost of developing the Greenfield Airport at Doloo, Silchar?",
-       "options": [
-        "Rs. 1,500 crore",
-        "Rs. 2,014 crore",
-        "Rs. 2,500 crore",
-        "Rs. 3,014 crore"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1354,18 +1586,40 @@
        "explanation": "Doloo is situated in the Cachar District of Assam."
       }
      ],
+     "mcq": {
+      "question": "What is the estimated cost of developing the Greenfield Airport at Doloo, Silchar?",
+      "options": [
+       "Rs. 1,500 crore",
+       "Rs. 2,014 crore",
+       "Rs. 2,500 crore",
+       "Rs. 3,014 crore"
+      ],
+      "answer": 1,
+      "explanation": "The CCEA approved the Greenfield Airport at Doloo, Silchar at an estimated cost of Rs. 2,014 crore."
+     },
      "gk": [
       "Headquarters of Airports Authority of India: New Delhi",
       "Airports Authority of India was established in 1995",
       "Capital of Assam: Dispur"
      ],
-     "source_kind": "PIB",
-     "source_name": "PIB Delhi",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341175"
+     "en": {
+      "title": "Cabinet approves Greenfield Airport at Doloo in Silchar, Assam",
+      "one_liner": "The CCEA approved the development of a new Greenfield Airport at Doloo, Silchar, Assam by AAI at an estimated cost of Rs. 2,014 crore.",
+      "summary": "The Cabinet Committee on Economic Affairs approved the construction of a new Greenfield Airport at Doloo in the Cachar District of Assam. Executed by the Airports Authority of India at an estimated cost of Rs. 2,014 crore, the project aims to resolve operational constraints of the existing defense landlocked civil enclave at Silchar Airport. The airport will feature a 2,705m x 45m Code-4C runway and cater to sustained passenger and regional economic growth in the Barak Valley.",
+      "key_points": [
+       "Approved by the Cabinet Committee on Economic Affairs chaired by Prime Minister Shri Narendra Modi.",
+       "Estimated project cost is Rs. 2,014 crore, to be developed by Airports Authority of India.",
+       "Located in Doloo, Cachar District, serving the Barak Valley region of Assam.",
+       "Includes a terminal building spanning 12,351 sqm and a 2,705m x 45m Code-4C compliant runway."
+      ]
+     }
     },
     {
      "id": "feb966c322e1",
-     "category": "International",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "international",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
@@ -1373,7 +1627,9 @@
       "SSC",
       "State PSC"
      ],
-     "en": {
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341444",
+     "text": {
       "title": "Cabinet Approves MoU with Singapore for Aviation MRO Sector",
       "one_liner": "The Union Cabinet approved an MoU between India and Singapore on cooperation in skills and industry development within the aviation MRO sector.",
       "summary": "The Union Cabinet approved the signing of a Memorandum of Understanding between India and the Republic of Singapore focused on the Aviation Maintenance, Repair, and Overhaul sector. The agreement aims to build domestic MRO infrastructure, strengthen training capabilities for Aircraft Maintenance Engineers through knowledge exchange, joint curriculum development, and internship programs, aligning with the vision of Atmanirbhar Bharat.",
@@ -1383,18 +1639,6 @@
        "Aims to jointly develop industry-oriented curriculum for AME training and create internship programs.",
        "Intends to position India as a regional aviation workshop and reduce reliance on overseas maintenance."
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "With which country did India approve an MoU for cooperation in the aviation MRO sector?",
-       "options": [
-        "Japan",
-        "Singapore",
-        "France",
-        "United States"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1420,23 +1664,48 @@
        "explanation": "MRO stands for Maintenance, Repair and Overhaul in the aviation sector."
       }
      ],
+     "mcq": {
+      "question": "With which country did India approve an MoU for cooperation in the aviation MRO sector?",
+      "options": [
+       "Japan",
+       "Singapore",
+       "France",
+       "United States"
+      ],
+      "answer": 1,
+      "explanation": "The Union Cabinet approved an MoU between India and the Republic of Singapore on aviation MRO."
+     },
      "gk": [
       "Capital of Singapore: Singapore",
       "Currency of Singapore: Singapore dollar"
      ],
-     "source_kind": "PIB",
-     "source_name": "PIB Delhi",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341444"
+     "en": {
+      "title": "Cabinet Approves MoU with Singapore for Aviation MRO Sector",
+      "one_liner": "The Union Cabinet approved an MoU between India and Singapore on cooperation in skills and industry development within the aviation MRO sector.",
+      "summary": "The Union Cabinet approved the signing of a Memorandum of Understanding between India and the Republic of Singapore focused on the Aviation Maintenance, Repair, and Overhaul sector. The agreement aims to build domestic MRO infrastructure, strengthen training capabilities for Aircraft Maintenance Engineers through knowledge exchange, joint curriculum development, and internship programs, aligning with the vision of Atmanirbhar Bharat.",
+      "key_points": [
+       "Approved by the Union Cabinet chaired by Prime Minister Shri Narendra Modi.",
+       "Focuses on cooperation in skills and industry development within the Aviation MRO sector.",
+       "Aims to jointly develop industry-oriented curriculum for AME training and create internship programs.",
+       "Intends to position India as a regional aviation workshop and reduce reliance on overseas maintenance."
+      ]
+     }
     },
     {
      "id": "d8e437db1350",
-     "category": "Defence",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "defence",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
-      "State PSC"
+      "State PSC",
+      "Police Bharti"
      ],
-     "en": {
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341241",
+     "text": {
       "title": "India-Nepal Joint Military Exercise Suryakiran XX Commences",
       "one_liner": "The 20th edition of the India-Nepal joint military exercise Suryakiran XX commenced at Nepal Army Battle School, Saljhandi.",
       "summary": "The 20th edition of the bilateral joint military exercise Suryakiran XX began at the Nepal Army Battle School in Saljhandi, Nepal, spanning from 25 November to 08 December 2026. The Indian Army contingent of 334 personnel is represented by the KUMAON Regiment, while the Nepal Army contingent comprises troops from the Shri Jawla Dal Battalion. The exercise aims to boost interoperability in counter-insurgency, counter-terrorism, and disaster response operations.",
@@ -1446,18 +1715,6 @@
        "Indian Army contingent comprises 334 personnel from the KUMAON Regiment.",
        "Focuses on enhancing interoperability in counter-insurgency, counter-terrorism, and heliborne operations."
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Where is the 20th edition of Exercise Suryakiran being conducted?",
-       "options": [
-        "Mahajan Field Firing Ranges, India",
-        "Nepal Army Battle School, Saljhandi",
-        "Belgaum, Karnataka",
-        "Pokhran, Rajasthan"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1483,17 +1740,39 @@
        "explanation": "The Indian Army contingent is represented by troops from the KUMAON Regiment."
       }
      ],
+     "mcq": {
+      "question": "Where is the 20th edition of Exercise Suryakiran being conducted?",
+      "options": [
+       "Mahajan Field Firing Ranges, India",
+       "Nepal Army Battle School, Saljhandi",
+       "Belgaum, Karnataka",
+       "Pokhran, Rajasthan"
+      ],
+      "answer": 1,
+      "explanation": "Exercise Suryakiran XX commenced at the Nepal Army Battle School, Saljhandi, Nepal."
+     },
      "gk": [
       "Capital of Nepal: Kathmandu",
       "Currency of Nepal: Nepalese rupee"
      ],
-     "source_kind": "PIB",
-     "source_name": "PIB Delhi",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341241"
+     "en": {
+      "title": "India-Nepal Joint Military Exercise Suryakiran XX Commences",
+      "one_liner": "The 20th edition of the India-Nepal joint military exercise Suryakiran XX commenced at Nepal Army Battle School, Saljhandi.",
+      "summary": "The 20th edition of the bilateral joint military exercise Suryakiran XX began at the Nepal Army Battle School in Saljhandi, Nepal, spanning from 25 November to 08 December 2026. The Indian Army contingent of 334 personnel is represented by the KUMAON Regiment, while the Nepal Army contingent comprises troops from the Shri Jawla Dal Battalion. The exercise aims to boost interoperability in counter-insurgency, counter-terrorism, and disaster response operations.",
+      "key_points": [
+       "Exercise Suryakiran XX is the 20th edition of the annual bilateral military exercise.",
+       "Conducted at Nepal Army Battle School, Saljhandi, Nepal from 25 November to 08 December 2026.",
+       "Indian Army contingent comprises 334 personnel from the KUMAON Regiment.",
+       "Focuses on enhancing interoperability in counter-insurgency, counter-terrorism, and heliborne operations."
+      ]
+     }
     },
     {
      "id": "b24316b5d6da",
-     "category": "Schemes",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "schemes",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
@@ -1502,7 +1781,9 @@
       "Railways",
       "State PSC"
      ],
-     "en": {
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341316",
+     "text": {
       "title": "DDWS and DGT Sign MoU to Skill 1 Lakh Youth Under JJM 2.0",
       "one_liner": "DDWS and DGT signed an MoU to train 1 lakh youth as Nal Jal Mitras under Jal Jeevan Mission 2.0 with an outlay of Rs. 111.93 crore.",
       "summary": "The Department of Drinking Water and Sanitation and the Directorate General of Training signed an MoU for the Water Supply Operation and Maintenance Skilling Programme under Jal Jeevan Mission 2.0. Aimed at training and certifying at least 1,00,000 candidates across ITIs and NSTIs nationwide, the programme features a 165-hour NSQF-aligned course with institutional training and practical On-the-Job Training to build a local workforce of Nal Jal Mitras.",
@@ -1512,18 +1793,6 @@
        "Features a 165-hour NSQF-aligned short-term training course including 45 hours of On-the-Job Training.",
        "Aims to establish a local skilled workforce of 'Nal Jal Mitras' for rural water supply operations and maintenance."
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "How many candidates are targeted for training under the Jal Jeevan Mission 2.0 skilling MoU?",
-       "options": [
-        "50,000 candidates",
-        "1,00,000 candidates",
-        "2,00,000 candidates",
-        "5,00,000 candidates"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1549,21 +1818,45 @@
        "explanation": "The estimated outlay for the programme is approximately Rs. 111.93 crore."
       }
      ],
+     "mcq": {
+      "question": "How many candidates are targeted for training under the Jal Jeevan Mission 2.0 skilling MoU?",
+      "options": [
+       "50,000 candidates",
+       "1,00,000 candidates",
+       "2,00,000 candidates",
+       "5,00,000 candidates"
+      ],
+      "answer": 1,
+      "explanation": "The MoU targets the training and certification of at least 1,00,000 candidates under Jal Jeevan Mission 2.0."
+     },
      "gk": [],
-     "source_kind": "PIB",
-     "source_name": "PIB Delhi",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341316"
+     "en": {
+      "title": "DDWS and DGT Sign MoU to Skill 1 Lakh Youth Under JJM 2.0",
+      "one_liner": "DDWS and DGT signed an MoU to train 1 lakh youth as Nal Jal Mitras under Jal Jeevan Mission 2.0 with an outlay of Rs. 111.93 crore.",
+      "summary": "The Department of Drinking Water and Sanitation and the Directorate General of Training signed an MoU for the Water Supply Operation and Maintenance Skilling Programme under Jal Jeevan Mission 2.0. Aimed at training and certifying at least 1,00,000 candidates across ITIs and NSTIs nationwide, the programme features a 165-hour NSQF-aligned course with institutional training and practical On-the-Job Training to build a local workforce of Nal Jal Mitras.",
+      "key_points": [
+       "Signed between Department of Drinking Water and Sanitation (DDWS) and Directorate General of Training (DGT).",
+       "Targets training and certifying at least 1,00,000 candidates with an estimated outlay of Rs. 111.93 crore.",
+       "Features a 165-hour NSQF-aligned short-term training course including 45 hours of On-the-Job Training.",
+       "Aims to establish a local skilled workforce of 'Nal Jal Mitras' for rural water supply operations and maintenance."
+      ]
+     }
     },
     {
      "id": "85fdc8682333",
-     "category": "Schemes",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "schemes",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
       "State PSC",
       "SSC"
      ],
-     "en": {
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341403",
+     "text": {
       "title": "Ministry of Rural Development and WCD Launch Nayi Chetna 5.0",
       "one_liner": "Union Ministers launched the fifth edition of the Nayi Chetna campaign focusing on gender equality and violence-free villages.",
       "summary": "Union Ministers Shri Shivraj Singh Chouhan and Smt. Annapurna Devi launched the fifth edition of Nayi Chetna: Pahal Badlaav Ki at NASC Complex, New Delhi. A Quadripartite MoU on the Violence-Free Village Initiative was signed by the Department of Rural Development, Ministry of WCD, Department of Justice, and NALSA. The month-long nationwide campaign runs from 25 November to 23 December 2026 across all States and UTs, involving 15 Ministries.",
@@ -1573,18 +1866,6 @@
        "Quadripartite MoU signed for the Violence-Free Village Initiative.",
        "Involves 15 collaborating Ministries and Departments."
       ]
-     },
-     "mcq": {
-      "answer": 0,
-      "en": {
-       "question": "When is the Nayi Chetna 5.0 campaign scheduled to run across States and UTs?",
-       "options": [
-        "25 November to 23 December 2026",
-        "15 January to 15 February 2027",
-        "1 October to 30 October 2026",
-        "10 December to 31 December 2026"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1610,21 +1891,45 @@
        "explanation": "The MoU was signed on the Violence-Free Village Initiative (VFVI)."
       }
      ],
+     "mcq": {
+      "question": "When is the Nayi Chetna 5.0 campaign scheduled to run across States and UTs?",
+      "options": [
+       "25 November to 23 December 2026",
+       "15 January to 15 February 2027",
+       "1 October to 30 October 2026",
+       "10 December to 31 December 2026"
+      ],
+      "answer": 0,
+      "explanation": "The campaign is conducted from 25 November to 23 December 2026."
+     },
      "gk": [],
-     "source_kind": "PIB",
-     "source_name": "PIB Delhi",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341403"
+     "en": {
+      "title": "Ministry of Rural Development and WCD Launch Nayi Chetna 5.0",
+      "one_liner": "Union Ministers launched the fifth edition of the Nayi Chetna campaign focusing on gender equality and violence-free villages.",
+      "summary": "Union Ministers Shri Shivraj Singh Chouhan and Smt. Annapurna Devi launched the fifth edition of Nayi Chetna: Pahal Badlaav Ki at NASC Complex, New Delhi. A Quadripartite MoU on the Violence-Free Village Initiative was signed by the Department of Rural Development, Ministry of WCD, Department of Justice, and NALSA. The month-long nationwide campaign runs from 25 November to 23 December 2026 across all States and UTs, involving 15 Ministries.",
+      "key_points": [
+       "Launched by Shri Shivraj Singh Chouhan and Smt. Annapurna Devi in New Delhi.",
+       "Campaign runs from 25 November to 23 December 2026 across all States and UTs.",
+       "Quadripartite MoU signed for the Violence-Free Village Initiative.",
+       "Involves 15 collaborating Ministries and Departments."
+      ]
+     }
     },
     {
      "id": "a9104eaa0ebd",
-     "category": "Economy",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "economy",
+     "region": "national",
      "state": "",
      "tags": [
       "Bank",
       "UPSC",
       "SSC"
      ],
-     "en": {
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341392",
+     "text": {
       "title": "Department of Rural Development and NABARD Partner for Rural Credit",
       "one_liner": "DoRD and NABARD signed an agreement to make credit cheaper, safer, and faster for women Self-Help Groups.",
       "summary": "The Department of Rural Development and NABARD signed an agreement for management and technical support for the Interest Subvention Scheme for women SHGs and the Women Enterprise Acceleration Fund under DAY-NRLM. NABARD will serve as the single nodal agency. The Interest Subvention Portal was also jointly launched by the Rural Development Secretary and NABARD Chairman.",
@@ -1634,18 +1939,6 @@
        "Interest Subvention Portal jointly launched in New Delhi.",
        "Aims to facilitate additional credit of Rs. 10 lakh crore for SHGs over five years."
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Who will serve as the single nodal agency for the Interest Subvention Scheme under DAY-NRLM?",
-       "options": [
-        "RBI",
-        "NABARD",
-        "SIDBI",
-        "SBI"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1671,22 +1964,46 @@
        "explanation": "The Department aims to facilitate an additional Rs. 10 lakh crore for SHGs over the next five years."
       }
      ],
+     "mcq": {
+      "question": "Who will serve as the single nodal agency for the Interest Subvention Scheme under DAY-NRLM?",
+      "options": [
+       "RBI",
+       "NABARD",
+       "SIDBI",
+       "SBI"
+      ],
+      "answer": 1,
+      "explanation": "NABARD is designated as the single nodal agency under the agreement."
+     },
      "gk": [
       "Headquarters of National Bank for Agriculture and Rural Development: Mumbai"
      ],
-     "source_kind": "PIB",
-     "source_name": "PIB Delhi",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341392"
+     "en": {
+      "title": "Department of Rural Development and NABARD Partner for Rural Credit",
+      "one_liner": "DoRD and NABARD signed an agreement to make credit cheaper, safer, and faster for women Self-Help Groups.",
+      "summary": "The Department of Rural Development and NABARD signed an agreement for management and technical support for the Interest Subvention Scheme for women SHGs and the Women Enterprise Acceleration Fund under DAY-NRLM. NABARD will serve as the single nodal agency. The Interest Subvention Portal was also jointly launched by the Rural Development Secretary and NABARD Chairman.",
+      "key_points": [
+       "Agreement signed between Department of Rural Development and NABARD.",
+       "NABARD to serve as the single nodal agency for interest subvention and WEAF.",
+       "Interest Subvention Portal jointly launched in New Delhi.",
+       "Aims to facilitate additional credit of Rs. 10 lakh crore for SHGs over five years."
+      ]
+     }
     },
     {
      "id": "4693070bce13",
-     "category": "Tripura/NE",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "science",
+     "region": "meghalaya",
      "state": "Meghalaya",
      "tags": [
       "State PSC",
       "UPSC"
      ],
-     "en": {
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341204",
+     "text": {
       "title": "First North-East India-Specific Antivenom Developed for Pit Vipers",
       "one_liner": "Researchers developed a novel bivalent antivenom targeting specific pit viper species common in Northeast India.",
       "summary": "A research team led by IASST Guwahati developed a novel equine F(ab)2 bivalent antivenom effective against the venom of Pope's pit viper and red-tailed bamboo pit viper found in Northeastern states like Mizoram and Meghalaya. Tested in laboratory and preclinical investigations, the new bivalent antivenom showed superior neutralizing activity compared to traditional Indian polyvalent antivenom against regional pit viper envenomation.",
@@ -1696,18 +2013,6 @@
        "Specially tested with specimens collected from Mizoram and Meghalaya.",
        "Shows superior neutralizing activity compared to standard Indian polyvalent antivenom."
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Which institute led the research team that developed the North-East specific pit viper antivenom?",
-       "options": [
-        "IISc Bangalore",
-        "IASST Guwahati",
-        "AIIMS Delhi",
-        "ICMR Chennai"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1733,24 +2038,48 @@
        "explanation": "The antivenom is effective against Trimeresurus popeiorum and Trimeresurus erythrurus."
       }
      ],
+     "mcq": {
+      "question": "Which institute led the research team that developed the North-East specific pit viper antivenom?",
+      "options": [
+       "IISc Bangalore",
+       "IASST Guwahati",
+       "AIIMS Delhi",
+       "ICMR Chennai"
+      ],
+      "answer": 1,
+      "explanation": "The research team was led by Prof. Ashis K. Mukherjee, Director of IASST, Guwahati."
+     },
      "gk": [
       "Capital of Mizoram: Aizawl",
       "Capital of Meghalaya: Shillong"
      ],
-     "source_kind": "PIB",
-     "source_name": "PIB Delhi",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341204"
+     "en": {
+      "title": "First North-East India-Specific Antivenom Developed for Pit Vipers",
+      "one_liner": "Researchers developed a novel bivalent antivenom targeting specific pit viper species common in Northeast India.",
+      "summary": "A research team led by IASST Guwahati developed a novel equine F(ab)2 bivalent antivenom effective against the venom of Pope's pit viper and red-tailed bamboo pit viper found in Northeastern states like Mizoram and Meghalaya. Tested in laboratory and preclinical investigations, the new bivalent antivenom showed superior neutralizing activity compared to traditional Indian polyvalent antivenom against regional pit viper envenomation.",
+      "key_points": [
+       "Developed by IASST, Guwahati in collaboration with other institutes.",
+       "Targets Pope's pit viper and red-tailed bamboo pit viper venoms.",
+       "Specially tested with specimens collected from Mizoram and Meghalaya.",
+       "Shows superior neutralizing activity compared to standard Indian polyvalent antivenom."
+      ]
+     }
     },
     {
      "id": "d0d125108016",
-     "category": "National",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "national",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
       "Bank",
       "SSC"
      ],
-     "en": {
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341271",
+     "text": {
       "title": "MoSPI and DSCI Sign MoU for Trusted Data Sharing in Statistics",
       "one_liner": "MoSPI and DSCI signed an MoU to establish trusted data-sharing protocols and governance for official statistics.",
       "summary": "The Ministry of Statistics and Programme Implementation (MoSPI) and the Data Security Council of India (DSCI) signed a Memorandum of Understanding in New Delhi. The partnership focuses on developing protocols for trusted data sharing, privacy protection, and statistical confidentiality ahead of the Digital Personal Data Protection Act, 2023. They will jointly prepare a policy paper on data flows and support privacy-enhancing technologies and AI use.",
@@ -1760,18 +2089,6 @@
        "Prepares agencies for the Digital Personal Data Protection Act, 2023.",
        "Includes joint research on data governance and responsible use of AI."
       ]
-     },
-     "mcq": {
-      "answer": 0,
-      "en": {
-       "question": "Which organization partnered with MoSPI to sign the MoU on trusted data sharing?",
-       "options": [
-        "Data Security Council of India",
-        "Telecom Regulatory Authority of India",
-        "NITI Aayog",
-        "Unique Identification Authority of India"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1797,17 +2114,39 @@
        "explanation": "The MoU helps develop protocols for sharing data in a trusted manner while maintaining privacy and data quality."
       }
      ],
+     "mcq": {
+      "question": "Which organization partnered with MoSPI to sign the MoU on trusted data sharing?",
+      "options": [
+       "Data Security Council of India",
+       "Telecom Regulatory Authority of India",
+       "NITI Aayog",
+       "Unique Identification Authority of India"
+      ],
+      "answer": 0,
+      "explanation": "MoSPI signed the MoU with the Data Security Council of India (DSCI)."
+     },
      "gk": [
       "Headquarters of Data Security Council of India: New Delhi",
       "Data Security Council of India was established in 2008"
      ],
-     "source_kind": "PIB",
-     "source_name": "PIB Delhi",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341271"
+     "en": {
+      "title": "MoSPI and DSCI Sign MoU for Trusted Data Sharing in Statistics",
+      "one_liner": "MoSPI and DSCI signed an MoU to establish trusted data-sharing protocols and governance for official statistics.",
+      "summary": "The Ministry of Statistics and Programme Implementation (MoSPI) and the Data Security Council of India (DSCI) signed a Memorandum of Understanding in New Delhi. The partnership focuses on developing protocols for trusted data sharing, privacy protection, and statistical confidentiality ahead of the Digital Personal Data Protection Act, 2023. They will jointly prepare a policy paper on data flows and support privacy-enhancing technologies and AI use.",
+      "key_points": [
+       "MoU signed between MoSPI and DSCI in New Delhi.",
+       "Aims to develop trusted data sharing protocols and preserve statistical confidentiality.",
+       "Prepares agencies for the Digital Personal Data Protection Act, 2023.",
+       "Includes joint research on data governance and responsible use of AI."
+      ]
+     }
     },
     {
      "id": "73b0f1f46019",
-     "category": "Economy",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "economy",
+     "region": "national",
      "state": "",
      "tags": [
       "UPSC",
@@ -1815,7 +2154,9 @@
       "Bank",
       "State PSC"
      ],
-     "en": {
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341442",
+     "text": {
       "title": "Government Approves 6 New Brownfield Urea Plants to Boost Self-Reliance",
       "one_liner": "The government approved 6 new brownfield urea plants under NIPU-2026 with an investment of ₹54,000 crore to achieve self-reliance.",
       "summary": "The Government of India has approved six new brownfield urea plants under the National Investment Policy for Urea (NIPU)-2026, involving an investment of approximately ₹54,000 crore. These projects are located in Tamil Nadu, Punjab, Uttar Pradesh, West Bengal, and Rajasthan. The initiative aims to modernize aging legacy units, reduce high energy consumption, boost domestic manufacturing, and decrease import dependence against an annual national urea demand of around 400 Lakh Metric Tonnes.",
@@ -1825,18 +2166,6 @@
        "Projects located in MFL-Madras, NFL Nangal, KFL-Shahjahanpur, Matix-Panagarh, CFCL Gadepan, and IIPL-Jagdishpur.",
        "Aims to enhance domestic production capacity and curb reliance on imported urea."
       ]
-     },
-     "mcq": {
-      "answer": 2,
-      "en": {
-       "question": "What is the estimated investment for the 6 new urea plants approved under NIPU-2026?",
-       "options": [
-        "₹25,000 crore",
-        "₹40,000 crore",
-        "₹54,000 crore",
-        "₹75,000 crore"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1862,25 +2191,50 @@
        "explanation": "NFL Nangal in Punjab is listed as a PSU brownfield replacement of a legacy plant."
       }
      ],
+     "mcq": {
+      "question": "What is the estimated investment for the 6 new urea plants approved under NIPU-2026?",
+      "options": [
+       "₹25,000 crore",
+       "₹40,000 crore",
+       "₹54,000 crore",
+       "₹75,000 crore"
+      ],
+      "answer": 2,
+      "explanation": "The release states that the 6 urea plants are poised to attract nearly ₹54,000 crore in fresh investment."
+     },
      "gk": [
       "Capital of Tamil Nadu: Chennai",
       "Capital of Punjab: Chandigarh",
       "Capital of Uttar Pradesh: Lucknow",
       "Capital of Rajasthan: Jaipur"
      ],
-     "source_kind": "PIB",
-     "source_name": "PIB Delhi",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341442"
+     "en": {
+      "title": "Government Approves 6 New Brownfield Urea Plants to Boost Self-Reliance",
+      "one_liner": "The government approved 6 new brownfield urea plants under NIPU-2026 with an investment of ₹54,000 crore to achieve self-reliance.",
+      "summary": "The Government of India has approved six new brownfield urea plants under the National Investment Policy for Urea (NIPU)-2026, involving an investment of approximately ₹54,000 crore. These projects are located in Tamil Nadu, Punjab, Uttar Pradesh, West Bengal, and Rajasthan. The initiative aims to modernize aging legacy units, reduce high energy consumption, boost domestic manufacturing, and decrease import dependence against an annual national urea demand of around 400 Lakh Metric Tonnes.",
+      "key_points": [
+       "6 new brownfield urea plants approved under NIPU-2026.",
+       "Total estimated investment stands at approximately ₹54,000 crore.",
+       "Projects located in MFL-Madras, NFL Nangal, KFL-Shahjahanpur, Matix-Panagarh, CFCL Gadepan, and IIPL-Jagdishpur.",
+       "Aims to enhance domestic production capacity and curb reliance on imported urea."
+      ]
+     }
     },
     {
      "id": "452f3fec1f93",
-     "category": "States",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "science",
+     "region": "madhya_pradesh",
      "state": "Madhya Pradesh",
      "tags": [
       "UPSC",
-      "State PSC"
+      "State PSC",
+      "MPSC"
      ],
-     "en": {
+     "source_name": "PIB Bhopal",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341319",
+     "text": {
       "title": "Dr. Neelima Satyam Elected President-Elect of AGU Natural Hazards Section",
       "one_liner": "IIT Indore Professor Dr. Neelima Satyam has been elected President-Elect of the AGU Natural Hazards Section for 2027–2028.",
       "summary": "Dr. Neelima Satyam Devarakonda, an Institute Chair Professor in the Department of Civil Engineering at IIT Indore, has been elected President-Elect of the Natural Hazards Section of the American Geophysical Union (AGU) for the 2027–2028 term. This election marks a historic first for an Indian woman scientist to lead an AGU section while continuing to serve from an Indian academic institution, highlighting India's growing global research stature.",
@@ -1890,18 +2244,6 @@
        "Becomes the first woman scientist from India to hold this leadership position at AGU while based in India.",
        "Previous recognitions include the 2025 AGU Natural Hazards Mitigation Award and the 2026 Devendra Lal Memorial Medal."
       ]
-     },
-     "mcq": {
-      "answer": 2,
-      "en": {
-       "question": "Dr. Neelima Satyam is a faculty member at which Indian institute?",
-       "options": [
-        "IIT Delhi",
-        "IIT Bombay",
-        "IIT Indore",
-        "IIT Madras"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1927,22 +2269,48 @@
        "explanation": "She was elected President-Elect for the 2027–2028 term."
       }
      ],
+     "mcq": {
+      "question": "Dr. Neelima Satyam is a faculty member at which Indian institute?",
+      "options": [
+       "IIT Delhi",
+       "IIT Bombay",
+       "IIT Indore",
+       "IIT Madras"
+      ],
+      "answer": 2,
+      "explanation": "Dr. Neelima Satyam is an Institute Chair Professor in the Department of Civil Engineering at IIT Indore."
+     },
      "gk": [
       "Headquarters of American Geophysical Union: Washington, D.C.",
       "American Geophysical Union was established in 1919"
      ],
-     "source_kind": "PIB",
-     "source_name": "PIB Bhopal",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341319"
+     "en": {
+      "title": "Dr. Neelima Satyam Elected President-Elect of AGU Natural Hazards Section",
+      "one_liner": "IIT Indore Professor Dr. Neelima Satyam has been elected President-Elect of the AGU Natural Hazards Section for 2027–2028.",
+      "summary": "Dr. Neelima Satyam Devarakonda, an Institute Chair Professor in the Department of Civil Engineering at IIT Indore, has been elected President-Elect of the Natural Hazards Section of the American Geophysical Union (AGU) for the 2027–2028 term. This election marks a historic first for an Indian woman scientist to lead an AGU section while continuing to serve from an Indian academic institution, highlighting India's growing global research stature.",
+      "key_points": [
+       "Elected President-Elect of the AGU Natural Hazards Section for the 2027–2028 term.",
+       "Serves as Institute Chair Professor at IIT Indore in the Department of Civil Engineering.",
+       "Becomes the first woman scientist from India to hold this leadership position at AGU while based in India.",
+       "Previous recognitions include the 2025 AGU Natural Hazards Mitigation Award and the 2026 Devendra Lal Memorial Medal."
+      ]
+     }
     },
     {
      "id": "7c4eadd270b4",
-     "category": "States",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "awards",
+     "region": "maharashtra",
      "state": "Maharashtra",
      "tags": [
-      "State PSC"
+      "MPSC",
+      "State PSC",
+      "Police Bharti"
      ],
-     "en": {
+     "source_name": "महासंवाद (महाराष्ट्र शासन)",
+     "source_url": "https://mahasamvad.in/222859/",
+     "text": {
       "title": "Senior Writer Dr. Sharankumar Limbale Elected President of 100th Sahitya Sammelan",
       "one_liner": "Senior writer Dr. Sharankumar Limbale has been elected as the president of the 100th Akhil Bharatiya Marathi Sahitya Sammelan.",
       "summary": "Senior author, thinker, and critic Dr. Sharankumar Limbale has been selected as the president for the 100th Akhil Bharatiya Marathi Sahitya Sammelan to be held in Pune. Expressing appreciation, Marathi Language Minister Dr. Uday Samant noted that Dr. Limbale's autobiographical work 'Akkarmashi' and his book 'Dalit Sahityache Saundyashastra' have significantly shaped Marathi literature by reflecting the realities of marginalized communities. He was also awarded the prestigious Saraswati Samman for his novel 'Sanatan'.",
@@ -1952,18 +2320,6 @@
        "Wrote 'Dalit Sahityache Saundyashastra' providing a critical perspective on Dalit literature.",
        "Recipient of the prestigious Saraswati Samman for the novel 'Sanatan'."
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "Who has been elected as the president of the 100th Akhil Bharatiya Marathi Sahitya Sammelan?",
-       "options": [
-        "Dr. Uday Samant",
-        "Dr. Sharankumar Limbale",
-        "Gajanan Patil",
-        "Bhalchandra Nemade"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -1989,14 +2345,36 @@
        "explanation": "He received the prestigious Saraswati Samman for his novel 'Sanatan'."
       }
      ],
+     "mcq": {
+      "question": "Who has been elected as the president of the 100th Akhil Bharatiya Marathi Sahitya Sammelan?",
+      "options": [
+       "Dr. Uday Samant",
+       "Dr. Sharankumar Limbale",
+       "Gajanan Patil",
+       "Bhalchandra Nemade"
+      ],
+      "answer": 1,
+      "explanation": "Dr. Sharankumar Limbale has been elected president of the 100th Akhil Bharatiya Marathi Sahitya Sammelan."
+     },
      "gk": [],
-     "source_kind": "महासंवाद",
-     "source_name": "महासंवाद (महाराष्ट्र शासन)",
-     "source_url": "https://mahasamvad.in/222859/"
+     "en": {
+      "title": "Senior Writer Dr. Sharankumar Limbale Elected President of 100th Sahitya Sammelan",
+      "one_liner": "Senior writer Dr. Sharankumar Limbale has been elected as the president of the 100th Akhil Bharatiya Marathi Sahitya Sammelan.",
+      "summary": "Senior author, thinker, and critic Dr. Sharankumar Limbale has been selected as the president for the 100th Akhil Bharatiya Marathi Sahitya Sammelan to be held in Pune. Expressing appreciation, Marathi Language Minister Dr. Uday Samant noted that Dr. Limbale's autobiographical work 'Akkarmashi' and his book 'Dalit Sahityache Saundyashastra' have significantly shaped Marathi literature by reflecting the realities of marginalized communities. He was also awarded the prestigious Saraswati Samman for his novel 'Sanatan'.",
+      "key_points": [
+       "Dr. Sharankumar Limbale elected president of the 100th Akhil Bharatiya Marathi Sahitya Sammelan in Pune.",
+       "Authored the notable autobiographical work 'Akkarmashi' focusing on social inequality.",
+       "Wrote 'Dalit Sahityache Saundyashastra' providing a critical perspective on Dalit literature.",
+       "Recipient of the prestigious Saraswati Samman for the novel 'Sanatan'."
+      ]
+     }
     },
     {
      "id": "02a8f6812473",
-     "category": "States",
+     "date": "2026-11-26",
+     "time": "2026-11-26T06:25+05:30",
+     "category": "international",
+     "region": "goa",
      "state": "Goa",
      "tags": [
       "UPSC",
@@ -2004,7 +2382,9 @@
       "Bank",
       "State PSC"
      ],
-     "en": {
+     "source_name": "PIB Mumbai",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341582",
+     "text": {
       "title": "20th Edition of WAVES Film Bazaar Concludes in Goa with 2,288 Delegates",
       "one_liner": "The 20th edition of WAVES Film Bazaar in Goa concluded with 2,288 delegates from 54 countries participating.",
       "summary": "The 20th edition of WAVES Film Bazaar concluded in Goa, bringing together 2,288 delegates from 54 countries alongside the 57th International Film Festival of India (IFFI). Organized by the National Film Development Corporation (NFDC), the event featured around 220 scheduled one-to-one co-production meetings, leading to two letters of intent for India-Chile co-productions and 14 MoUs nearing finalization. The bazaar also included cash grants, post-production awards, and a startup showcase.",
@@ -2014,18 +2394,6 @@
        "Two letters of intent signed for India-Chile co-productions.",
        "Organized by the National Film Development Corporation (NFDC) alongside IFFI in Goa."
       ]
-     },
-     "mcq": {
-      "answer": 1,
-      "en": {
-       "question": "How many delegates participated in the 20th edition of WAVES Film Bazaar?",
-       "options": [
-        "1,200",
-        "2,288",
-        "3,150",
-        "4,500"
-       ]
-      }
      },
      "mcqs": [
       {
@@ -2051,6 +2419,17 @@
        "explanation": "Russia participated as the Partner Country in the market's pavilions and technology segment."
       }
      ],
+     "mcq": {
+      "question": "How many delegates participated in the 20th edition of WAVES Film Bazaar?",
+      "options": [
+       "1,200",
+       "2,288",
+       "3,150",
+       "4,500"
+      ],
+      "answer": 1,
+      "explanation": "The event brought together 2,288 delegates from 54 countries."
+     },
      "gk": [
       "Capital of Goa: Panaji",
       "Headquarters of National Film Development Corporation of India: Mumbai",
@@ -2058,9 +2437,17 @@
       "Capital of Chile: Santiago",
       "Currency of Chile: Chilean peso"
      ],
-     "source_kind": "PIB",
-     "source_name": "PIB Mumbai",
-     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341582"
+     "en": {
+      "title": "20th Edition of WAVES Film Bazaar Concludes in Goa with 2,288 Delegates",
+      "one_liner": "The 20th edition of WAVES Film Bazaar in Goa concluded with 2,288 delegates from 54 countries participating.",
+      "summary": "The 20th edition of WAVES Film Bazaar concluded in Goa, bringing together 2,288 delegates from 54 countries alongside the 57th International Film Festival of India (IFFI). Organized by the National Film Development Corporation (NFDC), the event featured around 220 scheduled one-to-one co-production meetings, leading to two letters of intent for India-Chile co-productions and 14 MoUs nearing finalization. The bazaar also included cash grants, post-production awards, and a startup showcase.",
+      "key_points": [
+       "20th edition hosted 2,288 delegates from 54 countries, including 471 buyers.",
+       "Co-production market facilitated around 220 scheduled one-to-one meetings.",
+       "Two letters of intent signed for India-Chile co-productions.",
+       "Organized by the National Film Development Corporation (NFDC) alongside IFFI in Goa."
+      ]
+     }
     }
    ]
   }

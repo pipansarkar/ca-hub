@@ -1,0 +1,182 @@
+{
+ "andhra_pradesh": {
+  "en": "Andhra Pradesh",
+  "bn": "অন্ধ্রপ্রদেশ",
+  "mr": "आंध्र प्रदेश"
+ },
+ "arunachal_pradesh": {
+  "en": "Arunachal Pradesh",
+  "bn": "অরুণাচল প্রদেশ",
+  "mr": "अरुणाचल प्रदेश"
+ },
+ "assam": {
+  "en": "Assam",
+  "bn": "আসাম",
+  "mr": "आसाम"
+ },
+ "bihar": {
+  "en": "Bihar",
+  "bn": "বিহার",
+  "mr": "बिहार"
+ },
+ "chhattisgarh": {
+  "en": "Chhattisgarh",
+  "bn": "ছত্তিশগড়",
+  "mr": "छत्तीसगड"
+ },
+ "goa": {
+  "en": "Goa",
+  "bn": "গোয়া",
+  "mr": "गोवा"
+ },
+ "gujarat": {
+  "en": "Gujarat",
+  "bn": "গুজরাত",
+  "mr": "गुजरात"
+ },
+ "haryana": {
+  "en": "Haryana",
+  "bn": "হরিয়ানা",
+  "mr": "हरियाणा"
+ },
+ "himachal_pradesh": {
+  "en": "Himachal Pradesh",
+  "bn": "হিমাচল প্রদেশ",
+  "mr": "हिमाचल प्रदेश"
+ },
+ "jharkhand": {
+  "en": "Jharkhand",
+  "bn": "ঝাড়খণ্ড",
+  "mr": "झारखंड"
+ },
+ "karnataka": {
+  "en": "Karnataka",
+  "bn": "কর্ণাটক",
+  "mr": "कर्नाटक"
+ },
+ "kerala": {
+  "en": "Kerala",
+  "bn": "কেরল",
+  "mr": "केरळ"
+ },
+ "madhya_pradesh": {
+  "en": "Madhya Pradesh",
+  "bn": "মধ্যপ্রদেশ",
+  "mr": "मध्य प्रदेश"
+ },
+ "maharashtra": {
+  "en": "Maharashtra",
+  "bn": "মহারাষ্ট্র",
+  "mr": "महाराष्ट्र"
+ },
+ "manipur": {
+  "en": "Manipur",
+  "bn": "মণিপুর",
+  "mr": "मणिपूर"
+ },
+ "meghalaya": {
+  "en": "Meghalaya",
+  "bn": "মেঘালয়",
+  "mr": "मेघालय"
+ },
+ "mizoram": {
+  "en": "Mizoram",
+  "bn": "মিজোরাম",
+  "mr": "मिझोरम"
+ },
+ "nagaland": {
+  "en": "Nagaland",
+  "bn": "নাগাল্যান্ড",
+  "mr": "नागालँड"
+ },
+ "odisha": {
+  "en": "Odisha",
+  "bn": "ওড়িশা",
+  "mr": "ओडिशा"
+ },
+ "punjab": {
+  "en": "Punjab",
+  "bn": "পাঞ্জাব, ভারত",
+  "mr": "पंजाब"
+ },
+ "rajasthan": {
+  "en": "Rajasthan",
+  "bn": "রাজস্থান",
+  "mr": "राजस्थान"
+ },
+ "sikkim": {
+  "en": "Sikkim",
+  "bn": "সিকিম",
+  "mr": "सिक्किम"
+ },
+ "tamil_nadu": {
+  "en": "Tamil Nadu",
+  "bn": "তামিলনাড়ু",
+  "mr": "तमिळनाडू"
+ },
+ "telangana": {
+  "en": "Telangana",
+  "bn": "তেলেঙ্গানা",
+  "mr": "तेलंगणा"
+ },
+ "tripura": {
+  "en": "Tripura",
+  "bn": "ত্রিপুরা",
+  "mr": "त्रिपुरा"
+ },
+ "uttar_pradesh": {
+  "en": "Uttar Pradesh",
+  "bn": "উত্তরপ্রদেশ",
+  "mr": "उत्तर प्रदेश"
+ },
+ "uttarakhand": {
+  "en": "Uttarakhand",
+  "bn": "উত্তরাখণ্ড",
+  "mr": "उत्तराखंड"
+ },
+ "west_bengal": {
+  "en": "West Bengal",
+  "bn": "পশ্চিমবঙ্গ",
+  "mr": "पश्चिम बंगाल"
+ },
+ "andaman_nicobar": {
+  "en": "Andaman and Nicobar Islands",
+  "bn": "আন্দামান ও নিকোবর দ্বীপপুঞ্জ",
+  "mr": "अंदमान आणि निकोबार"
+ },
+ "chandigarh": {
+  "en": "Chandigarh",
+  "bn": "Chandigarh",
+  "mr": "Chandigarh"
+ },
+ "dadra_nagar_haveli_daman_diu": {
+  "en": "Dadra and Nagar Haveli and Daman and Diu",
+  "bn": "দাদরা ও নগর হাভেলি এবং দমন ও দিউ",
+  "mr": "दादरा व नगर हवेली आणि दमण व दीव"
+ },
+ "delhi": {
+  "en": "Delhi",
+  "bn": "দিল্লি",
+  "mr": "दिल्ली"
+ },
+ "jammu_kashmir": {
+  "en": "Jammu and Kashmir",
+  "bn": "জম্মু ও কাশ্মীর",
+  "mr": "जम्मू आणि काश्मीर"
+ },
+ "ladakh": {
+  "en": "Ladakh",
+  "bn": "লাদাখ",
+  "mr": "लडाख"
+ },
+ "lakshadweep": {
+  "en": "Lakshadweep",
+  "bn": "লাক্ষাদ্বীপ",
+  "mr": "लक्षद्वीप"
+ },
+ "puducherry": {
+  "en": "Puducherry",
+  "bn": "পুদুচেরি",
+  "mr": "पुदुचेरी"
+ }
+}
