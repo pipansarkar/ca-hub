@@ -2,6 +2,1304 @@
  "date": "2026-11-26",
  "items": [
   {
+   "id": "1728b6267ef0",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "economy",
+   "region": "national",
+   "state": "",
+   "tags": [
+    "UPSC",
+    "Bank",
+    "SSC",
+    "State PSC"
+   ],
+   "source_name": "PIB Delhi",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341768",
+   "text": {
+    "title": "Agriculture Minister Releases Final Production Estimates for 2025-26",
+    "one_liner": "Union Agriculture Minister Shri Shivraj Singh Chouhan released the final agricultural production estimates for 2025-26 and Kharif 2026-27 advance estimates.",
+    "summary": "Union Agriculture and Farmers Welfare Minister Shri Shivraj Singh Chouhan released the final production estimates for major agricultural crops for 2025-26 and the first advance estimates for the Kharif season of 2026-27 in New Delhi. Total foodgrain production in 2025-26 reached a record 3785.38 lakh tonnes, representing an increase of 208.06 lakh tonnes over 2024-25. Despite weather challenges, Kharif 2026-27 foodgrain production is estimated at 1671.43 lakh tonnes. India ranks first globally in the production of rice, pulses, jute, millets, and spices.",
+    "key_points": [
+     "Total foodgrain production in 2025-26 reached a record 3785.38 lakh tonnes.",
+     "Rice production in 2025-26 stood at 1551.54 lakh tonnes and wheat at 1220.64 lakh tonnes.",
+     "Kharif 2026-27 foodgrain production is estimated at 1671.43 lakh tonnes.",
+     "Total oilseed production in 2025-26 was recorded at an all-time high of 432.55 lakh tonnes."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "What was India's total foodgrain production in the final estimates for 2025-26?",
+     "options": [
+      "3577.32 lakh tonnes",
+      "3785.38 lakh tonnes",
+      "1671.43 lakh tonnes",
+      "5037.29 lakh tonnes"
+     ],
+     "answer": 1,
+     "explanation": "Total foodgrain production for 2025-26 reached a record 3785.38 lakh tonnes according to the final estimates."
+    },
+    {
+     "question": "Which of the following ranks India first globally in agricultural production according to the release?",
+     "options": [
+      "Wheat and Cotton",
+      "Sugarcane",
+      "Rice, Pulses, Jute, Millets and Spices",
+      "Groundnut and Fruits"
+     ],
+     "answer": 2,
+     "explanation": "India holds the first rank globally in the production of rice, pulses, jute, millets (coarse grains), and spices."
+    }
+   ],
+   "mcq": {
+    "question": "What was India's total foodgrain production in the final estimates for 2025-26?",
+    "options": [
+     "3577.32 lakh tonnes",
+     "3785.38 lakh tonnes",
+     "1671.43 lakh tonnes",
+     "5037.29 lakh tonnes"
+    ],
+    "answer": 1,
+    "explanation": "Total foodgrain production for 2025-26 reached a record 3785.38 lakh tonnes according to the final estimates."
+   },
+   "gk": [],
+   "en": {
+    "title": "Agriculture Minister Releases Final Production Estimates for 2025-26",
+    "one_liner": "Union Agriculture Minister Shri Shivraj Singh Chouhan released the final agricultural production estimates for 2025-26 and Kharif 2026-27 advance estimates.",
+    "summary": "Union Agriculture and Farmers Welfare Minister Shri Shivraj Singh Chouhan released the final production estimates for major agricultural crops for 2025-26 and the first advance estimates for the Kharif season of 2026-27 in New Delhi. Total foodgrain production in 2025-26 reached a record 3785.38 lakh tonnes, representing an increase of 208.06 lakh tonnes over 2024-25. Despite weather challenges, Kharif 2026-27 foodgrain production is estimated at 1671.43 lakh tonnes. India ranks first globally in the production of rice, pulses, jute, millets, and spices.",
+    "key_points": [
+     "Total foodgrain production in 2025-26 reached a record 3785.38 lakh tonnes.",
+     "Rice production in 2025-26 stood at 1551.54 lakh tonnes and wheat at 1220.64 lakh tonnes.",
+     "Kharif 2026-27 foodgrain production is estimated at 1671.43 lakh tonnes.",
+     "Total oilseed production in 2025-26 was recorded at an all-time high of 432.55 lakh tonnes."
+    ]
+   }
+  },
+  {
+   "id": "92ebcaf8de2e",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "science",
+   "region": "national",
+   "state": "",
+   "tags": [
+    "UPSC",
+    "SSC",
+    "State PSC",
+    "Bank"
+   ],
+   "source_name": "PIB Delhi",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341725",
+   "text": {
+    "title": "IndiaAI Mission-Supported Chariot-1 Foundation Models Launched",
+    "one_liner": "MeitY Secretary Shri S. Krishnan inaugurated the launch of indigenous Chariot-1 Foundation Models developed under the IndiaAI Mission.",
+    "summary": "Shri S. Krishnan, Secretary of the Ministry of Electronics and Information Technology (MeitY), inaugurated the launch of Chariot-1 Foundation Models developed by Chariot Artificial Intelligence Pvt. Ltd. at Bharat Mandapam, New Delhi. Developed under the IndiaAI Mission, the model suite includes the Chariot-1 Large Language Model (LLM) and Chariot-1 Text-to-Speech (TTS) model. The initiative incorporates indigenous innovations like IndicShift, Nested Training, and Mixture of Vocabularies to advance multilingual language processing and speech generation across Indian languages.",
+    "key_points": [
+     "Chariot-1 LLM is an 11-billion-parameter mixture-of-experts model pre-trained from scratch in India.",
+     "Chariot-1 TTS supports English and 10 Indian languages.",
+     "IndicShift covers 1,012 characters across 12 Indian scripts through 350 letters.",
+     "The launch event took place at Bharat Mandapam in New Delhi."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "Who inaugurated the launch of the Chariot-1 Foundation Models?",
+     "options": [
+      "Shri Narendra Modi",
+      "Shri S. Krishnan",
+      "Shri Ashwini Vaishnaw",
+      "Dr. S. Jaishankar"
+     ],
+     "answer": 1,
+     "explanation": "Shri S. Krishnan, Secretary, MeitY, inaugurated the launch of Chariot-1 Foundation Models."
+    },
+    {
+     "question": "How many Indian languages are supported by the Chariot-1 Text-to-Speech model besides English?",
+     "options": [
+      "5",
+      "8",
+      "10",
+      "12"
+     ],
+     "answer": 2,
+     "explanation": "Chariot-1 TTS generates speech in English and 10 Indian languages."
+    }
+   ],
+   "mcq": {
+    "question": "Who inaugurated the launch of the Chariot-1 Foundation Models?",
+    "options": [
+     "Shri Narendra Modi",
+     "Shri S. Krishnan",
+     "Shri Ashwini Vaishnaw",
+     "Dr. S. Jaishankar"
+    ],
+    "answer": 1,
+    "explanation": "Shri S. Krishnan, Secretary, MeitY, inaugurated the launch of Chariot-1 Foundation Models."
+   },
+   "gk": [
+    "Headquarters of Ministry of Electronics and Information Technology: 20, Ashoka Road",
+    "Ministry of Electronics and Information Technology was established in 2016"
+   ],
+   "en": {
+    "title": "IndiaAI Mission-Supported Chariot-1 Foundation Models Launched",
+    "one_liner": "MeitY Secretary Shri S. Krishnan inaugurated the launch of indigenous Chariot-1 Foundation Models developed under the IndiaAI Mission.",
+    "summary": "Shri S. Krishnan, Secretary of the Ministry of Electronics and Information Technology (MeitY), inaugurated the launch of Chariot-1 Foundation Models developed by Chariot Artificial Intelligence Pvt. Ltd. at Bharat Mandapam, New Delhi. Developed under the IndiaAI Mission, the model suite includes the Chariot-1 Large Language Model (LLM) and Chariot-1 Text-to-Speech (TTS) model. The initiative incorporates indigenous innovations like IndicShift, Nested Training, and Mixture of Vocabularies to advance multilingual language processing and speech generation across Indian languages.",
+    "key_points": [
+     "Chariot-1 LLM is an 11-billion-parameter mixture-of-experts model pre-trained from scratch in India.",
+     "Chariot-1 TTS supports English and 10 Indian languages.",
+     "IndicShift covers 1,012 characters across 12 Indian scripts through 350 letters.",
+     "The launch event took place at Bharat Mandapam in New Delhi."
+    ]
+   }
+  },
+  {
+   "id": "f391dbd750d7",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "economy",
+   "region": "national",
+   "state": "",
+   "tags": [
+    "UPSC",
+    "Bank",
+    "SSC",
+    "State PSC"
+   ],
+   "source_name": "PIB Delhi",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341730",
+   "text": {
+    "title": "NLMC Holds 22nd Board Meeting to Consider Asset Monetisation",
+    "one_liner": "National Land Monetization Corporation Limited considered fresh asset monetisation and valuation proposals worth approximately ₹1,300 crore in its 22nd Board meeting.",
+    "summary": "The National Land Monetization Corporation Limited (NLMC), operating under the Department of Public Enterprises, Ministry of Finance, held its 22nd Board of Directors meeting in New Delhi. The Board deliberated on fresh asset monetisation and valuation proposals for BSNL and MTNL valued at approximately ₹1,300 crore. These additions come on top of over ₹9,000 crore in assets monetised during the current financial year. The Board also reviewed 17 NLMC-owned residential properties in New Delhi and Mumbai and noted successful e-auctions for RINL in Visakhapatnam.",
+    "key_points": [
+     "The 22nd Board meeting of NLMC was held in New Delhi.",
+     "Fresh proposals for BSNL and MTNL carry a combined assessed value of approximately ₹1,300 crore.",
+     "NLMC monetised over ₹9,000 crore in assets during the financial year.",
+     "Two e-auctions for RINL in Visakhapatnam generated an aggregate H1 bid value of ₹584.40 crore."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "What is the approximate combined value of fresh asset monetisation proposals considered for BSNL and MTNL?",
+     "options": [
+      "₹500 crore",
+      "₹1,300 crore",
+      "₹5,000 crore",
+      "₹9,000 crore"
+     ],
+     "answer": 1,
+     "explanation": "The fresh proposals pertaining to BSNL and MTNL have a combined assessed value of approximately ₹1,300 crore."
+    },
+    {
+     "question": "Under which ministry does the National Land Monetization Corporation Limited function?",
+     "options": [
+      "Ministry of Commerce and Industry",
+      "Ministry of Finance",
+      "Ministry of Corporate Affairs",
+      "Ministry of Housing and Urban Affairs"
+     ],
+     "answer": 1,
+     "explanation": "NLMC is under the Department of Public Enterprises, Ministry of Finance, Government of India."
+    }
+   ],
+   "mcq": {
+    "question": "What is the approximate combined value of fresh asset monetisation proposals considered for BSNL and MTNL?",
+    "options": [
+     "₹500 crore",
+     "₹1,300 crore",
+     "₹5,000 crore",
+     "₹9,000 crore"
+    ],
+    "answer": 1,
+    "explanation": "The fresh proposals pertaining to BSNL and MTNL have a combined assessed value of approximately ₹1,300 crore."
+   },
+   "gk": [],
+   "en": {
+    "title": "NLMC Holds 22nd Board Meeting to Consider Asset Monetisation",
+    "one_liner": "National Land Monetization Corporation Limited considered fresh asset monetisation and valuation proposals worth approximately ₹1,300 crore in its 22nd Board meeting.",
+    "summary": "The National Land Monetization Corporation Limited (NLMC), operating under the Department of Public Enterprises, Ministry of Finance, held its 22nd Board of Directors meeting in New Delhi. The Board deliberated on fresh asset monetisation and valuation proposals for BSNL and MTNL valued at approximately ₹1,300 crore. These additions come on top of over ₹9,000 crore in assets monetised during the current financial year. The Board also reviewed 17 NLMC-owned residential properties in New Delhi and Mumbai and noted successful e-auctions for RINL in Visakhapatnam.",
+    "key_points": [
+     "The 22nd Board meeting of NLMC was held in New Delhi.",
+     "Fresh proposals for BSNL and MTNL carry a combined assessed value of approximately ₹1,300 crore.",
+     "NLMC monetised over ₹9,000 crore in assets during the financial year.",
+     "Two e-auctions for RINL in Visakhapatnam generated an aggregate H1 bid value of ₹584.40 crore."
+    ]
+   }
+  },
+  {
+   "id": "f28e3682197a",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "defence",
+   "region": "gujarat",
+   "state": "Gujarat",
+   "tags": [
+    "UPSC",
+    "SSC",
+    "State PSC",
+    "Police Bharti"
+   ],
+   "source_name": "PIB Delhi",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341794",
+   "text": {
+    "title": "Indian Army Aircraft Land on Gujarat Economic Corridor",
+    "one_liner": "Four Indian Army aircraft successfully landed on the Amritsar–Jamnagar Economic Corridor in Patan, Gujarat.",
+    "summary": "Four aircraft belonging to the Indian Army's Team Mountain Eagles successfully landed on the Amritsar–Jamnagar Economic Corridor (NH-754A) in Patan, Gujarat. The aircraft, consisting of two fixed-wing microlight aircraft and two powered hang gliders, took off from Kandla Airport as part of the Wings of Valour and Unity Expedition 2026. The expedition was organised by the Army Adventure Nodal Centre (AANC) of the Military College of Telecommunication Engineering (MCTE), Mhow. The highway stretch features a pavement designed for a traffic loading of 170 million standard axles.",
+    "key_points": [
+     "Four Indian Army aircraft landed on NH-754A in Patan, Gujarat on 24 November 2026.",
+     "The aircraft belonged to Team Mountain Eagles participating in the Wings of Valour and Unity Expedition 2026.",
+     "The flight originated from Kandla Airport.",
+     "The highway stretch is designed for a traffic loading of 170 million standard axles (MSA)."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "Where did the Indian Army aircraft successfully land on 24 November 2026?",
+     "options": [
+      "Kandla Airport",
+      "Amritsar–Jamnagar Economic Corridor in Patan, Gujarat",
+      "Mumbai-Pune Expressway",
+      "Delhi-Mumbai Expressway"
+     ],
+     "answer": 1,
+     "explanation": "Four aircraft of the Indian Army landed on the Amritsar–Jamnagar Economic Corridor (NH-754A) in Patan, Gujarat."
+    },
+    {
+     "question": "Which team from the Indian Army participated in the Wings of Valour and Unity Expedition 2026?",
+     "options": [
+      "Team Mountain Eagles",
+      "Team Desert Hawks",
+      "Team Himalayan Tigers",
+      "Team Vajra Corps"
+     ],
+     "answer": 0,
+     "explanation": "The aircraft belonged to the Indian Army's Team Mountain Eagles."
+    }
+   ],
+   "mcq": {
+    "question": "Where did the Indian Army aircraft successfully land on 24 November 2026?",
+    "options": [
+     "Kandla Airport",
+     "Amritsar–Jamnagar Economic Corridor in Patan, Gujarat",
+     "Mumbai-Pune Expressway",
+     "Delhi-Mumbai Expressway"
+    ],
+    "answer": 1,
+    "explanation": "Four aircraft of the Indian Army landed on the Amritsar–Jamnagar Economic Corridor (NH-754A) in Patan, Gujarat."
+   },
+   "gk": [
+    "Headquarters of Indian Army: New Delhi",
+    "Indian Army was established in 1950",
+    "Capital of Gujarat: Gandhinagar"
+   ],
+   "en": {
+    "title": "Indian Army Aircraft Land on Gujarat Economic Corridor",
+    "one_liner": "Four Indian Army aircraft successfully landed on the Amritsar–Jamnagar Economic Corridor in Patan, Gujarat.",
+    "summary": "Four aircraft belonging to the Indian Army's Team Mountain Eagles successfully landed on the Amritsar–Jamnagar Economic Corridor (NH-754A) in Patan, Gujarat. The aircraft, consisting of two fixed-wing microlight aircraft and two powered hang gliders, took off from Kandla Airport as part of the Wings of Valour and Unity Expedition 2026. The expedition was organised by the Army Adventure Nodal Centre (AANC) of the Military College of Telecommunication Engineering (MCTE), Mhow. The highway stretch features a pavement designed for a traffic loading of 170 million standard axles.",
+    "key_points": [
+     "Four Indian Army aircraft landed on NH-754A in Patan, Gujarat on 24 November 2026.",
+     "The aircraft belonged to Team Mountain Eagles participating in the Wings of Valour and Unity Expedition 2026.",
+     "The flight originated from Kandla Airport.",
+     "The highway stretch is designed for a traffic loading of 170 million standard axles (MSA)."
+    ]
+   }
+  },
+  {
+   "id": "fe5e2543ba54",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "reports_indices",
+   "region": "national",
+   "state": "",
+   "tags": [
+    "UPSC",
+    "SSC",
+    "State PSC",
+    "Bank"
+   ],
+   "source_name": "PIB Delhi",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341737",
+   "text": {
+    "title": "MoSPI launches State Dashboard on eSankhyiki for Subnational Statistics",
+    "one_liner": "MoSPI has launched the State Dashboard on the eSankhyiki portal to improve access to State-level official statistics.",
+    "summary": "The Ministry of Statistics and Programme Implementation (MoSPI) has launched a State Dashboard on the eSankhyiki portal to enhance access to State-level official statistics. Developed in collaboration with the Institute for Competitiveness, the dashboard currently features 283 indicators across 21 statistical products and 10 themes. It aims to support local planning, subnational research, and informed policymaking by bringing together multi-thematic State profiles with interactive visualisations and downloadable datasets.",
+    "key_points": [
+     "The State Dashboard is hosted on the eSankhyiki portal developed by MoSPI.",
+     "It currently presents 283 indicators of 21 statistical products across 10 broad themes.",
+     "The dashboard was developed in collaboration with the Institute for Competitiveness.",
+     "The eSankhyiki portal overall hosts 43 statistical products with 1109 datasets."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "How many indicators are currently presented on the eSankhyiki State Dashboard?",
+     "options": [
+      "283",
+      "1109",
+      "43",
+      "139"
+     ],
+     "answer": 0,
+     "explanation": "The State Dashboard currently presents 283 indicators across 21 statistical products."
+    },
+    {
+     "question": "Which organisation collaborated with MoSPI to develop the State Dashboard on eSankhyiki?",
+     "options": [
+      "NITI Aayog",
+      "Institute for Competitiveness",
+      "Reserve Bank of India",
+      "National Statistical Commission"
+     ],
+     "answer": 1,
+     "explanation": "The State Dashboard has been developed in collaboration with the Institute for Competitiveness."
+    }
+   ],
+   "mcq": {
+    "question": "How many indicators are currently presented on the eSankhyiki State Dashboard?",
+    "options": [
+     "283",
+     "1109",
+     "43",
+     "139"
+    ],
+    "answer": 0,
+    "explanation": "The State Dashboard currently presents 283 indicators across 21 statistical products."
+   },
+   "gk": [],
+   "en": {
+    "title": "MoSPI launches State Dashboard on eSankhyiki for Subnational Statistics",
+    "one_liner": "MoSPI has launched the State Dashboard on the eSankhyiki portal to improve access to State-level official statistics.",
+    "summary": "The Ministry of Statistics and Programme Implementation (MoSPI) has launched a State Dashboard on the eSankhyiki portal to enhance access to State-level official statistics. Developed in collaboration with the Institute for Competitiveness, the dashboard currently features 283 indicators across 21 statistical products and 10 themes. It aims to support local planning, subnational research, and informed policymaking by bringing together multi-thematic State profiles with interactive visualisations and downloadable datasets.",
+    "key_points": [
+     "The State Dashboard is hosted on the eSankhyiki portal developed by MoSPI.",
+     "It currently presents 283 indicators of 21 statistical products across 10 broad themes.",
+     "The dashboard was developed in collaboration with the Institute for Competitiveness.",
+     "The eSankhyiki portal overall hosts 43 statistical products with 1109 datasets."
+    ]
+   }
+  },
+  {
+   "id": "c4165a5ee666",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "culture",
+   "region": "tamil_nadu",
+   "state": "Tamil Nadu",
+   "tags": [
+    "UPSC",
+    "SSC",
+    "State PSC",
+    "WBCS"
+   ],
+   "source_name": "PIB Delhi",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342181",
+   "text": {
+    "title": "Tamil Nadu Antiquities Repatriated from USA and Netherlands Handed Over",
+    "one_liner": "The ASI handed over three repatriated bronze idol antiquities from the USA and Netherlands to the Tamil Nadu Police.",
+    "summary": "The Archaeological Survey of India (ASI) handed over three repatriated antiquities to the Idol Wing CID of the Tamil Nadu Police at Dharohar Bhawan in New Delhi. The artifacts include two 16th and 12th-century bronze idols repatriated from the Smithsonian Museum in the USA and one Chola-period bronze idol from The Hague in the Netherlands, originating from temples in Kallakurichi, Nagapattinam, and Thanjavur districts.",
+    "key_points": [
+     "Three bronze idol antiquities were handed over to the Tamil Nadu Police by the ASI.",
+     "Two idols were repatriated from the Smithsonian Museum, USA, and one from The Hague, Netherlands.",
+     "The antiquities include Saint Sundarar with Paravai Nachiyar, Saint Kannappa Nayanar, and Somaskanda.",
+     "The artifacts belong to the Vijayanagara and Chola periods from temples in Tamil Nadu."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "Where were the three repatriated antiquities formally handed over to the Tamil Nadu Police?",
+     "options": [
+      "Chennai Museum",
+      "Dharohar Bhawan, New Delhi",
+      "Red Fort, Delhi",
+      "Thanjavur Palace"
+     ],
+     "answer": 1,
+     "explanation": "The antiquities were handed over at Dharohar Bhawan, New Delhi by the ASI."
+    },
+    {
+     "question": "The Somaskanda bronze idol repatriated from the Smithsonian Museum belongs to which period?",
+     "options": [
+      "Chola period",
+      "Pallava period",
+      "Vijayanagara period",
+      "Pandya period"
+     ],
+     "answer": 0,
+     "explanation": "The 12th-century Somaskanda bronze idol belongs to the Chola period."
+    }
+   ],
+   "mcq": {
+    "question": "Where were the three repatriated antiquities formally handed over to the Tamil Nadu Police?",
+    "options": [
+     "Chennai Museum",
+     "Dharohar Bhawan, New Delhi",
+     "Red Fort, Delhi",
+     "Thanjavur Palace"
+    ],
+    "answer": 1,
+    "explanation": "The antiquities were handed over at Dharohar Bhawan, New Delhi by the ASI."
+   },
+   "gk": [
+    "Headquarters of Archaeological Survey of India: New Delhi",
+    "Archaeological Survey of India was established in 1861",
+    "Capital of Tamil Nadu: Chennai",
+    "Headquarters of Smithsonian Institution: Washington, D.C.",
+    "Smithsonian Institution was established in 1846"
+   ],
+   "en": {
+    "title": "Tamil Nadu Antiquities Repatriated from USA and Netherlands Handed Over",
+    "one_liner": "The ASI handed over three repatriated bronze idol antiquities from the USA and Netherlands to the Tamil Nadu Police.",
+    "summary": "The Archaeological Survey of India (ASI) handed over three repatriated antiquities to the Idol Wing CID of the Tamil Nadu Police at Dharohar Bhawan in New Delhi. The artifacts include two 16th and 12th-century bronze idols repatriated from the Smithsonian Museum in the USA and one Chola-period bronze idol from The Hague in the Netherlands, originating from temples in Kallakurichi, Nagapattinam, and Thanjavur districts.",
+    "key_points": [
+     "Three bronze idol antiquities were handed over to the Tamil Nadu Police by the ASI.",
+     "Two idols were repatriated from the Smithsonian Museum, USA, and one from The Hague, Netherlands.",
+     "The antiquities include Saint Sundarar with Paravai Nachiyar, Saint Kannappa Nayanar, and Somaskanda.",
+     "The artifacts belong to the Vijayanagara and Chola periods from temples in Tamil Nadu."
+    ]
+   }
+  },
+  {
+   "id": "da56c8c82ae0",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "defence",
+   "region": "national",
+   "state": "",
+   "tags": [
+    "UPSC",
+    "Bank",
+    "SSC",
+    "Railways"
+   ],
+   "source_name": "PIB Delhi",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342210",
+   "text": {
+    "title": "India and UAE Hold 14th JDCC Meeting in Abu Dhabi",
+    "one_liner": "India and the UAE held their 14th JDCC meeting in Abu Dhabi, agreeing to accelerate defence co-development and co-production.",
+    "summary": "The 14th meeting of the India-UAE Joint Defence Cooperation Committee (JDCC) was held in Abu Dhabi. Co-chaired by Indian Defence Secretary Shri Rajesh Kumar Singh and UAE Under Secretary Lieutenant General Ibrahim Nasser M. Al Alawi, the meeting reviewed bilateral defence ties. Both nations agreed to accelerate co-development and co-production partnerships in next-generation defence equipment across domains like AI, cyber, maritime safety, and defence innovation.",
+    "key_points": [
+     "The 14th India-UAE JDCC meeting took place on November 26, 2026, in Abu Dhabi.",
+     "The meeting was co-chaired by Indian Defence Secretary Shri Rajesh Kumar Singh and UAE Under Secretary Lt. Gen. Ibrahim Nasser M. Al Alawi.",
+     "Both countries agreed to accelerate co-development and co-production of next-generation defence equipment.",
+     "An Indian defence industry delegation also interacted with the Tawazun Economic Council during the visit."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "Where was the 14th India-UAE Joint Defence Cooperation Committee meeting held?",
+     "options": [
+      "New Delhi",
+      "Dubai",
+      "Abu Dhabi",
+      "Sharjah"
+     ],
+     "answer": 2,
+     "explanation": "The 14th JDCC meeting took place in Abu Dhabi on November 26, 2026."
+    },
+    {
+     "question": "Who co-chaired the 14th JDCC meeting from the Indian side?",
+     "options": [
+      "Shri Rajnath Singh",
+      "Shri Rajesh Kumar Singh",
+      "Lt. Gen. Ibrahim Nasser M. Al Alawi",
+      "Mr. Mohamed bin Mubarak Fadhel Al Mazrouei"
+     ],
+     "answer": 1,
+     "explanation": "The meeting was co-chaired from the Indian side by Defence Secretary Shri Rajesh Kumar Singh."
+    }
+   ],
+   "mcq": {
+    "question": "Where was the 14th India-UAE Joint Defence Cooperation Committee meeting held?",
+    "options": [
+     "New Delhi",
+     "Dubai",
+     "Abu Dhabi",
+     "Sharjah"
+    ],
+    "answer": 2,
+    "explanation": "The 14th JDCC meeting took place in Abu Dhabi on November 26, 2026."
+   },
+   "gk": [
+    "Capital of United Arab Emirates: Abu Dhabi",
+    "Currency of United Arab Emirates: United Arab Emirates dirham",
+    "Ministry of Defence was established in 1776"
+   ],
+   "en": {
+    "title": "India and UAE Hold 14th JDCC Meeting in Abu Dhabi",
+    "one_liner": "India and the UAE held their 14th JDCC meeting in Abu Dhabi, agreeing to accelerate defence co-development and co-production.",
+    "summary": "The 14th meeting of the India-UAE Joint Defence Cooperation Committee (JDCC) was held in Abu Dhabi. Co-chaired by Indian Defence Secretary Shri Rajesh Kumar Singh and UAE Under Secretary Lieutenant General Ibrahim Nasser M. Al Alawi, the meeting reviewed bilateral defence ties. Both nations agreed to accelerate co-development and co-production partnerships in next-generation defence equipment across domains like AI, cyber, maritime safety, and defence innovation.",
+    "key_points": [
+     "The 14th India-UAE JDCC meeting took place on November 26, 2026, in Abu Dhabi.",
+     "The meeting was co-chaired by Indian Defence Secretary Shri Rajesh Kumar Singh and UAE Under Secretary Lt. Gen. Ibrahim Nasser M. Al Alawi.",
+     "Both countries agreed to accelerate co-development and co-production of next-generation defence equipment.",
+     "An Indian defence industry delegation also interacted with the Tawazun Economic Council during the visit."
+    ]
+   }
+  },
+  {
+   "id": "cc0399b3d116",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "national",
+   "region": "bihar",
+   "state": "Bihar",
+   "tags": [
+    "UPSC",
+    "State PSC",
+    "SSC",
+    "WBCS",
+    "Police Bharti"
+   ],
+   "source_name": "PIB Delhi",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341975",
+   "text": {
+    "title": "National Milk Day 2026 Celebrated in Patna with Key Infrastructure Projects",
+    "one_liner": "National Milk Day 2026 was celebrated in Patna, Bihar, alongside the release of Basic Animal Husbandry Statistics 2026.",
+    "summary": "National Milk Day 2026 was celebrated at Bapu Sabhagar in Patna, Bihar. Union Minister Rajiv Ranjan Singh and Bihar Chief Minister Samrat Choudhary inaugurated dairy infrastructure projects and released the Basic Animal Husbandry Statistics (BAHS) 2026. India's total milk production for 2025-26 is estimated at 253.81 million tonnes. The event also featured the presentation of the National Gopal Ratna Awards 2026 to recognize achievements in the indigenous dairy and livestock sector.",
+    "key_points": [
+     "National Milk Day 2026 was celebrated in Patna, Bihar, on November 26, 2026.",
+     "India's total milk production is estimated at 253.81 million tonnes for 2025-26 according to BAHS 2026.",
+     "Egg production is estimated at 156.88 billion numbers and total meat production at 10.63 million tonnes.",
+     "Bihar's daily milk production target is set at 1 crore litres, currently producing about 48 lakh litres per day."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "What is India's estimated total milk production for the year 2025-26 according to BAHS 2026?",
+     "options": [
+      "253.81 million tonnes",
+      "156.88 billion numbers",
+      "10.63 million tonnes",
+      "5.13 million tonnes"
+     ],
+     "answer": 0,
+     "explanation": "According to the Basic Animal Husbandry Statistics 2026, India's total milk production is estimated at 253.81 million tonnes."
+    },
+    {
+     "question": "Where was the National Milk Day 2026 main celebration event held?",
+     "options": [
+      "New Delhi",
+      "Patna, Bihar",
+      "Anand, Gujarat",
+      "Varanasi, Uttar Pradesh"
+     ],
+     "answer": 1,
+     "explanation": "National Milk Day 2026 was celebrated at Bapu Sabhagar in Patna, Bihar."
+    }
+   ],
+   "mcq": {
+    "question": "What is India's estimated total milk production for the year 2025-26 according to BAHS 2026?",
+    "options": [
+     "253.81 million tonnes",
+     "156.88 billion numbers",
+     "10.63 million tonnes",
+     "5.13 million tonnes"
+    ],
+    "answer": 0,
+    "explanation": "According to the Basic Animal Husbandry Statistics 2026, India's total milk production is estimated at 253.81 million tonnes."
+   },
+   "gk": [
+    "Capital of Bihar: Patna",
+    "Headquarters of National Dairy Development Board: Anand",
+    "National Dairy Development Board was established in 1965"
+   ],
+   "en": {
+    "title": "National Milk Day 2026 Celebrated in Patna with Key Infrastructure Projects",
+    "one_liner": "National Milk Day 2026 was celebrated in Patna, Bihar, alongside the release of Basic Animal Husbandry Statistics 2026.",
+    "summary": "National Milk Day 2026 was celebrated at Bapu Sabhagar in Patna, Bihar. Union Minister Rajiv Ranjan Singh and Bihar Chief Minister Samrat Choudhary inaugurated dairy infrastructure projects and released the Basic Animal Husbandry Statistics (BAHS) 2026. India's total milk production for 2025-26 is estimated at 253.81 million tonnes. The event also featured the presentation of the National Gopal Ratna Awards 2026 to recognize achievements in the indigenous dairy and livestock sector.",
+    "key_points": [
+     "National Milk Day 2026 was celebrated in Patna, Bihar, on November 26, 2026.",
+     "India's total milk production is estimated at 253.81 million tonnes for 2025-26 according to BAHS 2026.",
+     "Egg production is estimated at 156.88 billion numbers and total meat production at 10.63 million tonnes.",
+     "Bihar's daily milk production target is set at 1 crore litres, currently producing about 48 lakh litres per day."
+    ]
+   }
+  },
+  {
+   "id": "170e24bbbe38",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "polity",
+   "region": "national",
+   "state": "",
+   "tags": [
+    "UPSC",
+    "SSC",
+    "State PSC",
+    "Bank"
+   ],
+   "source_name": "PIB Delhi",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342207",
+   "text": {
+    "title": "Pension Reforms Division Tops GRAI Ranking in Group B Category",
+    "one_liner": "The Pension Reforms Division of the Department of Financial Services secured the 1st rank in the Group B category of the GRAI for October 2026.",
+    "summary": "The Pension Reforms Division of the Department of Financial Services secured the 1st rank in the Group B category for ministries or departments registering fewer than 500 grievances in the Grievance Redressal Assessment and Index for October 2026. Released by the Department of Administrative Reforms and Public Grievances, this ranking evaluates ministries on grievance resolution effectiveness and timeliness through the Centralized Public Grievance Redress and Monitoring System.",
+    "key_points": [
+     "Secured 1st rank in Group B category for October 2026.",
+     "Evaluated by the Department of Administrative Reforms and Public Grievances.",
+     "Assesses effectiveness and timeliness of grievance resolution via CPGRAMS.",
+     "Applies to ministries and departments registering fewer than 500 grievances."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "Which division secured the 1st rank in the Group B category of the GRAI for October 2026?",
+     "options": [
+      "Pension Reforms Division",
+      "Banking Division",
+      "Budget Division",
+      "Investment Division"
+     ],
+     "answer": 0,
+     "explanation": "The Pension Reforms Division of the Department of Financial Services secured the 1st rank in the Group B category for October 2026."
+    },
+    {
+     "question": "Which department released the Grievance Redressal Assessment and Index (GRAI) for October 2026?",
+     "options": [
+      "Department of Economic Affairs",
+      "Department of Expenditure",
+      "Department of Administrative Reforms and Public Grievances",
+      "Department of Revenue"
+     ],
+     "answer": 2,
+     "explanation": "The GRAI framework is developed and released by the Department of Administrative Reforms and Public Grievances (DARPG)."
+    }
+   ],
+   "mcq": {
+    "question": "Which division secured the 1st rank in the Group B category of the GRAI for October 2026?",
+    "options": [
+     "Pension Reforms Division",
+     "Banking Division",
+     "Budget Division",
+     "Investment Division"
+    ],
+    "answer": 0,
+    "explanation": "The Pension Reforms Division of the Department of Financial Services secured the 1st rank in the Group B category for October 2026."
+   },
+   "gk": [],
+   "en": {
+    "title": "Pension Reforms Division Tops GRAI Ranking in Group B Category",
+    "one_liner": "The Pension Reforms Division of the Department of Financial Services secured the 1st rank in the Group B category of the GRAI for October 2026.",
+    "summary": "The Pension Reforms Division of the Department of Financial Services secured the 1st rank in the Group B category for ministries or departments registering fewer than 500 grievances in the Grievance Redressal Assessment and Index for October 2026. Released by the Department of Administrative Reforms and Public Grievances, this ranking evaluates ministries on grievance resolution effectiveness and timeliness through the Centralized Public Grievance Redress and Monitoring System.",
+    "key_points": [
+     "Secured 1st rank in Group B category for October 2026.",
+     "Evaluated by the Department of Administrative Reforms and Public Grievances.",
+     "Assesses effectiveness and timeliness of grievance resolution via CPGRAMS.",
+     "Applies to ministries and departments registering fewer than 500 grievances."
+    ]
+   }
+  },
+  {
+   "id": "fdcba254a182",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "national",
+   "region": "west_bengal",
+   "state": "West Bengal",
+   "tags": [
+    "UPSC",
+    "SSC",
+    "State PSC",
+    "WBCS"
+   ],
+   "source_name": "PIB Delhi",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342122",
+   "text": {
+    "title": "Nitin Gadkari Announces National Highway Projects for West Bengal",
+    "one_liner": "Union Minister Nitin Gadkari announced road infrastructure projects worth approximately Rs 75,000 crore for West Bengal.",
+    "summary": "Union Minister for Road Transport & Highways Nitin Gadkari inaugurated and laid foundation stones for 22 National Highway projects worth over Rs 8,700 crore at Kolaghat, East Medinipur, West Bengal. He announced a pipeline of road infrastructure projects worth approximately Rs 75,000 crore for the state, including the Rs 14,000-crore Kolkata Ring Road, the Rs 20,000-crore Dankuni-Kolaghat Eight-Lane Corridor, and the Moregram-Kishanganj High-Speed Corridor.",
+    "key_points": [
+     "Inaugurated and laid foundation stones for 22 National Highway projects worth over Rs 8,700 crore.",
+     "Announced pipeline of road infrastructure projects worth approximately Rs 75,000 crore for West Bengal.",
+     "Includes the Rs 14,000-crore Kolkata Ring Road and the Rs 20,000-crore Dankuni-Kolaghat Eight-Lane Corridor.",
+     "Event held at Kolaghat, East Medinipur, West Bengal."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "What is the estimated cost of the proposed Kolkata Ring Road announced for West Bengal?",
+     "options": [
+      "Rs 8,700 crore",
+      "Rs 14,000 crore",
+      "Rs 20,000 crore",
+      "Rs 75,000 crore"
+     ],
+     "answer": 1,
+     "explanation": "The 250-km Kolkata Ring Road is estimated to cost Rs 14,000 crore."
+    },
+    {
+     "question": "Where were the 22 National Highway projects worth over Rs 8,700 crore inaugurated?",
+     "options": [
+      "Kolkata",
+      "Dankuni",
+      "Kolaghat",
+      "Siliguri"
+     ],
+     "answer": 2,
+     "explanation": "The projects were inaugurated and foundation stones laid at Kolaghat, East Medinipur, West Bengal."
+    }
+   ],
+   "mcq": {
+    "question": "What is the estimated cost of the proposed Kolkata Ring Road announced for West Bengal?",
+    "options": [
+     "Rs 8,700 crore",
+     "Rs 14,000 crore",
+     "Rs 20,000 crore",
+     "Rs 75,000 crore"
+    ],
+    "answer": 1,
+    "explanation": "The 250-km Kolkata Ring Road is estimated to cost Rs 14,000 crore."
+   },
+   "gk": [],
+   "en": {
+    "title": "Nitin Gadkari Announces National Highway Projects for West Bengal",
+    "one_liner": "Union Minister Nitin Gadkari announced road infrastructure projects worth approximately Rs 75,000 crore for West Bengal.",
+    "summary": "Union Minister for Road Transport & Highways Nitin Gadkari inaugurated and laid foundation stones for 22 National Highway projects worth over Rs 8,700 crore at Kolaghat, East Medinipur, West Bengal. He announced a pipeline of road infrastructure projects worth approximately Rs 75,000 crore for the state, including the Rs 14,000-crore Kolkata Ring Road, the Rs 20,000-crore Dankuni-Kolaghat Eight-Lane Corridor, and the Moregram-Kishanganj High-Speed Corridor.",
+    "key_points": [
+     "Inaugurated and laid foundation stones for 22 National Highway projects worth over Rs 8,700 crore.",
+     "Announced pipeline of road infrastructure projects worth approximately Rs 75,000 crore for West Bengal.",
+     "Includes the Rs 14,000-crore Kolkata Ring Road and the Rs 20,000-crore Dankuni-Kolaghat Eight-Lane Corridor.",
+     "Event held at Kolaghat, East Medinipur, West Bengal."
+    ]
+   }
+  },
+  {
+   "id": "e40e99b285ad",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "awards",
+   "region": "jammu_kashmir",
+   "state": "Jammu and Kashmir",
+   "tags": [
+    "UPSC",
+    "SSC",
+    "State PSC",
+    "Police Bharti"
+   ],
+   "source_name": "PIB Delhi",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342012",
+   "text": {
+    "title": "CSIR-IIIM Jammu Wins DIDAC India Award 2026",
+    "one_liner": "CSIR-IIIM Jammu was conferred as Pioneering Institute of the Year in Skills and Higher Education at the DIDAC India Awards 2026.",
+    "summary": "CSIR-Indian Institute of Integrative Medicine, Jammu, won the DIDAC India Awards 2026 in the category of Pioneering Institution of the Year - Higher Education & Skills. The institute was also recognized as a Torchbearer in Higher Education & Skills during the event held from November 25 to 27 in Bengaluru. The recognition highlights its contribution to skill development, industry-oriented education, and experiential learning under the CSIR Integrated Skill Initiative.",
+    "key_points": [
+     "Conferred Pioneering Institute of the Year in Skills & Higher Education at DIDAC India Awards 2026.",
+     "Recognized also as a Torchbearer in Higher Education & Skills.",
+     "DIDAC India 2026 program held from November 25-27 in Bengaluru.",
+     "Honoured for contributions under the CSIR Integrated Skill Initiative."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "Which institute won the Pioneering Institution of the Year - Higher Education & Skills at the DIDAC India Awards 2026?",
+     "options": [
+      "CSIR-IIIM, Jammu",
+      "CSIR-NCL, Pune",
+      "CSIR-NEERI, Nagpur",
+      "CSIR-CDRI, Lucknow"
+     ],
+     "answer": 0,
+     "explanation": "CSIR-Indian Institute of Integrative Medicine (CSIR-IIIM), Jammu, won the DIDAC India Awards 2026 in the higher education and skills category."
+    },
+    {
+     "question": "Where was the DIDAC India 2026 programme held?",
+     "options": [
+      "New Delhi",
+      "Bengaluru",
+      "Chennai",
+      "Jammu"
+     ],
+     "answer": 1,
+     "explanation": "The DIDAC India 2026 programme was held from 25-27 November in Bengaluru."
+    }
+   ],
+   "mcq": {
+    "question": "Which institute won the Pioneering Institution of the Year - Higher Education & Skills at the DIDAC India Awards 2026?",
+    "options": [
+     "CSIR-IIIM, Jammu",
+     "CSIR-NCL, Pune",
+     "CSIR-NEERI, Nagpur",
+     "CSIR-CDRI, Lucknow"
+    ],
+    "answer": 0,
+    "explanation": "CSIR-Indian Institute of Integrative Medicine (CSIR-IIIM), Jammu, won the DIDAC India Awards 2026 in the higher education and skills category."
+   },
+   "gk": [
+    "Headquarters of Council of Scientific and Industrial Research: New Delhi",
+    "Council of Scientific and Industrial Research was established in 1942"
+   ],
+   "en": {
+    "title": "CSIR-IIIM Jammu Wins DIDAC India Award 2026",
+    "one_liner": "CSIR-IIIM Jammu was conferred as Pioneering Institute of the Year in Skills and Higher Education at the DIDAC India Awards 2026.",
+    "summary": "CSIR-Indian Institute of Integrative Medicine, Jammu, won the DIDAC India Awards 2026 in the category of Pioneering Institution of the Year - Higher Education & Skills. The institute was also recognized as a Torchbearer in Higher Education & Skills during the event held from November 25 to 27 in Bengaluru. The recognition highlights its contribution to skill development, industry-oriented education, and experiential learning under the CSIR Integrated Skill Initiative.",
+    "key_points": [
+     "Conferred Pioneering Institute of the Year in Skills & Higher Education at DIDAC India Awards 2026.",
+     "Recognized also as a Torchbearer in Higher Education & Skills.",
+     "DIDAC India 2026 program held from November 25-27 in Bengaluru.",
+     "Honoured for contributions under the CSIR Integrated Skill Initiative."
+    ]
+   }
+  },
+  {
+   "id": "c66759b8c463",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "national",
+   "region": "tamil_nadu",
+   "state": "Tamil Nadu",
+   "tags": [
+    "UPSC",
+    "SSC",
+    "State PSC",
+    "Railways"
+   ],
+   "source_name": "PIB Chennai",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342227",
+   "text": {
+    "title": "6th India Internet Governance Forum 2026 at IIT Madras",
+    "one_liner": "The 6th annual session of the India Internet Governance Forum 2026 is scheduled for November 30 at IIT Madras.",
+    "summary": "The 6th annual session of the India Internet Governance Forum 2026 will take place on November 30, 2026, at Indian Institute of Technology Madras in Chennai. The theme for this year is Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet. Discussions will focus on India's AI journey, Digital Public Infrastructure, and keeping users connected and safe, featuring delegates from government, private companies, civil society, and academia.",
+    "key_points": [
+     "6th annual session of IIGF to be held on November 30, 2026.",
+     "Hosted at Indian Institute of Technology Madras (IIT Madras), Chennai.",
+     "Theme: Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet.",
+     "Focus areas include Artificial Intelligence, Digital Public Infrastructure, and cybersecurity."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "Where is the 6th annual session of the India Internet Governance Forum 2026 scheduled to take place?",
+     "options": [
+      "IIT Delhi",
+      "IIT Bombay",
+      "IIT Madras",
+      "IIT Kharagpur"
+     ],
+     "answer": 2,
+     "explanation": "The 6th annual session of IIGF 2026 will take place on November 30, 2026, at IIT Madras, Chennai."
+    },
+    {
+     "question": "What is the theme of the India Internet Governance Forum 2026?",
+     "options": [
+      "Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet",
+      "Empowering Citizens through Digital Public Infrastructure",
+      "Securing Cyberspace for a Billion Connected Users",
+      "Artificial Intelligence and India's Digital Growth"
+     ],
+     "answer": 0,
+     "explanation": "The theme for this year's deliberations is Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet."
+    }
+   ],
+   "mcq": {
+    "question": "Where is the 6th annual session of the India Internet Governance Forum 2026 scheduled to take place?",
+    "options": [
+     "IIT Delhi",
+     "IIT Bombay",
+     "IIT Madras",
+     "IIT Kharagpur"
+    ],
+    "answer": 2,
+    "explanation": "The 6th annual session of IIGF 2026 will take place on November 30, 2026, at IIT Madras, Chennai."
+   },
+   "gk": [
+    "Headquarters of Ministry of Electronics and Information Technology: 20, Ashoka Road",
+    "Ministry of Electronics and Information Technology was established in 2016",
+    "Headquarters of National Internet Exchange of India: New Delhi",
+    "National Internet Exchange of India was established in 2003"
+   ],
+   "en": {
+    "title": "6th India Internet Governance Forum 2026 at IIT Madras",
+    "one_liner": "The 6th annual session of the India Internet Governance Forum 2026 is scheduled for November 30 at IIT Madras.",
+    "summary": "The 6th annual session of the India Internet Governance Forum 2026 will take place on November 30, 2026, at Indian Institute of Technology Madras in Chennai. The theme for this year is Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet. Discussions will focus on India's AI journey, Digital Public Infrastructure, and keeping users connected and safe, featuring delegates from government, private companies, civil society, and academia.",
+    "key_points": [
+     "6th annual session of IIGF to be held on November 30, 2026.",
+     "Hosted at Indian Institute of Technology Madras (IIT Madras), Chennai.",
+     "Theme: Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet.",
+     "Focus areas include Artificial Intelligence, Digital Public Infrastructure, and cybersecurity."
+    ]
+   }
+  },
+  {
+   "id": "3cfbbec50136",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "culture",
+   "region": "tamil_nadu",
+   "state": "Tamil Nadu",
+   "tags": [
+    "UPSC",
+    "State PSC",
+    "SSC"
+   ],
+   "source_name": "PIB Chennai",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342179",
+   "text": {
+    "title": "Governor of Tamil Nadu Flags Off Kashi Tamil Sangamam 5.0 Train",
+    "one_liner": "Tamil Nadu Governor flagged off the Kashi Tamil Sangamam 5.0 special train carrying 207 student delegates from Chennai Egmore to Banaras.",
+    "summary": "Tamil Nadu Governor Shri Rajendra Vishwanath Arlekar flagged off the inaugural Kashi Tamil Sangamam Express Special (Train No. 06041) from Chennai Egmore Railway Station on November 26, 2026. The maiden service carries 207 delegates for the 5th edition of Kashi Tamil Sangamam, a flagship initiative under Ek Bharat Shreshtha Bharat. Organized by the Ministry of Education with IIT Madras and Banaras Hindu University, this year's edition centers on the theme 'Let’s learn Thirukkural'.",
+    "key_points": [
+     "Train flagged off by Governor Shri Rajendra Vishwanath Arlekar from Chennai Egmore on November 26, 2026.",
+     "Train No. 06041 is carrying the first contingent of 207 delegates.",
+     "The 5th edition centers on the theme 'Let’s learn Thirukkural'.",
+     "Initiative is organized by the Ministry of Education in partnership with IIT Madras and Banaras Hindu University."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "What is the theme of Kashi Tamil Sangamam 5.0?",
+     "options": [
+      "Let’s learn Thirukkural",
+      "Celebrating Tamil Heritage",
+      "Kashi and Ganga Connect",
+      "Ek Bharat Shreshtha Bharat"
+     ],
+     "answer": 0,
+     "explanation": "The month-long 5th edition centers on the theme 'Let’s learn Thirukkural'."
+    },
+    {
+     "question": "How many delegates are in the maiden contingent of Kashi Tamil Sangamam 5.0 special train?",
+     "options": [
+      "105",
+      "207",
+      "300",
+      "500"
+     ],
+     "answer": 1,
+     "explanation": "The maiden service carries the first contingent of 207 delegates."
+    }
+   ],
+   "mcq": {
+    "question": "What is the theme of Kashi Tamil Sangamam 5.0?",
+    "options": [
+     "Let’s learn Thirukkural",
+     "Celebrating Tamil Heritage",
+     "Kashi and Ganga Connect",
+     "Ek Bharat Shreshtha Bharat"
+    ],
+    "answer": 0,
+    "explanation": "The month-long 5th edition centers on the theme 'Let’s learn Thirukkural'."
+   },
+   "gk": [
+    "Headquarters of Banaras Hindu University: Varanasi",
+    "Banaras Hindu University was established in 1916"
+   ],
+   "en": {
+    "title": "Governor of Tamil Nadu Flags Off Kashi Tamil Sangamam 5.0 Train",
+    "one_liner": "Tamil Nadu Governor flagged off the Kashi Tamil Sangamam 5.0 special train carrying 207 student delegates from Chennai Egmore to Banaras.",
+    "summary": "Tamil Nadu Governor Shri Rajendra Vishwanath Arlekar flagged off the inaugural Kashi Tamil Sangamam Express Special (Train No. 06041) from Chennai Egmore Railway Station on November 26, 2026. The maiden service carries 207 delegates for the 5th edition of Kashi Tamil Sangamam, a flagship initiative under Ek Bharat Shreshtha Bharat. Organized by the Ministry of Education with IIT Madras and Banaras Hindu University, this year's edition centers on the theme 'Let’s learn Thirukkural'.",
+    "key_points": [
+     "Train flagged off by Governor Shri Rajendra Vishwanath Arlekar from Chennai Egmore on November 26, 2026.",
+     "Train No. 06041 is carrying the first contingent of 207 delegates.",
+     "The 5th edition centers on the theme 'Let’s learn Thirukkural'.",
+     "Initiative is organized by the Ministry of Education in partnership with IIT Madras and Banaras Hindu University."
+    ]
+   }
+  },
+  {
+   "id": "63e505782b0d",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "science",
+   "region": "odisha",
+   "state": "Odisha",
+   "tags": [
+    "UPSC",
+    "State PSC",
+    "SSC"
+   ],
+   "source_name": "PIB Bhubaneswar",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342236",
+   "text": {
+    "title": "NIT Rourkela Turns Waste Proteins into Hydrogels for Wound Healing",
+    "one_liner": "Researchers at NIT Rourkela have successfully converted discarded pharmaceutical waste proteins into hydrogels with potential wound-healing and drug-delivery applications.",
+    "summary": "Researchers at the National Institute of Technology (NIT) Rourkela have repurposed inactive proteins discarded by pharmaceutical companies into hydrogels with potential applications in wound healing, tissue regeneration, and drug delivery. The team heated BMP-2 proteins and added hydrogen peroxide and hyaluronic acid to form microgels. The technology, which secured an Indian Patent, demonstrated promising results in lab tests using Drosophila melanogaster as an in vivo model.",
+    "key_points": [
+     "Researchers at NIT Rourkela converted discarded pharmaceutical proteins into hydrogels.",
+     "The process involved heating BMP-2 proteins and combining them with hydrogen peroxide and hyaluronic acid.",
+     "The team secured an Indian Patent for the technology on November 6, 2025.",
+     "Wound-healing efficacy was tested using Drosophila melanogaster as an in vivo model."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "Which proteins were converted into hydrogels by researchers at NIT Rourkela?",
+     "options": [
+      "BMP-2 proteins",
+      "Insulin proteins",
+      "Albumin proteins",
+      "Collagen proteins"
+     ],
+     "answer": 0,
+     "explanation": "The team heated the BMP-2 proteins to unfold them and convert them into hydrogels."
+    },
+    {
+     "question": "Which model was used to evaluate the wound-healing efficacy of the composite hydrogel?",
+     "options": [
+      "Mus musculus",
+      "Drosophila melanogaster",
+      "Rattus norvegicus",
+      "Danio rerio"
+     ],
+     "answer": 1,
+     "explanation": "Evaluation of the wound-healing efficacy was done using Drosophila melanogaster as the in vivo model."
+    }
+   ],
+   "mcq": {
+    "question": "Which proteins were converted into hydrogels by researchers at NIT Rourkela?",
+    "options": [
+     "BMP-2 proteins",
+     "Insulin proteins",
+     "Albumin proteins",
+     "Collagen proteins"
+    ],
+    "answer": 0,
+    "explanation": "The team heated the BMP-2 proteins to unfold them and convert them into hydrogels."
+   },
+   "gk": [
+    "Royal Society of Chemistry was established in 1980"
+   ],
+   "en": {
+    "title": "NIT Rourkela Turns Waste Proteins into Hydrogels for Wound Healing",
+    "one_liner": "Researchers at NIT Rourkela have successfully converted discarded pharmaceutical waste proteins into hydrogels with potential wound-healing and drug-delivery applications.",
+    "summary": "Researchers at the National Institute of Technology (NIT) Rourkela have repurposed inactive proteins discarded by pharmaceutical companies into hydrogels with potential applications in wound healing, tissue regeneration, and drug delivery. The team heated BMP-2 proteins and added hydrogen peroxide and hyaluronic acid to form microgels. The technology, which secured an Indian Patent, demonstrated promising results in lab tests using Drosophila melanogaster as an in vivo model.",
+    "key_points": [
+     "Researchers at NIT Rourkela converted discarded pharmaceutical proteins into hydrogels.",
+     "The process involved heating BMP-2 proteins and combining them with hydrogen peroxide and hyaluronic acid.",
+     "The team secured an Indian Patent for the technology on November 6, 2025.",
+     "Wound-healing efficacy was tested using Drosophila melanogaster as an in vivo model."
+    ]
+   }
+  },
+  {
+   "id": "1046b599026e",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "national",
+   "region": "meghalaya",
+   "state": "Meghalaya",
+   "tags": [
+    "UPSC",
+    "State PSC",
+    "SSC"
+   ],
+   "source_name": "PIB Shillong",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342279",
+   "text": {
+    "title": "IIM Shillong to Host 11th PAN-IIM World Management Conference 2026",
+    "one_liner": "IIM Shillong is hosting the 11th PAN-IIM World Management Conference 2026 focusing on sustainability and inclusive growth.",
+    "summary": "IIM Shillong is hosting the 11th PAN-IIM World Management Conference 2026 from November 27 to 29, 2026, in Shillong, Meghalaya. Organized under the theme “Driving Sustainability and Inclusive Growth for Nation Building,” the conference brings together academic leaders, policymakers, and industry experts. A major highlight is PURVA 2026, a National IIT-IIM Incubation Conclave aimed at boosting entrepreneurial capabilities and innovation-led growth in Eastern and Northeastern India.",
+    "key_points": [
+     "The conference is held from November 27 to 29, 2026, at IIM Shillong, Meghalaya.",
+     "The theme of the 11th edition is 'Driving Sustainability and Inclusive Growth for Nation Building'.",
+     "Assam Governor Shri Lakshman Prasad Acharya is the Chief Guest of the inaugural ceremony.",
+     "Features PURVA 2026, a National IIT–IIM Incubation Conclave."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "What is the theme of the 11th PAN-IIM World Management Conference 2026?",
+     "options": [
+      "Driving Sustainability and Inclusive Growth for Nation Building",
+      "Digital Transformation and Management Education",
+      "Inclusive Growth and Global Competitiveness",
+      "Sustainable Innovations in Management"
+     ],
+     "answer": 0,
+     "explanation": "The conference is organized under the theme 'Driving Sustainability and Inclusive Growth for Nation Building'."
+    },
+    {
+     "question": "What is the name of the National IIT-IIM Incubation Conclave featured during the conference?",
+     "options": [
+      "UNNATI 2026",
+      "PURVA 2026",
+      "PRAGATI 2026",
+      "ARambh 2026"
+     ],
+     "answer": 1,
+     "explanation": "A key highlight of this edition is PURVA 2026 – Platform for Universities, Research, Ventures and Acceleration."
+    }
+   ],
+   "mcq": {
+    "question": "What is the theme of the 11th PAN-IIM World Management Conference 2026?",
+    "options": [
+     "Driving Sustainability and Inclusive Growth for Nation Building",
+     "Digital Transformation and Management Education",
+     "Inclusive Growth and Global Competitiveness",
+     "Sustainable Innovations in Management"
+    ],
+    "answer": 0,
+    "explanation": "The conference is organized under the theme 'Driving Sustainability and Inclusive Growth for Nation Building'."
+   },
+   "gk": [
+    "Headquarters of Indian Institute of Management Shillong: Shillong",
+    "Indian Institute of Management Shillong was established in 2008",
+    "Capital of Meghalaya: Shillong",
+    "Capital of Assam: Dispur"
+   ],
+   "en": {
+    "title": "IIM Shillong to Host 11th PAN-IIM World Management Conference 2026",
+    "one_liner": "IIM Shillong is hosting the 11th PAN-IIM World Management Conference 2026 focusing on sustainability and inclusive growth.",
+    "summary": "IIM Shillong is hosting the 11th PAN-IIM World Management Conference 2026 from November 27 to 29, 2026, in Shillong, Meghalaya. Organized under the theme “Driving Sustainability and Inclusive Growth for Nation Building,” the conference brings together academic leaders, policymakers, and industry experts. A major highlight is PURVA 2026, a National IIT-IIM Incubation Conclave aimed at boosting entrepreneurial capabilities and innovation-led growth in Eastern and Northeastern India.",
+    "key_points": [
+     "The conference is held from November 27 to 29, 2026, at IIM Shillong, Meghalaya.",
+     "The theme of the 11th edition is 'Driving Sustainability and Inclusive Growth for Nation Building'.",
+     "Assam Governor Shri Lakshman Prasad Acharya is the Chief Guest of the inaugural ceremony.",
+     "Features PURVA 2026, a National IIT–IIM Incubation Conclave."
+    ]
+   }
+  },
+  {
+   "id": "e4e93475120c",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "economy",
+   "region": "chhattisgarh",
+   "state": "Chhattisgarh",
+   "tags": [
+    "UPSC",
+    "State PSC",
+    "Railways",
+    "SSC"
+   ],
+   "source_name": "PIB Raipur",
+   "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342120",
+   "text": {
+    "title": "Nagarnar Steel Plant Crosses 5 Million Tonnes in Coke Production",
+    "one_liner": "NMDC Steel Ltd.'s Nagarnar Steel Plant crossed the 5 million tonnes milestone in metallurgical coke production on November 25, 2026.",
+    "summary": "NMDC Steel Ltd.’s Nagarnar Steel Plant (NSL) crossed the 5 million tonnes mark of coking coal production on November 25, 2026, achieved by its Coke Oven Battery since its inception. Battery No. 1 was commissioned on October 28, 2022, followed by Battery No. 2 on April 25, 2023. The plant utilizes an eco-friendly Coke Dry Cooling Plant (CDCP) which uses inert nitrogen gas instead of water quenching to cool hot coke and generate captive power.",
+    "key_points": [
+     "Nagarnar Steel Plant crossed 5 million tonnes of coking coal production on November 25, 2026.",
+     "Coke Oven Battery No. 1 was commissioned on October 28, 2022.",
+     "Battery No. 2 was operationalized on April 25, 2023.",
+     "The plant features an eco-friendly Coke Dry Cooling Plant (CDCP) utilizing inert nitrogen gas."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "When was the 5 million tonnes mark in metallurgical coke production crossed by NSL's Nagarnar Steel Plant?",
+     "options": [
+      "November 25, 2026",
+      "October 28, 2025",
+      "April 25, 2026",
+      "November 26, 2026"
+     ],
+     "answer": 0,
+     "explanation": "The plant crossed the 5 million tonnes mark of coking coal production on 25th November 2026."
+    },
+    {
+     "question": "What technology does NSL's Coke Dry Cooling Plant use to cool hot coke?",
+     "options": [
+      "Liquid oxygen",
+      "Inert nitrogen gas",
+      "Compressed air",
+      "Chilled water"
+     ],
+     "answer": 1,
+     "explanation": "CDCP utilizes inert nitrogen gas instead of water quenching to cool hot coke."
+    }
+   ],
+   "mcq": {
+    "question": "When was the 5 million tonnes mark in metallurgical coke production crossed by NSL's Nagarnar Steel Plant?",
+    "options": [
+     "November 25, 2026",
+     "October 28, 2025",
+     "April 25, 2026",
+     "November 26, 2026"
+    ],
+    "answer": 0,
+    "explanation": "The plant crossed the 5 million tonnes mark of coking coal production on 25th November 2026."
+   },
+   "gk": [],
+   "en": {
+    "title": "Nagarnar Steel Plant Crosses 5 Million Tonnes in Coke Production",
+    "one_liner": "NMDC Steel Ltd.'s Nagarnar Steel Plant crossed the 5 million tonnes milestone in metallurgical coke production on November 25, 2026.",
+    "summary": "NMDC Steel Ltd.’s Nagarnar Steel Plant (NSL) crossed the 5 million tonnes mark of coking coal production on November 25, 2026, achieved by its Coke Oven Battery since its inception. Battery No. 1 was commissioned on October 28, 2022, followed by Battery No. 2 on April 25, 2023. The plant utilizes an eco-friendly Coke Dry Cooling Plant (CDCP) which uses inert nitrogen gas instead of water quenching to cool hot coke and generate captive power.",
+    "key_points": [
+     "Nagarnar Steel Plant crossed 5 million tonnes of coking coal production on November 25, 2026.",
+     "Coke Oven Battery No. 1 was commissioned on October 28, 2022.",
+     "Battery No. 2 was operationalized on April 25, 2023.",
+     "The plant features an eco-friendly Coke Dry Cooling Plant (CDCP) utilizing inert nitrogen gas."
+    ]
+   }
+  },
+  {
+   "id": "738eb7d31264",
+   "date": "2026-11-26",
+   "time": "2026-11-26T22:48+05:30",
+   "category": "banking",
+   "region": "national",
+   "state": "",
+   "tags": [
+    "UPSC",
+    "Bank",
+    "SSC",
+    "State PSC"
+   ],
+   "source_name": "RBI",
+   "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64049",
+   "text": {
+    "title": "RBI Conducts First Conversion/Switch Auction of State Government Securities",
+    "one_liner": "The Reserve Bank of India announced the results of the first conversion/switch auction of State Government Securities.",
+    "summary": "The Reserve Bank of India conducted the first conversion or switch auction of State Government Securities involving multiple source and destination securities across states like Madhya Pradesh, Punjab, Rajasthan, Tamil Nadu, and Uttar Pradesh. The auction detailed notified amounts, offers received, offers accepted, total amount of source security accepted, destination security issued, and cut-off prices and yields for various maturities.",
+    "key_points": [
+     "The auction included source securities from states such as Madhya Pradesh, Punjab, Rajasthan, Tamil Nadu, and Uttar Pradesh.",
+     "The press release reference number for the results is 2026-2027/1571.",
+     "The initial press release announcing the auction was dated November 20, 2026.",
+     "The auction results outline notified amounts, offers received and accepted, and corresponding cut-off yields for destination securities."
+    ]
+   },
+   "mcqs": [
+    {
+     "question": "Which institution conducted the first conversion/switch auction of State Government Securities?",
+     "options": [
+      "Securities and Exchange Board of India",
+      "Reserve Bank of India",
+      "State Bank of India",
+      "National Bank for Agriculture and Rural Development"
+     ],
+     "answer": 1,
+     "explanation": "The Reserve Bank of India conducted the first conversion/switch auction of State Government Securities."
+    },
+    {
+     "question": "What is the press release number for the results of the first switch auction of State Government Securities?",
+     "options": [
+      "2026-2027/1539",
+      "2026-2027/1571",
+      "2025-2026/1571",
+      "2026-2027/1000"
+     ],
+     "answer": 1,
+     "explanation": "The results press release is numbered 2026-2027/1571, while the initial notice was 2026-2027/1539."
+    }
+   ],
+   "mcq": {
+    "question": "Which institution conducted the first conversion/switch auction of State Government Securities?",
+    "options": [
+     "Securities and Exchange Board of India",
+     "Reserve Bank of India",
+     "State Bank of India",
+     "National Bank for Agriculture and Rural Development"
+    ],
+    "answer": 1,
+    "explanation": "The Reserve Bank of India conducted the first conversion/switch auction of State Government Securities."
+   },
+   "gk": [
+    "Headquarters of Reserve Bank of India: Mumbai",
+    "Reserve Bank of India was established in 1935"
+   ],
+   "en": {
+    "title": "RBI Conducts First Conversion/Switch Auction of State Government Securities",
+    "one_liner": "The Reserve Bank of India announced the results of the first conversion/switch auction of State Government Securities.",
+    "summary": "The Reserve Bank of India conducted the first conversion or switch auction of State Government Securities involving multiple source and destination securities across states like Madhya Pradesh, Punjab, Rajasthan, Tamil Nadu, and Uttar Pradesh. The auction detailed notified amounts, offers received, offers accepted, total amount of source security accepted, destination security issued, and cut-off prices and yields for various maturities.",
+    "key_points": [
+     "The auction included source securities from states such as Madhya Pradesh, Punjab, Rajasthan, Tamil Nadu, and Uttar Pradesh.",
+     "The press release reference number for the results is 2026-2027/1571.",
+     "The initial press release announcing the auction was dated November 20, 2026.",
+     "The auction results outline notified amounts, offers received and accepted, and corresponding cut-off yields for destination securities."
+    ]
+   }
+  },
+  {
    "id": "4b35dd726e15",
    "date": "2026-11-26",
    "time": "2026-11-26T07:27+05:30",

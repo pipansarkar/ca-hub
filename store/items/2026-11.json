@@ -1,5 +1,3096 @@
 [
  {
+  "id": "1728b6267ef0",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "national",
+  "category": "economy",
+  "tags": [
+   "UPSC",
+   "Bank",
+   "SSC",
+   "State PSC"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341768",
+  "answers": [
+   1,
+   2
+  ],
+  "langs": {
+   "en": {
+    "title": "Agriculture Minister Releases Final Production Estimates for 2025-26",
+    "one_liner": "Union Agriculture Minister Shri Shivraj Singh Chouhan released the final agricultural production estimates for 2025-26 and Kharif 2026-27 advance estimates.",
+    "summary": "Union Agriculture and Farmers Welfare Minister Shri Shivraj Singh Chouhan released the final production estimates for major agricultural crops for 2025-26 and the first advance estimates for the Kharif season of 2026-27 in New Delhi. Total foodgrain production in 2025-26 reached a record 3785.38 lakh tonnes, representing an increase of 208.06 lakh tonnes over 2024-25. Despite weather challenges, Kharif 2026-27 foodgrain production is estimated at 1671.43 lakh tonnes. India ranks first globally in the production of rice, pulses, jute, millets, and spices.",
+    "points": [
+     "Total foodgrain production in 2025-26 reached a record 3785.38 lakh tonnes.",
+     "Rice production in 2025-26 stood at 1551.54 lakh tonnes and wheat at 1220.64 lakh tonnes.",
+     "Kharif 2026-27 foodgrain production is estimated at 1671.43 lakh tonnes.",
+     "Total oilseed production in 2025-26 was recorded at an all-time high of 432.55 lakh tonnes."
+    ],
+    "static_gk": "Shivraj Singh Chouhan is the Union Minister of Agriculture and Farmers Welfare.",
+    "mcqs": [
+     {
+      "question": "What was India's total foodgrain production in the final estimates for 2025-26?",
+      "options": [
+       "3577.32 lakh tonnes",
+       "3785.38 lakh tonnes",
+       "1671.43 lakh tonnes",
+       "5037.29 lakh tonnes"
+      ],
+      "explanation": "Total foodgrain production for 2025-26 reached a record 3785.38 lakh tonnes according to the final estimates."
+     },
+     {
+      "question": "Which of the following ranks India first globally in agricultural production according to the release?",
+      "options": [
+       "Wheat and Cotton",
+       "Sugarcane",
+       "Rice, Pulses, Jute, Millets and Spices",
+       "Groundnut and Fruits"
+      ],
+      "explanation": "India holds the first rank globally in the production of rice, pulses, jute, millets (coarse grains), and spices."
+     }
+    ]
+   },
+   "bn": {
+    "title": "কৃষি মন্ত্রী ২০২৫-২৬ সালের চূড়ান্ত উৎপাদনের প্রাক্কলন প্রকাশ করলেন",
+    "one_liner": "কেন্দ্রীয় কৃষি মন্ত্রী শ্রী শিবরাজ সিং চৌহান ২০২৫-২৬ সালের চূড়ান্ত কৃষি উৎপাদনের প্রাক্কলন এবং ২০২৬-২৭ সালের খরিফ মৌসুমের অগ্রিম প্রাক্কলন প্রকাশ করেছেন।",
+    "summary": "কেন্দ্রীয় কৃষি ও কৃষক কল্যাণ মন্ত্রী শ্রী শিবরাজ সিং চৌহান নতুন দিল্লিতে ২০২৫-২৬ সালের প্রধান কৃষি ফসলের চূড়ান্ত উৎপাদনের প্রাক্কলন এবং ২০২৬-২৭ সালের খরিফ মৌসুমের প্রথম অগ্রিম প্রাক্কলন প্রকাশ করেছেন। ২০২৫-২৬ সালে মোট খাদ্যশস্য উৎপাদন রেকর্ড ৩৭৮৫.৩৮ লক্ষ টনে পৌঁছেছে, যা ২০২৪-২৫ সালের তুলনায় ২০৮.০৬ লক্ষ টন বেশি। আবহাওয়ার প্রতিকূলতা সত্ত্বেও, ২০২৬-২৭ সালের খরিফ খাদ্যশস্য উৎপাদন ১৬৭১.৪৩ লক্ষ টন অনুমান করা হয়েছে। ধান, ডাল, পাট, মিলেট এবং মশলা উৎপাদনে ভারত বিশ্বব্যাপী প্রথম স্থান অধিকার করে।",
+    "points": [
+     "২০২৫-২৬ সালে মোট খাদ্যশস্য উৎপাদন রেকর্ড ৩৭৮৫.৩৮ লক্ষ টনে পৌঁছেছে।",
+     "২০২৫-২৬ সালে চালের উৎপাদন ছিল ১৫৫১.৫৪ লক্ষ টন এবং গমের উৎপাদন ১২২০.৬৪ লক্ষ টন।",
+     "২০২৬-২৭ সালের খরিফ খাদ্যশস্য উৎপাদনের প্রাক্কলন করা হয়েছে ১৬৭১.৪৩ লক্ষ টন।",
+     "২০২৫-২৬ সালে মোট তৈলবীজ উৎপাদন সর্বকালের সর্বোচ্চ ৪৩২.৫৫ লক্ষ টন রেকর্ড করা হয়েছে।"
+    ],
+    "static_gk": "শিবরাজ সিং চৌহান হলেন কেন্দ্রীয় কৃষি ও কৃষক কল্যাণ মন্ত্রী।",
+    "mcqs": [
+     {
+      "question": "২০২৫-২৬ সালের চূড়ান্ত প্রাক্কলনে ভারতের মোট খাদ্যশস্য উৎপাদন কত ছিল?",
+      "options": [
+       "৩৫৭৭.৩২ লক্ষ টন",
+       "৩৭৮৫.৩৮ লক্ষ টন",
+       "১৬৭১.৪৩ লক্ষ টন",
+       "৫০৩৭.২৯ লক্ষ টন"
+      ],
+      "explanation": "চূড়ান্ত প্রাক্কলন অনুযায়ী ২০২৫-২৬ সালে মোট খাদ্যশস্য উৎপাদন রেকর্ড ৩৭৮৫.৩৮ লক্ষ টনে পৌঁছেছে।"
+     },
+     {
+      "question": "প্রকাশিত তথ্য অনুযায়ী কৃষি উৎপাদনে বিশ্বের মধ্যে কোনটিতে ভারত প্রথম স্থান অধিকার করে?",
+      "options": [
+       "গম এবং তুলা",
+       "আখ",
+       "ধান, ডাল, পাট, মিলেট এবং মশলা",
+       "চিনাবাদাম এবং ফলমূল"
+      ],
+      "explanation": "ধান, ডাল, পাট, মিলেট (মোটা শস্য) এবং মশলা উৎপাদনে ভারত বিশ্বব্যাপী প্রথম স্থান অধিকার করে।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "कृषि मंत्री ने 2025-26 के लिए अंतिम उत्पादन अनुमान जारी किए",
+    "one_liner": "केंद्रीय कृषि मंत्री श्री शिवराज सिंह चौहान ने 2025-26 के अंतिम कृषि उत्पादन अनुमान और खरीफ 2026-27 के अग्रिम अनुमान जारी किए।",
+    "summary": "केंद्रीय कृषि और किसान कल्याण मंत्री (Union Agriculture and Farmers Welfare Minister) श्री शिवराज सिंह चौहान ने नई दिल्ली में 2025-26 के लिए प्रमुख कृषि फसलों के अंतिम उत्पादन अनुमान और खरीफ 2026-27 के पहले अग्रिम अनुमान जारी किए। 2025-26 में कुल खाद्यान्न उत्पादन रिकॉर्ड 3785.38 लाख टन तक पहुंच गया, जो 2024-25 की तुलना में 208.06 लाख टन की वृद्धि को दर्शाता है। मौसम की चुनौतियों के बावजूद, खरीफ 2026-27 का खाद्यान्न उत्पादन 1671.43 लाख टन अनुमानित है। भारत चावल, दालों, जूट, मोटे अनाजों (millets) और मसालों के उत्पादन में वैश्विक स्तर पर पहले स्थान पर है।",
+    "points": [
+     "2025-26 में कुल खाद्यान्न उत्पादन रिकॉर्ड 3785.38 लाख टन तक पहुंच गया।",
+     "2025-26 में चावल का उत्पादन 1551.54 लाख टन और गेहूं का उत्पादन 1220.64 लाख टन रहा।",
+     "खरीफ 2026-27 का खाद्यान्न उत्पादन 1671.43 लाख टन अनुमानित है।",
+     "2025-26 में कुल तिलहन उत्पादन अब तक के उच्चतम स्तर 432.55 लाख टन दर्ज किया गया।"
+    ],
+    "static_gk": "शिवराज सिंह चौहान केंद्रीय कृषि और किसान कल्याण मंत्री (Union Minister of Agriculture and Farmers Welfare) हैं।",
+    "mcqs": [
+     {
+      "question": "2025-26 के अंतिम अनुमानों में भारत का कुल खाद्यान्न उत्पादन कितना था?",
+      "options": [
+       "3577.32 लाख टन",
+       "3785.38 लाख टन",
+       "1671.43 लाख टन",
+       "5037.29 लाख टन"
+      ],
+      "explanation": "अंतिम अनुमानों के अनुसार 2025-26 के लिए कुल खाद्यान्न उत्पादन रिकॉर्ड 3785.38 लाख टन तक पहुंच गया।"
+     },
+     {
+      "question": "जारी किए गए आंकड़ों के अनुसार कृषि उत्पादन में निम्नलिखित में से किसमें भारत वैश्विक स्तर पर प्रथम स्थान पर है?",
+      "options": [
+       "गेहूं और कपास",
+       "गन्ना",
+       "चावल, दालें, जूट, मोटे अनाज (millets) और मसाले",
+       "मूंगफली और फल"
+      ],
+      "explanation": "भारत चावल, दालों, जूट, मोटे अनाजों (millets) और मसालों के उत्पादन में वैश्विक स्तर पर पहला स्थान रखता है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "कृषी मंत्र्यांनी २०२५-२६ साठी अंतिम उत्पादन अंदाज जाहीर केले",
+    "one_liner": "केंद्रीय कृषी मंत्री श्री शिवराज सिंह चौहान यांनी २०२५-२६ चे अंतिम कृषी उत्पादन अंदाज आणि खरीप २०२६-२७ चे आगाऊ अंदाज जाहीर केले.",
+    "summary": "केंद्रीय कृषी आणि शेतकरी कल्याण मंत्री श्री शिवराज सिंह चौहान यांनी नवी दिल्ली येथे २०२५-२६ मधील प्रमुख कृषी पिकांच्या अंतिम उत्पादन अंदाजांचे आणि खरीप हंगाम २०२६-२७ च्या पहिल्या आगाऊ अंदाजांचे प्रकाशन केले. २०२५-२६ मध्ये एकूण अन्नधान्य उत्पादनाने विक्रमी ३७८५.३८ लाख टनांचा पल्ला गाठला, जो २०२४-२५ च्या तुलनेत २०८.०६ लाख टनांची वाढ दर्शवतो. हवामानातील आव्हानांनंतरही, खरीप २०२६-२७ चे अन्नधान्य उत्पादन १६७१.४३ लाख टन अंदाजित आहे. तांदूळ, डाळी, ताग, तृणधान्ये (मिलेट्स) आणि मसाले यांच्या उत्पादनात भारत जागतिक स्तरावर प्रथम क्रमांकावर आहे.",
+    "points": [
+     "२०२५-२६ मध्ये एकूण अन्नधान्य उत्पादनाने विक्रमी ३७८५.३८ लाख टनांचा पल्ला गाठला.",
+     "२०२५-२६ मध्ये तांदळाचे उत्पादन १५५१.५४ लाख टन आणि गव्हाचे उत्पादन १२२०.६४ लाख टन झाले.",
+     "खरीप २०२६-२७ चे अन्नधान्य उत्पादन १६७१.४३ लाख टन अंदाजित आहे.",
+     "२०२५-२६ मध्ये एकूण तेलबिया उत्पादन ४३२.५५ लाख टन इतके विक्रमी उच्चांकावर नोंदवले गेले."
+    ],
+    "static_gk": "श्री शिवराज सिंह चौहान हे केंद्रीय कृषी आणि शेतकरी कल्याण मंत्री आहेत.",
+    "mcqs": [
+     {
+      "question": "२०२५-२६ च्या अंतिम अंदाजानुसार भारताचे एकूण अन्नधान्य उत्पादन किती होते?",
+      "options": [
+       "३५७७.३२ लाख टन",
+       "३७८५.३८ लाख टन",
+       "१६७१.४३ लाख टन",
+       "५०३७.२९ लाख टन"
+      ],
+      "explanation": "अिम अंदाजांनुसार २०२५-२६ चे एकूण अन्नधान्य उत्पादन विक्रमी ३७८५.३८ लाख टनांवर पोहोचले."
+     },
+     {
+      "question": "प्रकाशन अहवालानुसार खालीलपैकी कोणत्या पिकांच्या उत्पादनात भारत जागतिक स्तरावर प्रथम क्रमांकवर आहे?",
+      "options": [
+       "गहू आणि कापूस",
+       "उसा",
+       "तांदूळ, डाळी, ताग, तृणधान्ये आणि मसाले",
+       "भुईमूग आणि फळे"
+      ],
+      "explanation": "तांदूळ, डाळी, ताग, तृणधान्ये आणि मसाले यांच्या उत्पादनात भारत जगात प्रथम क्रमांकावर आहे."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Ministry of Agriculture and Farmers Welfare",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "India",
+    "short": "",
+    "kind": "country",
+    "indian": true
+   }
+  ],
+  "gk": []
+ },
+ {
+  "id": "92ebcaf8de2e",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "national",
+  "category": "science",
+  "tags": [
+   "UPSC",
+   "SSC",
+   "State PSC",
+   "Bank"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341725",
+  "answers": [
+   1,
+   2
+  ],
+  "langs": {
+   "en": {
+    "title": "IndiaAI Mission-Supported Chariot-1 Foundation Models Launched",
+    "one_liner": "MeitY Secretary Shri S. Krishnan inaugurated the launch of indigenous Chariot-1 Foundation Models developed under the IndiaAI Mission.",
+    "summary": "Shri S. Krishnan, Secretary of the Ministry of Electronics and Information Technology (MeitY), inaugurated the launch of Chariot-1 Foundation Models developed by Chariot Artificial Intelligence Pvt. Ltd. at Bharat Mandapam, New Delhi. Developed under the IndiaAI Mission, the model suite includes the Chariot-1 Large Language Model (LLM) and Chariot-1 Text-to-Speech (TTS) model. The initiative incorporates indigenous innovations like IndicShift, Nested Training, and Mixture of Vocabularies to advance multilingual language processing and speech generation across Indian languages.",
+    "points": [
+     "Chariot-1 LLM is an 11-billion-parameter mixture-of-experts model pre-trained from scratch in India.",
+     "Chariot-1 TTS supports English and 10 Indian languages.",
+     "IndicShift covers 1,012 characters across 12 Indian scripts through 350 letters.",
+     "The launch event took place at Bharat Mandapam in New Delhi."
+    ],
+    "static_gk": "Bharat Mandapam is a major exhibition and convention centre located in New Delhi.",
+    "mcqs": [
+     {
+      "question": "Who inaugurated the launch of the Chariot-1 Foundation Models?",
+      "options": [
+       "Shri Narendra Modi",
+       "Shri S. Krishnan",
+       "Shri Ashwini Vaishnaw",
+       "Dr. S. Jaishankar"
+      ],
+      "explanation": "Shri S. Krishnan, Secretary, MeitY, inaugurated the launch of Chariot-1 Foundation Models."
+     },
+     {
+      "question": "How many Indian languages are supported by the Chariot-1 Text-to-Speech model besides English?",
+      "options": [
+       "5",
+       "8",
+       "10",
+       "12"
+      ],
+      "explanation": "Chariot-1 TTS generates speech in English and 10 Indian languages."
+     }
+    ]
+   },
+   "hi": {
+    "title": "इंडियाएआई मिशन (IndiaAI Mission) समर्थित चैरियट-1 फाउंडेशन मॉडल लॉन्च किए गए",
+    "one_liner": "मीइटी (MeitY) सचिव श्री एस. कृष्णन ने इंडियाएआई मिशन के तहत विकसित स्वदेशी चैरियट-1 फाउंडेशन मॉडल के लॉन्च का उद्घाटन किया।",
+    "summary": "इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (MeitY) के सचिव श्री एस. कृष्णन ने नई दिल्ली के भारत मंडपम में चैरियट आर्टिफिशियल इंटेलिजेंस प्राइवेट लिमिटेड द्वारा विकसित चैरियट-1 फाउंडेशन मॉडल के लॉन्च का उद्घाटन किया। इंडियाएआई मिशन के तहत विकसित इस मॉडल सूट में चैरियट-1 लार्ज लैंग्वेज मॉडल (LLM) और चैरियट-1 टेक्स्ट-टू-स्पीच (TTS) मॉडल शामिल हैं। इस पहल में भारतीय भाषाओं में बहुभाषी भाषा प्रसंस्करण और वाक् निर्माण को आगे बढ़ाने के लिए इंडिकशिफ्ट (IndicShift), नेस्टेड ट्रेनिंग (Nested Training), और मिक्सचर ऑफ वोकैबुलरीज (Mixture of Vocabularies) जैसे स्वदेशी नवाचार शामिल हैं।",
+    "points": [
+     "चैरियट-1 एलएलएम (LLM) भारत में शुरुआत से पूर्व-प्रशिक्षित (pre-trained) 11-अरब-पैरामीटर का मिक्सचर-ऑफ-एक्सपर्ट्स मॉडल है।",
+     "चैरियट-1 टीटीएस (TTS) अंग्रेजी और 10 भारतीय भाषाओं का समर्थन करता है।",
+     "इंडिकशिफ्ट (IndicShift) 350 अक्षरों के माध्यम से 12 भारतीय लिपियों में 1,012 वर्णों को कवर करता है।",
+     "लॉन्च कार्यक्रम नई दिल्ली के भारत मंडपम में आयोजित किया गया था।"
+    ],
+    "static_gk": "भारत मंडपम नई दिल्ली में स्थित एक प्रमुख प्रदर्शनी और सम्मेलन केंद्र (convention centre) है।",
+    "mcqs": [
+     {
+      "question": "चैरियट-1 फाउंडेशन मॉडल के लॉन्च का उद्घाटन किसने किया?",
+      "options": [
+       "श्री नरेंद्र मोदी",
+       "श्री एस. कृष्णन",
+       "श्री अश्विनी वैष्णव",
+       "डॉ. एस. जयशंकर"
+      ],
+      "explanation": "मीइटी (MeitY) के सचिव श्री एस. कृष्णन ने चैरियट-1 फाउंडेशन मॉडल के लॉन्च का उद्घाटन किया।"
+     },
+     {
+      "question": "चैरियट-1 टेक्स्ट-टू-स्पीच मॉडल द्वारा अंग्रेजी के अलावा कितनी भारतीय भाषाओं का समर्थन किया जाता है?",
+      "options": [
+       "5",
+       "8",
+       "10",
+       "12"
+      ],
+      "explanation": "चैरियट-1 टीटीएस (TTS) अंग्रेजी और 10 भारतीय भाषाओं में वाक् उत्पन्न करता है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "इंडियाएआय मिशन (IndiaAI Mission) द्वारे समर्थित 'चॅरोट-१ फाऊंडेशन मॉडेल्स' लॉन्च",
+    "one_liner": "मीटीवाय (MeitY) चे सचिव श्री एस. कृष्णन यांनी इंडियाएआय मिशन अंतर्गत विकसित केलेल्या स्वदेशी 'चॅरोट-१ फाऊंडेशन मॉडेल्स' चे उद्घाटन केले.",
+    "summary": "इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालयाचे (MeitY) सचिव श्री एस. कृष्णन यांनी नवी दिल्लीतील भारत मंडपम (Bharat Mandapam) येथे चॅरोट आर्टिफिशिअल इंटेलिजन्स प्रायव्हेट लिमिटेड द्वारे विकसित केलेल्या चॅरोट-१ फाऊंडेशन मॉडेल्सचे उद्घाटन केले. इंडियाएआय मिशन अंतर्गत विकसित केलेल्या या मॉडेल सूटमध्ये चॅरोट-१ लार्ज लँग्वेज मॉडेल (LLM) आणि चॅरोट-१ टेक्स्ट-टू-स्पीच (TTS) मॉडेलचा समावेश आहे. या उपक्रमामध्ये भारतीय भाषांमध्ये बहुभाषिक भाषा प्रक्रिया आणि भाषण निर्मितीला चालना देण्यासाठी इंडिकशिफ्ट (IndicShift), नेस्टेड ट्रेनिंग (Nested Training) आणि मिक्सचर ऑफ व्होकॅब्युलरीज (Mixture of Vocabularies) यांसारख्या स्वदेशी नवकल्पनांचा समावेश आहे.",
+    "points": [
+     "चॅरोट-१ एलएलएम हे भारतातूनच नव्याने प्री-ट्रेन केलेले ११ अब्ज पॅरामीटर असलेले मिश्रण-तज्ज्ञ (mixture-of-experts) मॉडेल आहे.",
+     "चॅरोट-१ टीटीएस इंग्रजी आणि १० भारतीय भाषांना समर्थन देते.",
+     "इंडिकशिफ्टमध्ये ३५० अक्षरांद्वारे १२ भारतीय लिपींमधील १०१२ वर्णांचा समावेश होतो.",
+     "उद्घाटन सोहळा नवी दिल्लीतील भारत मंडपम येथे पार पडला."
+    ],
+    "static_gk": "भारत मंडपम हे नवी दिल्ली येथे स्थित एक प्रमुख प्रदर्शन आणि अधिवेशन केंद्र आहे.",
+    "mcqs": [
+     {
+      "question": "चॅरोट-१ फाऊंडेशन मॉडेल्सच्या लाँचिंगचे उद्घाटन कोणी केले?",
+      "options": [
+       "श्री नरेंद्र मोदी",
+       "श्री एस. कृष्णन",
+       "श्री अश्विनी वैष्णव",
+       "डॉ. एस. जयशंकर"
+      ],
+      "explanation": "मीटीवायचे (MeitY) सचिव श्री एस. कृष्णन यांनी चॅरोट-१ फाऊंडेशन मॉडेल्सच्या लाँचिंगचे उद्घाटन केले."
+     },
+     {
+      "question": "चॅरोट-१ टेक्स्ट-टू-स्पीच मॉडेलद्वारे इंग्रजीशिवाय इतर किती भारतीय भाषांना समर्थन दिले जाते?",
+      "options": [
+       "५",
+       "८",
+       "१०",
+       "१२"
+      ],
+      "explanation": "चॅरोट-१ टीटीएस इंग्रजी आणि १० भारतीय भाषांमध्ये भाषण तयार करते."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Ministry of Electronics and Information Technology",
+    "short": "MeitY",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Chariot Artificial Intelligence Pvt. Ltd.",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "India",
+    "short": "",
+    "kind": "country",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of Ministry of Electronics and Information Technology: 20, Ashoka Road",
+    "hi": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय का मुख्यालय: २०, अशोक रोड"
+   },
+   {
+    "en": "Ministry of Electronics and Information Technology was established in 2016",
+    "hi": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय की स्थापना: 2016",
+    "mr": "इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालय (भारत) ची स्थापना: 2016"
+   }
+  ]
+ },
+ {
+  "id": "f391dbd750d7",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "national",
+  "category": "economy",
+  "tags": [
+   "UPSC",
+   "Bank",
+   "SSC",
+   "State PSC"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341730",
+  "answers": [
+   1,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "NLMC Holds 22nd Board Meeting to Consider Asset Monetisation",
+    "one_liner": "National Land Monetization Corporation Limited considered fresh asset monetisation and valuation proposals worth approximately ₹1,300 crore in its 22nd Board meeting.",
+    "summary": "The National Land Monetization Corporation Limited (NLMC), operating under the Department of Public Enterprises, Ministry of Finance, held its 22nd Board of Directors meeting in New Delhi. The Board deliberated on fresh asset monetisation and valuation proposals for BSNL and MTNL valued at approximately ₹1,300 crore. These additions come on top of over ₹9,000 crore in assets monetised during the current financial year. The Board also reviewed 17 NLMC-owned residential properties in New Delhi and Mumbai and noted successful e-auctions for RINL in Visakhapatnam.",
+    "points": [
+     "The 22nd Board meeting of NLMC was held in New Delhi.",
+     "Fresh proposals for BSNL and MTNL carry a combined assessed value of approximately ₹1,300 crore.",
+     "NLMC monetised over ₹9,000 crore in assets during the financial year.",
+     "Two e-auctions for RINL in Visakhapatnam generated an aggregate H1 bid value of ₹584.40 crore."
+    ],
+    "static_gk": "NLMC is a wholly owned Government of India enterprise under the Ministry of Finance.",
+    "mcqs": [
+     {
+      "question": "What is the approximate combined value of fresh asset monetisation proposals considered for BSNL and MTNL?",
+      "options": [
+       "₹500 crore",
+       "₹1,300 crore",
+       "₹5,000 crore",
+       "₹9,000 crore"
+      ],
+      "explanation": "The fresh proposals pertaining to BSNL and MTNL have a combined assessed value of approximately ₹1,300 crore."
+     },
+     {
+      "question": "Under which ministry does the National Land Monetization Corporation Limited function?",
+      "options": [
+       "Ministry of Commerce and Industry",
+       "Ministry of Finance",
+       "Ministry of Corporate Affairs",
+       "Ministry of Housing and Urban Affairs"
+      ],
+      "explanation": "NLMC is under the Department of Public Enterprises, Ministry of Finance, Government of India."
+     }
+    ]
+   },
+   "bn": {
+    "title": "এনএলএমসি (NLMC) সম্পদ নগদীকরণ বিবেচনার জন্য ২২তম বোর্ড সভা অনুষ্ঠিত করল",
+    "one_liner": "ন্যাশনাল ল্যান্ড মনেটাইজেশন কর্পোরেশন লিমিটেড (NLMC) তাদের ২২তম বোর্ড সভায় প্রায় ১৩০০ কোটি টাকার নতুন সম্পদ নগদীকরণ এবং মূল্যায়ন প্রস্তাব বিবেচনা করেছে।",
+    "summary": "অর্থ মন্ত্রকের পাবলিক এন্টারপ্রাইজ বিভাগের অধীনে পরিচালিত ন্যাশনাল ল্যান্ড মনেটাইজেশন কর্পোরেশন লিমিটেড (NLMC)-এর বোর্ড অফ ডিরেক্টরসের ২২তম সভা নতুন দিল্লিতে অনুষ্ঠিত হয়। বোর্ড বিএসএনএল (BSNL) এবং এমটিএনএল (MTNL)-এর প্রায় ১৩০০ কোটি টাকার নতুন সম্পদ নগদীকরণ এবং মূল্যায়ন প্রস্তাব নিয়ে আলোচনা করে। বর্তমান আর্থিক বছরে নগদীকৃত ৯০00 কোটি টাকারও বেশি সম্পদের সাথে এই সংযোজনগুলি যোগ হয়েছে। বোর্ড নতুন দিল্লি এবং মুম্বাইয়ে ১৭টি এনএলএমসি-মালিকানাধীন আবাসিক সম্পত্তিও পর্যালোচনা করে এবং বিশাখাপত্তনমে আরআইএনএল (RINL)-এর সফল ই-নিলাম লক্ষ্য করে।",
+    "points": [
+     "এনএলএমসি (NLMC)-এর ২২তম বোর্ড সভা নতুন দিল্লিতে অনুষ্ঠিত হয়েছিল।",
+     "বিএসএনএল (BSNL) এবং এমটিএনএল (MTNL)-এর নতুন প্রস্তাবগুলির যৌথ মূল্যায়ন মূল্য প্রায় ১৩০০ কোটি টাকা।",
+     "এনএলএমসি (NLMC) চলতি আর্থিক বছরে ৯০০০ কোটি টাকারও বেশি মূল্যের সম্পদ নগদীকরণ করেছে।",
+     "বিশাখাপত্তনমে আরআইএনএল (RINL)-এর জন্য দুটি ই-নিলামে মোট ৫৮৪.৪০ কোটি টাকার এইচ১ (H1) বিড মূল্য অর্জিত হয়েছে।"
+    ],
+    "static_gk": "এনএলএমসি (NLMC) হলো অর্থ মন্ত্রকের অধীনে একটি সম্পূর্ণ সরকারি মালিকানাধীন ভারত সরকার উদ্যোগ।",
+    "mcqs": [
+     {
+      "question": "বিএসএনএল (BSNL) এবং এমটিএনএল (MTNL)-এর জন্য বিবেচিত নতুন সম্পদ নগদীকরণ প্রস্তাবগুলির আনুমানিক সম্মিলিত মূল্য কত?",
+      "options": [
+       "৫০০ কোটি টাকা",
+       "১৩০০ কোটি টাকা",
+       "৫০০০ কোটি টাকা",
+       "৯০০০ কোটি টাকা"
+      ],
+      "explanation": "বিএসএনএল (BSNL) এবং এমটিএনএল (MTNL)-এর সাথে সম্পর্কিত নতুন প্রস্তাবগুলির সম্মিলিত মূল্যায়িত মূল্য প্রায় ১৩০০ কোটি টাকা।"
+     },
+     {
+      "question": "ন্যাশনাল ল্যান্ড মনেটাইজেশন কর্পোরেশন লিমিটেড কোন মন্ত্রকের অধীনে কাজ করে?",
+      "options": [
+       "বাণিজ্য ও শিল্প মন্ত্রক",
+       "অর্থ মন্ত্রক",
+       "কর্পোরেট বিষয়ক মন্ত্রক",
+       "বাসস্থান ও নগর বিষয়ক মন্ত্রক"
+      ],
+      "explanation": "এনএলএমসি (NLMC) ভারত সরকারের অর্থ মন্ত্রকের পাবলিক এন্টারপ্রাইজ বিভাগের অধীনে রয়েছে।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "एनएलएमसी (NLMC) ने संपत्तिमुद्रीकरण पर विचार करने के लिए 22वीं बोर्ड बैठक आयोजित की",
+    "one_liner": "नेशनल लैंड मोनेटाइजेशन कॉरपोरेशन लिमिटेड (National Land Monetization Corporation Limited) ने अपनी 22वीं बोर्ड बैठक में लगभग 1,300 करोड़ रुपये के नए संपत्ति मुद्रीकरण और मूल्यांकन प्रस्तावों पर विचार किया।",
+    "summary": "वित्त मंत्रालय के सार्वजनिक उद्यम विभाग के प्रशासनिक नियंत्रण के तहत काम करने वाली नेशनल लैंड मोनेटाइजेशन कॉरपोरेशन लिमिटेड (NLMC) ने नई दिल्ली में अपने निदेशक मंडल की 22वीं बैठक आयोजित की। बोर्ड ने लगभग 1,300 करोड़ रुपये मूल्य की बीएसएनएल (BSNL) और एमटीएनएल (MTNL) के लिए नए संपत्ति मुद्रीकरण और मूल्यांकन प्रस्तावों पर विचार-विमर्श किया। ये नई जोड़ियां चालू वित्त वर्ष के दौरान मुद्रीकृत 9,000 करोड़ रुपये से अधिक की संपत्तियों के अतिरिक्त हैं। बोर्ड ने नई दिल्ली और मुंबई में 17 एनएलएमसी (NLMC) के स्वामित्व वाली आवासीय संपत्तियों की भी समीक्षा की और विशाखापत्तनम में आरआईएनएल (RINL) के लिए सफल ई-नीलामियों का संज्ञान लिया।",
+    "points": [
+     "एनएलएमसी (NLMC) की 22वीं बोर्ड बैठक नई दिल्ली में आयोजित की गई थी।",
+     "बीएसएनएल (BSNL) और एमटीएनएल (MTNL) के लिए नए प्रस्तावों का संयुक्त मूल्यांकित मूल्य लगभग 1,300 करोड़ रुपये है।",
+     "एनएलएमसी (NLMC) ने वित्त वर्ष के दौरान 9,000 करोड़ रुपये से अधिक की संपत्तियों का मुद्रीकरण किया।",
+     "विशाखापत्तनम में आरआईएनएल (RINL) के लिए दो ई-नीलामियों से 584.40 करोड़ रुपये का कुल एच1 (H1) बोली मूल्य प्राप्त हुआ।"
+    ],
+    "static_gk": "एनएलएमसी (NLMC) वित्त मंत्रालय के तहत भारत सरकार का पूर्ण स्वामित्व वाला उद्यम है।",
+    "mcqs": [
+     {
+      "question": "बीएसएनएल (BSNL) और एमटीएनएल (MTNL) के लिए विचारे गए नए संपत्ति मुद्रीकरण प्रस्तावों का अनुमानित संयुक्त मूल्य कितना है?",
+      "options": [
+       "500 करोड़ रुपये",
+       "1,300 करोड़ रुपये",
+       "5,000 करोड़ रुपये",
+       "9,000 करोड़ रुपये"
+      ],
+      "explanation": "बीएसएनएल (BSNL) और एमटीएनएल (MTNL) से संबंधित नए प्रस्तावों का संयुक्त मूल्यांकित मूल्य लगभग 1,300 करोड़ रुपये है।"
+     },
+     {
+      "question": "नेशनल लैंड मोनेटाइजेशन कॉरपोरेशन लिमिटेड किस मंत्रालय के अधीन कार्य करता है?",
+      "options": [
+       "वाणिज्य और उद्योग मंत्रालय (Ministry of Commerce and Industry)",
+       "वित्त मंत्रालय (Ministry of Finance)",
+       "कॉर्पोरेट मामलों के मंत्रालय (Ministry of Corporate Affairs)",
+       "आवासन और शहरी कार्य मंत्रालय (Ministry of Housing and Urban Affairs)"
+      ],
+      "explanation": "एनएलएमसी (NLMC) भारत सरकार के वित्त मंत्रालय के सार्वजनिक उद्यम विभाग के अधीन है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "एनएलएमसी (NLMC) ची मालमत्ता धनीकरण विचारात घेण्यासाठी २२ वी संचालक मंडळाची बैठक पार पडली",
+    "one_liner": "नॅशनल लँड मॉनेटायझेशन कॉर्पोरेशन लिमिटेडने (National Land Monetization Corporation Limited) आपल्या २२ व्या संचालक मंडळाच्या बैठकीत अंदाजे १३०० कोटी रुपयांच्या नवीन मालमत्ता धनीकरण आणि मूल्यमापन प्रस्तावांवर विचार केला.",
+    "summary": "वित्त मंत्रालयाच्या सार्वजनिक उद्योग विभागांतर्गत कार्यरत असलेल्या नॅशनल लँड मॉनेटायझेशन कॉर्पोरेशन लिमिटेडची (NLMC) २२ वी संचालक मंडळाची बैठक नवी दिल्ली येथे पार पडली. मंडळाने बीएसएनएल (BSNL) आणि एमटीएनएल (MTNL) च्या अंदाजे १३०० कोटी रुपये मूल्याच्या नवीन मालमत्ता धनीकरण आणि मूल्यमापन प्रस्तावांवर चर्चा केली. चालू आर्थिक वर्षात धनीकरण केलेल्या ९००० कोटी रुपयांपेक्षा अधिक मालमत्तांच्या वर या नवीन जोडण्या आहेत. बोर्डाने नवी दिल्ली आणि मुंबईमधील १७ एनएलएमसी-मालकीच्या निवासी मालमत्तांचा देखील आढावा घेतला आणि विशाखापट्टणममधील आरआयएनएल (RINL) साठी यशस्वी ई-लिलावाची नोंद घेतली.",
+    "points": [
+     "एनएलएमसीची (NLMC) २२ वी संचालक मंडळाची बैठक नवी दिल्ली येथे झाली.",
+     "बीएसएनएल आणि एमटीएनएलसाठीच्या नवीन प्रस्तावांचे एकत्रित अंदाजे मूल्य अंदाजे १३०० कोटी रुपये आहे.",
+     "एनएलएमसीने आर्थिक वर्षात ९००० कोटी रुपयांहून अधिक मालमत्तांचे धनीकरण केले.",
+     "विशाखापट्टणममधील आरआयएनएलसाठी दोन ई-लिलावांनी ५८४.४० कोटी रुपयांचे एकत्रित एच१ (H1) बोली मूल्य निर्माण केले."
+    ],
+    "static_gk": "एनएलएमसी (NLMC) ही वित्त मंत्रालयाच्या अंतर्गत भारत सरकारची पूर्ण मालकी असलेली एंटरप्राइजेस आहे.",
+    "mcqs": [
+     {
+      "question": "बीएसएनएल आणि एमटीएनएलसाठी विचार करण्यात आलेल्या नवीन मालमत्ता धनीकरण प्रस्तावांचे अंदाजे एकत्रित मूल्य किती आहे?",
+      "options": [
+       "५०० कोटी रुपये",
+       "१३०० कोटी रुपये",
+       "५००० कोटी रुपये",
+       "९००० कोटी रुपये"
+      ],
+      "explanation": "बीएसएनएल आणि एमटीएनएलशी संबंधित नवीन प्रस्तावांचे एकत्रित मूल्य अंदाजे १३०० कोटी रुपये आहे."
+     },
+     {
+      "question": "नॅशनल लँड मॉनेटायझेशन कॉर्पोरेशन लिमिटेड कोणत्या मंत्रालयांतर्गत कार्य करते?",
+      "options": [
+       "वाणिज्य आणि उद्योग मंत्रालय",
+       "वित्त मंत्रालय",
+       "कॉर्पोरेट व्यवहार मंत्रालय",
+       "गृहनिर्माण आणि शहरी व्यवहार मंत्रालय"
+      ],
+      "explanation": "एनएलएमसी ही भारत सरकारच्या वित्त मंत्रालयाच्या सार्वजनिक उद्योग विभागांतर्गत येते."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "National Land Monetization Corporation Limited",
+    "short": "NLMC",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Ministry of Finance",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": []
+ },
+ {
+  "id": "f28e3682197a",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "gujarat",
+  "category": "defence",
+  "tags": [
+   "UPSC",
+   "SSC",
+   "State PSC",
+   "Police Bharti"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341794",
+  "answers": [
+   1,
+   0
+  ],
+  "langs": {
+   "en": {
+    "title": "Indian Army Aircraft Land on Gujarat Economic Corridor",
+    "one_liner": "Four Indian Army aircraft successfully landed on the Amritsar–Jamnagar Economic Corridor in Patan, Gujarat.",
+    "summary": "Four aircraft belonging to the Indian Army's Team Mountain Eagles successfully landed on the Amritsar–Jamnagar Economic Corridor (NH-754A) in Patan, Gujarat. The aircraft, consisting of two fixed-wing microlight aircraft and two powered hang gliders, took off from Kandla Airport as part of the Wings of Valour and Unity Expedition 2026. The expedition was organised by the Army Adventure Nodal Centre (AANC) of the Military College of Telecommunication Engineering (MCTE), Mhow. The highway stretch features a pavement designed for a traffic loading of 170 million standard axles.",
+    "points": [
+     "Four Indian Army aircraft landed on NH-754A in Patan, Gujarat on 24 November 2026.",
+     "The aircraft belonged to Team Mountain Eagles participating in the Wings of Valour and Unity Expedition 2026.",
+     "The flight originated from Kandla Airport.",
+     "The highway stretch is designed for a traffic loading of 170 million standard axles (MSA)."
+    ],
+    "static_gk": "The Military College of Telecommunication Engineering (MCTE) is located in Mhow, Madhya Pradesh.",
+    "mcqs": [
+     {
+      "question": "Where did the Indian Army aircraft successfully land on 24 November 2026?",
+      "options": [
+       "Kandla Airport",
+       "Amritsar–Jamnagar Economic Corridor in Patan, Gujarat",
+       "Mumbai-Pune Expressway",
+       "Delhi-Mumbai Expressway"
+      ],
+      "explanation": "Four aircraft of the Indian Army landed on the Amritsar–Jamnagar Economic Corridor (NH-754A) in Patan, Gujarat."
+     },
+     {
+      "question": "Which team from the Indian Army participated in the Wings of Valour and Unity Expedition 2026?",
+      "options": [
+       "Team Mountain Eagles",
+       "Team Desert Hawks",
+       "Team Himalayan Tigers",
+       "Team Vajra Corps"
+      ],
+      "explanation": "The aircraft belonged to the Indian Army's Team Mountain Eagles."
+     }
+    ]
+   },
+   "bn": {
+    "title": "গুজরাট অর্থনৈতিক করিডরে ভারতীয় সেনাবাহিনীর বিমান অবতরণ করল",
+    "one_liner": "চারটি ভারতীয় সেনা বিমান গুজরাটের পাটনে অমৃতসর-জামনগর অর্থনৈতিক করিডরে সফলভাবে অবতরণ করেছে।",
+    "summary": "ভারতীয় সেনাবাহিনীর টিম মাউন্টেন ঈগলসের (Team Mountain Eagles) চারটি বিমান গুজরাটের পাটনে অমৃতসর-জামনগর অর্থনৈতিক করিডরে (NH-754A) সফলভাবে অবতরণ করেছে। 'উইংস অফ ভ্যালোর অ্যান্ড ইউনিটি এক্সপিডিশন ২০২৬'-এর অংশ হিসেবে দুটি ফিক্সড-উইং মাইক্রোলাইট বিমান এবং দুটি চালিত হ্যান্ড গ্লাডার নিয়ে বিমানগুলি কান্দলা বিমানবন্দর থেকে উড্ডয়ন করেছিল। এই অভিযানটি মহৌ-এর মিলিটারি কলেজ অফ টেলিকমিউনিকেশন ইঞ্জিনিয়ারিং (MCTE)-এর আর্মি অ্যাডভেঞ্চার নোডাল সেন্টার (AANC) দ্বারা আয়োজিত হয়েছিল। হাইওয়েটির এই অংশটিতে ১৭০ মিলিয়ন স্ট্যান্ডার্ড এক্সেলের ট্রাফিক লোডিংয়ের জন্য ডিজাইন করা একটি পেভমেন্ট রয়েছে।",
+    "points": [
+     "২০২৬ সালের ২৪ নভেম্বর গুজরাটের পাটনে এনএইচ-৭৫৪এ (NH-754A)-তে চারটি ভারতীয় সেনা বিমান অবতরণ করে।",
+     "বিমানগুলি টিম মাউন্টেন ঈগলসের (Team Mountain Eagles) অন্তর্গত যা উইংস অফ ভ্যালোর অ্যান্ড ইউনিটি এক্সপিডিশন ২০২৬-এ অংশগ্রহণ করেছিল।",
+     "ফ্লাইটটি কান্দলা বিমানবন্দর থেকে শুরু হয়েছিল।",
+     "হাইওয়ে স্ট্রিপটি ১৭০ মিলিয়ন স্ট্যান্ডার্ড এক্সেল (MSA) ট্রাফিক লোডিংয়ের জন্য ডিজাইন করা হয়েছে।"
+    ],
+    "static_gk": "মিলিটারি কলেজ অফ টেলিকমিউনিকেশন ইঞ্জিনিয়ারিং (MCTE) মধ্যপ্রদেশের মহৌ-তে অবস্থিত।",
+    "mcqs": [
+     {
+      "question": "২০২৬ সালের ২৪ নভেম্বর ভারতীয় সেনা বিমানগুলি কোথায় সফলভাবে অবতরণ করেছিল?",
+      "options": [
+       "কান্দলা বিমানবন্দর",
+       "গুজরাটের পাটনে অমৃতসর-জামনগর অর্থনৈতিক করিডর",
+       "মুম্বাই-পুনে এক্সপ্রেসওয়ে",
+       "দিল্লি-মুম্বাই এক্সপ্রেসওয়ে"
+      ],
+      "explanation": "ভারতীয় সেনাবাহিনীর চারটি বিমান গুজরাটের পাটনে অমৃতসর-জামনগর অর্থনৈতিক করিডরে (NH-754A) অবতরণ করে।"
+     },
+     {
+      "question": "উইংস অফ ভ্যালোর অ্যান্ড ইউনিটি এক্সপিডিশন ২০২৬-এ ভারতীয় সেনাবাহিনীর কোন দলটি অংশগ্রহণ করেছিল?",
+      "options": [
+       "টিম মাউন্টেন ঈগলস",
+       "টিম ডেজার্ট হক্স",
+       "টিম হিমালয়ান টাইগার্স",
+       "টিম বজ্র কর্পস"
+      ],
+      "explanation": "বিমানগুলি ভারতীয় সেনাবাহিনীর টিম মাউন্টেন ঈগলসের অন্তর্গত ছিল।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "भारतीय सेना के विमानों ने गुजरात आर्थिक गलियारे पर लैंडिंग की",
+    "one_liner": "भारतीय सेना के चार विमानों ने गुजरात के पाटन में अमृतसर-जामनगर आर्थिक गलियारे पर सफलतापूर्वक लैंडिंग की।",
+    "summary": "भारतीय सेना की टीम माउंटेन ईगल्स (Team Mountain Eagles) के चार विमानों ने गुजरात के पाटन में अमृतसर-जामनगर आर्थिक गलियारे (NH-754A) पर सफलतापूर्वक लैंडिंग की। विंग्स ऑफ वेलर एंड यूनिटी एक्सपेडिशन 2026 (Wings of Valour and Unity Expedition 2026) के हिस्से के रूप में दो फिक्स्ड-विग माइक्रोलाइट विमान और दो पावर्ड हैंग ग्लाइडर सहित इन विमानों ने कांडला हवाई अड्डे से उड़ान भरी थी। इस अभियान का आयोजन महू स्थित मिलिट्री कॉलेज ऑफ टेलीकम्युनिकेशन इंजीनियरिंग (MCTE) के आर्मी एडवेंचर नोडल सेंटर (AANC) द्वारा किया गया था। राजमार्ग का यह हिस्सा 170 मिलियन स्टैंडर्ड एक्सील (170 million standard axles) के ट्रैफिक लोडिंग के लिए डिज़ाइन किया गया है।",
+    "points": [
+     "भारतीय सेना के चार विमानों ने 24 नवंबर 2026 को गुजरात के पाटन में एनएच-754ए (NH-754A) पर लैंडिंग की।",
+     "ये विमान विंग्स ऑफ वेलर एंड यूनिटी एक्सपेडिशन 2026 में भाग लेने वाली टीम माउंटेन ईगल्स के थे।",
+     "इस उड़ान की शुरुआत कांडला हवाई अड्डे से हुई थी।",
+     "राजमार्ग का यह खंड 170 मिलियन स्टैंडर्ड एक्सील (MSA) के ट्रैफिक लोडिंग के लिए डिज़ाइन किया गया है।"
+    ],
+    "static_gk": "मिलिट्री कॉलेज ऑफ टेलीकम्युनिकेशन इंजीनियरिंग (MCTE) महू, मध्य प्रदेश में स्थित है।",
+    "mcqs": [
+     {
+      "question": "भारतीय सेना के विमानों ने 24 नवंबर 2026 को सफलतापूर्वक कहाँ लैंडिंग की?",
+      "options": [
+       "कांडला हवाई अड्डा",
+       "गुजरात के पाटन में अमृतसर-जामनगर आर्थिक गलियारा",
+       "मुंबई-पुणे एक्सप्रेसवे",
+       "दिल्ली-मुंबई एक्सप्रेसवे"
+      ],
+      "explanation": "भारतीय सेना के चार विमानों ने गुजरात के पाटन में अमृतसर-जामनगर आर्थिक गलियारे (NH-754A) पर लैंडिंग की।"
+     },
+     {
+      "question": "विंग्स ऑफ वेलर एंड यूनिटी एक्सपेडिशन 2026 में भारतीय सेना की किस टीम ने भाग लिया?",
+      "options": [
+       "टीम माउंटेन ईगल्स (Team Mountain Eagles)",
+       "टीम डेजर्ट हॉक्स",
+       "टीम हिमालयन टाइगर्स",
+       "टीम वज्र कॉर्प्स"
+      ],
+      "explanation": "ये विमान भारतीय सेना की टीम माउंटेन ईगल्स के थे।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "भारतीय लष्कराची विमाने गुजरात आर्थिक कॉरिडॉरवर उतरली",
+    "one_liner": "भारतीय लष्कराची चार विमाने गुजरातच्या पाटन येथील अमृतसर-जामनगर आर्थिक कॉरिडॉरवर यशस्वीपणे उतरली.",
+    "summary": "भारतीय लष्कराच्या 'टीम माऊंटन ईगल्स' (Team Mountain Eagles) ची चार विमाने गुजरातच्या पाटन येथील अमृतसर-जामनगर आर्थिक कॉरिडॉर (NH-754A) वर यशस्वीपणे उतरली. 'विंग्स ऑफ व्हॅलर अँड युनिटी एक्सपेडिशन्स २०२६' (Wings of Valour and Unity Expedition 2026) चा एक भाग म्हणून दोन फिक्सड-विँग मायक्रोलाइट विमाने आणि दोन पॉवर्ड हँग ग्लायडर यांचा समावेश असलेली ही विमाने कांडला विमानतळावरून उडाली होती. या मोहिमेचे आयोजन म्हर (Mhow) येथील मिलिटरी कॉलेज ऑफ टेलिकम्युनिकेशन इंजिनिअरिंग (MCTE) च्या आर्मी ॲडव्हेंचर नोडल सेंटर (AANC) द्वारे केले गेले होते. या महामार्गाचा पट्टा १७० दशलक्ष मानक ॲक्सल्सच्या ट्रॅफिक लोडसाठी डिझाइन केला आहे.",
+    "points": [
+     "भारतीय लष्कराची चार विमाने २४ नोव्हेंबर २०२६ रोजी गुजरातच्या पाटन येथील एनएच-७५४ए (NH-754A) वर उतरली.",
+     "ही विमाने विंग्स ऑफ व्हॅलर अँड युनिटी एक्सपेडिशन्स २०२६ मध्ये सहभागी झालेली 'टीम माऊंटन ईगल्स' ची होती.",
+     "या विमानांचे उड्डाण कांडला विमानतळावरून झाले.",
+     "हा महामार्ग १७० दशलक्ष मानक ॲक्सल्स (MSA) च्या ट्रॅफिक लोडसाठी डिझाइन केला आहे."
+    ],
+    "static_gk": "मिलिटरी कॉलेज ऑफ टेलिकम्युनिकेशन इंजिनिअरिंग (MCTE) हे मध्य प्रदेशातील म्हर येथे स्थित आहे.",
+    "mcqs": [
+     {
+      "question": "भारतीय लष्कराची विमाने २४ नोव्हेंबर २०२६ रोजी यशस्वीरीत्या कुठे उतरली?",
+      "options": [
+       "कांडला विमानतळ",
+       "गुजरातच्या पाटनमधील अमृतसर-जामनगर आर्थिक कॉरिडॉर",
+       "मुंबई-पुणे एक्सप्रेसवे",
+       "दिल्ली-मुंबई एक्सप्रेसवे"
+      ],
+      "explanation": "भारतीय लष्कराची चार विमाने गुजरातच्या पाटन येथील अमृतसर-जामनगर आर्थिक कॉरिडॉरवर (NH-754A) उतरली."
+     },
+     {
+      "question": "विंग्स ऑफ व्हॅलर अँड युनिटी एक्सपेडिशन्स २०२६ मध्ये भारतीय लष्कराच्या कोणत्या संघाने सहभाग घेतला?",
+      "options": [
+       "टीम माऊंटन ईगल्स",
+       "टीम डेझर्ट हॉक्स",
+       "टीम हिमालयन टायगर्स",
+       "टीम वज्र कॉर्प्स"
+      ],
+      "explanation": "ही विमाने भारतीय लष्कराच्या 'टीम माऊंटन ईगल्स' ची होती."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Indian Army",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Gujarat",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of Indian Army: New Delhi",
+    "bn": "ভারতীয় সেনাবাহিনী-এর সদর দপ্তর: নয়াদিল্লি",
+    "hi": "भारतीय थलसेना का मुख्यालय: नई दिल्ली",
+    "mr": "भारतीय लष्कर चे मुख्यालय: नवी दिल्ली"
+   },
+   {
+    "en": "Indian Army was established in 1950",
+    "bn": "ভারতীয় সেনাবাহিনী প্রতিষ্ঠিত হয় 1950 সালে",
+    "hi": "भारतीय थलसेना की स्थापना: 1950",
+    "mr": "भारतीय लष्कर ची स्थापना: 1950"
+   },
+   {
+    "en": "Capital of Gujarat: Gandhinagar",
+    "bn": "গুজরাত-এর রাজধানী: গান্ধীনগর",
+    "hi": "गुजरात की राजधानी: गाँधीनगर",
+    "mr": "गुजरात ची राजधानी: गांधीनगर"
+   }
+  ]
+ },
+ {
+  "id": "fe5e2543ba54",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "national",
+  "category": "reports_indices",
+  "tags": [
+   "UPSC",
+   "SSC",
+   "State PSC",
+   "Bank"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341737",
+  "answers": [
+   0,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "MoSPI launches State Dashboard on eSankhyiki for Subnational Statistics",
+    "one_liner": "MoSPI has launched the State Dashboard on the eSankhyiki portal to improve access to State-level official statistics.",
+    "summary": "The Ministry of Statistics and Programme Implementation (MoSPI) has launched a State Dashboard on the eSankhyiki portal to enhance access to State-level official statistics. Developed in collaboration with the Institute for Competitiveness, the dashboard currently features 283 indicators across 21 statistical products and 10 themes. It aims to support local planning, subnational research, and informed policymaking by bringing together multi-thematic State profiles with interactive visualisations and downloadable datasets.",
+    "points": [
+     "The State Dashboard is hosted on the eSankhyiki portal developed by MoSPI.",
+     "It currently presents 283 indicators of 21 statistical products across 10 broad themes.",
+     "The dashboard was developed in collaboration with the Institute for Competitiveness.",
+     "The eSankhyiki portal overall hosts 43 statistical products with 1109 datasets."
+    ],
+    "static_gk": "The Ministry of Statistics and Programme Implementation publishes the annual report on Basic Animal Husbandry Statistics and administers the National Statistical Office (NSO).",
+    "mcqs": [
+     {
+      "question": "How many indicators are currently presented on the eSankhyiki State Dashboard?",
+      "options": [
+       "283",
+       "1109",
+       "43",
+       "139"
+      ],
+      "explanation": "The State Dashboard currently presents 283 indicators across 21 statistical products."
+     },
+     {
+      "question": "Which organisation collaborated with MoSPI to develop the State Dashboard on eSankhyiki?",
+      "options": [
+       "NITI Aayog",
+       "Institute for Competitiveness",
+       "Reserve Bank of India",
+       "National Statistical Commission"
+      ],
+      "explanation": "The State Dashboard has been developed in collaboration with the Institute for Competitiveness."
+     }
+    ]
+   },
+   "bn": {
+    "title": "সাবন্যাশনাল পরিসংখ্যানের জন্য ই-সাংখ্যিকি পোর্টাল (eSankhyiki Portal)-এ রাজ্য ড্যাশবোর্ড চালু করল মোস্পি (MoSPI)",
+    "one_liner": "রাজ্য স্তরের সরকারি পরিসংখ্যানের সহজলভ্যতা বাড়াতে মোস্পি (MoSPI) ই-সাংখ্যিকি পোর্টাল (eSankhyiki portal)-এ রাজ্য ড্যাশবোর্ড চালু করেছে।",
+    "summary": "পরিসংখ্যান ও কর্মসূচি রূপায়ণ মন্ত্রক (Ministry of Statistics and Programme Implementation বা MoSPI) রাজ্য স্তরের সরকারি পরিসংখ্যানের সহজলভ্যতা বাড়াতে ই-সাংখ্যিকি পোর্টাল (eSankhyiki portal)-এ একটি রাজ্য ড্যাশবোর্ড চালু করেছে। ইনস্টিটিউট ফর কমপিটিটিভনেস (Institute for Competitiveness)-এর সহযোগিতায় বিকশিত এই ড্যাশবোর্ডে বর্তমানে ২১টি পরিসংখ্যানগত পণ্যের অধীনে এবং ১০টি থিমের অন্তর্ভুক্ত ২৮৩টি নির্দেশক রয়েছে। এটি ইন্টারেক্টিভ ভিজ্যুয়ালাইজেশন এবং ডাউনলোডযোগ্য ডেটাসেটের সাথে বহু-থিম্যাটিক রাজ্য প্রোফাইলগুলিকে একত্রিত করে স্থানীয় পরিকল্পনা, সাবন্যাশনাল গবেষণা এবং সচেতন নীতি নির্ধারণকে সমর্থন করার লক্ষ্য রাখে।",
+    "points": [
+     "রাজ্য ড্যাশবোর্ডটি মোস্পি (MoSPI) দ্বারা বিকশিত ই-সাংখ্যিকি পোর্টাল (eSankhyiki portal)-এ হোস্ট করা হয়েছে।",
+     "এটি বর্তমানে ১০টি বিস্তৃত থিমের অধীনে ২১টি পরিসংখ্যানগত পণ্যের ২৮৩টি নির্দেশক উপস্থাপন করে।",
+     "ড্যাশবোর্ডটি ইনস্টিটিউট ফর কমপিটিটিভনেস (Institute for Competitiveness)-এর সহযোগিতায় বিকশিত হয়েছিল।",
+     "ই-সাংখ্যিকি পোর্টালটি (eSankhyiki portal) সামগ্রিকভাবে ১১০৯টি ডেটাসেট সহ ৪৩টি পরিসংখ্যানগত পণ্য হোস্ট করে।"
+    ],
+    "static_gk": "পরিসংখ্যান ও কর্মসূচি রূপায়ণ মন্ত্রক (Ministry of Statistics and Programme Implementation) মৌলিক পশুপালন পরিসংখ্যানের উপর বার্ষিক প্রতিবেদন প্রকাশ করে এবং জাতীয় পরিসংখ্যান অফিস (National Statistical Office বা NSO) পরিচালনা করে।",
+    "mcqs": [
+     {
+      "question": "ই-সাংখ্যিকি রাজ্য ড্যাশবোর্ডে (eSankhyiki State Dashboard) বর্তমানে কতগুলি নির্দেশক উপস্থাপন করা হয়েছে?",
+      "options": [
+       "283",
+       "1109",
+       "43",
+       "139"
+      ],
+      "explanation": "রাজ্য ড্যাশবোর্ডে বর্তমানে ২১টি পরিসংখ্যানগত পণ্যের অধীনে ২৮৩টি নির্দেশক রয়েছে।"
+     },
+     {
+      "question": "ই-সাংখ্যিকি (eSankhyiki)-তে রাজ্য ড্যাশবোর্ড বিকাশের জন্য কোন সংস্থা মোস্পি (MoSPI)-র সাথে সহযোগিতা করেছিল?",
+      "options": [
+       "নীতি আয়োগ (NITI Aayog)",
+       "ইনস্টিটিউট ফর কমপিটিটিভনেস (Institute for Competitiveness)",
+       "ভারতীয় রিজার্ভ ব্যাংক (Reserve Bank of India)",
+       "জাতীয় পরিসংখ্যান কমিশন (National Statistical Commission)"
+      ],
+      "explanation": "ইনস্টিটিউট ফর কমপিটিটিভনেস (Institute for Competitiveness)-এর সহযোগিতায় রাজ্য ড্যাশবোর্ড বিকশিত হয়েছে।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "MoSPI (सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय) ने उपराष्ट्रीय सांख्यिकी के लिए eSankhyiki (ई-सांख्यिकी) पर स्टेट डैशबोर्ड लॉन्च किया",
+    "one_liner": "MoSPI (सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय) ने राज्य-स्तरीय आधिकारिक सांख्यिकी तक पहुंच में सुधार के लिए eSankhyiki (ई-सांख्यिकी) पोर्टल पर स्टेट डैशबोर्ड लॉन्च किया है।",
+    "summary": "सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय (MoSPI) ने राज्य-स्तरीय आधिकारिक सांख्यिकी तक पहुंच को बढ़ाने के लिए eSankhyiki (ई-सांख्यिकी) पोर्टल पर एक स्टेट डैशबोर्ड लॉन्च किया है। इंस्टीट्यूट फॉर कॉम्पिटिटिवनेस (Institute for Competitiveness) के सहयोग से विकसित इस डैशबोर्ड में वर्तमान में 21 सांख्यिकी उत्पादों और 10 विषयों के तहत 283 संकेतक शामिल हैं। इसका उद्देश्य मल्टी-थेमैटिक राज्य प्रोफाइलों, इंटरैक्टिव विजुअलाइजेशन और डाउनलोड करने योग्य डेटासेट को एक साथ लाकर स्थानीय योजना, उपराष्ट्रीय अनुसंधान और सूचित नीति-निर्माण का समर्थन करना है।",
+    "points": [
+     "स्टेट डैशबोर्ड MoSPI (सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय) द्वारा विकसित eSankhyiki (ई-सांख्यिकी) पोर्टल पर होस्ट किया गया है।",
+     "यह वर्तमान में 10 व्यापक विषयों पर 21 सांख्यिकी उत्पादों के 283 संकेतक प्रस्तुत करता है।",
+     "इस डैशबोर्ड को इंस्टीट्यूट फॉर कॉम्पिटिटिवनेस (Institute for Competitiveness) के सहयोग से विकसित किया गया था।",
+     "eSankhyiki (ई-सांख्यिकी) पोर्टल पर कुल मिलाकर 1109 डेटासेट के साथ 43 सांख्यिकी उत्पाद होस्ट हैं।"
+    ],
+    "static_gk": "सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय बेसिक एनिमल हस्बैंड्री स्टैटिस्टिक्स (Basic Animal Husbandry Statistics) पर वार्षिक रिपोर्ट प्रकाशित करता है और राष्ट्रीय सांख्यिकी कार्यालय (NSO) का संचालन करता है।",
+    "mcqs": [
+     {
+      "question": "eSankhyiki (ई-सांख्यिकी) स्टेट डैशबोर्ड पर वर्तमान में कितने संकेतक प्रस्तुत किए गए हैं?",
+      "options": [
+       "283",
+       "1109",
+       "43",
+       "139"
+      ],
+      "explanation": "स्टेट डैशबोर्ड वर्तमान में 21 सांख्यिकी उत्पादों में 283 संकेतक प्रस्तुत करता है।"
+     },
+     {
+      "question": "eSankhyiki (ई-सांख्यिकी) पर स्टेट डैशबोर्ड विकसित करने के लिए किस संगठन ने MoSPI (सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय) के साथ सहयोग किया?",
+      "options": [
+       "नीति आयोग (NITI Aayog)",
+       "इंस्टीट्यूट फॉर कॉम्पिटिटिवनेस (Institute for Competitiveness)",
+       "भारतीय रिजर्व बैंक (Reserve Bank of India)",
+       "राष्ट्रीय सांख्यिकी आयोग (National Statistical Commission)"
+      ],
+      "explanation": "स्टेट डैशबोर्ड को इंस्टीट्यूट फॉर कॉम्पिटिटिवनेस (Institute for Competitiveness) के सहयोग से विकसित किया गया है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "MoSPI ने उप-राष्ट्रीय आकडेवारीसाठी eSankhyiki वर राज्य डॅशबोर्ड सुरू केला",
+    "one_liner": "MoSPI ने राज्य-स्तरीय अधिकृत आकडेवारीपर्यंत पोहोच सुधारण्यासाठी eSankhyiki पोर्टलवर राज्य डॅशबोर्ड सुरू केला आहे.",
+    "summary": "सांख्यिकी आणि कार्यक्रम अंमलबजावणी मंत्रालयाने (Ministry of Statistics and Programme Implementation - MoSPI) राज्य-स्तरीय अधिकृत आकडेवारीपर्यंत पोहोच वाढवण्यासाठी eSankhyiki पोर्टलवर राज्य डॅशबोर्ड (State Dashboard) सुरू केला आहे. इन्स्टिट्यूट फॉर कॉम्पिटिटिव्हनेस (Institute for Competitiveness) च्या सहकार्याने विकसित केलेल्या या डॅशबोर्डवर सध्या २१ सांख्यिकी उत्पादने आणि १० थीम अंतर्गत २८३ निर्देशक वैशिष्ट्यीकृत आहेत. परस्परसंवादी व्हिज्युअलायझेशन आणि डाउनलोड करण्यायोग्य डेटासेटसह बहु-विषयक राज्य प्रोफाइल एकत्र आणून स्थानिक नियोजन, उप-राष्ट्रीय संशोधन आणि माहितीपूर्ण धोरणनिर्मितीला समर्थन देणे हा याचा उद्देश आहे.",
+    "points": [
+     "राज्य डॅशबोर्ड MoSPI द्वारे विकसित केलेल्या eSankhyiki पोर्टलवर होस्ट केला गेला आहे.",
+     "सध्या हे १० व्यापक थीममधील २१ सांख्यिकी उत्पादनांचे २८३ निर्देशक प्रस्तुत करते.",
+     "हा डॅशबोर्ड इन्स्टिट्यूट फॉर कॉम्पिटिटिव्हनेस (Institute for Competitiveness) च्या सहकार्याने विकसित करण्यात आला आहे.",
+     "eSankhyiki पोर्टलवर एकूण ४३ सांख्यिकी उत्पादने आणि ११०९ डेटासेट होस्ट केले आहेत."
+    ],
+    "static_gk": "सांख्यिकी आणि कार्यक्रम अंमलबजावणी मंत्रालय मूलभूत पशुपूरोधन आकडेवारीवर (Basic Animal Husbandry Statistics) वार्षिक अहवाल प्रकाशित करते आणि राष्ट्रीय सांख्यिकी कार्यालयाचे (National Statistical Office - NSO) प्रशासन पाहते.",
+    "mcqs": [
+     {
+      "question": "eSankhyiki राज्य डॅशबोर्डवर सध्या किती निर्देशक सादर केले आहेत?",
+      "options": [
+       "२८३",
+       "११०९",
+       "४३",
+       "१३९"
+      ],
+      "explanation": "राज्य डॅशबोर्डवर सध्या २१ सांख्यिकी उत्पादनांमध्ये २८३ निर्देशक सादर केले आहेत."
+     },
+     {
+      "question": "eSankhyiki वर राज्य डॅशबोर्ड विकसित करण्यासाठी कोणत्या संस्थेने MoSPI सोबत सहयोग केला?",
+      "options": [
+       "नीती आयोग (NITI Aayog)",
+       "इन्स्टिट्यूट फॉर कॉम्पिटिटिव्हनेस (Institute for Competitiveness)",
+       "भारतीय रिझर्व्ह बँक (Reserve Bank of India)",
+       "राष्ट्रीय सांख्यिकी आयोग (National Statistical Commission)"
+      ],
+      "explanation": "इन्स्टिट्यूट फॉर कॉम्पिटिटिव्हनेस (Institute for Competitiveness) च्या सहकार्याने राज्य डॅशबोर्ड विकसित करण्यात आला आहे."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Ministry of Statistics and Programme Implementation",
+    "short": "MoSPI",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Institute for Competitiveness",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": []
+ },
+ {
+  "id": "c4165a5ee666",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "tamil_nadu",
+  "category": "culture",
+  "tags": [
+   "UPSC",
+   "SSC",
+   "State PSC",
+   "WBCS"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342181",
+  "answers": [
+   1,
+   0
+  ],
+  "langs": {
+   "en": {
+    "title": "Tamil Nadu Antiquities Repatriated from USA and Netherlands Handed Over",
+    "one_liner": "The ASI handed over three repatriated bronze idol antiquities from the USA and Netherlands to the Tamil Nadu Police.",
+    "summary": "The Archaeological Survey of India (ASI) handed over three repatriated antiquities to the Idol Wing CID of the Tamil Nadu Police at Dharohar Bhawan in New Delhi. The artifacts include two 16th and 12th-century bronze idols repatriated from the Smithsonian Museum in the USA and one Chola-period bronze idol from The Hague in the Netherlands, originating from temples in Kallakurichi, Nagapattinam, and Thanjavur districts.",
+    "points": [
+     "Three bronze idol antiquities were handed over to the Tamil Nadu Police by the ASI.",
+     "Two idols were repatriated from the Smithsonian Museum, USA, and one from The Hague, Netherlands.",
+     "The antiquities include Saint Sundarar with Paravai Nachiyar, Saint Kannappa Nayanar, and Somaskanda.",
+     "The artifacts belong to the Vijayanagara and Chola periods from temples in Tamil Nadu."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "Where were the three repatriated antiquities formally handed over to the Tamil Nadu Police?",
+      "options": [
+       "Chennai Museum",
+       "Dharohar Bhawan, New Delhi",
+       "Red Fort, Delhi",
+       "Thanjavur Palace"
+      ],
+      "explanation": "The antiquities were handed over at Dharohar Bhawan, New Delhi by the ASI."
+     },
+     {
+      "question": "The Somaskanda bronze idol repatriated from the Smithsonian Museum belongs to which period?",
+      "options": [
+       "Chola period",
+       "Pallava period",
+       "Vijayanagara period",
+       "Pandya period"
+      ],
+      "explanation": "The 12th-century Somaskanda bronze idol belongs to the Chola period."
+     }
+    ]
+   },
+   "bn": {
+    "title": "আমেরিকা ও নেদারল্যান্ডস থেকে ফেরত পাঠানো তামিলনাড়ুর প্রাচীন নিদর্শনগুলি হস্তান্তর করা হল",
+    "one_liner": "এএসআই (ASI) আমেরিকা ও নেদারল্যান্ডস থেকে ফেরত আনা তিনটি ব্রোঞ্জের মূর্তির প্রাচীন নিদর্শন তামিলনাড়ু পুলিশের হাতে তুলে দিয়েছে।",
+    "summary": "ভারতের প্রত্নতাত্ত্বিক সর্বেক্ষণ (Archaeological Survey of India বা ASI) নতুন দিল্লির জোহর ভবনে তামিলনাড়ু পুলিশের আইডল উইং সিআইডি (Idol Wing CID)-র কাছে তিনটি প্রত্যাবাসিত প্রাচীন নিদর্শন হস্তান্তর করেছে। এই শিল্পকর্মগুলির মধ্যে মার্কিন যুক্তরাষ্ট্রের স্মিথসোনিয়ান মিউজিয়াম (Smithsonian Museum) থেকে ফেরত পাঠানো ১৬তম এবং ১২তম শতাব্দীর দুটি ব্রোঞ্জের মূর্তি এবং নেদারল্যান্ডসের দ্য হেগ থেকে চোল আমলের একটি ব্রোঞ্জের মূর্তি রয়েছে, যেগুলি কাল্লাকুরিচি, নাগাপত্তিনম এবং তাঞ্জাভুর জেলার মন্দিরগুলির অন্তর্ভুক্ত।",
+    "points": [
+     "এএসআই (ASI) দ্বারা তিনটি ব্রোঞ্জের মূর্তির প্রাচীন নিদর্শন তামিলনাড়ু পুলিশের হাতে তুলে দেওয়া হয়েছিল।",
+     "দুটি মূর্তি মার্কিন যুক্তরাষ্ট্রের স্মিথসোনিয়ান মিউজিয়াম (Smithsonian Museum) থেকে এবং একটি নেদারল্যান্ডসের দ্য হেগ থেকে ফেরত আনা হয়েছিল।",
+     "প্রাচীন নিদর্শনগুলির মধ্যে রয়েছে পারাবাই নাচিয়ার-সহ সাধু সুন্দরর, সাধু কন্নপ্পা নয়নার এবং সোমস্কন্দ।",
+     "শিল্পকর্মগুলি তামিলনাড়ুর মন্দিরের বিজয়নগর এবং চোল যুগের অন্তর্গত।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "ফেরত পাঠানো তিনটি প্রাচীন নিদর্শন আনুষ্ঠানিকভাবে কোথায় তামিলনাড়ু পুলিশের হাতে তুলে দেওয়া হয়েছিল?",
+      "options": [
+       "চেন্নাই মিউজিয়াম (Chennai Museum)",
+       "জোহর ভবন, নতুন দিল্লি (Dharohar Bhawan, New Delhi)",
+       "লাল কেল্লা, দিল্লি (Red Fort, Delhi)",
+       "তাঞ্জাভুর প্যালেস (Thanjavur Palace)"
+      ],
+      "explanation": "নতুন দিল্লির জোহর ভবনে এএসআই (ASI) এই প্রাচীন নিদর্শনগুলি হস্তান্তর করেছে।"
+     },
+     {
+      "question": "স্মিথসোনিয়ান মিউজিয়াম (Smithsonian Museum) থেকে প্রত্যাবাসিত সোমস্কন্দ ব্রোঞ্জের মূর্তিটি কোন যুগের অন্তর্গত?",
+      "options": [
+       "চোল যুগ",
+       "পল্লব যুগ",
+       "বিজয়নগর যুগ",
+       "পাণ্ড্য যুগ"
+      ],
+      "explanation": "১২তম শতাব্দীর সোমস্কন্দ ব্রোঞ্জের মূর্তিটি চোল যুগের অন্তর্গত।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "USA और नीदरलैंड से वापस लाई गई तमिलनाडु की प्राचीन वस्तुएं सौंपी गईं",
+    "one_liner": "ASI (भारतीय पुरातत्व सर्वेक्षण) ने USA और नीदरलैंड से वापस लाई गई तीन कांस्य मूर्ति प्राचीन वस्तुओं को तमिलनाडु पुलिस को सौंप दिया।",
+    "summary": "भारतीय पुरातत्व सर्वेक्षण (ASI) ने नई दिल्ली के धरोहर भवन में तमिलनाडु पुलिस के आइडल विंग सीआईडी (Idol Wing CID) को तीन वापस लाई गई प्राचीन वस्तुएं सौंपीं। इन कलाकृतियों में USA के स्मिथसोडियन संग्रहालय (Smithsonian Museum) से वापस लाई गई सोलहवीं और बारहवीं शताब्दी की दो कांस्य मूर्तियां और नीदरलैंड के द हेग (The Hague) से चोल काल की एक कांस्य मूर्ति शामिल है, जो कल्लाकुरिची, नागपट्टनम और तंजावुर जिलों के मंदिरों से संबंधित हैं।",
+    "points": [
+     "तीन कांस्य मूर्ति प्राचीन वस्तुएं ASI (भारतीय पुरातत्व सर्वेक्षण) द्वारा तमिलनाडु पुलिस को सौंपी गईं।",
+     "दो मूर्तियां स्मिथसोडियन संग्रहालय (Smithsonian Museum), USA से और एक द हेग, नीदरलैंड से वापस लाई गईं।",
+     "इन प्राचीन वस्तुओं में संत सुंदरर के साथ परवई नासियार, संत कन्नप्पा नयनार और सोमास्कंद शामिल हैं।",
+     "ये कलाकृतियां तमिलनाडु के मंदिरों से विजयनगर और चोल काल की हैं।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "वापस लाई गई तीन प्राचीन वस्तुएं औपचारिक रूप से तमिलनाडु पुलिस को कहां सौंपी गईं?",
+      "options": [
+       "चेन्नई संग्रहालय (Chennai Museum)",
+       "धरोहर भवन, नई दिल्ली",
+       "लाल किला, दिल्ली",
+       "तंजावुर पैलेस (Thanjavur Palace)"
+      ],
+      "explanation": "इन प्राचीन वस्तुओं को ASI द्वारा धरोहर भवन, नई दिल्ली में सौंपा गया।"
+     },
+     {
+      "question": "स्मिथसोडियन संग्रहालय (Smithsonian Museum) से वापस लाई गई सोमास्कंद कांस्य मूर्ति किस काल से संबंधित है?",
+      "options": [
+       "चोल काल",
+       "पल्लव काल",
+       "विजयनगर काल",
+       "पांड्य काल"
+      ],
+      "explanation": "बारहवीं शताब्दी की सोमास्कंद कांस्य मूर्ति चोल काल से संबंधित है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "युनायटेड स्टेट्स आणि नेदरलँड्समधून परत आणलेल्या तामिळनाडूच्या प्राचीन वस्तू सुपूर्द केल्या",
+    "one_liner": "ASI ने यूएसए आणि नेदरलँड्समधून परत आणलेल्या तीन कांस्य मूर्तीच्या प्राचीन वस्तू तामिळनाडू पोलिसांकडे सुपूर्द केल्या.",
+    "summary": "भारतीय पुरातत्त्व सर्वेक्षण (Archaeological Survey of India - ASI) ने नवी दिल्लीतील धरोहर भवन येथे तामिळनाडू पोलिसांच्या आयडॉल विंग सीआयडीकडे तीन परत आणलेल्या प्राचीन वस्तू सुपूर्द केल्या. या कलाकृतींमध्ये यूएसए मधील स्मिथसोमियन म्युझियममधून परत आणलेल्या १६ व्या आणि १२ व्या शतकातील दोन कांस्य मूर्ती आणि नेदरलँड्समधील द हेग येथील चोला काळातील एका कांस्य मूर्तीचा समावेश आहे, ज्या कल्लाकुरीची, नागपट्टणम आणि तंजावर जिल्ह्यातील मंदिरांमधील आहेत.",
+    "points": [
+     "ASI द्वारे तामिळनाडू पोलिसांना तीन कांस्य मूर्तीच्या प्राचीन वस्तू सुपूर्द करण्यात आल्या.",
+     "दोन मूर्ती स्मिथसोमियन म्युझियम, यूएसए आणि एक नेदरलँड्सच्या द हेग येथून परत आणण्यात आल्या.",
+     "प्राचीन वस्तूंमध्ये संत सुंदरार परावै नाचीयारसह, संत कन्नप्पा नयनार आणि सोमास्कंद यांचा समावेश आहे.",
+     "या कलाकृती तामिळनाडूतील मंदिरांमधील विजयनगर आणि चोला काळातील आहेत."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "परत आणलेल्या तीन प्राचीन वस्तू औपचारिकपणे तामिळनाडू पोलिसांकडे कुठे सुपूर्द करण्यात आल्या?",
+      "options": [
+       "चेन्नई संग्रहालय",
+       "धरोहर भवन, नवी दिल्ली",
+       "लाल किल्ला, दिल्ली",
+       "तंजावर पॅलेस"
+      ],
+      "explanation": "ASI द्वारे नवी दिल्ली येथील धरोहर भवन येथे प्राचीन वस्तू सुपूर्द करण्यात आल्या."
+     },
+     {
+      "question": "स्मिथसोमियन म्युझियममधून परत आणलेली सोमास्कंद कांस्य मूर्ती कोणत्या काळाशी संबंधित आहे?",
+      "options": [
+       "चोला काळ",
+       "पल्लव काळ",
+       "विजयनगर काळ",
+       "पांड्य काळ"
+      ],
+      "explanation": "१२ व्या शतकातील सोमास्कंद कांस्य मूर्ती चोला काळाशी संबंधित आहे."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Archaeological Survey of India",
+    "short": "ASI",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Tamil Nadu",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   },
+   {
+    "name": "Smithsonian Museum",
+    "short": "",
+    "kind": "organisation",
+    "indian": false
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of Archaeological Survey of India: New Delhi",
+    "bn": "ভারতীয় পুরাতত্ত্ব সর্বেক্ষণ-এর সদর দপ্তর: নয়াদিল্লি",
+    "hi": "भारतीय पुरातत्त्व सर्वेक्षण विभाग का मुख्यालय: नई दिल्ली",
+    "mr": "भारतीय पुरातत्त्व सर्वेक्षण विभाग चे मुख्यालय: नवी दिल्ली"
+   },
+   {
+    "en": "Archaeological Survey of India was established in 1861",
+    "bn": "ভারতীয় পুরাতত্ত্ব সর্বেক্ষণ প্রতিষ্ঠিত হয় 1861 সালে",
+    "hi": "भारतीय पुरातत्त्व सर्वेक्षण विभाग की स्थापना: 1861",
+    "mr": "भारतीय पुरातत्त्व सर्वेक्षण विभाग ची स्थापना: 1861"
+   },
+   {
+    "en": "Capital of Tamil Nadu: Chennai",
+    "bn": "তামিলনাড়ু-এর রাজধানী: চেন্নাই",
+    "hi": "तमिल नाडु की राजधानी: चेन्नई",
+    "mr": "तमिळनाडू ची राजधानी: चेन्नई"
+   },
+   {
+    "en": "Headquarters of Smithsonian Institution: Washington, D.C."
+   },
+   {
+    "en": "Smithsonian Institution was established in 1846"
+   }
+  ]
+ },
+ {
+  "id": "da56c8c82ae0",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "national",
+  "category": "defence",
+  "tags": [
+   "UPSC",
+   "Bank",
+   "SSC",
+   "Railways"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342210",
+  "answers": [
+   2,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "India and UAE Hold 14th JDCC Meeting in Abu Dhabi",
+    "one_liner": "India and the UAE held their 14th JDCC meeting in Abu Dhabi, agreeing to accelerate defence co-development and co-production.",
+    "summary": "The 14th meeting of the India-UAE Joint Defence Cooperation Committee (JDCC) was held in Abu Dhabi. Co-chaired by Indian Defence Secretary Shri Rajesh Kumar Singh and UAE Under Secretary Lieutenant General Ibrahim Nasser M. Al Alawi, the meeting reviewed bilateral defence ties. Both nations agreed to accelerate co-development and co-production partnerships in next-generation defence equipment across domains like AI, cyber, maritime safety, and defence innovation.",
+    "points": [
+     "The 14th India-UAE JDCC meeting took place on November 26, 2026, in Abu Dhabi.",
+     "The meeting was co-chaired by Indian Defence Secretary Shri Rajesh Kumar Singh and UAE Under Secretary Lt. Gen. Ibrahim Nasser M. Al Alawi.",
+     "Both countries agreed to accelerate co-development and co-production of next-generation defence equipment.",
+     "An Indian defence industry delegation also interacted with the Tawazun Economic Council during the visit."
+    ],
+    "static_gk": "The capital of the United Arab Emirates is Abu Dhabi and its currency is the UAE Dirham.",
+    "mcqs": [
+     {
+      "question": "Where was the 14th India-UAE Joint Defence Cooperation Committee meeting held?",
+      "options": [
+       "New Delhi",
+       "Dubai",
+       "Abu Dhabi",
+       "Sharjah"
+      ],
+      "explanation": "The 14th JDCC meeting took place in Abu Dhabi on November 26, 2026."
+     },
+     {
+      "question": "Who co-chaired the 14th JDCC meeting from the Indian side?",
+      "options": [
+       "Shri Rajnath Singh",
+       "Shri Rajesh Kumar Singh",
+       "Lt. Gen. Ibrahim Nasser M. Al Alawi",
+       "Mr. Mohamed bin Mubarak Fadhel Al Mazrouei"
+      ],
+      "explanation": "The meeting was co-chaired from the Indian side by Defence Secretary Shri Rajesh Kumar Singh."
+     }
+    ]
+   },
+   "bn": {
+    "title": "আবুধাবিতে ভারত ও সংযুক্ত আরব আমিরাতের ১৪তম জেডিসিসি (JDCC) বৈঠক অনুষ্ঠিত হল",
+    "one_liner": "ভারত এবং সংযুক্ত আরব আমিরাত আবুধাবিতে তাদের ১৪তম জেডিসিসি (JDCC) বৈঠক করেছে, এবং প্রতিরক্ষা সহ-উন্নয়ন ও সহ-উৎপাদন ত্বরান্বিত করতে সম্মত হয়েছে।",
+    "summary": "আবুধাবিতে ভারত-সংযুক্ত আরব আমিরাত যৌথ প্রতিরক্ষা সহযোগিতা কমিটি (Joint Defence Cooperation Committee বা JDCC)-র ১৪তম বৈঠক অনুষ্ঠিত হয়েছে। ভারতের প্রতিরক্ষা সচিব শ্রী রাজেশ কুমার সিং এবং সংযুক্ত আরব আমিরাতের আন্ডার সেক্রেটারি লেফটেন্যান্ট জেনারেল ইব্রাহিম নাসের এম. আল আলাউই যৌথভাবে এই বৈঠকে সভাপতিত্ব করেন এবং দ্বিপাক্ষিক প্রতিরক্ষা সম্পর্ক পর্যালোচনা করেন। উভয় দেশ কৃত্রিম বুদ্ধিমত্তা (AI), সাইবার, সামুদ্রিক নিরাপত্তা এবং প্রতিরক্ষা উদ্ভাবনের মতো ক্ষেত্রগুলিতে পরবর্তী প্রজন্মের প্রতিরক্ষা সরঞ্জামের সহ-উন্নয়ন ও সহ-উৎপাদন অংশীদারিত্ব ত্বরান্বিত করতে সম্মত হয়েছে।",
+    "points": [
+     "২০২৬ সালের ২৬ নভেম্বর আবুধাবিতে ১৪তম ভারত-সংযুক্ত আরব আমিরাত জেডিসিসি (JDCC) বৈঠক অনুষ্ঠিত হয়েছিল।",
+     "বৈঠকে যৌথভাবে সভাপতিত্ব করেন ভারতের প্রতিরক্ষা সচিব শ্রী রাজেশ কুমার সিং এবং সংযুক্ত আরব আমিরাতের আন্ডার সেক্রেটারি লে. জেন. ইব্রাহিম নাসের এম. আল আলাউই।",
+     "উভয় দেশ পরবর্তী প্রজন্মের প্রতিরক্ষা সরঞ্জামের সহ-উন্নয়ন ও সহ-উৎপাদন ত্বরান্বিত করতে সম্মত হয়েছে।",
+     "সফরের সময় ভারতের একটি প্রতিরক্ষা শিল্প প্রতিনিধিদল তাওয়াজুন ইকোনমিক কাউন্সিল (Tawazun Economic Council)-এর সাথেও মতবিনিময় করেছিল।"
+    ],
+    "static_gk": "সংযুক্ত আরব আমিরাতের রাজধানী হল আবুধাবি এবং এর মুদ্রা হল আমিরাতি দিরহাম (UAE Dirham)।",
+    "mcqs": [
+     {
+      "question": "ভারত-সংযুক্ত আরব আমিরাতের যৌথ প্রতিরক্ষা সহযোগিতা কমিটির ১৪তম বৈঠক কোথায় অনুষ্ঠিত হয়েছিল?",
+      "options": [
+       "নতুন দিল্লি",
+       "দুবাই",
+       "আবুধাবি",
+       "শারজাহ"
+      ],
+      "explanation": "২০২৬ সালের ২৬ নভেম্বর আবুধাবিতে ১৪তম জেডিসিসি (JDCC) বৈঠক অনুষ্ঠিত হয়েছিল।"
+     },
+     {
+      "question": "ভারতের পক্ষ থেকে কে ১৪তম জেডিসিসি (JDCC) বৈঠকে যৌথভাবে সভাপতিত্ব করেছিলেন?",
+      "options": [
+       "শ্রী রাজনাথ সিং",
+       "শ্রী রাজেশ কুমার সিং",
+       "লে. জেন. ইব্রাহিম নাসের এম. আল আলাউই",
+       "মিস্টার মোহাম্মদ বিন মোবারক ফাদেল আল মাজরুই"
+      ],
+      "explanation": "ভারতের পক্ষ থেকে প্রতিরক্ষা সচিব শ্রী রাজেশ কুমার সিং বৈঠকে যৌথভাবে সভাপতিত্ব করেছিলেন।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "भारत और यूएई ने अबू धाबी में 14वीं JDCC (संयुक्त रक्षा सहयोग समिति) बैठक की",
+    "one_liner": "भारत और यूएई ने अबू धाबी में अपनी 14वीं JDCC (संयुक्त रक्षा सहयोग समिति) बैठक आयोजित की, जिसमें रक्षा सह-विकास और सह-उत्पादन में तेजी लाने पर सहमति व्यक्त की गई।",
+    "summary": "भारत-यूएई संयुक्त रक्षा सहयोग समिति (JDCC) की 14वीं बैठक अबू धाबी में आयोजित की गई। भारतीय रक्षा सचिव श्री राजेश कुमार सिंह और यूएई के अवर सचिव लेफ्टिनेंट जनरल इब्राहिम नासिर एम. अल अलावी द्वारा सह-अध्यक्षता की गई इस बैठक में द्विपक्षीय रक्षा संबंधों की समीक्षा की गई। दोनों देशों ने एआई (AI), साइबर, समुद्री सुरक्षा और रक्षा नवाचार जैसे क्षेत्रों में अगली पीढ़ी के रक्षा उपकरणों के सह-विकास और सह-उत्पादन की साझेदारियों में तेजी लाने पर सहमति व्यक्त की।",
+    "points": [
+     "14वीं भारत-यूएई JDCC (संयुक्त रक्षा सहयोग समिति) की बैठक 26 नवंबर 2026 को अबू धाबी में हुई।",
+     "इस बैठक की सह-अध्यक्षता भारतीय रक्षा सचिव श्री राजेश कुमार सिंह और यूएई के अवर सचिव लेफ्टिनेंट जनरल इब्राहिम नासिर एम. अल अलावी ने की।",
+     "दोनों देश अगली पीढ़ी के रक्षा उपकरणों के सह-विकास और सह-उत्पादन में तेजी लाने के लिए सहमत हुए।",
+     "यात्रा के दौरान एक भारतीय रक्षा उद्योग प्रतिनिधिमंडल ने तवाजुन इकोनॉमिक काउंसिल (Tawazun Economic Council) के साथ भी बातचीत की।"
+    ],
+    "static_gk": "संयुक्त अरब अमीरात (UAE) की राजधानी अबू धाबी है और इसकी मुद्रा यूएई दिरहम है।",
+    "mcqs": [
+     {
+      "question": "14वीं भारत-यूएई संयुक्त रक्षा सहयोग समिति की बैठक कहाँ आयोजित की गई थी?",
+      "options": [
+       "नई दिल्ली",
+       "दुबई",
+       "अबू धाबी",
+       "शारजाह"
+      ],
+      "explanation": "14वीं JDCC बैठक 26 नवंबर 2026 को अबू धाबी में हुई।"
+     },
+     {
+      "question": "भारतीय पक्ष से 14वीं JDCC बैठक की सह-अध्यक्षता किसने की?",
+      "options": [
+       "श्री राजनाथ सिंह",
+       "श्री Rajesh Kumar Singh (राजेश कुमार सिंह)",
+       "लेफ्टिनेंट जनरल इब्राहिम नासिर एम. अल अलावी",
+       "श्री मोहम्मद बिन मुबारक फदेल अल मजरूई"
+      ],
+      "explanation": "भारतीय पक्ष से बैठक की सह-अध्यक्षता रक्षा सचिव श्री राजेश कुमार सिंह ने की।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "भारत आणि युएई यांनी अबू धाबी येथे १४ वी JDCC बैठक घेतली",
+    "one_liner": "भारत आणि युएई यांनी अबू धाबी येथे त्यांची १४ वी JDCC बैठक घेतली, ज्यामध्ये संरक्षण सह-विकास आणि सह-उत्पादन वेगाने वाढवण्याचे मान्य केले.",
+    "summary": "भारत-युएई संयुक्त संरक्षण सहकार्य समितीची (Joint Defence Cooperation Committee - JDCC) १४ वी बैठक अबू धाबी येथे पार पडली. भारताचे संरक्षण सचिव श्री. राजेश कुमार सिंग आणि युएईचे अवर सचिव लेफ्टनंट जनरल इब्राहिम नासर एम. अल अलावी यांच्या सह-अध्यक्षतेखाली या बैठकीत द्विपक्षीय संरक्षण संबंधांचा आढावा घेण्यात आला. दोन्ही देशांनी कृत्रिम बुद्धिमत्ता (AI), सायबर, सागरी सुरक्षा आणि संरक्षण नवकल्पना यांसारख्या क्षेत्रांमधील पुढच्या पिढीच्या संरक्षण उपकरणांच्या सह-विकास आणि सह-उत्पादन भागीदारीला गती देण्याचे मान्य केले.",
+    "points": [
+     "१४ वी भारत-युएई JDCC बैठक २६ नोव्हेंबर २०२६ रोजी अबू धाबी येथे झाली.",
+     "या बैठकीचे सह-अध्यक्षपद भारताचे संरक्षण सचिव श्री. राजेश कुमार सिंग आणि युएईचे अवर सचिव लेफ्टनंट जनरल इब्राहिम नासर एम. अल अलावी यांनी भूषवले.",
+     "दोन्ही देशांनी पुढच्या पिढीच्या संरक्षण उपकरणांच्या सह-विकास आणि सह-उत्पादनाला गती देण्याचे मान्य केले.",
+     "या भेटीदरम्यान भारतीय संरक्षण उद्योग शिष्टमंडळाने तवाझून इकॉनॉमिक कौन्सिलशी (Tawazun Economic Council) देखील संवाद साधला."
+    ],
+    "static_gk": "संयुक्त अरब अमिरातीची (UAE) राजधानी अबू धाबी आहे आणि त्याचे चलन युएई दिरहॅम आहे.",
+    "mcqs": [
+     {
+      "question": "१४ वी भारत-युएई संयुक्त संरक्षण सहकार्य समितीची बैठक कुठे आयोजित करण्यात आली होती?",
+      "options": [
+       "नवी दिल्ली",
+       "दुबई",
+       "अबू धाबी",
+       "शारजा"
+      ],
+      "explanation": "१४ वी JDCC बैठक २६ नोव्हेंबर २०२६ रोजी अबू धाबी येथे झाली."
+     },
+     {
+      "question": "भारतीय बाजूने १४ वी JDCC बैठकीचे सह-अध्यक्षपद कोणी भूषवले?",
+      "options": [
+       "श्री. राजनाथ सिंग",
+       "श्री. राजेश कुमार सिंग",
+       "लेफ्टनंट जनरल इब्राहिम नासर एम. अल अलावी",
+       "श्री. मोहम्मद बिन मुबारकात फदहेल अल मजरूई"
+      ],
+      "explanation": "भारतीय बाजूने या बैठकीचे सह-अध्यक्षपद संरक्षण सचिव श्री. राजेश कुमार सिंग यांनी भूषवले."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "United Arab Emirates",
+    "short": "UAE",
+    "kind": "country",
+    "indian": false
+   },
+   {
+    "name": "Ministry of Defence",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of United Arab Emirates: Abu Dhabi",
+    "bn": "সংযুক্ত আরব আমিরাত-এর রাজধানী: আবুধাবি",
+    "hi": "संयुक्त अरब अमीरात की राजधानी: अबू धाबी",
+    "mr": "संयुक्त अरब अमिराती ची राजधानी: अबु धाबी"
+   },
+   {
+    "en": "Currency of United Arab Emirates: United Arab Emirates dirham",
+    "bn": "সংযুক্ত আরব আমিরাত-এর মুদ্রা: সংযুক্ত আরব আমিরাতের দিরহাম",
+    "hi": "संयुक्त अरब अमीरात की मुद्रा: यूएई दिरहम",
+    "mr": "संयुक्त अरब अमिराती चे चलन: संयुक्त अरब अमिराती दिरहम"
+   },
+   {
+    "en": "Ministry of Defence was established in 1776",
+    "bn": "প্রতিরক্ষা মন্ত্রণালয় প্রতিষ্ঠিত হয় 1776 সালে",
+    "hi": "रक्षा मंत्रालय की स्थापना: 1776",
+    "mr": "संरक्षण मंत्रालय (भारत) ची स्थापना: 1776"
+   }
+  ]
+ },
+ {
+  "id": "cc0399b3d116",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "bihar",
+  "category": "national",
+  "tags": [
+   "UPSC",
+   "State PSC",
+   "SSC",
+   "WBCS",
+   "Police Bharti"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2341975",
+  "answers": [
+   0,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "National Milk Day 2026 Celebrated in Patna with Key Infrastructure Projects",
+    "one_liner": "National Milk Day 2026 was celebrated in Patna, Bihar, alongside the release of Basic Animal Husbandry Statistics 2026.",
+    "summary": "National Milk Day 2026 was celebrated at Bapu Sabhagar in Patna, Bihar. Union Minister Rajiv Ranjan Singh and Bihar Chief Minister Samrat Choudhary inaugurated dairy infrastructure projects and released the Basic Animal Husbandry Statistics (BAHS) 2026. India's total milk production for 2025-26 is estimated at 253.81 million tonnes. The event also featured the presentation of the National Gopal Ratna Awards 2026 to recognize achievements in the indigenous dairy and livestock sector.",
+    "points": [
+     "National Milk Day 2026 was celebrated in Patna, Bihar, on November 26, 2026.",
+     "India's total milk production is estimated at 253.81 million tonnes for 2025-26 according to BAHS 2026.",
+     "Egg production is estimated at 156.88 billion numbers and total meat production at 10.63 million tonnes.",
+     "Bihar's daily milk production target is set at 1 crore litres, currently producing about 48 lakh litres per day."
+    ],
+    "static_gk": "National Milk Day in India is celebrated on November 26 to mark the birth anniversary of Dr. Verghese Kurien, the Father of the White Revolution.",
+    "mcqs": [
+     {
+      "question": "What is India's estimated total milk production for the year 2025-26 according to BAHS 2026?",
+      "options": [
+       "253.81 million tonnes",
+       "156.88 billion numbers",
+       "10.63 million tonnes",
+       "5.13 million tonnes"
+      ],
+      "explanation": "According to the Basic Animal Husbandry Statistics 2026, India's total milk production is estimated at 253.81 million tonnes."
+     },
+     {
+      "question": "Where was the National Milk Day 2026 main celebration event held?",
+      "options": [
+       "New Delhi",
+       "Patna, Bihar",
+       "Anand, Gujarat",
+       "Varanasi, Uttar Pradesh"
+      ],
+      "explanation": "National Milk Day 2026 was celebrated at Bapu Sabhagar in Patna, Bihar."
+     }
+    ]
+   },
+   "bn": {
+    "title": "গুরুত্বপূর্ণ পরিকাঠামো প্রকল্পের উদ্বোধনের মধ্য দিয়ে পাটনায় জাতীয় দুগ্ধ দিবস ২০২৬ উদযাপিত হল",
+    "one_liner": "মৌলিক পশুপালন পরিসংখ্যান ২০২৬ প্রকাশের পাশাপাশি বিহারের পাটনায় জাতীয় দুগ্ধ দিবস ২০২৬ উদযাপিত হয়েছে।",
+    "summary": "বিহারের পাটনার বাপু সভাগারে জাতীয় দুগ্ধ দিবস ২০২৬ উদযাপিত হয়েছে। কেন্দ্রীয় মন্ত্রী রাজীব রঞ্জন সিং এবং বিহারের মুখ্যমন্ত্রী সমস্ত চৌধুরী দুগ্ধজাত পরিকাঠামো প্রকল্পগুলির উদ্বোধন করেন এবং মৌলিক পশুপালন পরিসংখ্যান (Basic Animal Husbandry Statistics বা BAHS) ২০২৬ প্রকাশ করেন। ২০২৫-২৬ সালের জন্য ভারতের মোট দুধ উৎপাদন অনুমান করা হয়েছে ২৫৩.৮১ মিলিয়ন টন। দেশীয় দুগ্ধ ও পশুপালন খাতে কৃতিত্বকে স্বীকৃতি দেওয়ার জন্য এই অনুষ্ঠানে জাতীয় গোপাল রত্ন পুরস্কার ২০২৬ প্রদান করা হয়।",
+    "points": [
+     "২০২৬ সালের ২৬ নভেম্বর বিহারের পাটনায় জাতীয় দুগ্ধ দিবস ২০২৬ উদযাপিত হয়েছিল।",
+     "বিএএইচএস (BAHS) ২০২৬ অনুযায়ী, ২০২৫-২৬ সালের জন্য ভারতের মোট দুধ উৎপাদন অনুমান করা হয়েছে ২৫৩.৮১ মিলিয়ন টন।",
+     "ডিম উৎপাদন অনুমান করা হয়েছে ১৫৬.৮৮ বিলিয়ন সংখ্যা এবং মোট মাংস উৎপাদন ১০.৬৩ মিলিয়ন টন।",
+     "বিহারের দৈনিক দুধ উৎপাদনের লক্ষ্যমাত্রা ১ কোটি লিটার ধার্য করা হয়েছে, যা বর্তমানে প্রতিদিন প্রায় ৪৮ লাখ লিটার উৎপাদন করছে।"
+    ],
+    "static_gk": "শ্বেত বিপ্লবের জনক ড. ভার্গিস কুরিয়েনের জন্মবার্ষিকী স্মরণে ভারতে প্রতি বছর ২৬ নভেম্বর জাতীয় দুগ্ধ দিবস পালিত হয়।",
+    "mcqs": [
+     {
+      "question": "বিএএইচএস (BAHS) ২০২৬ অনুযায়ী ২০২৫-২৬ সালের জন্য ভারতের আনুমানিক মোট দুধ উৎপাদন কত?",
+      "options": [
+       "253.81 মিলিয়ন টন",
+       "156.88 বিলিয়ন সংখ্যা",
+       "10.63 মিলিয়ন টন",
+       "5.13 মিলিয়ন টন"
+      ],
+      "explanation": "মৌলিক পশুপালন পরিসংখ্যান ২০২৬ অনুযায়ী, ভারতের মোট দুধ উৎপাদন অনুমান করা হয়েছে ২৫৩.৮১ মিলিয়ন টন।"
+     },
+     {
+      "question": "জাতীয় দুগ্ধ দিবস ২০২৬-এর মূল উদযাপনের অনুষ্ঠান কোথায় অনুষ্ঠিত হয়েছিল?",
+      "options": [
+       "নতুন দিল্লি",
+       "পাটনা, বিহার",
+       "আনন্দ, গুজরাট",
+       "বারাণসী, উত্তর প্রদেশ"
+      ],
+      "explanation": "বিহারের পাটনার বাপু সভাগারে জাতীয় দুগ্ধ দিবস ২০২৬ উদযাপিত হয়েছে।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "प्रमुख बुनियादी ढांचा परियोजनाओं के साथ पटना में राष्ट्रीय दुग्ध दिवस 2026 मनाया गया",
+    "one_liner": "बेसिक एनिमल हस्बैंड्री स्टैटिस्टिक्स 2026 के विमोचन के साथ पटना, बिहार में राष्ट्रीय दुग्ध दिवस 2026 मनाया गया।",
+    "summary": "पटना, बिहार के बापू सभागार में राष्ट्रीय दुग्ध दिवस 2026 मनाया गया। केंद्रीय मंत्री राजीव रंजन सिंह और बिहार के उपमुख्यमंत्री सम्राट चौधरी ने डेयरी बुनियादी ढांचा परियोजनाओं का उद्घाटन किया और बेसिक एनिमल हस्बैंड्री स्टैटिस्टिक्स (BAHS) 2026 जारी किया। वर्ष 2025-26 के लिए भारत का कुल दुग्ध उत्पादन 253.81 मिलियन टन होने का अनुमान है। स्वदेशी डेयरी और पशुधन क्षेत्र में उपलब्धियों को मान्यता देने के लिए इस कार्यक्रम में राष्ट्रीय गोपाल रत्न पुरस्कार 2026 भी प्रदान किए गए।",
+    "points": [
+     "राष्ट्रीय दुग्ध दिवस 2026, 26 नवंबर 2026 को पटना, बिहार में मनाया गया।",
+     "BAHS 2026 के अनुसार 2025-26 के लिए भारत का कुल दुग्ध उत्पादन 253.81 मिलियन टन अनुमानित है।",
+     "अंडे का उत्पादन 156.88 अरब संख्या और कुल मांस उत्पादन 10.63 मिलियन टन अनुमानित है।",
+     "बिहार का दैनिक दुग्ध उत्पादन लक्ष्य 1 करोड़ लीटर निर्धारित किया गया है, जो वर्तमान में प्रति दिन लगभग 48 लाख लीटर उत्पादन कर रहा है।"
+    ],
+    "static_gk": "भारत में श्वेत क्रांति के जनक डॉ. वर्गीज कुरियन की जयंती मनाने के लिए 26 नवंबर को राष्ट्रीय दुग्ध दिवस मनाया जाता है।",
+    "mcqs": [
+     {
+      "question": "BAHS 2026 के अनुसार वर्ष 2025-26 के लिए भारत का अनुमानित कुल दुग्ध उत्पादन कितना है?",
+      "options": [
+       "253.81 मिलियन टन",
+       "156.88 अरब संख्या",
+       "10.63 मिलियन टन",
+       "5.13 मिलियन टन"
+      ],
+      "explanation": "बेसिक एनिमल हस्बैंड्री स्टैटिस्टिक्स 2026 के अनुसार, भारत का कुल दुग्ध उत्पादन 253.81 मिलियन टन अनुमानित है।"
+     },
+     {
+      "question": "राष्ट्रीय दुग्ध दिवस 2026 का मुख्य उत्सव कार्यक्रम कहाँ आयोजित किया गया था?",
+      "options": [
+       "नई दिल्ली",
+       "पटना, बिहार",
+       "आणंद, गुजरात",
+       "वाराणसी, उत्तर प्रदेश"
+      ],
+      "explanation": "राष्ट्रीय दुग्ध दिवस 2026 पटना, बिहार के बापू सभागार में मनाया गया।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "प्रमुख पायाभूत सुविधा प्रकल्पांसह पाटण्यात राष्ट्रीय दुग्ध दिन २०२६ साजरा केला",
+    "one_liner": "मूलभूत पशुपूरोधन आकडेवारी २०२६ (Basic Animal Husbandry Statistics 2026) च्या प्रकाशनासह पाटणा, बिहार येथे राष्ट्रीय दुग्ध दिन २०२६ साजरा करण्यात आला.",
+    "summary": "बिहारमधील पाटणा येथील बापू सभागारात राष्ट्रीय दुग्ध दिन २०२६ साजरा करण्यात आला. केंद्रीय मंत्री राजीव रंजन सिंग आणि बिहारचे मुख्यमंत्री सम्राट चौधरी यांनी दुग्धव्यवसाय पायाभूत सुविधा प्रकल्पांचे उद्घाटन केले आणि मूलभूत पशुपूरोधन आकडेवारी (BAHS) २०२६ जाहीर केली. २०२५-२६ साठी भारताचे एकूण दूध उत्पादन २५३.८१ दशलक्ष टन अंदाजित आहे. या कार्यक्रमात स्वदेशी दुग्धव्यवसाय आणि पशुधन क्षेत्रातील उपलब्धी ओळखण्यासाठी राष्ट्रीय गोपाल रत्न पुरस्कार २०२६ चे वितरण देखील करण्यात आले.",
+    "points": [
+     "२६ नोव्हेंबर २०२६ रोजी बिहारमधील पाटणा येथे राष्ट्रीय दुग्ध दिन २०२६ साजरा करण्यात आला.",
+     "BAHS २०२६ नुसार २०२५-२६ साठी भारताचे एकूण दूध उत्पादन २५३.८१ दशलक्ष टन अंदाजित आहे.",
+     "अंडी उत्पादन १५६.८८ अब्ज संख्या आणि एकूण मांस उत्पादन १०.६३ दशलक्ष टन अंदाजित आहे.",
+     "बिहारचे दैनिक दूध उत्पादनाचे लक्ष्य १ कोटी लिटर ठेवण्यात आले आहे, सध्या दररोज सुमारे ४८ लाख लिटर उत्पादन होते."
+    ],
+    "static_gk": "भारतात श्वेतक्रांतीचे जनक डॉ. वर्गीस कुरियन यांच्या जयंतीनिमित्त २६ नोव्हेंबर रोजी राष्ट्रीय दुग्ध दिन साजरा केला जातो.",
+    "mcqs": [
+     {
+      "question": "BAHS २०२६ नुसार वर्ष २०२५-२६ साठी भारताचे अंदाजित एकूण दूध उत्पादन किती आहे?",
+      "options": [
+       "२५३.८१ दशलक्ष टन",
+       "१५६.८८ अब्ज संख्या",
+       "१०.६३ दशलक्ष टन",
+       "५.१३ दशलक्ष टन"
+      ],
+      "explanation": "मूलभूत पशुपूरोधन आकडेवारी २०२६ नुसार, भारताचे एकूण दूध उत्पादन २५३.८१ दशलक्ष टन अंदाजित आहे."
+     },
+     {
+      "question": "राष्ट्रीय दुग्ध दिन २०२६ चा मुख्य सोहळा कुठे आयोजित करण्यात आला होता?",
+      "options": [
+       "नवी दिल्ली",
+       "पाटणा, बिहार",
+       "आनंद, गुजरात",
+       "वाराणसी, उत्तर प्रदेश"
+      ],
+      "explanation": "बिहारमधील पाटणा येथील बापू सभागारात राष्ट्रीय दुग्ध दिन २०२६ साजरा करण्यात आला."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Bihar",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   },
+   {
+    "name": "Ministry of Fisheries, Animal Husbandry and Dairying",
+    "short": "DAHD",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "National Dairy Development Board",
+    "short": "NDDB",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Capital of Bihar: Patna",
+    "bn": "বিহার-এর রাজধানী: পাটনা",
+    "hi": "बिहार की राजधानी: पटना",
+    "mr": "बिहार ची राजधानी: पटना"
+   },
+   {
+    "en": "Headquarters of National Dairy Development Board: Anand",
+    "hi": "राष्ट्रीय डेरी विकास बोर्ड का मुख्यालय: आणंद",
+    "mr": "राष्ट्रीय दुग्धविकास मंडळ चे मुख्यालय: आणंद"
+   },
+   {
+    "en": "National Dairy Development Board was established in 1965",
+    "hi": "राष्ट्रीय डेरी विकास बोर्ड की स्थापना: 1965",
+    "mr": "राष्ट्रीय दुग्धविकास मंडळ ची स्थापना: 1965"
+   }
+  ]
+ },
+ {
+  "id": "170e24bbbe38",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "national",
+  "category": "polity",
+  "tags": [
+   "UPSC",
+   "SSC",
+   "State PSC",
+   "Bank"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342207",
+  "answers": [
+   0,
+   2
+  ],
+  "langs": {
+   "en": {
+    "title": "Pension Reforms Division Tops GRAI Ranking in Group B Category",
+    "one_liner": "The Pension Reforms Division of the Department of Financial Services secured the 1st rank in the Group B category of the GRAI for October 2026.",
+    "summary": "The Pension Reforms Division of the Department of Financial Services secured the 1st rank in the Group B category for ministries or departments registering fewer than 500 grievances in the Grievance Redressal Assessment and Index for October 2026. Released by the Department of Administrative Reforms and Public Grievances, this ranking evaluates ministries on grievance resolution effectiveness and timeliness through the Centralized Public Grievance Redress and Monitoring System.",
+    "points": [
+     "Secured 1st rank in Group B category for October 2026.",
+     "Evaluated by the Department of Administrative Reforms and Public Grievances.",
+     "Assesses effectiveness and timeliness of grievance resolution via CPGRAMS.",
+     "Applies to ministries and departments registering fewer than 500 grievances."
+    ],
+    "static_gk": "The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions.",
+    "mcqs": [
+     {
+      "question": "Which division secured the 1st rank in the Group B category of the GRAI for October 2026?",
+      "options": [
+       "Pension Reforms Division",
+       "Banking Division",
+       "Budget Division",
+       "Investment Division"
+      ],
+      "explanation": "The Pension Reforms Division of the Department of Financial Services secured the 1st rank in the Group B category for October 2026."
+     },
+     {
+      "question": "Which department released the Grievance Redressal Assessment and Index (GRAI) for October 2026?",
+      "options": [
+       "Department of Economic Affairs",
+       "Department of Expenditure",
+       "Department of Administrative Reforms and Public Grievances",
+       "Department of Revenue"
+      ],
+      "explanation": "The GRAI framework is developed and released by the Department of Administrative Reforms and Public Grievances (DARPG)."
+     }
+    ]
+   },
+   "bn": {
+    "title": "গ্রিভান্স রিড্রেসাল অ্যাসেসমেন্ট অ্যান্ড ইনডেক্স (GRAI)-এর গ্রুপ বি বিভাগে পেনশন রিফর্মস ডিভিশন শীর্ষস্থানে",
+    "one_liner": "আর্থিক পরিষেবা বিভাগের পেনশন রিফর্মস ডিভিশন ২০২৬ সালের অক্টোবরের জন্য GRAI-এর গ্রুপ বি বিভাগে ১ম স্থান অর্জন করেছে।",
+    "summary": "আর্থিক পরিষেবা বিভাগের পেনশন রিফর্মস ডিভিশন ২০২৬ সালের অক্টোবরের জন্য গ্রিভান্স রিড্রেসাল অ্যাসেসমেন্ট অ্যান্ড ইনডেক্স (GRAI)-এ ৫০০টির কম অভিযোগ নথিভুক্তকারী মন্ত্রক বা বিভাগগুলির গ্রুপ বি বিভাগে ১ম স্থান অর্জন করেছে। প্রশাসনিক সংস্কার ও জনঅভিযোগ বিভাগ (Department of Administrative Reforms and Public Grievances) দ্বারা প্রকাশিত, এই র‍্যাঙ্কিং কেন্দ্রীয় জনঅভিযোগ নিবারণ ও পর্যবেক্ষণ ব্যবস্থার (CPGRAMS) মাধ্যমে মন্ত্রকগুলির অভিযোগ সমাধানের কার্যকারিতা এবং সময়ানুবর্তিতা মূল্যায়ন করে।",
+    "points": [
+     "২০২৬ সালের অক্টোবরের জন্য গ্রুপ বি বিভাগে ১ম স্থান অর্জন করেছে।",
+     "প্রশাসনিক সংস্কার ও জনঅভিযোগ বিভাগ দ্বারা মূল্যায়ন করা হয়।",
+     "CPGRAMS-এর মাধ্যমে অভিযোগ সমাধানের কার্যকারিতা এবং সময়ানুবর্তিতা মূল্যায়ন করে।",
+     "৫০০টির কম অভিযোগ নথিভুক্তকারী মন্ত্রক এবং বিভাগগুলির ক্ষেত্রে প্রযোজ্য।"
+    ],
+    "static_gk": "প্রশাসনিক সংস্কার ও জনঅভিযোগ বিভাগ কর্মী, জনঅভিযোগ ও পেনশন মন্ত্রকের অধীনে কাজ করে।",
+    "mcqs": [
+     {
+      "question": "কোন বিভাগ ২০২৬ সালের অক্টোবরের জন্য GRAI-এর গ্রুপ বি বিভাগে ১ম স্থান অর্জন করেছে?",
+      "options": [
+       "পেনশন রিফর্মস ডিভিশন",
+       "ব্যাংকিং ডিভিশন",
+       "বাজেট ডিভিশন",
+       "বিনিয়োগ ডিভিশন"
+      ],
+      "explanation": "আর্থিক পরিষেবা বিভাগের পেনশন রিফর্মস ডিভিশন ২০২৬ সালের অক্টোবরের জন্য গ্রুপ বি বিভাগে ১ম স্থান অর্জন করেছে।"
+     },
+     {
+      "question": "কোন বিভাগ ২০২৬ সালের অক্টোবরের গ্রিভান্স রিড্রেসাল অ্যাসেসমেন্ট অ্যান্ড ইনডেক্স (GRAI) প্রকাশ করেছে?",
+      "options": [
+       "অর্থনৈতিক বিষয়ক বিভাগ",
+       "ব্যয় বিভাগ",
+       "প্রশাসনিক সংস্কার ও জনঅভিযোগ বিভাগ",
+       "রাজস্ব বিভাগ"
+      ],
+      "explanation": "GRAI কাঠামোটি প্রশাসনিক সংস্কার ও জনঅভিযোগ বিভাগ (DARPG) দ্বারা বিকশিত এবং প্রকাশিত হয়।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "पेंशन सुधार डिवीजन ने ग्रुप बी श्रेणी में जीआरएआई रैंकिंग में शीर्ष स्थान प्राप्त किया",
+    "one_liner": "वित्तीय सेवा विभाग के पेंशन सुधार डिवीजन ने अक्टूबर 2026 के लिए जीआरएआई की ग्रुप बी श्रेणी में पहला रैंक हासिल किया।",
+    "summary": "वित्तीय सेवा विभाग के पेंशन सुधार डिवीजन ने अक्टूबर 2026 के लिए शिकायत निवारण मूल्यांकन और सूचकांक (Grievance Redressal Assessment and Index - GRAI) में 500 से कम शिकायतें दर्ज करने वाले मंत्रालयों या विभागों के लिए ग्रुप बी श्रेणी में पहला रैंक हासिल किया। प्रशासनिक सुधार और लोक शिकायत विभाग (Department of Administrative Reforms and Public Grievances) द्वारा जारी यह रैंकिंग केंद्रीकृत लोक शिकायत निवारण और निगरानी प्रणाली (Centralized Public Grievance Redress and Monitoring System) के माध्यम से शिकायत समाधान की प्रभावशीलता और समयबद्धता पर मंत्रालयों का मूल्यांकन करती है।",
+    "points": [
+     "अक्टूबर 2026 के लिए ग्रुप बी श्रेणी में पहला रैंक हासिल किया।",
+     "प्रशासनिक सुधार और लोक शिकायत विभाग द्वारा मूल्यांकन किया गया।",
+     "CPGRAMS के माध्यम से शिकायत समाधान की प्रभावशीलता और समयबद्धता का आकलन करता है।",
+     "500 से कम शिकायतें दर्ज करने वाले मंत्रालयों और विभागों पर लागू होता है।"
+    ],
+    "static_gk": "प्रशासनिक सुधार और लोक शिकायत विभाग कार्मिक, लोक शिकायत और पेंशन मंत्रालय के अधीन कार्य करता है।",
+    "mcqs": [
+     {
+      "question": "अक्टूबर 2026 के लिए GRAI की ग्रुप बी श्रेणी में किस डिवीजन ने पहला रैंक हासिल किया?",
+      "options": [
+       "पेंशन सुधार डिवीजन (Pension Reforms Division)",
+       "बैंकिंग डिवीजन (Banking Division)",
+       "बजट डिवीजन (Budget Division)",
+       "इन्वेस्टमेंट डिवीजन (Investment Division)"
+      ],
+      "explanation": "वित्तीय सेवा विभाग के पेंशन सुधार डिवीजन ने अक्टूबर 2026 के लिए ग्रुप बी श्रेणी में पहला रैंक हासिल किया।"
+     },
+     {
+      "question": "किस विभाग ने अक्टूबर 2026 के लिए शिकायत निवारण मूल्यांकन और सूचकांक (GRAI) जारी किया?",
+      "options": [
+       "आर्थिक मामलों का विभाग (Department of Economic Affairs)",
+       "व्यय विभाग (Department of Expenditure)",
+       "प्रशासनिक सुधार और लोक शिकायत विभाग (Department of Administrative Reforms and Public Grievances)",
+       "राजस्व विभाग (Department of Revenue)"
+      ],
+      "explanation": "GRAI ढांचा प्रशासनिक सुधार और लोक शिकायत विभाग (DARPG) द्वारा विकसित और जारी किया जाता है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "पेन्शन रिफॉर्म्स डिव्हिजनने गट 'ब' श्रेणीत जीआरएआय (GRAI) क्रमवारीत मिळवले प्रथम स्थान",
+    "one_liner": "ऑक्टोबर 2026 साठीच्या तक्रार निवारण मूल्यमापन आणि निर्देशांक (Grievance Redressal Assessment and Index - GRAI) मधील गट 'ब' श्रेणीत आर्थिक सेवा विभागाच्या (Department of Financial Services) पेन्शन रिफॉर्म्स डिव्हिजनने 1 ले स्थान पटकावले आहे.",
+    "summary": "ऑक्टोबर 2026 साठीच्या तक्रार निवारण मूल्यमापन आणि निर्देशांकात (Grievance Redressal Assessment and Index - GRAI), 500 पेक्षा कमी तक्रारी नोंदवणाऱ्या मंत्रालये किंवा विभागांच्या गट 'ब' श्रेणीत आर्थिक सेवा विभागाच्या पेन्शन रिफॉर्म्स डिव्हिजनने 1 ले स्थान मिळवले आहे. प्रशासकीय सुधारणा आणि सार्वजनिक तक्रार विभाग (Department of Administrative Reforms and Public Grievances - DARPG) द्वारे जारी केलेली ही क्रमवारी, केंद्रीय सार्वजनिक तक्रार निवारण आणि मॉनिटरिंग सिस्टमद्वारे (Centralized Public Grievance Redress and Monitoring System - CPGRAMS) तक्रार निवारणाची परिणामकारकता आणि वेळेवर केलेल्या कारवाईचे मूल्यमापन करते.",
+    "points": [
+     "ऑक्टोबर 2026 साठी गट 'ब' श्रेणीत 1 ले स्थान मिळवले.",
+     "प्रशासकीय सुधारणा आणि सार्वजनिक तक्रार विभागाद्वारे (Department of Administrative Reforms and Public Grievances) मूल्यमापन.",
+     "CPGRAMS द्वारे तक्रार निवारणाची परिणामकारकता आणि वेळेवर कारवाईचे मूल्यांकन.",
+     "500 पेक्षा कमी तक्रारी नोंदवणाऱ्या मंत्रालये आणि विभागांना लागू."
+    ],
+    "static_gk": "प्रशासकीय सुधारणा आणि सार्वजनिक तक्रार विभाग (Department of Administrative Reforms and Public Grievances) हा कार्मिक, सार्वजनिक तक्रारी आणि पेन्शन मंत्रालयांतर्गत (Ministry of Personnel, Public Grievances and Pensions) कार्य करतो.",
+    "mcqs": [
+     {
+      "question": "ऑक्टोबर 2026 साठीच्या GRAI च्या गट 'ब' श्रेणीत कोणत्या विभागाने 1 ले स्थान पटकावले?",
+      "options": [
+       "पेन्शन रिफॉर्म्स डिव्हिजन (Pension Reforms Division)",
+       "बँकिंग विभाग (Banking Division)",
+       "बजेट विभाग (Budget Division)",
+       "गुंतवणूक विभाग (Investment Division)"
+      ],
+      "explanation": "आर्थिक सेवा विभागाच्या पेन्शन रिफॉर्म्स डिव्हिजनने ऑक्टोबर 2026 साठी गट 'ब' श्रेणीत 1 ले स्थान मिळवले."
+     },
+     {
+      "question": "ऑक्टोबर 2026 साठीचा तक्रार निवारण मूल्यमापन आणि निर्देशांक (GRAI) कोणत्या विभागाने जारी केला?",
+      "options": [
+       "आर्थिक व्यवहार विभाग (Department of Economic Affairs)",
+       "खर्च विभाग (Department of Expenditure)",
+       "प्रशासकीय सुधारणा आणि सार्वजनिक तक्रार विभाग (Department of Administrative Reforms and Public Grievances)",
+       "महसूल विभाग (Department of Revenue)"
+      ],
+      "explanation": "GRAI चौकट प्रशासकीय सुधारणा आणि सार्वजनिक तक्रार विभाग (DARPG) द्वारे विकसित आणि जारी केली जाते."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Department of Financial Services",
+    "short": "DFS",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Department of Administrative Reforms and Public Grievances",
+    "short": "DARPG",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Ministry of Finance",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": []
+ },
+ {
+  "id": "fdcba254a182",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "west_bengal",
+  "category": "national",
+  "tags": [
+   "UPSC",
+   "SSC",
+   "State PSC",
+   "WBCS"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342122",
+  "answers": [
+   1,
+   2
+  ],
+  "langs": {
+   "en": {
+    "title": "Nitin Gadkari Announces National Highway Projects for West Bengal",
+    "one_liner": "Union Minister Nitin Gadkari announced road infrastructure projects worth approximately Rs 75,000 crore for West Bengal.",
+    "summary": "Union Minister for Road Transport & Highways Nitin Gadkari inaugurated and laid foundation stones for 22 National Highway projects worth over Rs 8,700 crore at Kolaghat, East Medinipur, West Bengal. He announced a pipeline of road infrastructure projects worth approximately Rs 75,000 crore for the state, including the Rs 14,000-crore Kolkata Ring Road, the Rs 20,000-crore Dankuni-Kolaghat Eight-Lane Corridor, and the Moregram-Kishanganj High-Speed Corridor.",
+    "points": [
+     "Inaugurated and laid foundation stones for 22 National Highway projects worth over Rs 8,700 crore.",
+     "Announced pipeline of road infrastructure projects worth approximately Rs 75,000 crore for West Bengal.",
+     "Includes the Rs 14,000-crore Kolkata Ring Road and the Rs 20,000-crore Dankuni-Kolaghat Eight-Lane Corridor.",
+     "Event held at Kolaghat, East Medinipur, West Bengal."
+    ],
+    "static_gk": "Union Minister Nitin Gadkari holds the portfolio for the Ministry of Road Transport and Highways.",
+    "mcqs": [
+     {
+      "question": "What is the estimated cost of the proposed Kolkata Ring Road announced for West Bengal?",
+      "options": [
+       "Rs 8,700 crore",
+       "Rs 14,000 crore",
+       "Rs 20,000 crore",
+       "Rs 75,000 crore"
+      ],
+      "explanation": "The 250-km Kolkata Ring Road is estimated to cost Rs 14,000 crore."
+     },
+     {
+      "question": "Where were the 22 National Highway projects worth over Rs 8,700 crore inaugurated?",
+      "options": [
+       "Kolkata",
+       "Dankuni",
+       "Kolaghat",
+       "Siliguri"
+      ],
+      "explanation": "The projects were inaugurated and foundation stones laid at Kolaghat, East Medinipur, West Bengal."
+     }
+    ]
+   },
+   "bn": {
+    "title": "নীতিন গড়কড়ী পশ্চিমবঙ্গবাসীর জন্য জাতীয় মহাসড়ক প্রকল্পের ঘোষণা করলেন",
+    "one_liner": "কেন্দ্রীয় মন্ত্রী নীতিন গড়কড়ী পশ্চিমবঙ্গের জন্য প্রায় ৭৫,০০০ কোটি টাকার সড়ক পরিকাঠামো প্রকল্পের ঘোষণা করেছেন।",
+    "summary": "সড়ক পরিবহন ও হাইওয়ে বিষয়ক কেন্দ্রীয় মন্ত্রী নীতিন গড়কড়ী পশ্চিমবঙ্গের পূর্ব মেদিনীপুরের কোলাঘাটে ৮,৭০০ কোটি টাকারও বেশি মূল্যের ২২টি জাতীয় মহাসড়ক প্রকল্পের উদ্বোধন এবং ভিত্তিপ্রস্তর স্থাপন করেছেন। তিনি রাজ্যের জন্য প্রায় ৭৫,০০০ কোটি টাকার সড়ক পরিকাঠামো প্রকল্পের পাইপলাইনের ঘোষণা করেছেন, যার মধ্যে রয়েছে ১৪,০০০ কোটি টাকার কলকাতা রিং রোড, ২০,০০০ কোটি টাকার ডানকুনি-কোলাঘাট আট-লেন করিডোর এবং মোরগ্রাম-কিশানগঞ্জ হাই-স্পিড করিডোর।",
+    "points": [
+     "৮,৭০০ কোটি টাকারও বেশি মূল্যের ২২টি জাতীয় মহাসড়ক প্রকল্পের উদ্বোধন এবং ভিত্তিপ্রস্তর স্থাপন করা হয়েছে।",
+     "পশ্চিমবঙ্গের জন্য প্রায় ৭৫,০০০ কোটি টাকার সড়ক পরিকাঠামো প্রকল্পের পাইপলাইনের ঘোষণা করা হয়েছে।",
+     "এর মধ্যে রয়েছে ১৪,০০০ কোটি টাকার কলকাতা রিং রোড এবং ২০,০০০ কোটি টাকার ডানকুনি-কোলাঘাট আট-লেন করিডোর।",
+     "অনুষ্ঠানটি পশ্চিমবঙ্গের পূর্ব মেদিনীপুরের কোলাঘাটে অনুষ্ঠিত হয়েছিল।"
+    ],
+    "static_gk": "কেন্দ্রীয় মন্ত্রী নীতিন গড়কড়ী সড়ক পরিবহন এবং মহাসড়ক মন্ত্রকের দায়িত্বে রয়েছেন।",
+    "mcqs": [
+     {
+      "question": "পশ্চিমবঙ্গের জন্য প্রস্তাবিত কলকাতা রিং রোডের আনুমানিক ব্যয় কত?",
+      "options": [
+       "৮,৭০০ কোটি টাকা",
+       "১৪,০০০ কোটি টাকা",
+       "২০,০০০ কোটি টাকা",
+       "৭৫,০০০ কোটি টাকা"
+      ],
+      "explanation": "২৫০ কিলোমিটার দীর্ঘ কলকাতা রিং রোডের আনুমানিক ব্যয় ধরা হয়েছে ১৪,০০০ কোটি টাকা।"
+     },
+     {
+      "question": "৮,৭০০ কোটি টাকারও বেশি মূল্যের ২২টি জাতীয় মহাসড়ক প্রকল্পের উদ্বোধন কোথায় করা হয়েছিল?",
+      "options": [
+       "কলকাতা",
+       "ডানকুনি",
+       "কোলাঘাট",
+       "শিলিগুড়ি"
+      ],
+      "explanation": "পশ্চিমবঙ্গের পূর্ব মেদিনীপুরের কোলাঘাটে প্রকল্পগুলির উদ্বোধন ও ভিত্তিপ্রস্তর স্থাপন করা হয়েছিল।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "नितिन गडकरी ने पश्चिम बंगाल के लिए राष्ट्रीय राजमार्ग परियोजनाओं की घोषणा की",
+    "one_liner": "केंद्रीय मंत्री नितिन गडकरी ने पश्चिम बंगाल के लिए लगभग 75,000 करोड़ रुपये की सड़क बुनियादी ढांचा परियोजनाओं की घोषणा की।",
+    "summary": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने पश्चिम बंगाल के पूर्व मेदिनीपुर के कोलाघाट में 8,700 करोड़ रुपये से अधिक की 22 राष्ट्रीय राजमार्ग परियोजनाओं का उद्घाटन किया और उनकी आधारशिला रखी। उन्होंने राज्य के लिए लगभग 75,000 करोड़ रुपये की सड़क बुनियादी ढांचा परियोजनाओं की एक पाइपलाइन की घोषणा की, जिसमें 14,000 करोड़ रुपये की कोलकाता रिंग रोड, 20,000 करोड़ रुपये का डांकुनी-कोलाघाट आठ-लेन कॉरिडोर और मोरेग्राम-किशनगंज हाई-स्पीड कॉरिडोर शामिल हैं।",
+    "points": [
+     "8,700 करोड़ रुपये से अधिक की 22 राष्ट्रीय राजमार्ग परियोजनाओं का उद्घाटन किया और आधारशिला रखी।",
+     "पश्चिम बंगाल के लिए लगभग 75,000 करोड़ रुपये की सड़क बुनियादी ढांचा परियोजनाओं की पाइपलाइन की घोषणा की।",
+     "इसमें 14,000 करोड़ रुपये की कोलकाता रिंग रोड और 20,000 करोड़ रुपये का डांकुनी-कोलाघाट आठ-लेन कॉरिडोर शामिल है।",
+     "कार्यक्रम कोलाघाट, पूर्व मेदिनीपुर, पश्चिम बंगाल में आयोजित किया गया।"
+    ],
+    "static_gk": "केंद्रीय मंत्री नितिन गडकरी सड़क परिवहन और राजमार्ग मंत्रालय का पदभार संभालते हैं।",
+    "mcqs": [
+     {
+      "question": "पश्चिम बंगाल के लिए घोषित प्रस्तावित कोलकाता रिंग रोड की अनुमानित लागत क्या है?",
+      "options": [
+       "8,700 करोड़ रुपये",
+       "14,000 करोड़ रुपये",
+       "20,000 करोड़ रुपये",
+       "75,000 करोड़ रुपये"
+      ],
+      "explanation": "250 किमी लंबी कोलकाता रिंग रोड की अनुमानित लागत 14,000 करोड़ रुपये है।"
+     },
+     {
+      "question": "8,700 करोड़ रुपये से अधिक की 22 राष्ट्रीय राजमार्ग परियोजनाओं का उद्घाटन कहाँ किया गया?",
+      "options": [
+       "कोलकाता",
+       "डांकुनी",
+       "कोलाघाट",
+       "सिलिगुड़ी"
+      ],
+      "explanation": "पश्चिम बंगाल के पूर्व मेदिनीपुर के कोलाघाट में परियोजनाओं का उद्घाटन किया गया और आधारशिला रखी गई।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "नितीन गडकरी यांनी पश्चिम बंगालसाठी राष्ट्रीय महामार्ग प्रकल्पांची केली घोषणा",
+    "one_liner": "केंद्रीय मंत्री नितीन गडकरी यांनी पश्चिम बंगालसाठी अंदाजे 75,000 कोटी रुपयांच्या रस्ते पायाभूत सुविधा प्रकल्पांची घोषणा केली.",
+    "summary": "रस्ते वाहतूक आणि महामार्ग केंद्रीय मंत्री नितीन गडकरी यांनी पश्चिम बंगालमधील पूर्व मेदिनीपूरमधील कोलाघाट येथे 8,700 कोटी रुपयांपेक्षा जास्त मूल्याच्या 22 राष्ट्रीय महामार्ग प्रकल्पांचे उद्घाटन केले आणि पायाभरणी केली. त्यांनी राज्यासाठी अंदाजे 75,000 कोटी रुपयांच्या रस्ते पायाभूत सुविधा प्रकल्पांची घोषणा केली, ज्यामध्ये 14,000 कोटी रुपयांचा कोलकाता रिंग रोड (Kolkata Ring Road), 20,000 कोटी रुपयांचा डंकुनी-कोलाघाट आठ पदरी कॉरिडोर (Dankuni-Kolaghat Eight-Lane Corridor) आणि मोरेग्राम-किशनगंज हाय-स्पीड कॉरिडोर (Moregram-Kishanganj High-Speed Corridor) यांचा समावेश आहे.",
+    "points": [
+     "8,700 कोटी रुपयांपेक्षा जास्त किमतीच्या 22 राष्ट्रीय महामार्ग प्रकल्पांचे उद्घाटन व पायाभरणी.",
+     "पश्चिम बंगालसाठी अंदाजे 75,000 कोटी रुपयांच्या रस्ते पायाभूत सुविधा प्रकल्पांच्या घोषणेची पाइपलाइन.",
+     "14,000 कोटी रुपयांचा कोलकाता रिंग रोड आणि 20,000 कोटी रुपयांचा डंकुनी-कोलाघाट आठ पदरी कॉरिडोर यांचा समावेश.",
+     "पश्चिम बंगालमधील पूर्व मेदिनीपूर, कोलाघाट येथे कार्यक्रम आयोजित."
+    ],
+    "static_gk": "केंद्रीय मंत्री नितीन गडकरी हे रस्ते वाहतूक आणि महामार्ग मंत्रालयाचा पदभार सांभाळतात.",
+    "mcqs": [
+     {
+      "question": "पश्चिम बंगालसाठी घोषित केलेल्या प्रस्तावित कोलकाता रिंग रोडचा अंदाजे खर्च किती आहे?",
+      "options": [
+       "8,700 कोटी रुपये",
+       "14,000 कोटी रुपये",
+       "20,000 कोटी रुपये",
+       "75,000 कोटी रुपये"
+      ],
+      "explanation": "250 किमी लांबीच्या कोलकाता रिंग रोडचा अंदाजे खर्च 14,000 कोटी रुपये आहे."
+     },
+     {
+      "question": "8,700 कोटी रुपयांपेक्षा जास्त किमतीच्या 22 राष्ट्रीय महामार्ग प्रकल्पांचे उद्घाटन कुठे करण्यात आले?",
+      "options": [
+       "कोलकाता",
+       "डंकुनी",
+       "कोलाघाट",
+       "सिलिगुडी"
+      ],
+      "explanation": "पश्चिम बंगालमधील पूर्व मेदिनीपूरमधील कोलाघाट येथे प्रकल्पांचे उद्घाटन करण्यात आले आणि पायाभरणी करण्यात आली."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "National Highways Authority of India",
+    "short": "NHAI",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Ministry of Road Transport and Highways",
+    "short": "MoRTH",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": []
+ },
+ {
+  "id": "e40e99b285ad",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "jammu_kashmir",
+  "category": "awards",
+  "tags": [
+   "UPSC",
+   "SSC",
+   "State PSC",
+   "Police Bharti"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342012",
+  "answers": [
+   0,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "CSIR-IIIM Jammu Wins DIDAC India Award 2026",
+    "one_liner": "CSIR-IIIM Jammu was conferred as Pioneering Institute of the Year in Skills and Higher Education at the DIDAC India Awards 2026.",
+    "summary": "CSIR-Indian Institute of Integrative Medicine, Jammu, won the DIDAC India Awards 2026 in the category of Pioneering Institution of the Year - Higher Education & Skills. The institute was also recognized as a Torchbearer in Higher Education & Skills during the event held from November 25 to 27 in Bengaluru. The recognition highlights its contribution to skill development, industry-oriented education, and experiential learning under the CSIR Integrated Skill Initiative.",
+    "points": [
+     "Conferred Pioneering Institute of the Year in Skills & Higher Education at DIDAC India Awards 2026.",
+     "Recognized also as a Torchbearer in Higher Education & Skills.",
+     "DIDAC India 2026 program held from November 25-27 in Bengaluru.",
+     "Honoured for contributions under the CSIR Integrated Skill Initiative."
+    ],
+    "static_gk": "CSIR-Indian Institute of Integrative Medicine is located in Jammu, Jammu and Kashmir.",
+    "mcqs": [
+     {
+      "question": "Which institute won the Pioneering Institution of the Year - Higher Education & Skills at the DIDAC India Awards 2026?",
+      "options": [
+       "CSIR-IIIM, Jammu",
+       "CSIR-NCL, Pune",
+       "CSIR-NEERI, Nagpur",
+       "CSIR-CDRI, Lucknow"
+      ],
+      "explanation": "CSIR-Indian Institute of Integrative Medicine (CSIR-IIIM), Jammu, won the DIDAC India Awards 2026 in the higher education and skills category."
+     },
+     {
+      "question": "Where was the DIDAC India 2026 programme held?",
+      "options": [
+       "New Delhi",
+       "Bengaluru",
+       "Chennai",
+       "Jammu"
+      ],
+      "explanation": "The DIDAC India 2026 programme was held from 25-27 November in Bengaluru."
+     }
+    ]
+   },
+   "bn": {
+    "title": "CSIR-IIIM জম্মু DIDAC ইন্ডিয়া অ্যাওয়ার্ড ২০২৬ জিতেছে",
+    "one_liner": "CSIR-IIIM জম্মু DIDAC ইন্ডিয়া অ্যাওয়ার্ডস ২০২৬-এ দক্ষতা এবং উচ্চশিক্ষার ক্ষেত্রে পাইওনিয়ারিং ইনস্টিটিউট অফ দ্য ইয়ার সম্মানে ভূষিত হয়েছে।",
+    "summary": "সিএসআইআর-ইন্ডিয়ান ইনস্টিটিউট অফ ইন্টিগ্রেটিভ মেডিসিন (CSIR-Indian Institute of Integrative Medicine), জম্মু, উচ্চ শিক্ষা এবং দক্ষতার ক্ষেত্রে পাইওনিয়ারিং ইনস্টিটিউশন অফ দ্য ইয়ার বিভাগে DIDAC ইন্ডিয়া অ্যাওয়ার্ডস ২০২৬ জিতেছে। বেঙ্গালুরুতে ২৫ থেকে ২৭ নভেম্বর অনুষ্ঠিত ইভেন্টের সময় এই প্রতিষ্ঠানটিকে উচ্চশিক্ষা ও দক্ষতার ক্ষেত্রে একটি টর্চবেয়ারার হিসেবেও স্বীকৃতি দেওয়া হয়। সিএসআইআর ইন্টিগ্রেটেড স্কিল ইনিশিয়েটিভের অধীনে দক্ষতা বিকাশ, শিল্পমুখী শিক্ষা এবং প্রায়োগিক শিক্ষায় এর অবদানের জন্য এই স্বীকৃতি প্রদান করা হয়েছে।",
+    "points": [
+     "DIDAC ইন্ডিয়া অ্যাওয়ার্ডস ২০২৬-এ দক্ষতা এবং উচ্চশিক্ষার ক্ষেত্রে পাইওনিয়ারিং ইনস্টিটিউট অফ দ্য ইয়ার খেতাব দেওয়া হয়েছে।",
+     "উচ্চশিক্ষা ও দক্ষতার ক্ষেত্রে টর্চবেয়ারার হিসেবেও স্বীকৃতি দেওয়া হয়েছে।",
+     "DIDAC ইন্ডিয়া ২০২৬ প্রোগ্রামটি ২৫-২৭ নভেম্বর বেঙ্গালুরুতে অনুষ্ঠিত হয়েছিল।",
+     "CSIR ইন্টিগ্রেটেড স্কিল ইনিশিয়েটিভের অধীনে অবদানের জন্য সম্মানিত করা হয়েছে।"
+    ],
+    "static_gk": "সিএসআইআর-ইন্ডিয়ান ইনস্টিটিউট অফ ইন্টিগ্রেটিভ মেডিসিন জম্মু ও কাশ্মীরের জম্মুতে অবস্থিত।",
+    "mcqs": [
+     {
+      "question": "DIDAC ইন্ডিয়া অ্যাওয়ার্ডস ২০২৬-এ উচ্চ শিক্ষা ও দক্ষতার ক্ষেত্রে কোন প্রতিষ্ঠান পাইওনিয়ারিং ইনস্টিটিউশন অফ দ্য ইয়ার জিতেছে?",
+      "options": [
+       "CSIR-IIIM, জম্মু",
+       "CSIR-NCL, পুনে",
+       "CSIR-NEERI, নাগপুর",
+       "CSIR-CDRI, লখনউ"
+      ],
+      "explanation": "জম্মুর সিএসআইআর-ইন্ডিয়ান ইনস্টিটিউট অফ ইন্টিগ্রেটিভ মেডিসিন (CSIR-IIIM) উচ্চশিক্ষা ও দক্ষতা বিভাগে DIDAC ইন্ডিয়া অ্যাওয়ার্ডস ২০২৬ জিতেছে।"
+     },
+     {
+      "question": "DIDAC ইন্ডিয়া ২০২৬ প্রোগ্রাম কোথায় অনুষ্ঠিত হয়েছিল?",
+      "options": [
+       "নয়াদিল্লি",
+       "বেঙ্গালুরু",
+       "চেন্নাই",
+       "জম্মু"
+      ],
+      "explanation": "DIDAC ইন্ডিয়া ২০২৬ প্রোগ্রামটি ২৫-২৭ নভেম্বর বেঙ্গালুরুতে অনুষ্ঠিত হয়েছিল।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "CSIR-IIIM जम्मू ने DIDAC इंडिया पुरस्कार 2026 जीता",
+    "one_liner": "सीएसआईआर-आईआईआईएम जम्मू को DIDAC इंडिया अवार्ड्स 2026 में कौशल और उच्च शिक्षा में अग्रणी संस्थान (Pioneering Institute of the Year in Skills and Higher Education) से सम्मानित किया गया।",
+    "summary": "सीएसआईआर-भारतीय समेकित औषधि संस्थान (CSIR-Indian Institute of Integrative Medicine), जम्मू ने उच्च शिक्षा और कौशल - वर्ष के अग्रणी संस्थान की श्रेणी में DIDAC इंडिया अवार्ड्स 2026 जीता। बेंगलुरु में 25 से 27 नवंबर तक आयोजित कार्यक्रम के दौरान संस्थान को उच्च शिक्षा और कौशल में टॉर्चबेयरर (Torchbearer) के रूप में भी मान्यता दी गई। यह मान्यता सीएसआईआर इंटीग्रेटेड स्किल इनिशिएटिव के तहत कौशल विकास, उद्योग-उन्मुख शिक्षा और अनुभवात्मक सीखने में इसके योगदान को उजागर करती है।",
+    "points": [
+     "DIDAC इंडिया अवार्ड्स 2026 में कौशल और उच्च शिक्षा में अग्रणी संस्थान से सम्मानित किया गया।",
+     "उच्च शिक्षा और कौशल में टॉर्चबेयरर के रूप में भी मान्यता प्राप्त हुई।",
+     "DIDAC इंडिया 2026 कार्यक्रम 25-27 नवंबर तक बेंगलुरु में आयोजित किया गया।",
+     "सीएसआईआर इंटीग्रेटेड स्किल इनिशिएटिव के तहत योगदान के लिए सम्मानित किया गया।"
+    ],
+    "static_gk": "सीएसआईआर-भारतीय समेकित औषधि संस्थान जम्मू, जम्मू और कश्मीर में स्थित है।",
+    "mcqs": [
+     {
+      "question": "DIDAC इंडिया अवार्ड्स 2026 में किस संस्थान ने वर्ष का अग्रणी संस्थान - उच्च शिक्षा और कौशल जीता?",
+      "options": [
+       "सीएसआईआर-आईआईआईएम, जम्मू (CSIR-IIIM, Jammu)",
+       "सीएसआईआर-एनसीएल, पुणे (CSIR-NCL, Pune)",
+       "सीएसआईआर-नीरी, नागपुर (CSIR-NEERI, Nagpur)",
+       "सीएसआईआर-सीडीआरआई, लखनऊ (CSIR-CDRI, Lucknow)"
+      ],
+      "explanation": "सीएसआईआर-भारतीय समेकित औषधि संस्थान (CSIR-IIIM), जम्मू ने उच्च शिक्षा और कौशल श्रेणी में DIDAC इंडिया अवार्ड्स 2026 जीता।"
+     },
+     {
+      "question": "DIDAC इंडिया 2026 कार्यक्रम कहाँ आयोजित किया गया था?",
+      "options": [
+       "नई दिल्ली",
+       "बेंगलुरु",
+       "चेन्नई",
+       "जम्मू"
+      ],
+      "explanation": "DIDAC इंडिया 2026 कार्यक्रम 25-27 नवंबर तक बेंगलुरु में आयोजित किया गया था।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "CSIR-IIIM जम्मूने जिंकला DIDAC इंडिया पुरस्कार 2026",
+    "one_liner": "CSIR-IIIM जम्मू यांना DIDAC इंडिया पुरस्कार 2026 मध्ये 'कौशल्य आणि उच्च शिक्षणातील पायनियरिंग इन्स्टिट्यूट' म्हणून गौरविण्यात आले.",
+    "summary": "CSIR-इंडियन इन्स्टिट्यूट ऑफ इंटिग्रेटिव्ह मेडिसिन (CSIR-Indian Institute of Integrative Medicine - CSIR-IIIM), जम्मू, यांनी 'उच्च शिक्षण आणि कौशल्य श्रेणीतील वर्षातील पायनियरिंग इन्स्टिट्यूशन' साठी DIDAC इंडिया अवॉर्ड्स 2026 जिंकला. 25 ते 27 नोव्हेंबर दरम्यान बंगळुरू येथे झालेल्या कार्यक्रमादरम्यान या संस्थेला उच्च शिक्षण आणि कौशल्यातील 'टॉर्चबेयरर' म्हणूनही मान्यता देण्यात आली. हा सन्मान CSIR एकात्मिक कौशल्य उपक्रमांतर्गत (CSIR Integrated Skill Initiative) कौशल्य विकास, उद्योग-भिमुख शिक्षण आणि अनुभवात्मक शिक्षणातील योगदानावर प्रकाश टाकतो.",
+    "points": [
+     "DIDAC इंडिया पुरस्कार 2026 मध्ये कौशल्य आणि उच्च शिक्षणात 'पायोनियरिंग इन्स्टिट्यूट ऑफ द इयर' प्रदान.",
+     "उच्च शिक्षण आणि कौशल्यांमध्ये 'टॉर्चबेयरर' म्हणूनही मान्यता.",
+     "DIDAC इंडिया 2026 कार्यक्रम 25-27 नोव्हेंबर दरम्यान बंगळुरू येथे आयोजित.",
+     "CSIR एकात्मिक कौशल्य उपक्रमांतर्गत (CSIR Integrated Skill Initiative) योगदानाबद्दल सन्मानित."
+    ],
+    "static_gk": "CSIR-इंडियन इन्स्टिट्यूट ऑफ इंटिग्रेटिव्ह मेडिसिन हे जम्मू आणि कश्मीरमधील जम्मू येथे स्थित आहे.",
+    "mcqs": [
+     {
+      "question": "DIDAC इंडिया अवॉर्ड्स 2026 मध्ये 'पायोनियरिंग इन्स्टिट्यूशन ऑफ द इयर - हायर एज्युकेशन अँड स्किल्स' कोणत्या संस्थेने जिंकले?",
+      "options": [
+       "CSIR-IIIM, जम्मू",
+       "CSIR-NCL, पुणे",
+       "CSIR-NEERI, नागपूर",
+       "CSIR-CDRI, लखनौ"
+      ],
+      "explanation": "CSIR-इंडियन इन्स्टिट्यूट ऑफ इंटिग्रेटिव्ह मेडिसिन (CSIR-IIIM), जम्मू यांनी उच्च शिक्षण आणि कौशल्य श्रेणीत DIDAC इंडिया पुरस्कार 2026 जिंकला."
+     },
+     {
+      "question": "DIDAC इंडिया 2026 कार्यक्रम कुठे आयोजित करण्यात आला होता?",
+      "options": [
+       "नवी दिल्ली",
+       "बंगळुरू",
+       "चेन्नई",
+       "जम्मू"
+      ],
+      "explanation": "DIDAC इंडिया 2026 कार्यक्रम 25-27 नोव्हेंबर दरम्यान बंगळुरू येथे आयोजित करण्यात आला होता."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "CSIR-Indian Institute of Integrative Medicine",
+    "short": "CSIR-IIIM",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Council of Scientific and Industrial Research",
+    "short": "CSIR",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of Council of Scientific and Industrial Research: New Delhi",
+    "bn": "বৈজ্ঞানিক তথা আয়োগিক অনুসন্ধান পরিষদ-এর সদর দপ্তর: নয়াদিল্লি",
+    "hi": "वैज्ञानिक एवं औद्योगिक अनुसंधान परिषद का मुख्यालय: नई दिल्ली",
+    "mr": "वैज्ञानिक आणि औद्योगिक संशोधन महामंडळ चे मुख्यालय: नवी दिल्ली"
+   },
+   {
+    "en": "Council of Scientific and Industrial Research was established in 1942",
+    "bn": "বৈজ্ঞানিক তথা আয়োগিক অনুসন্ধান পরিষদ প্রতিষ্ঠিত হয় 1942 সালে",
+    "hi": "वैज्ञानिक एवं औद्योगिक अनुसंधान परिषद की स्थापना: 1942",
+    "mr": "वैज्ञानिक आणि औद्योगिक संशोधन महामंडळ ची स्थापना: 1942"
+   }
+  ]
+ },
+ {
+  "id": "c66759b8c463",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "tamil_nadu",
+  "category": "national",
+  "tags": [
+   "UPSC",
+   "SSC",
+   "State PSC",
+   "Railways"
+  ],
+  "source_name": "PIB Chennai",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342227",
+  "answers": [
+   2,
+   0
+  ],
+  "langs": {
+   "en": {
+    "title": "6th India Internet Governance Forum 2026 at IIT Madras",
+    "one_liner": "The 6th annual session of the India Internet Governance Forum 2026 is scheduled for November 30 at IIT Madras.",
+    "summary": "The 6th annual session of the India Internet Governance Forum 2026 will take place on November 30, 2026, at Indian Institute of Technology Madras in Chennai. The theme for this year is Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet. Discussions will focus on India's AI journey, Digital Public Infrastructure, and keeping users connected and safe, featuring delegates from government, private companies, civil society, and academia.",
+    "points": [
+     "6th annual session of IIGF to be held on November 30, 2026.",
+     "Hosted at Indian Institute of Technology Madras (IIT Madras), Chennai.",
+     "Theme: Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet.",
+     "Focus areas include Artificial Intelligence, Digital Public Infrastructure, and cybersecurity."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "Where is the 6th annual session of the India Internet Governance Forum 2026 scheduled to take place?",
+      "options": [
+       "IIT Delhi",
+       "IIT Bombay",
+       "IIT Madras",
+       "IIT Kharagpur"
+      ],
+      "explanation": "The 6th annual session of IIGF 2026 will take place on November 30, 2026, at IIT Madras, Chennai."
+     },
+     {
+      "question": "What is the theme of the India Internet Governance Forum 2026?",
+      "options": [
+       "Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet",
+       "Empowering Citizens through Digital Public Infrastructure",
+       "Securing Cyberspace for a Billion Connected Users",
+       "Artificial Intelligence and India's Digital Growth"
+      ],
+      "explanation": "The theme for this year's deliberations is Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet."
+     }
+    ]
+   },
+   "bn": {
+    "title": "আইআইটি মাদ্রাজে ৬ষ্ঠ ইন্ডিয়া ইন্টারনেট গভর্নেন্স ফোরাম ২০২৬ অনুষ্ঠিত হবে",
+    "one_liner": "ইন্ডিয়া ইন্টারনেট গভর্নেন্স ফোরাম ২০২৬-এর ৬ষ্ঠ বার্ষিক অধিবেশন ৩০ নভেম্বর আইআইটি মাদ্রাজে অনুষ্ঠিত হওয়ার কথা রয়েছে।",
+    "summary": "ইন্ডিয়া ইন্টারনেট গভর্নেন্স ফোরাম ২০২৬-এর ৬ষ্ঠ বার্ষিক অধিবেশন ৩০ নভেম্বর, ২০২৬ তারিখে চেন্নাইয়ের ইন্ডিয়ান ইনস্টিটিউট অফ টেকনোলজি মাদ্রাজ (IIT Madras)-এ অনুষ্ঠিত হবে। এই বছরের থিম হলো 'অন্তর্ভুক্তিমূলক, স্থিতিস্থাপক এবং সুরক্ষিত ইন্টারনেটের মাধ্যমে ভারতের ডিজিটাল ভবিষ্যৎ গড়া' (Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet)। সরকার, বেসরকারি সংস্থা, সুশীল সমাজ এবং শিক্ষাবিদদের প্রতিনিধিদের অংশগ্রহণে আলোচনাগুলি ভারতের এআই যাত্রা, ডিজিটাল পাবলিক পরিকাঠামো এবং ব্যবহারকারীদের সংযুক্ত ও নিরাপদ রাখার ওপর গুরুত্ব দেবে।",
+    "points": [
+     "IIGF-এর ৬ষ্ঠ বার্ষিক অধিবেশন ৩০ নভেম্বর, ২০২৬ তারিখে অনুষ্ঠিত হবে।",
+     "চেন্নাইয়ের ইন্ডিয়ান ইনস্টিটিউট অফ টেকনোলজি মাদ্রাজ (IIT Madras)-এ অনুষ্ঠিত হবে।",
+     "থিম: অন্তর্ভুক্তিমূলক, স্থিতিস্থাপক এবং সুরক্ষিত ইন্টারনেটের মাধ্যমে ভারতের ডিজিটাল ভবিষ্যৎ গড়া (Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet)।",
+     "ফোকাস ক্ষেত্রগুলির মধ্যে রয়েছে কৃত্রিম বুদ্ধিমত্তা, ডিজিটাল পাবলিক পরিকাঠামো এবং সাইবার নিরাপত্তা।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "ইন্ডিয়া ইন্টারনেট গভর্নেন্স ফোরাম ২০২৬-এর ৬ষ্ঠ বার্ষিক অধিবেশন কোথায় অনুষ্ঠিত হতে চলেছে?",
+      "options": [
+       "আইআইটি দিল্লি",
+       "আইআইটি বোম্বে",
+       "আইআইটি মাদ্রাজ",
+       "আইআইটি খড়্গপুর"
+      ],
+      "explanation": "IIGF 2026-এর ৬ষ্ঠ বার্ষিক অধিবেশন ৩০ নভেম্বর, ২০২৬ তারিখে চেন্নাইয়ের আইআইটি মাদ্রাজে অনুষ্ঠিত হবে।"
+     },
+     {
+      "question": "ইন্ডিয়া ইন্টারনেট গভর্নেন্স ফোরাম ২০২৬-এর থিম কী?",
+      "options": [
+       "অন্তর্ভুক্তিমূলক, স্থিতিস্থাপক এবং সুরক্ষিত ইন্টারনেটের মাধ্যমে ভারতের ডিজিটাল ভবিষ্যৎ গড়া",
+       "ডিজিটাল পাবলিক পরিকাঠামোর মাধ্যমে নাগরিকদের ক্ষমতায়ন",
+       "একশ কোটি সংযুক্ত ব্যবহারকারীর জন্য সাইবারস্পেস সুরক্ষিত করা",
+       "কৃত্রিম বুদ্ধিমত্তা এবং ভারতের ডিজিটাল প্রবৃদ্ধি"
+      ],
+      "explanation": "এই বছরের আলোচনার থিম হলো অন্তর্ভুক্তিমূলক, স্থিতিস্থাপক এবং সুরক্ষিত ইন্টারনেটের মাধ্যমে ভারতের ডিজিটাল ভবিষ্যৎ গড়া (Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet)।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "IIT मद्रास में छठा इंडिया इंटरनेट गवर्नेंस फोरम 2026",
+    "one_liner": "इंडिया इंटरनेट गवर्नेंस फोरम 2026 का छठा वार्षिक सत्र 30 नवंबर को IIT मद्रास में निर्धारित है।",
+    "summary": "इंडिया इंटरनेट गवर्नेंस फोरम 2026 का छठा वार्षिक सत्र 30 नवंबर, 2026 को चेन्नई में भारतीय प्रौद्योगिकी संस्थान मद्रास (Indian Institute of Technology Madras) में होगा। इस वर्ष का विषय 'एक समावेशी, लचीले और सुरक्षित इंटरनेट के माध्यम से भारत के डिजिटल भविष्य को आकार देना' (Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet) है। चर्चा भारत की AI यात्रा, डिजिटल सार्वजनिक बुनियादी ढांचे और उपयोगकर्ताओं को जुड़े और सुरक्षित रखने पर केंद्रित होगी, जिसमें सरकार, निजी कंपनियों, नागरिक समाज और शैक्षणिक जगत के प्रतिनिधि शामिल होंगे।",
+    "points": [
+     "IIGF का छठा वार्षिक सत्र 30 नवंबर, 2026 को आयोजित किया जाएगा।",
+     "भारतीय प्रौद्योगिकी संस्थान मद्रास (IIT मद्रास), चेन्नई में आयोजित।",
+     "विषय: एक समावेशी, लचीले और सुरक्षित इंटरनेट के माध्यम से भारत के डिजिटल भविष्य को आकार देना।",
+     "फोकस क्षेत्रों में आर्टिफिशियल इंटेलिजेंस, डिजिटल पब्लिक इनफ्रास्ट्रक्चर और साइबर सुरक्षा शामिल हैं।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "इंडिया इंटरनेट गवर्नेंस फोरम 2026 का छठा वार्षिक सत्र कहाँ आयोजित होने वाला है?",
+      "options": [
+       "IIT दिल्ली",
+       "IIT बॉम्बे",
+       "IIT मद्रास",
+       "IIT खड़गपुर"
+      ],
+      "explanation": "IIGF 2026 का छठा वार्षिक सत्र 30 नवंबर, 2026 को IIT मद्रास, चेन्नई में होगा।"
+     },
+     {
+      "question": "इंडिया इंटरनेट गवर्नेंस फोरम 2026 का विषय क्या है?",
+      "options": [
+       "एक समावेशी, लचीले और सुरक्षित इंटरनेट के माध्यम से भारत के डिजिटल भविष्य को आकार देना (Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet)",
+       "डिजिटल पब्लिक इनफ्रास्ट्रक्चर के माध्यम से नागरिकों को सशक्त बनाना",
+       "एक अरब जुड़े उपयोगकर्ताओं के लिए साइबरस्पेस को सुरक्षित करना",
+       "आर्टिफिशियल इंटेलिजेंस और भारत की डिजिटल वृद्धि"
+      ],
+      "explanation": "इस वर्ष की चर्चाओं का विषय 'एक समावेशी, लचीले और सुरक्षित इंटरनेट के माध्यम से भारत के डिजिटल भविष्य को आकार देना' है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "IIT मद्रास येथे 6 वे इंडिया इंटरनेट गव्हर्नन्स फोरम 2026 आयोजित",
+    "one_liner": "इंडिया इंटरनेट गव्हर्नन्स फोरम 2026 (India Internet Governance Forum - IIGF) चे 6 वे वार्षिक सत्र 30 नोव्हेंबर रोजी IIT मद्रास येथे होणार आहे.",
+    "summary": "इंडिया इंटरनेट गव्हर्नन्स फोरम 2026 चे 6 वे वार्षिक सत्र 30 नोव्हेंबर 2026 रोजी चेन्नई येथील भारतीय तंत्रज्ञान संस्था मद्रास (Indian Institute of Technology Madras - IIT Madras) येथे होईल. या वर्षीची थीम 'सर्वसमावेशक, लवचिक आणि सुरक्षित इंटरनेटद्वारे भारताचे डिजिटल भविष्य घडवणे' (Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet) ही आहे. सरकार, खाजगी कंपन्या, नागरी समाज आणि शैक्षणिक क्षेत्रातील प्रतिनिधींच्या उपस्थितीत भारताचा AI प्रवास, डिजिटल सार्वजनिक पायाभूत सुविधा आणि वापरकर्त्यांना जोडलेले व सुरक्षित ठेवण्यावर चर्चा केंद्रित असेल.",
+    "points": [
+     "IIGF चे 6 वे वार्षिक सत्र 30 नोव्हेंबर 2026 रोजी होणार.",
+     "भारतीय तंत्रज्ञान संस्था मद्रास (IIT मद्रास), चेन्नई येथे आयोजित.",
+     "थीम: सर्वसमावेशक, लवचिक आणि सुरक्षित इंटरनेटद्वारे भारताचे डिजिटल भविष्य घडवणे (Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet).",
+     "लक्ष केंद्रित क्षेत्रे: कृत्रिम बुद्धिमत्ता, डिजिटल सार्वजनिक पायाभूत सुविधा आणि सायबर सुरक्षा."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "इंडिया इंटरनेट गव्हर्नन्स फोरम 2026 चे 6 वे वार्षिक सत्र कुठे होणार आहे?",
+      "options": [
+       "IIT दिल्ली",
+       "IIT बॉम्बे",
+       "IIT मद्रास",
+       "IIT खडकपूर"
+      ],
+      "explanation": "IIGF 2026 चे 6 वे वार्षिक सत्र 30 नोव्हेंबर 2026 रोजी चेन्नई येथील IIT मद्रास येथे होईल."
+     },
+     {
+      "question": "इंडिया इंटरनेट गव्हर्नन्स फोरम 2026 ची थीम काय आहे?",
+      "options": [
+       "सर्वसमावेशक, लवचिक आणि सुरक्षित इंटरनेटद्वारे भारताचे डिजिटल भविष्य घडवणे (Shaping India’s Digital Future through an Inclusive, Resilient, and Secure Internet)",
+       "डिजिटल सार्वजनिक पायाभूत सुविधांद्वारे नागरिकांचे सशक्तिकरण",
+       "अब्जावधी जोडलेल्या वापरकर्त्यांसाठी सायबरस्पेस सुरक्षित करणे",
+       "कृत्रिम बुद्धिमत्ता आणि भारताची डिजिटल वाढ"
+      ],
+      "explanation": "या वर्षाच्या चर्चेची थीम 'सर्वसमावेशक, लवचिक आणि सुरक्षित इंटरनेटद्वारे भारताचे डिजिटल भविष्य घडवणे' ही आहे."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Indian Institute of Technology Madras",
+    "short": "IIT Madras",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Ministry of Electronics and Information Technology",
+    "short": "MeitY",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "National Internet Exchange of India",
+    "short": "NIXI",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of Ministry of Electronics and Information Technology: 20, Ashoka Road",
+    "hi": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय का मुख्यालय: २०, अशोक रोड"
+   },
+   {
+    "en": "Ministry of Electronics and Information Technology was established in 2016",
+    "hi": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय की स्थापना: 2016",
+    "mr": "इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालय (भारत) ची स्थापना: 2016"
+   },
+   {
+    "en": "Headquarters of National Internet Exchange of India: New Delhi"
+   },
+   {
+    "en": "National Internet Exchange of India was established in 2003"
+   }
+  ]
+ },
+ {
+  "id": "3cfbbec50136",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "tamil_nadu",
+  "category": "culture",
+  "tags": [
+   "UPSC",
+   "State PSC",
+   "SSC"
+  ],
+  "source_name": "PIB Chennai",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342179",
+  "answers": [
+   0,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "Governor of Tamil Nadu Flags Off Kashi Tamil Sangamam 5.0 Train",
+    "one_liner": "Tamil Nadu Governor flagged off the Kashi Tamil Sangamam 5.0 special train carrying 207 student delegates from Chennai Egmore to Banaras.",
+    "summary": "Tamil Nadu Governor Shri Rajendra Vishwanath Arlekar flagged off the inaugural Kashi Tamil Sangamam Express Special (Train No. 06041) from Chennai Egmore Railway Station on November 26, 2026. The maiden service carries 207 delegates for the 5th edition of Kashi Tamil Sangamam, a flagship initiative under Ek Bharat Shreshtha Bharat. Organized by the Ministry of Education with IIT Madras and Banaras Hindu University, this year's edition centers on the theme 'Let’s learn Thirukkural'.",
+    "points": [
+     "Train flagged off by Governor Shri Rajendra Vishwanath Arlekar from Chennai Egmore on November 26, 2026.",
+     "Train No. 06041 is carrying the first contingent of 207 delegates.",
+     "The 5th edition centers on the theme 'Let’s learn Thirukkural'.",
+     "Initiative is organized by the Ministry of Education in partnership with IIT Madras and Banaras Hindu University."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "What is the theme of Kashi Tamil Sangamam 5.0?",
+      "options": [
+       "Let’s learn Thirukkural",
+       "Celebrating Tamil Heritage",
+       "Kashi and Ganga Connect",
+       "Ek Bharat Shreshtha Bharat"
+      ],
+      "explanation": "The month-long 5th edition centers on the theme 'Let’s learn Thirukkural'."
+     },
+     {
+      "question": "How many delegates are in the maiden contingent of Kashi Tamil Sangamam 5.0 special train?",
+      "options": [
+       "105",
+       "207",
+       "300",
+       "500"
+      ],
+      "explanation": "The maiden service carries the first contingent of 207 delegates."
+     }
+    ]
+   },
+   "bn": {
+    "title": "তামিলনাড়ুর রাজ্যপাল কাশী তামিল সঙ্গমম ৫.০ ট্রেনের সূচনা করলেন",
+    "one_liner": "তামিলনাড়ুর রাজ্যপাল চেন্নাই এগমোর থেকে বারাণসীগামী ২০৭ জন ছাত্র প্রতিনিধিকে নিয়ে চলা কাশী তামিল সঙ্গমম ৫.০ স্পেশাল ট্রেনের সূচনা করেছেন।",
+    "summary": "তামিলনাড়ুর রাজ্যপাল শ্রী রাজেন্দ্র বিশ্বনাথ আরলেকর ২০২৬ সালের ২৬ নভেম্বর চেন্নাই এগমোর রেলওয়ে স্টেশন থেকে প্রথম কাশী তামিল সঙ্গমম এক্সপ্রেস স্পেশালের (ট্রেন নং ০৬০৪১) সূচনা করেন। এক ভারত শ্রেষ্ঠ ভারত (Ek Bharat Shreshtha Bharat) উদ্যোগের প্রধান কর্মসূচির অঙ্গ হিসেবে কাশী তামিল সঙ্গমমের ৫ম সংস্করণের জন্য এই প্রথম যাত্রায় ২০৭ জন প্রতিনিধি রওনা দিয়েছেন। শিক্ষা মন্ত্রক (Ministry of Education), আইআইটি মাদ্রাজ (IIT Madras) এবং বারাণসী হিন্দু বিশ্ববিদ্যালয় (Banaras Hindu University)-এর যৌথ উদ্যোগে আয়োজিত এই বছরের সংস্করণের মূল ভাবনা হলো 'তিরুক্কুরাল শিখি' (Let’s learn Thirukkural)।",
+    "points": [
+     "২০২৬ সালের ২৬ নভেম্বর চেন্নাই এগমোর থেকে রাজ্যপাল শ্রী রাজেন্দ্র বিশ্বনাথ আরলেকর ট্রেনটির সূচনা করেন।",
+     "ট্রেন নং ০৬০৪১ প্রথম দফায় ২০৭ জন প্রতিনিধিকে নিয়ে যাচ্ছে।",
+     "পঞ্চম সংস্করণের মূল ভাবনা হলো 'তিরুক্কুরাল শিখি' (Let’s learn Thirukkural)।",
+     "এই উদ্যোগটি শিক্ষা মন্ত্রক (Ministry of Education), আইআইটি মাদ্রাজ (IIT Madras) এবং বারাণসী হিন্দু বিশ্ববিদ্যালয়ের অংশীদারিত্বে আয়োজিত হয়েছে।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "কাশী তামিল সঙ্গমম ৫.০-এর মূল ভাবনা কী?",
+      "options": [
+       "তিরুক্কুরাল শিখি (Let’s learn Thirukkural)",
+       "তামিল ঐতিহ্য উদযাপন (Celebrating Tamil Heritage)",
+       "কাশী এবং গঙ্গার সংযোগ (Kashi and Ganga Connect)",
+       "এক ভারত শ্রেষ্ঠ ভারত (Ek Bharat Shreshtha Bharat)"
+      ],
+      "explanation": "মাসব্যাপী চলা ৫ম সংস্করণের মূল ভাবনা হলো 'তিরুক্কুরাল শিখি' (Let’s learn Thirukkural)।"
+     },
+     {
+      "question": "কাশী তামিল সঙ্গমম ৫.০ স্পেশাল ট্রেনের প্রথম দলে কতজন প্রতিনিধি আছেন?",
+      "options": [
+       "১০৫",
+       "২০৭",
+       "৩০০",
+       "৫০০"
+      ],
+      "explanation": "প্রথম যাত্রায় ২০৭ জন প্রতিনিধির প্রথম দলটি রয়েছে।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "तमिलनाडु के राज्यपाल ने 'काशी तमिल संगमम 5.0' (Kashi Tamil Sangamam 5.0) ट्रेन को हरी झंडी दिखाई",
+    "one_liner": "तमिलनाडु के राज्यपाल ने चेन्नई एग्मोर (Chennai Egmore) से बनारस के लिए 207 छात्र प्रतिनिधियों को ले जाने वाली 'काशी तमिल संगमम 5.0' विशेष ट्रेन को हरी झंडी दिखाई।",
+    "summary": "तमिलनाडु के राज्यपाल श्री राजेंद्र विश्वनाथ आर्लेकर ने 26 नवंबर 2026 को चेन्नई एग्मोर रेलवे स्टेशन से उद्घाटन 'काशी तमिल संगमम एक्सप्रेस स्पेशल' (ट्रेन संख्या 06041) को हरी झंडी दिखाई। पहली सेवा 'एक भारत श्रेष्ठ भारत' (Ek Bharat Shreshtha Bharat) के तहत एक प्रमुख पहल, काशी तमिल संगमम के 5वें संस्करण के लिए 207 प्रतिनिधियों को लेकर जा रही है। शिक्षा मंत्रालय द्वारा आईआईटी मद्रास और बनारस हिंदू विश्वविद्यालय (Banaras Hindu University) के साथ मिलकर आयोजित, इस वर्ष के संस्करण का विषय 'आइए तिरुक्कुरल सीखें' (Let’s learn Thirukkural) है।",
+    "points": [
+     "राज्यपाल श्री राजेंद्र विश्वनाथ आर्लेकर द्वारा 26 नवंबर 2026 को चेन्नई एग्मोर से ट्रेन को हरी झंडी दिखाई गई।",
+     "ट्रेन संख्या 06041 प्रतिनिधियों के पहले दल के 207 सदस्यों को लेकर जा रही है।",
+     "पाँचवें संस्करण का विषय 'आइए तिरुक्कुरल सीखें' (Let’s learn Thirukkural) है।",
+     "यह पहल शिक्षा मंत्रालय द्वारा आईआईटी मद्रास और बनारस हिंदू विश्वविद्यालय की साझेदारी में आयोजित की जा रही है।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "काशी तमिल संगमम 5.0 का विषय क्या है?",
+      "options": [
+       "आइए तिरुक्कुरल सीखें (Let’s learn Thirukkural)",
+       "तमिल विरासत का जश्न मनाना (Celebrating Tamil Heritage)",
+       "काशी और गंगा का मिलन (Kashi and Ganga Connect)",
+       "एक भारत श्रेष्ठ भारत (Ek Bharat Shreshtha Bharat)"
+      ],
+      "explanation": "एक महीने तक चलने वाले पाँचवें संस्करण का विषय 'आइए तिरुक्कुरल सीखें' (Let’s learn Thirukkural) है।"
+     },
+     {
+      "question": "काशी तमिल संगमम 5.0 विशेष ट्रेन के पहले दल में कितने प्रतिनिधि शामिल हैं?",
+      "options": [
+       "105",
+       "207",
+       "300",
+       "500"
+      ],
+      "explanation": "पहली सेवा में 207 प्रतिनिधियों का पहला दल शामिल है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "तमिळनाडूच्या राज्यपालांनी काशी तमिळ संगमम ५.० ट्रेनला हिरवा झेंडा दाखवला",
+    "one_liner": "तमिळनाडूच्या राज्यापालांनी चेन्नई एग्मोर ते बनारसपर्यंत २०७ विद्यार्थी प्रतिनिधींना घेऊन जाणाऱ्या काशी तमिळ संगमम ५.० विशेष ट्रेनला हिरवा झेंडा दाखवला.",
+    "summary": "तमिळनाडूचे राज्यपाल श्री राजेंद्र विश्वनाथ अर्लेकर यांनी २६ नोव्हेंबर २०२६ रोजी चेन्नई एग्मोर रेल्वे स्टेशनवरून पहिल्या काशी तमिळ संगमम एक्सप्रेस स्पेशल (ट्रेन क्र. ०६०४१) ला हिरवा झेंडा दाखवला. 'एक भारत श्रेष्ठ भारत' (Ek Bharat Shreshtha Bharat) या प्रमुख उपक्रमांतर्गत काशी तमिळ संगममच्या ५ व्या आवृत्तीसाठी ही पहिली सेवा २०७ प्रतिनिधींना घेऊन जात आहे. शिक्षण मंत्रालयाद्वारे (Ministry of Education) आयआयटी मद्रास (IIT Madras) आणि बनारस हिंदू युनिव्हर्सिटीच्या (Banaras Hindu University) सहकार्याने आयोजित केलेल्या या वर्षीच्या आवृत्तीचे केंद्रबिंदू 'चलो थिरुक्कुरल शिकूया' (Let’s learn Thirukkural) ही थीम आहे.",
+    "points": [
+     "राज्यपाल श्री राजेंद्र विश्वनाथ अर्लेकर यांनी २६ नोव्हेंबर २०२६ रोजी चेन्नई एग्मोर येथून ट्रेनला हिरवा झेंडा दाखवला.",
+     "ट्रेन क्र. ०६०४१ ही २०७ प्रतिनिधींच्या पहिल्या तुकडीला घेऊन जात आहे.",
+     "५ वी आवृत्ती 'चलो थिरुक्कुरल शिकूया' (Let’s learn Thirukkural) या थीमवर केंद्रित आहे.",
+     "हा उपक्रम शिक्षण मंत्रालयाद्वारे (Ministry of Education) आयआयटी मद्रास (IIT Madras) आणि बनारस हिंदू विद्यापीठाच्या (Banaras Hindu University) भागीदारीत आयोजित केला जातो."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "काशी तमिळ संगमम ५.० ची थीम काय आहे?",
+      "options": [
+       "चलो थिरुक्कुरल शिकूया (Let’s learn Thirukkural)",
+       "तमिळ वारसा साजरा करत आहे (Celebrating Tamil Heritage)",
+       "काशी आणि गंगा जोडणी (Kashi and Ganga Connect)",
+       "एक भारत श्रेष्ठ भारत (Ek Bharat Shreshtha Bharat)"
+      ],
+      "explanation": "एक महिना चालणारी ५ वी आवृत्ती 'चलो थिरुक्कुरल शिकूया' (Let’s learn Thirukkural) या थीमवर केंद्रित आहे."
+     },
+     {
+      "question": "काशी तमिळ संगमम ५.० विशेष ट्रेनच्या पहिल्या तुकडीत किती प्रतिनिधी आहेत?",
+      "options": [
+       "१०५",
+       "२०७",
+       "३००",
+       "५००"
+      ],
+      "explanation": "पहिल्या सेवेमध्ये २०७ प्रतिनिधींची पहिली तुकडी जात आहे."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Indian Institute of Technology Madras",
+    "short": "IIT Madras",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Central Institute of Classical Tamil",
+    "short": "CICT",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Banaras Hindu University",
+    "short": "BHU",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of Banaras Hindu University: Varanasi",
+    "bn": "বেনারস হিন্দু বিশ্ববিদ্যালয়-এর সদর দপ্তর: বারাণসী",
+    "hi": "काशी हिन्दू विश्वविद्यालय का मुख्यालय: वाराणसी",
+    "mr": "बनारस हिंदू विद्यापीठ चे मुख्यालय: वाराणसी"
+   },
+   {
+    "en": "Banaras Hindu University was established in 1916",
+    "bn": "বেনারস হিন্দু বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় 1916 সালে",
+    "hi": "काशी हिन्दू विश्वविद्यालय की स्थापना: 1916",
+    "mr": "बनारस हिंदू विद्यापीठ ची स्थापना: 1916"
+   }
+  ]
+ },
+ {
+  "id": "63e505782b0d",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "odisha",
+  "category": "science",
+  "tags": [
+   "UPSC",
+   "State PSC",
+   "SSC"
+  ],
+  "source_name": "PIB Bhubaneswar",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342236",
+  "answers": [
+   0,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "NIT Rourkela Turns Waste Proteins into Hydrogels for Wound Healing",
+    "one_liner": "Researchers at NIT Rourkela have successfully converted discarded pharmaceutical waste proteins into hydrogels with potential wound-healing and drug-delivery applications.",
+    "summary": "Researchers at the National Institute of Technology (NIT) Rourkela have repurposed inactive proteins discarded by pharmaceutical companies into hydrogels with potential applications in wound healing, tissue regeneration, and drug delivery. The team heated BMP-2 proteins and added hydrogen peroxide and hyaluronic acid to form microgels. The technology, which secured an Indian Patent, demonstrated promising results in lab tests using Drosophila melanogaster as an in vivo model.",
+    "points": [
+     "Researchers at NIT Rourkela converted discarded pharmaceutical proteins into hydrogels.",
+     "The process involved heating BMP-2 proteins and combining them with hydrogen peroxide and hyaluronic acid.",
+     "The team secured an Indian Patent for the technology on November 6, 2025.",
+     "Wound-healing efficacy was tested using Drosophila melanogaster as an in vivo model."
+    ],
+    "static_gk": "National Institute of Technology Rourkela is located in the state of Odisha.",
+    "mcqs": [
+     {
+      "question": "Which proteins were converted into hydrogels by researchers at NIT Rourkela?",
+      "options": [
+       "BMP-2 proteins",
+       "Insulin proteins",
+       "Albumin proteins",
+       "Collagen proteins"
+      ],
+      "explanation": "The team heated the BMP-2 proteins to unfold them and convert them into hydrogels."
+     },
+     {
+      "question": "Which model was used to evaluate the wound-healing efficacy of the composite hydrogel?",
+      "options": [
+       "Mus musculus",
+       "Drosophila melanogaster",
+       "Rattus norvegicus",
+       "Danio rerio"
+      ],
+      "explanation": "Evaluation of the wound-healing efficacy was done using Drosophila melanogaster as the in vivo model."
+     }
+    ]
+   },
+   "bn": {
+    "title": "আইআইটি রাউরকেলা ক্ষত নিরাময়ের জন্য বর্জ্য প্রোটিনকে হাইড্রোজেলে রূপান্তরিত করেছে",
+    "one_liner": "আইআইটি রাউরকেলার গবেষকরা ক্ষত নিরাময় এবং ওষুধ সরবরাহ প্রয়োগের সম্ভাব্যতা সহ বর্জ্য ফার্মাসিউটিক্যাল প্রোটিনকে সফলভাবে হাইড্রোজেলে রূপান্তর করেছেন।",
+    "summary": "ন্যাশনাল ইনস্টিটিউট অফ টেকনোলজি (NIT) রাউরকেলার গবেষকরা ওষুধ প্রস্তুতকারক কোম্পানিগুলির ফেলে দেওয়া নিষ্ক্রিয় প্রোটিনগুলিকে ক্ষত নিরাময়, টিস্যু পুনর্জন্ম এবং ওষুধ সরবরাহের সম্ভাব্য প্রয়োগযোগ্য হাইড্রোজেলে রূপান্তর করেছেন। গবেষক দল বিএমপি-২ (BMP-2) প্রোটিন গরম করে এবং তার সাথে হাইড্রোজেন পারক্সাইড ও হায়ালুরোনিক অ্যাসিড মিশিয়ে মাইক্রোজেল তৈরি করেছেন। ড্রসোফিলা মেলানোগাস্টার (Drosophila melanogaster)-কে ইন ভিভো মডেল হিসেবে ব্যবহার করে ল্যাব টেস্টে আশাব্যঞ্জক ফলাফল দেখানো এই প্রযুক্তিটি একটি ভারতীয় পেটেন্ট অর্জন করেছে।",
+    "points": [
+     "আইআইটি রাউরকেলার গবেষকরা ফেলে দেওয়া ফার্মাসিউটিক্যাল প্রোটিনকে হাইড্রোজেলে রূপান্তর করেছেন।",
+     "এই প্রক্রিয়ায় বিএমপি-২ (BMP-2) প্রোটিন গরম করা এবং হাইড্রোজেন পারক্সাইড ও হায়ালুরোনিক অ্যাসিডের সাথে মেশানো অন্তর্ভুক্ত ছিল।",
+     "গবেষক দল ২০২৫ সালের ৬ নভেম্বর এই প্রযুক্তির জন্য একটি ভারতীয় পেটেন্ট অর্জন করেছে।",
+     "ইন ভিভো মডেল হিসাবে ড্রসোফিলা মেলানোগাস্টার (Drosophila melanogaster) ব্যবহার করে ক্ষত নিরাময়ের কার্যকারিতা পরীক্ষা করা হয়েছিল।"
+    ],
+    "static_gk": "ন্যাশনাল ইনস্টিটিউট অফ টেকনোলজি রাউরকেলা ওড়িশা রাজ্যে অবস্থিত।",
+    "mcqs": [
+     {
+      "question": "আইআইটি রাউরকেলার গবেষকরা কোন প্রোটিনগুলিকে হাইড্রোজেলে রূপান্তরিত করেছেন?",
+      "options": [
+       "বিএমপি-২ (BMP-2) প্রোটিন",
+       "ইনসুলিন প্রোটিন",
+       "অ্যালবুমিন প্রোটিন",
+       "কোলাজেন প্রোটিন"
+      ],
+      "explanation": "গবেষক দল বিএমপি-২ (BMP-2) প্রোটিনগুলিকে প্রসারিত করতে এবং সেগুলিকে হাইড্রোজেলে রূপান্তর করতে উত্তপ্ত করেছিল।"
+     },
+     {
+      "question": "সংযুক্ত হাইড্রোজেলের ক্ষত নিরাময়ের কার্যকারিতা মূল্যায়নের জন্য কোন মডেলটি ব্যবহার করা হয়েছিল?",
+      "options": [
+       "মাস মাসকুলাস (Mus musculus)",
+       "ড্রসোফিলা মেলানোগাস্টার (Drosophila melanogaster)",
+       "র্যাটাস নরভেজিকাস (Rattus norvegicus)",
+       "ডানিয়ো রেসিও (Danio rerio)"
+      ],
+      "explanation": "ইন ভিভো মডেল হিসেবে ড্রসোফিলা মেলানোগাস্টার (Drosophila melanogaster) ব্যবহার করে ক্ষত নিরাময়ের কার্যকারিতা মূল্যায়ন করা হয়েছিল।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "एनआईटी राउरकेला ने घाव भरने के लिए बेकार प्रोटीनों को हाइड्रोेल में बदला",
+    "one_liner": "राष्ट्रीय प्रौद्योगिकी संस्थान (NIT) राउरकेला के शोधकर्ताओं ने घाव भरने और दवा पहुँचाने के संभावित अनुप्रयोगों वाले हाइड्रोेल में बेकार पड़े फार्मास्युटिकल अपशिष्ट प्रोटीनों को सफलतापूर्वक परिवर्तित किया है।",
+    "summary": "राष्ट्रीय प्रौद्योगिकी संस्थान (NIT) राउरकेला के शोधकर्ताओं ने फार्मास्युटिकल कंपनियों द्वारा फेंके गए निष्क्रिय प्रोटीनों को घाव भरने, ऊतक पुनर्जनन और दवा वितरण में संभावित अनुप्रयोगों वाले हाइड्रोेल में परिवर्तित किया है। टीम ने बीएमपी-2 (BMP-2) प्रोटीनों को गर्म किया और माइक्रोजेल बनाने के लिए हाइड्रोजन पेरोक्साइड और हायलुरोनिक एसिड मिलाया। इस तकनीक को, जिसने एक भारतीय पेटेंट प्राप्त किया है, विवो मॉडल के रूप में ड्रोसोफिला मेलानोगास्टर (Drosophila melanogaster) का उपयोग करके प्रयोगशाला परीक्षणों में आशाजनक परिणाम प्रदर्शित किए।",
+    "points": [
+     "एनआईटी राउरकेला के शोधकर्ताओं ने बेकार फार्मास्युटिकल प्रोटीनों को हाइड्रोेल में बदला।",
+     "इस प्रक्रिया में बीएमपी-2 (BMP-2) प्रोटीनों को गर्म करना और उन्हें हाइड्रोजन पेरोक्साइड तथा हायलुरोनिक एसिड के साथ मिलाना शामिल था।",
+     "टीम ने 6 नवंबर 2025 को इस तकनीक के लिए भारतीय पेटेंट प्राप्त किया।",
+     "विवो मॉडल के रूप में ड्रोसोफिला मेलानोगास्टर (Drosophila melanogaster) का उपयोग करके घाव भरने की प्रभावकारिता का परीक्षण किया गया।"
+    ],
+    "static_gk": "राष्ट्रीय प्रौद्योगिकी संस्थान (NIT) राउरकेला ओडिशा राज्य में स्थित है।",
+    "mcqs": [
+     {
+      "question": "एनआईटी राउरकेला के शोधकर्ताओं द्वारा किन प्रोटीनों को हाइड्रोेल में बदला गया?",
+      "options": [
+       "बीएमपी-2 प्रोटीन (BMP-2 proteins)",
+       "इंसुलिन प्रोटीन (Insulin proteins)",
+       "एल्बुमिन प्रोटीन (Albumin proteins)",
+       "कोलाजेन प्रोटीन (Collagen proteins)"
+      ],
+      "explanation": "टीम ने बीएमपी-2 प्रोटीनों को खोलने और उन्हें हाइड्रोेल में बदलने के लिए गर्म किया।"
+     },
+     {
+      "question": "कम्पोजिट हाइड्रोेल के घाव भरने की प्रभावकारिता का मूल्यांकन करने के लिए किस मॉडल का उपयोग किया गया था?",
+      "options": [
+       "मूस मस्कुलस (Mus musculus)",
+       "ड्रोसोफिला मेलानोगास्टर (Drosophila melanogaster)",
+       "रट्टस नार्वेजियस (Rattus norvegicus)",
+       "डैनियो रेरियो (Danio rerio)"
+      ],
+      "explanation": "घाव भरने की प्रभावकारिता का मूल्यांकन विवो मॉडल के रूप में ड्रोसोफिला मेलानोगास्टर (Drosophila melanogaster) का उपयोग करके किया गया था।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "एनआयटी राउरकेलाने जखमा भरून काढण्यासाठी टाकाऊ प्रथिनांचे हायड्रोजेलमध्ये रूपांतर केले",
+    "one_liner": "एनआयटी राउरकेलाच्या (NIT Rourkela) संशोधकांनी जखमा भरून काढणे आणि औषध वितरीत करण्यासाठी वापरल्या जाणाऱ्या संभाव्य हायड्रोजेलमध्ये टाकून दिलेले फार्मास्युटिकल टाकाऊ प्रथिने यशस्वीरित्या रूपांतरित केले आहेत.",
+    "summary": "नॅशनल इन्स्टिट्यूट ऑफ टेक्नॉलॉजी (NIT) राउरकेलाच्या संशोधकांनी फार्मास्युटिकल कंपन्यांनी फेकून दिलेली निष्क्रीय प्रथिने जखमा भरून काढणे, उती पुनर्जन्म आणि औषध वितरीत करण्यासाठी संभाव्य उपयोगांसह हायड्रोजेलमध्ये रूपांतरित केली आहेत. टीमने बीएमपी-२ (BMP-2) प्रथिनांना उष्णता दिली आणि मायक्रोगेल तयार करण्यासाठी हायड्रोजन पेராக்சைடு व हायड्रोनिक ॲसिड जोडले. या तंत्रज्ञानाला भारतीय पेटंट (Indian Patent) प्राप्त झाले असून, इन विवो मॉडेल (in vivo model) म्हणून ड्रोसोफिला मेलॅनोगास्टर (Drosophila melanogaster) वापरून केलेल्या प्रयोगशाळेतील चाचण्यांमध्ये आशादायक परिणाम दिसून आले आहेत.",
+    "points": [
+     "एनआयटी राउरकेलाच्या (NIT Rourkela) संशोधकांनी फेकून दिलेली फार्मास्युटिकल प्रथिने हायड्रोजेलमध्ये रूपांतरित केली.",
+     "या प्रक्रियेत बीएमपी-२ (BMP-2) प्रथिनांना उष्णता देणे आणि हायड्रोजन पेராக்சைடு व हायड्रोनिक ॲसिड एकत्र करणे समाविष्ट होते.",
+     "या टीमला ६ नोव्हेंबर २०२५ रोजी या तंत्रज्ञानासाठी भारतीय पेटंट (Indian Patent) मिळाले.",
+     "इन विवो मॉडेल (in vivo model) म्हणून ड्रोसोफिला मेलॅनोगास्टर (Drosophila melanogaster) वापरून जखम भरून काढण्याच्या कार्यक्षमतेची चाचणी घेण्यात आली."
+    ],
+    "static_gk": "नॅशनल इन्स्टिट्यूट ऑफ टेक्नॉलॉजी (National Institute of Technology) राउरकेला ओडिशा राज्यात आहे.",
+    "mcqs": [
+     {
+      "question": "एनआयटी राउरकेलाच्या (NIT Rourkela) संशोधकांनी कोणती प्रथिने हायड्रोजेलमध्ये रूपांतरित केली?",
+      "options": [
+       "बीएमपी-२ प्रथिने (BMP-2 proteins)",
+       "इन्सुलिन प्रथिने (Insulin proteins)",
+       "अल्ब्युमिन प्रथिने (Albumin proteins)",
+       "कोलाजेन प्रथिने (Collagen proteins)"
+      ],
+      "explanation": "बीएमपी-२ प्रथिनांना उलगडण्यासाठी आणि त्यांचे हायड्रोजेलमध्ये रूपांतर करण्यासाठी टीमने त्यांना उष्णता दिली."
+     },
+     {
+      "question": "संयुक्‍त हायड्रोजेलच्या जखम भरून काढण्याच्या कार्यक्षमतेचे मूल्यांकन करण्यासाठी कोणते मॉडेल वापरले गेले?",
+      "options": [
+       "मस् मुस्कुलस (Mus musculus)",
+       "ड्रोसोफिला मेलॅनोगास्टर (Drosophila melanogaster)",
+       "रॅटस नॉर्वेजिकस (Rattus norvegicus)",
+       "डॅनिओ रेरिओ (Danio rerio)"
+      ],
+      "explanation": "इन विवो मॉडेल (in vivo model) म्हणून ड्रोसोफिला मेलॅनोगास्टर (Drosophila melanogaster) वापरून जखम भरून काढण्याच्या कार्यक्षमतेचे मूल्यांकन केले गेले."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "National Institute of Technology Rourkela",
+    "short": "NIT Rourkela",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Royal Society of Chemistry",
+    "short": "",
+    "kind": "organisation",
+    "indian": false
+   }
+  ],
+  "gk": [
+   {
+    "en": "Royal Society of Chemistry was established in 1980",
+    "bn": "রয়েল সোসাইটি অব কেমিস্ট্রি প্রতিষ্ঠিত হয় 1980 সালে"
+   }
+  ]
+ },
+ {
+  "id": "1046b599026e",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "meghalaya",
+  "category": "national",
+  "tags": [
+   "UPSC",
+   "State PSC",
+   "SSC"
+  ],
+  "source_name": "PIB Shillong",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342279",
+  "answers": [
+   0,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "IIM Shillong to Host 11th PAN-IIM World Management Conference 2026",
+    "one_liner": "IIM Shillong is hosting the 11th PAN-IIM World Management Conference 2026 focusing on sustainability and inclusive growth.",
+    "summary": "IIM Shillong is hosting the 11th PAN-IIM World Management Conference 2026 from November 27 to 29, 2026, in Shillong, Meghalaya. Organized under the theme “Driving Sustainability and Inclusive Growth for Nation Building,” the conference brings together academic leaders, policymakers, and industry experts. A major highlight is PURVA 2026, a National IIT-IIM Incubation Conclave aimed at boosting entrepreneurial capabilities and innovation-led growth in Eastern and Northeastern India.",
+    "points": [
+     "The conference is held from November 27 to 29, 2026, at IIM Shillong, Meghalaya.",
+     "The theme of the 11th edition is 'Driving Sustainability and Inclusive Growth for Nation Building'.",
+     "Assam Governor Shri Lakshman Prasad Acharya is the Chief Guest of the inaugural ceremony.",
+     "Features PURVA 2026, a National IIT–IIM Incubation Conclave."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "What is the theme of the 11th PAN-IIM World Management Conference 2026?",
+      "options": [
+       "Driving Sustainability and Inclusive Growth for Nation Building",
+       "Digital Transformation and Management Education",
+       "Inclusive Growth and Global Competitiveness",
+       "Sustainable Innovations in Management"
+      ],
+      "explanation": "The conference is organized under the theme 'Driving Sustainability and Inclusive Growth for Nation Building'."
+     },
+     {
+      "question": "What is the name of the National IIT-IIM Incubation Conclave featured during the conference?",
+      "options": [
+       "UNNATI 2026",
+       "PURVA 2026",
+       "PRAGATI 2026",
+       "ARambh 2026"
+      ],
+      "explanation": "A key highlight of this edition is PURVA 2026 – Platform for Universities, Research, Ventures and Acceleration."
+     }
+    ]
+   },
+   "bn": {
+    "title": "আইআইএম শিলং একাদশ প্যান-আইআইএম ওয়ার্ল্ড ম্যানেজমেন্ট কনফারেন্স ২০২৬-এর আয়োজন করবে",
+    "one_liner": "আইআইএম শিলং টেকসইতা এবং অন্তর্ভুক্তিমূলক প্রবৃদ্ধির ওপর ফোকাস করে একাদশ প্যান-আইআইএম ওয়ার্ল্ড ম্যানেজমেন্ট কনফারেন্স ২০২৬ আয়োজন করছে।",
+    "summary": "আইআইএম শিলং ২০২৬ সালের ২৭ থেকে ২৯ নভেম্বর মেঘালয়ের শিলংয়ে একাদশ প্যান-আইআইএম ওয়ার্ল্ড ম্যানেজমেন্ট কনফারেন্স ২০২৬ আয়োজন করছে। “জাতি গঠনে টেকসইতা এবং অন্তর্ভুক্তিমূলক প্রবৃদ্ধি চালনা করা” (Driving Sustainability and Inclusive Growth for Nation Building) থিমের অধীনে আয়োজিত এই সম্মেলনে শিক্ষাবিদ, নীতিনির্ধারক এবং শিল্প বিশেষজ্ঞরা একত্রিত হয়েছেন। এর একটি প্রধান আকর্ষণ হলো 'পূর্বা ২০২৬' (PURVA 2026), যা পূর্ব এবং উত্তর-পূর্ব ভারতে উদ্যোক্তা ক্ষমতা এবং উদ্ভাবন-চালিত প্রবৃদ্ধি বাড়ানোর লক্ষ্যে একটি জাতীয় আইআইটি-আইআইএম ইনকিউবেশন কনক্লেভ।",
+    "points": [
+     "সম্মেলনটি ২০২৬ সালের ২৭ থেকে ২৯ নভেম্বর মেঘালয়ের আইআইএম শিলংয়ে অনুষ্ঠিত হচ্ছে।",
+     "একাদশ সংস্করণের থিম হলো 'জাতি গঠনে টেকসইতা এবং অন্তর্ভুক্তিমূলক প্রবৃদ্ধি চালনা করা' (Driving Sustainability and Inclusive Growth for Nation Building)।",
+     "অসমের রাজ্যপাল শ্রী লক্ষ্মণ প্রসাদ আচার্য উদ্বোধনী অনুষ্ঠানের প্রধান অতিথি।",
+     "এতে একটি জাতীয় আইআইটি-আইআইএম ইনকিউবেশন কনক্লেভ 'পূর্বা ২০২৬' (PURVA 2026) অন্তর্ভুক্ত রয়েছে।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "একাদশ প্যান-আইআইএম ওয়ার্ল্ড ম্যানেজমেন্ট কনফারেন্স ২০২৬-এর থিম কী?",
+      "options": [
+       "জাতি গঠনে টেকসইতা এবং অন্তর্ভুক্তিমূলক প্রবৃদ্ধি চালনা করা (Driving Sustainability and Inclusive Growth for Nation Building)",
+       "ডিজিটাল রূপান্তর এবং ব্যবস্থাপনা শিক্ষা (Digital Transformation and Management Education)",
+       "অন্তর্ভুক্তিমূলক প্রবৃদ্ধি এবং বৈশ্বিক প্রতিযোগিতা (Inclusive Growth and Global Competitiveness)",
+       "ম্যানেজমেন্টে টেকসই উদ্ভাবন (Sustainable Innovations in Management)"
+      ],
+      "explanation": "সম্মেলনটি 'জাতি গঠনে টেকসইতা এবং অন্তর্ভুক্তিমূলক প্রবৃদ্ধি চালনা করা' (Driving Sustainability and Inclusive Growth for Nation Building) থিমের অধীনে আয়োজিত হয়েছে।"
+     },
+     {
+      "question": "সম্মেলন চলাকালীন প্রদর্শিত জাতীয় আইআইটি-আইআইএম ইনকিউবেশন কনক্লেভের নাম কী?",
+      "options": [
+       "উন্নতি ২০২৬ (UNNATI 2026)",
+       "পূর্বা ২০২৬ (PURVA 2026)",
+       "প্রগতি ২০২৬ (PRAGATI 2026)",
+       "আরম্ভ ২০২৬ (ARambh 2026)"
+      ],
+      "explanation": "এই সংস্করণের একটি প্রধান আকর্ষণ হলো পূর্বা ২০২৬ (PURVA 2026) – যা বিশ্ববিদ্যালয়, গবেষণা, ভেঞ্চার এবং অ্যাকসেলারেশনের একটি প্ল্যাটফর্ম।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "आईआईएम शिलॉन्ग 11वें पैन-आईआईएम विश्व प्रबंधन सम्मेलन 2026 की मेजबानी करेगा",
+    "one_liner": "आईआईएम शिलॉन्ग स्थिरता और समावेशी विकास पर ध्यान केंद्रित करते हुए 11वें पैन-आईआईएम विश्व प्रबंधन सम्मेलन (PAN-IIM World Management Conference) 2026 की मेजबानी कर रहा है।",
+    "summary": "आईआईएम शिलॉन्ग 27 से 29 नवंबर 2026 तक शिलॉन्ग, मेघालय में 11वें पैन-आईआईएम विश्व प्रबंधन सम्मेलन 2026 की मेजबानी कर रहा है। “राष्ट्र निर्माण के लिए स्थिरता और समावेशी विकास को बढ़ावा देना” (Driving Sustainability and Inclusive Growth for Nation Building) विषय के तहत आयोजित, यह सम्मेलन शैक्षणिक नेताओं, नीति निर्माताओं और उद्योग विशेषज्ञों को एक साथ लाता है। एक प्रमुख आकर्षण पूर्वा (PURVA) 2026 है, जो पूर्वी और उत्तरपूर्वी भारत में उद्यमिता क्षमताओं और नवाचार-अगुवाई वाले विकास को बढ़ावा देने के उद्देश्य से एक राष्ट्रीय आईआईटी-आईआईएम इनक्यूबेशन कॉन्क्लेव है।",
+    "points": [
+     "सम्मेलन 27 से 29 नवंबर 2026 तक आईआईएम शिलॉन्ग, मेघालय में आयोजित किया जाता है।",
+     "11वें संस्करण का विषय 'राष्ट्र निर्माण के लिए स्थिरता और समावेशी विकास को बढ़ावा देना' (Driving Sustainability and Inclusive Growth for Nation Building) है।",
+     "असम के राज्यपाल श्री लक्ष्मण प्रसाद आचार्य उद्घाटन समारोह के मुख्य अतिथि हैं।",
+     "इसमें पूर्वा (PURVA) 2026, एक राष्ट्रीय आईआईटी-आईआईएम इनक्यूबेशन कॉन्क्लेव शामिल है।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "11वें पैन-आईआईएम विश्व प्रबंधन सम्मेलन 2026 का विषय क्या है?",
+      "options": [
+       "राष्ट्र निर्माण के लिए स्थिरता और समावेशी विकास को बढ़ावा देना (Driving Sustainability and Inclusive Growth for Nation Building)",
+       "डिजिटल परिवर्तन और प्रबंधन शिक्षा (Digital Transformation and Management Education)",
+       "समावेशी विकास और वैश्विक प्रतिस्पर्धात्मकता (Inclusive Growth and Global Competitiveness)",
+       "प्रबंधन में टिकाऊ नवाचार (Sustainable Innovations in Management)"
+      ],
+      "explanation": "यह सम्मेलन 'राष्ट्र निर्माण के लिए स्थिरता और समावेशी विकास को बढ़ावा देना' विषय के तहत आयोजित किया गया है।"
+     },
+     {
+      "question": "सम्मेलन के दौरान प्रदर्शित राष्ट्रीय आईआईटी-आईआईएम इनक्यूबेशन कॉन्क्लेव का नाम क्या है?",
+      "options": [
+       "उन्नति 2026 (UNNATI 2026)",
+       "पूर्वा 2026 (PURVA 2026)",
+       "प्रगति 2026 (PRAGATI 2026)",
+       "आरंभ 2026 (ARambh 2026)"
+      ],
+      "explanation": "इस संस्करण का एक मुख्य आकर्षण पूर्वा (PURVA) 2026 - विश्वविद्यालयों, अनुसंधान, उपक्रमों और त्वरण के लिए मंच (Platform for Universities, Research, Ventures and Acceleration) है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "आयआयएम शिलोंग ११ व्या पॅन-आयआयएम जागतिक व्यवस्थापन परिषद २०२६ चे यजमानपद भूषवणार",
+    "one_liner": "आयआयएम शिलोंग (IIM Shillong) टिकाऊपणा आणि सर्वसमावेशक वाढीवर लक्ष केंद्रित करून ११ व्या पॅन-आयआयएम जागतिक व्यवस्थापन परिषद २०२६ (PAN-IIM World Management Conference 2026) चे यजमानपद भूषवत आहे.",
+    "summary": "आयआयएम शिलोंग (IIM Shillong) २७ ते २९ नोव्हेंबर २०२६ दरम्यान मेघालयातील शिलोंग येथे ११ व्या पॅन-आयआयएम जागतिक व्यवस्थापन परिषद २०२६ चे यजमानपद भूषवत आहे. “राष्ट्र निर्माणासाठी टिकाऊपणा आणि सर्वसमावेशक वाढ चालना देणे” (Driving Sustainability and Inclusive Growth for Nation Building) या थीम अंतर्गत आयोजित, ही परिषद शैक्षणिक नेते, धोरणकर्ते आणि उद्योग तज्ञांना एकत्र आणते. पूर्वेकडील आणि ईशान्य भारतातील उद्योजकता क्षमता आणि नाविन्यता-नेतृत्वात वाढ चालना देण्याच्या उद्देशाने राष्ट्रीय आयआयटी-आयआयएम इन्क्युबेशन कॉन्क्लेव्ह (National IIT-IIM Incubation Conclave), पुर्वा २०२६ (PURVA 2026) हे याचे प्रमुख वैशिष्ट्य आहे.",
+    "points": [
+     "ही परिषद २७ ते २९ नोव्हेंबर २०२६ दरम्यान आयआयएम शिलोंग, मेघालय येथे होत आहे.",
+     "११ व्या आवृत्तीची थीम 'राष्ट्र निर्माणासाठी टिकाऊपणा आणि सर्वसमावेशक वाढ चालना देणे' (Driving Sustainability and Inclusive Growth for Nation Building) ही आहे.",
+     "आसामचे राज्यपाल श्री लक्ष्मण प्रसाद आचार्य हे उद्घाटन सोहळ्याचे प्रमुख पाहुणे आहेत.",
+     "यामध्ये राष्ट्रीय आयआयटी-आयआयएम इन्क्युबेशन कॉन्क्लेव्ह (National IIT–IIM Incubation Conclave), पुर्वा २०२६ (PURVA 2026) समाविष्ट आहे."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "११ व्या पॅन-आयआयएम जागतिक व्यवस्थापन परिषद २०२६ ची थीम काय आहे?",
+      "options": [
+       "राष्ट्र निर्माणासाठी टिकाऊपणा आणि सर्वसमावेशक वाढ चालना देणे (Driving Sustainability and Inclusive Growth for Nation Building)",
+       "डिजिटल रूपांतरण आणि व्यवस्थापन शिक्षण (Digital Transformation and Management Education)",
+       "सर्वसमावेशक वाढ आणि जागतिक स्पर्धात्मकता (Inclusive Growth and Global Competitiveness)",
+       "व्यवस्थापनामध्ये टिकाऊ नवकल्पना (Sustainable Innovations in Management)"
+      ],
+      "explanation": "ही परिषद 'राष्ट्र निर्माणासाठी टिकाऊपणा आणि सर्वसमावेशक वाढ चालना देणे' (Driving Sustainability and Inclusive Growth for Nation Building) या थीम अंतर्गत आयोजित केली आहे."
+     },
+     {
+      "question": "परिषदेदरम्यान वैशिष्ट्यीकृत केलेल्या राष्ट्रीय आयआयटी-आयआयएम इन्क्युबेशन कॉन्क्लेव्हचे नाव काय आहे?",
+      "options": [
+       "उन्नती २०२६ (UNNATI 2026)",
+       "पुर्वा २०२६ (PURVA 2026)",
+       "प्रगती २०२६ (PRAGATI 2026)",
+       "आरंभ २०२६ (ARambh 2026)"
+      ],
+      "explanation": "या आवृत्तीचे एक प्रमुख वैशिष्ट्य म्हणजे पुर्वा २०२६ (PURVA 2026) - प्लॅटफॉर्म फॉर युनिव्हर्सिटीज, रिसर्च, व्हेंचर्स अँड ॲक्सिलेरेशन (Platform for Universities, Research, Ventures and Acceleration) हे आहे."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Indian Institute of Management Shillong",
+    "short": "IIM Shillong",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Meghalaya",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   },
+   {
+    "name": "Assam",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of Indian Institute of Management Shillong: Shillong",
+    "hi": "भारतीय प्रबंध संस्थान, शिलांग का मुख्यालय: शिलांग",
+    "mr": "भारतीय व्यवस्थापन संस्था, शिलाँग चे मुख्यालय: शिलाँग"
+   },
+   {
+    "en": "Indian Institute of Management Shillong was established in 2008",
+    "hi": "भारतीय प्रबंध संस्थान, शिलांग की स्थापना: 2008",
+    "mr": "भारतीय व्यवस्थापन संस्था, शिलाँग ची स्थापना: 2008"
+   },
+   {
+    "en": "Capital of Meghalaya: Shillong",
+    "bn": "মেঘালয়-এর রাজধানী: শিলং",
+    "hi": "मेघालय की राजधानी: शिलांग",
+    "mr": "मेघालय ची राजधानी: शिलाँग"
+   },
+   {
+    "en": "Capital of Assam: Dispur",
+    "bn": "আসাম-এর রাজধানী: দিসপুর",
+    "hi": "असम की राजधानी: दिसपुर",
+    "mr": "आसाम ची राजधानी: दिसपूर"
+   }
+  ]
+ },
+ {
+  "id": "e4e93475120c",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "chhattisgarh",
+  "category": "economy",
+  "tags": [
+   "UPSC",
+   "State PSC",
+   "Railways",
+   "SSC"
+  ],
+  "source_name": "PIB Raipur",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342120",
+  "answers": [
+   0,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "Nagarnar Steel Plant Crosses 5 Million Tonnes in Coke Production",
+    "one_liner": "NMDC Steel Ltd.'s Nagarnar Steel Plant crossed the 5 million tonnes milestone in metallurgical coke production on November 25, 2026.",
+    "summary": "NMDC Steel Ltd.’s Nagarnar Steel Plant (NSL) crossed the 5 million tonnes mark of coking coal production on November 25, 2026, achieved by its Coke Oven Battery since its inception. Battery No. 1 was commissioned on October 28, 2022, followed by Battery No. 2 on April 25, 2023. The plant utilizes an eco-friendly Coke Dry Cooling Plant (CDCP) which uses inert nitrogen gas instead of water quenching to cool hot coke and generate captive power.",
+    "points": [
+     "Nagarnar Steel Plant crossed 5 million tonnes of coking coal production on November 25, 2026.",
+     "Coke Oven Battery No. 1 was commissioned on October 28, 2022.",
+     "Battery No. 2 was operationalized on April 25, 2023.",
+     "The plant features an eco-friendly Coke Dry Cooling Plant (CDCP) utilizing inert nitrogen gas."
+    ],
+    "static_gk": "Nagarnar Steel Plant is located near Jagdalpur in the state of Chhattisgarh.",
+    "mcqs": [
+     {
+      "question": "When was the 5 million tonnes mark in metallurgical coke production crossed by NSL's Nagarnar Steel Plant?",
+      "options": [
+       "November 25, 2026",
+       "October 28, 2025",
+       "April 25, 2026",
+       "November 26, 2026"
+      ],
+      "explanation": "The plant crossed the 5 million tonnes mark of coking coal production on 25th November 2026."
+     },
+     {
+      "question": "What technology does NSL's Coke Dry Cooling Plant use to cool hot coke?",
+      "options": [
+       "Liquid oxygen",
+       "Inert nitrogen gas",
+       "Compressed air",
+       "Chilled water"
+      ],
+      "explanation": "CDCP utilizes inert nitrogen gas instead of water quenching to cool hot coke."
+     }
+    ]
+   },
+   "bn": {
+    "title": "নগরনার স্টিল প্ল্যান্ট কোক উৎপাদনে ৫ মিলিয়ন টন অতিক্রম করেছে",
+    "one_liner": "এনএমডিসি স্টিল লিমিটেডের নগরনার স্টিল প্ল্যান্ট ২৫ নভেম্বর, ২০২৬ তারিখে মেটালার্জিক্যাল কোক উৎপাদনে ৫ মিলিয়ন টনের মাইলফলক অতিক্রম করেছে।",
+    "summary": "এনএমডিসি স্টিল লিমিটেড (NMDC Steel Ltd.)-এর নগরনার স্টিল প্ল্যান্ট (NSL) তার সূচনা থেকেই কোক ওভেন ব্যাটারির মাধ্যমে অর্জন করে ২৫ নভেম্বর, ২০২৬ তারিখে ৫ মিলিয়ন টন কোকিং কয়লা উৎপাদনের মাত্রা অতিক্রম করেছে। ব্যাটারি নং ১ ২০২২ সালের ২৮ অক্টোবর এবং এরপরে ব্যাটারি নং ২ ২০২৩ সালের ২৫ এপ্রিল চালু করা হয়েছিল। প্ল্যান্টটিতে একটি পরিবেশ-বান্ধব কোক ড্রাই কুলিং প্ল্যান্ট (CDCP) ব্যবহার করা হয় যা গরম কোক ঠান্ডা করতে এবং ক্যাপটিভ পাওয়ার উৎপন্ন করতে জলের পরিবর্তে নিষ্ক্রিয় নাইট্রোজেন গ্যাস ব্যবহার করে।",
+    "points": [
+     "নগরনার স্টিল প্ল্যান্ট ২৫ নভেম্বর, ২০২৬ তারিখে ৫ মিলিয়ন টন কোকিং কয়লা উৎপাদন অতিক্রম করেছে।",
+     "কোক ওভেন ব্যাটারি নং ১ ২০২২ সালের ২৮ অক্টোবর চালু করা হয়েছিল।",
+     "ব্যাটারি নং ২ ২০২৩ সালের ২৫ এপ্রিল চালু করা হয়।",
+     "প্ল্যান্টটিতে নিষ্ক্রিয় নাইট্রোজেন গ্যাস ব্যবহার করে একটি পরিবেশ-বান্ধব কোক ড্রাই কুলিং প্ল্যান্ট (CDCP) রয়েছে।"
+    ],
+    "static_gk": "নগরনার স্টিল প্ল্যান্ট ছত্তিশগড় রাজ্যের জগদলপুরের কাছে অবস্থিত।",
+    "mcqs": [
+     {
+      "question": "এনএসএল-এর নগরনার স্টিল প্ল্যান্ট কবে মেটালার্জিক্যাল কোক উৎপাদনে ৫ মিলিয়ন টনের মাত্রা অতিক্রম করেছে?",
+      "options": [
+       "২৫ নভেম্বর, ২০২৬",
+       "২৮ অক্টোবর, ২০২৫",
+       "২৫ এপ্রিল, ২০২৬",
+       "২৬ নভেম্বর, ২০২৬"
+      ],
+      "explanation": "প্ল্যান্টটি ২০২৬ সালের ২৫ নভেম্বর ৫ মিলিয়ন টন কোকিং কয়লা উৎপাদনের মাত্রা অতিক্রম করেছে।"
+     },
+     {
+      "question": "এনএসএল-এর কোক ড্রাই কুলিং প্ল্যান্ট গরম কোক ঠান্ডা করতে কোন প্রযুক্তি ব্যবহার করে?",
+      "options": [
+       "তরল অক্সিজেন",
+       "নিষ্ক্রিয় নাইট্রোজেন গ্যাস",
+       "সংকুচিত বায়ু",
+       "ঠান্ডা জল"
+      ],
+      "explanation": "সিজিপিসি (CDCP) গরম কোক ঠান্ডা করতে জল ব্যবহারের পরিবর্তে নিষ্ক্রিয় নাইট্রোজেন গ্যাস ব্যবহার করে।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "नगरनार स्टील प्लांट ने कोक उत्पादन में 5 मिलियन टन का आंकड़ा पार किया",
+    "one_liner": "एनएमडीसी स्टील लिमिटेड (NMDC Steel Ltd.) के नगरनार स्टील प्लांट ने 25 नवंबर 2026 को धातुकर्म कोक (metallurgical coke) उत्पादन में 5 मिलियन टन का मील का पत्थर पार किया।",
+    "summary": "एनएमडीसी स्टील लिमिटेड (NMDC Steel Ltd.) के नगरनार स्टील प्लांट (NSL) ने 25 नवंबर 2026 को अपनी कोक ओवन बैटरी (Coke Oven Battery) द्वारा अपनी स्थापना के बाद से प्राप्त कोकिंग कोयला उत्पादन के 5 मिलियन टन के आंकड़े को पार कर लिया। बैटरी नंबर 1 को 28 अक्टूबर 2022 को चालू किया गया था, इसके बाद 25 अप्रैल 2023 को बैटरी नंबर 2 को चालू किया गया। यह प्लांट एक पर्यावरण अनुकूल कोक ड्राई कूलिंग प्लांट (CDCP) का उपयोग करता है जो गर्म कोक को ठंडा करने और कैप्टिव पावर उत्पन्न करने के लिए पानी के छिड़काव के बजाय अक्रिय नाइट्रोजन गैस (inert nitrogen gas) का उपयोग करता है।",
+    "points": [
+     "नगरनार स्टील प्लांट ने 25 नवंबर 2026 को कोकिंग कोयला उत्पादन के 5 मिलियन टन को पार किया।",
+     "कोक ओवन बैटरी नंबर 1 को 28 अक्टूबर 2022 को चालू किया गया था।",
+     "बैटरी नंबर 2 को 25 अप्रैल 2023 को चालू किया गया था।",
+     "प्लांट में अक्रिय नाइट्रोजन गैस का उपयोग करने वाला एक पर्यावरण अनुकूल कोक ड्राई कूलिंग प्लांट (CDCP) है।"
+    ],
+    "static_gk": "नगरनार स्टील प्लांट छत्तीसगढ़ राज्य में जगदलपुर के पास स्थित है।",
+    "mcqs": [
+     {
+      "question": "एनएसएल (NSL) के नगरनार स्टील प्लांट द्वारा धातुकर्म कोक उत्पादन में 5 मिलियन टन का मील का पत्थर कब पार किया गया था?",
+      "options": [
+       "25 नवंबर 2026",
+       "28 अक्टूबर 2025",
+       "25 अप्रैल 2026",
+       "26 नवंबर 2026"
+      ],
+      "explanation": "प्लांट ने 25 नवंबर 2026 को कोकिंग कोयला उत्पादन के 5 मिलियन टन के आंकड़े को पार कर लिया।"
+     },
+     {
+      "question": "एनएसएल (NSL) का कोक ड्राई कूलिंग प्लांट (CDCP) गर्म कोक को ठंडा करने के लिए किस तकनीक का उपयोग करता है?",
+      "options": [
+       "तरल ऑक्सीजन (Liquid oxygen)",
+       "अक्रिय नाइट्रोजन गैस (Inert nitrogen gas)",
+       "संपीड़ित हवा (Compressed air)",
+       "ठंडा पानी (Chilled water)"
+      ],
+      "explanation": "सीडीसीपी (CDCP) गर्म कोक को ठंडा करने के लिए पानी के छिड़काव के बजाय अक्रिय नाइट्रोजन गैस का उपयोग करता है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "नगरनार स्टील प्लांटने कोक उत्पादनात ५ दशलक्ष टनांचा टप्पा ओलांडला",
+    "one_liner": "एनएमडीसी स्टील लिमिटेड (NMDC Steel Ltd.) च्या नगरनार स्टील प्लांटने २५ नोव्हेंबर २०२६ रोजी धातूशास्त्रीय कोक उत्पादनात ५ दशलक्ष टनांचा टप्पा ओलांडला.",
+    "summary": "एनएमडीसी स्टील लिमिटेड (NMDC Steel Ltd.) च्या नगरनार स्टील प्लांट (NSL) ने २५ नोव्हेंबर २०२६ रोजी त्याच्या कोक ओव्हन बॅटरीच्या सुरुवातीपासून कोकिंग कोल उत्पादनाचा ५ दशलक्ष टनांचा टप्पा ओलांडला. बॅटरी क्र. १ चे उद्घाटन २८ ऑक्टोबर २०२२ रोजी झाले, त्यानंतर बॅटरी क्र. २ २५ एप्रिल २०२३ रोजी कार्यान्वित झाली. हा प्लांट पर्यावरणपूरक कोक ड्राय कूलिंग प्लांट (CDCP) चा वापर करतो जो गरम कोक थंड करण्यासाठी आणि कॅप्टिव्ह पॉवर निर्माण करण्यासाठी पाण्याच्या प्रवाहाऐवजी निष्क्रिय नायट्रोजन वायूचा (inert nitrogen gas) वापर करतो.",
+    "points": [
+     "नगरनार स्टील प्लांटने २५ नोव्हेंबर २०२६ रोजी ५ दशलक्ष टन कोकिंग कोल उत्पादनाचा टप्पा ओलांडला.",
+     "कोक ओव्हन बॅटरी क्र. १ ची सुरुवात २८ ऑक्टोबर २०२२ रोजी झाली.",
+     "बॅटरी क्र. २ २५ एप्रिल २०२३ रोजी कार्यान्वित झाली.",
+     "प्लांटमध्ये निष्क्रिय नायट्रोजन वायू (inert nitrogen gas) वापरणारा पर्यावरणपूरक कोक ड्राय कूलिंग प्लांट (CDCP) आहे."
+    ],
+    "static_gk": "नगरनार स्टील प्लांट छत्तीसगड राज्यातील जगदलपूरजवळ आहे.",
+    "mcqs": [
+     {
+      "question": "एनएसएलच्या (NSL) नगरनार स्टील प्लांटद्वारे धातूशास्त्रीय कोक उत्पादनातील ५ दशलक्ष टनांचा टप्पा कधी ओलांडला गेला?",
+      "options": [
+       "२५ नोव्हेंबर २०२६",
+       "२८ ऑक्टोबर २०२५",
+       "२५ एप्रिल २०२६",
+       "२६ नोव्हेंबर २०२६"
+      ],
+      "explanation": "या प्लांटने २५ नोव्हेंबर २०२६ रोजी कोकिंग कोल उत्पादनाचा ५ दशलक्ष टनांचा टप्पा ओलांडला."
+     },
+     {
+      "question": "गरम कोक थंड करण्यासाठी एनएसएलचा (NSL) कोक ड्राय कूलिंग प्लांट (CDCP) कोणते तंत्रज्ञान वापरतो?",
+      "options": [
+       "द्रव ऑक्सिजन (Liquid oxygen)",
+       "निष्क्रिय नायट्रोजन वायू (Inert nitrogen gas)",
+       "संकेन्द्रित हवा (Compressed air)",
+       "गार केलेले पाणी (Chilled water)"
+      ],
+      "explanation": "सीडीसीपी (CDCP) गरम कोक थंड करण्यासाठी पाण्याच्या प्रवाहाऐवजी निष्क्रिय नायट्रोजन वायूचा (inert nitrogen gas) वापर करतो."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "NMDC Steel Ltd.",
+    "short": "NSL",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": []
+ },
+ {
+  "id": "738eb7d31264",
+  "date": "2026-11-26",
+  "time": "2026-11-26T22:48+05:30",
+  "region": "national",
+  "category": "banking",
+  "tags": [
+   "UPSC",
+   "Bank",
+   "SSC",
+   "State PSC"
+  ],
+  "source_name": "RBI",
+  "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64049",
+  "answers": [
+   1,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "RBI Conducts First Conversion/Switch Auction of State Government Securities",
+    "one_liner": "The Reserve Bank of India announced the results of the first conversion/switch auction of State Government Securities.",
+    "summary": "The Reserve Bank of India conducted the first conversion or switch auction of State Government Securities involving multiple source and destination securities across states like Madhya Pradesh, Punjab, Rajasthan, Tamil Nadu, and Uttar Pradesh. The auction detailed notified amounts, offers received, offers accepted, total amount of source security accepted, destination security issued, and cut-off prices and yields for various maturities.",
+    "points": [
+     "The auction included source securities from states such as Madhya Pradesh, Punjab, Rajasthan, Tamil Nadu, and Uttar Pradesh.",
+     "The press release reference number for the results is 2026-2027/1571.",
+     "The initial press release announcing the auction was dated November 20, 2026.",
+     "The auction results outline notified amounts, offers received and accepted, and corresponding cut-off yields for destination securities."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "Which institution conducted the first conversion/switch auction of State Government Securities?",
+      "options": [
+       "Securities and Exchange Board of India",
+       "Reserve Bank of India",
+       "State Bank of India",
+       "National Bank for Agriculture and Rural Development"
+      ],
+      "explanation": "The Reserve Bank of India conducted the first conversion/switch auction of State Government Securities."
+     },
+     {
+      "question": "What is the press release number for the results of the first switch auction of State Government Securities?",
+      "options": [
+       "2026-2027/1539",
+       "2026-2027/1571",
+       "2025-2026/1571",
+       "2026-2027/1000"
+      ],
+      "explanation": "The results press release is numbered 2026-2027/1571, while the initial notice was 2026-2027/1539."
+     }
+    ]
+   },
+   "bn": {
+    "title": "আরবিআই (RBI) রাজ্য সরকারি সিকিউরিটিজের প্রথম রূপান্তর/সোয়াপ নিলাম পরিচালনা করল",
+    "one_liner": "রিজার্ভ ব্যাঙ্ক অফ ইন্ডিয়া (Reserve Bank of India - RBI) রাজ্য সরকারি সিকিউরিটিজের প্রথম রূপান্তর/সোয়াপ নিলামের ফলাফল ঘোষণা করেছে।",
+    "summary": "রিজার্ভ ব্যাঙ্ক অফ ইন্ডিয়া (RBI) মধ্যপ্রদেশ, পাঞ্জাব, রাজস্থান, তামিলনাড়ু এবং উত্তরপ্রদেশের মতো রাজ্যগুলির একাধিক উৎস এবং গন্তব্য সিকিউরিটিজকে অন্তর্ভুক্ত করে রাজ্য সরকারি সিকিউরিটিজের প্রথম রূপান্তর বা সোয়াপ নিলাম পরিচালনা করেছে। এই নিলামে বিজ্ঞাপিত পরিমাণ, প্রাপ্ত প্রস্তাব, গৃহীত প্রস্তাব, গৃহীত উৎস সিকিউরিটির মোট পরিমাণ, জারিকৃত গন্তব্য সিকিউরিটি এবং বিভিন্ন মেয়াদের জন্য কাট-অফ মূল্য ও ইয়েল্ডের বিশদ বিবরণ দেওয়া হয়েছে।",
+    "points": [
+     "এই নিলামে মধ্যপ্রদেশ, পাঞ্জাব, রাজস্থান, তামিলনাড়ু এবং উত্তরপ্রদেশের মতো রাজ্যগুলির উৎস সিকিউরিটিগুলি অন্তর্ভুক্ত ছিল।",
+     "ফলাফলের প্রেস বিজ্ঞপ্তির রেফারেন্স নম্বরটি হল 2026-2027/1571।",
+     "নিলাম ঘোষণা করে জারি করা প্রাথমিক প্রেস বিজ্ঞপ্তিটির তারিখ ছিল 20 নভেম্বর, 2026।",
+     "নিলামের ফলাফলগুলিতে বিজ্ঞাপিত পরিমাণ, প্রাপ্ত ও গৃহীত প্রস্তাব এবং গন্তব্য সিকিউরিটিগুলির সংশ্লিষ্ট কাট-অফ ইয়েল্ডের রূপরেখা দেওয়া হয়েছে।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "কোন প্রতিষ্ঠান রাজ্য সরকারি সিকিউরিটিজের প্রথম রূপান্তর/সোয়াপ নিলাম পরিচালনা করেছে?",
+      "options": [
+       "সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ বোর্ড অফ ইন্ডিয়া (Securities and Exchange Board of India)",
+       "রিজার্ভ ব্যাঙ্ক অফ ইন্ডিয়া (Reserve Bank of India)",
+       "স্টেট ব্যাঙ্ক অফ ইন্ডিয়া (State Bank of India)",
+       "ন্যাশনাল ব্যাঙ্ক ফর এগ্রিকালচার অ্যান্ড রুরাল ডেভেলপমেন্ট (National Bank for Agriculture and Rural Development)"
+      ],
+      "explanation": "রিজার্ভ ব্যাঙ্ক অফ ইন্ডিয়া (RBI) রাজ্য সরকারি সিকিউরিটিজের প্রথম রূপান্তর/সোয়াপ নিলাম পরিচালনা করেছে।"
+     },
+     {
+      "question": "রাজ্য সরকারি সিকিউরিটিজের প্রথম সোয়াপ নিলামের ফলাফলের প্রেস বিজ্ঞপ্তি নম্বর কত?",
+      "options": [
+       "2026-2027/1539",
+       "2026-2027/1571",
+       "2025-2026/1571",
+       "2026-2027/1000"
+      ],
+      "explanation": "ফলাফলের প্রেস বিজ্ঞপ্তিটির নম্বর হল 2026-2027/1571, যেখানে প্রাথমিক নোটিশটি ছিল 2026-2027/1539।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "भारतीय रिजर्व बैंक (Reserve Bank of India) ने राज्य सरकार की प्रतिभूतियों की पहली कन्वर्जन/स्वैच नीलामी आयोजित की",
+    "one_liner": "भारतीय रिजर्व बैंक ने राज्य सरकार की प्रतिभूतियों (State Government Securities) की पहली कन्वर्जन/स्वैच नीलामी के परिणामों की घोषणा की।",
+    "summary": "भारतीय रिजर्व बैंक (Reserve Bank of India) ने मध्य प्रदेश, पंजाब, राजस्थान, तमिलनाडु और उत्तर प्रदेश जैसे राज्यों की कई सोर्स और डेस्टिनेशन प्रतिभूतियों को शामिल करते हुए राज्य सरकार की प्रतिभूतियों की पहली कन्वर्जन या स्वैच नीलामी आयोजित की। नीलामी में विभिन्न परिपक्वताओं के लिए अधिसूचित मात्रा, प्राप्त बोलियों, स्वीकार की गई बोलियों, स्वीकार की गई सोर्स प्रतिभूति की कुल राशि, जारी की गई डेस्टिनेशन प्रतिभूति, और कट-ऑफ कीमतों और यील्ड का विवरण दिया गया है।",
+    "points": [
+     "नीलामी में मध्य प्रदेश, पंजाब, राजस्थान, तमिलनाडु और उत्तर प्रदेश जैसे राज्यों की सोर्स प्रतिभूतियां शामिल थीं।",
+     "परिणामों के लिए प्रेस विज्ञप्ति संदर्भ संख्या 2026-2027/1571 है।",
+     "नीलामी की घोषणा करने वाली प्रारंभिक प्रेस विज्ञप्ति 20 नवंबर 2026 की थी।",
+     "नीलामी के परिणाम अधिसूचित मात्रा, प्राप्त और स्वीकार की गई बोलियां, और डेस्टिनेशन प्रतिभूतियों के लिए संबंधित कट-ऑफ यील्ड की रूपरेखा तैयार करते हैं।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "किस संस्था ने राज्य सरकार की प्रतिभूतियों की पहली कन्वर्जन/स्वैच नीलामी आयोजित की?",
+      "options": [
+       "भारतीय प्रतिभूति और विनिमय बोर्ड (Securities and Exchange Board of India)",
+       "भारतीय रिजर्व बैंक (Reserve Bank of India)",
+       "भारतीय स्टेट बैंक (State Bank of India)",
+       "राष्ट्रीय कृषि और ग्रामीण विकास बैंक (National Bank for Agriculture and Rural Development)"
+      ],
+      "explanation": "भारतीय रिजर्व बैंक (Reserve Bank of India) ने राज्य सरकार की प्रतिभूतियों की पहली कन्वर्जन/स्वैच नीलामी आयोजित की।"
+     },
+     {
+      "question": "राज्य सरकार की प्रतिभूतियों की पहली स्वैच नीलामी के परिणामों के लिए प्रेस विज्ञप्ति संख्या क्या है?",
+      "options": [
+       "2026-2027/1539",
+       "2026-2027/1571",
+       "2025-2026/1571",
+       "2026-2027/1000"
+      ],
+      "explanation": "परिणामों की प्रेस विज्ञप्ति की संख्या 2026-2027/1571 है, जबकि प्रारंभिक सूचना 2026-2027/1539 थी।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "रिझर्व्ह बँकेने (Reserve Bank of India - RBI) राज्य सरकारच्या रोख्यांचा पहिला रूपांतरण/स्विच लिलाव पार पाडला",
+    "one_liner": "भारतीय रिझर्व्ह बँकेने राज्य सरकारच्या रोख्यांच्या (State Government Securities) पहिल्या रूपांतरण/स्विच लिलावाचे निकाल जाहीर केले.",
+    "summary": "भारतीय रिझर्व्ह बँकेने (Reserve Bank of India - RBI) मध्य प्रदेश, पंजाब, राजस्थान, तामिळनाडू आणि उत्तर प्रदेश यांसारख्या राज्यांमधील अनेक स्त्रोत आणि गंतव्य रोख्यांचा समावेश असलेला राज्य सरकारच्या रोख्यांचा पहिला रूपांतरण किंवा स्विच लिलाव पार पाडला. या लिलावात अधिसूचित रक्कम, प्राप्त झालेल्या ऑफर्स, स्वीकारलेल्या ऑफर्स, स्वीकारलेल्या स्त्रोत रोख्यांची एकूण रक्कम, जारी केलेले गंतव्य रोखे आणि विविध मुदतींसाठीचे कट-ऑफ दर आणि यील्ड (उत्पन्न) यांचा तपशील देण्यात आला आहे.",
+    "points": [
+     "या लिलावात मध्य प्रदेश, पंजाब, राजस्थान, तामिळनाडू आणि उत्तर प्रदेश यांसारख्या राज्यांमधील स्त्रोत रोख्यांचा समावेश होता.",
+     "या निकालांसाठीच्या प्रसिद्धी पत्रकाचा संदर्भ क्रमांक 2026-2027/1571 असा आहे.",
+     "लिलावाची घोषणा करणारे सुरुवातीचे प्रसिद्धी पत्रक 20 नोव्हेंबर 2026 रोजीचे होते.",
+     "लिलावाचे निकाल अधिसूचित रक्कम, प्राप्त झालेल्या आणि स्वीकारलेल्या ऑफर्स आणि गंतव्य रोख्यांसाठीचे संबंधित कट-ऑफ यील्ड यांची माहिती देतात."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "राज्य सरकारच्या रोख्यांचा पहिला रूपांतरण/स्विच लिलाव कोणत्या संस्थेने पार पाडला?",
+      "options": [
+       "भारतीय हमी आणि विनिमय मंडळ (Securities and Exchange Board of India)",
+       "भारतीय रिझर्व्ह बँक (Reserve Bank of India)",
+       "भारतीय स्टेट बँक (State Bank of India)",
+       "राष्ट्रीय कृषी आणि ग्रामीण विकास बँक (National Bank for Agriculture and Rural Development)"
+      ],
+      "explanation": "भारतीय रिझर्व्ह बँकेने राज्य सरकारच्या रोख्यांचा पहिला रूपांतरण/स्विच लिलाव पार पाडला."
+     },
+     {
+      "question": "राज्य सरकारच्या रोख्यांच्या पहिल्या स्विच लिलावाच्या निकालांसाठीचा प्रसिद्धी पत्रक क्रमांक काय आहे?",
+      "options": [
+       "2026-2027/1539",
+       "2026-2027/1571",
+       "2025-2026/1571",
+       "2026-2027/1000"
+      ],
+      "explanation": "निकालाच्या प्रसिद्धी पत्रकाचा क्रमांक 2026-2027/1571 असा आहे, तर सुरुवातीची सूचना 2026-2027/1539 क्रमांकाची होती."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Reserve Bank of India",
+    "short": "RBI",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "gk": [
+   {
+    "en": "Headquarters of Reserve Bank of India: Mumbai",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক-এর সদর দপ্তর: মুম্বই",
+    "hi": "भारतीय रिज़र्व बैंक का मुख्यालय: मुम्बई",
+    "mr": "भारतीय रिझर्व्ह बँक चे मुख्यालय: मुंबई"
+   },
+   {
+    "en": "Reserve Bank of India was established in 1935",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক প্রতিষ্ঠিত হয় 1935 সালে",
+    "hi": "भारतीय रिज़र्व बैंक की स्थापना: 1935",
+    "mr": "भारतीय रिझर्व्ह बँक ची स्थापना: 1935"
+   }
+  ]
+ },
+ {
   "id": "4b35dd726e15",
   "date": "2026-11-26",
   "time": "2026-11-26T07:27+05:30",

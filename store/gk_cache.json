@@ -623,5 +623,275 @@
 "mr": "चिली चे चलन: चिलीयन पेसो"
 }
 ]
+},
+"organisation:True:ministry of agriculture and farmers welfare": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:ministry of electronics and information technology": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Ministry of Electronics and Information Technology: 20, Ashoka Road",
+"hi": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय का मुख्यालय: २०, अशोक रोड"
+},
+{
+"en": "Ministry of Electronics and Information Technology was established in 2016",
+"hi": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय की स्थापना: 2016",
+"mr": "इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालय (भारत) ची स्थापना: 2016"
+}
+]
+},
+"organisation:True:chariot artificial intelligence pvt. ltd.": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:national land monetization corporation limited": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:ministry of finance": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:indian army": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Indian Army: New Delhi",
+"bn": "ভারতীয় সেনাবাহিনী-এর সদর দপ্তর: নয়াদিল্লি",
+"hi": "भारतीय थलसेना का मुख्यालय: नई दिल्ली",
+"mr": "भारतीय लष्कर चे मुख्यालय: नवी दिल्ली"
+},
+{
+"en": "Indian Army was established in 1950",
+"bn": "ভারতীয় সেনাবাহিনী প্রতিষ্ঠিত হয় 1950 সালে",
+"hi": "भारतीय थलसेना की स्थापना: 1950",
+"mr": "भारतीय लष्कर ची स्थापना: 1950"
+}
+]
+},
+"state:True:gujarat": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Gujarat: Gandhinagar",
+"bn": "গুজরাত-এর রাজধানী: গান্ধীনগর",
+"hi": "गुजरात की राजधानी: गाँधीनगर",
+"mr": "गुजरात ची राजधानी: गांधीनगर"
+}
+]
+},
+"organisation:True:institute for competitiveness": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:archaeological survey of india": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Archaeological Survey of India: New Delhi",
+"bn": "ভারতীয় পুরাতত্ত্ব সর্বেক্ষণ-এর সদর দপ্তর: নয়াদিল্লি",
+"hi": "भारतीय पुरातत्त्व सर्वेक्षण विभाग का मुख्यालय: नई दिल्ली",
+"mr": "भारतीय पुरातत्त्व सर्वेक्षण विभाग चे मुख्यालय: नवी दिल्ली"
+},
+{
+"en": "Archaeological Survey of India was established in 1861",
+"bn": "ভারতীয় পুরাতত্ত্ব সর্বেক্ষণ প্রতিষ্ঠিত হয় 1861 সালে",
+"hi": "भारतीय पुरातत्त्व सर्वेक्षण विभाग की स्थापना: 1861",
+"mr": "भारतीय पुरातत्त्व सर्वेक्षण विभाग ची स्थापना: 1861"
+}
+]
+},
+"organisation:False:smithsonian museum": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Smithsonian Institution: Washington, D.C."
+},
+{
+"en": "Smithsonian Institution was established in 1846"
+}
+]
+},
+"country:False:united arab emirates": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of United Arab Emirates: Abu Dhabi",
+"bn": "সংযুক্ত আরব আমিরাত-এর রাজধানী: আবুধাবি",
+"hi": "संयुक्त अरब अमीरात की राजधानी: अबू धाबी",
+"mr": "संयुक्त अरब अमिराती ची राजधानी: अबु धाबी"
+},
+{
+"en": "Currency of United Arab Emirates: United Arab Emirates dirham",
+"bn": "সংযুক্ত আরব আমিরাত-এর মুদ্রা: সংযুক্ত আরব আমিরাতের দিরহাম",
+"hi": "संयुक्त अरब अमीरात की मुद्रा: यूएई दिरहम",
+"mr": "संयुक्त अरब अमिराती चे चलन: संयुक्त अरब अमिराती दिरहम"
+}
+]
+},
+"organisation:True:ministry of defence": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Ministry of Defence was established in 1776",
+"bn": "প্রতিরক্ষা মন্ত্রণালয় প্রতিষ্ঠিত হয় 1776 সালে",
+"hi": "रक्षा मंत्रालय की स्थापना: 1776",
+"mr": "संरक्षण मंत्रालय (भारत) ची स्थापना: 1776"
+}
+]
+},
+"state:True:bihar": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Capital of Bihar: Patna",
+"bn": "বিহার-এর রাজধানী: পাটনা",
+"hi": "बिहार की राजधानी: पटना",
+"mr": "बिहार ची राजधानी: पटना"
+}
+]
+},
+"organisation:True:ministry of fisheries, animal husbandry and dairying": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:national dairy development board": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of National Dairy Development Board: Anand",
+"hi": "राष्ट्रीय डेरी विकास बोर्ड का मुख्यालय: आणंद",
+"mr": "राष्ट्रीय दुग्धविकास मंडळ चे मुख्यालय: आणंद"
+},
+{
+"en": "National Dairy Development Board was established in 1965",
+"hi": "राष्ट्रीय डेरी विकास बोर्ड की स्थापना: 1965",
+"mr": "राष्ट्रीय दुग्धविकास मंडळ ची स्थापना: 1965"
+}
+]
+},
+"organisation:True:department of financial services": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:department of administrative reforms and public grievances": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:national highways authority of india": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:ministry of road transport and highways": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:csir-indian institute of integrative medicine": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:council of scientific and industrial research": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Council of Scientific and Industrial Research: New Delhi",
+"bn": "বৈজ্ঞানিক তথা আয়োগিক অনুসন্ধান পরিষদ-এর সদর দপ্তর: নয়াদিল্লি",
+"hi": "वैज्ञानिक एवं औद्योगिक अनुसंधान परिषद का मुख्यालय: नई दिल्ली",
+"mr": "वैज्ञानिक आणि औद्योगिक संशोधन महामंडळ चे मुख्यालय: नवी दिल्ली"
+},
+{
+"en": "Council of Scientific and Industrial Research was established in 1942",
+"bn": "বৈজ্ঞানিক তথা আয়োগিক অনুসন্ধান পরিষদ প্রতিষ্ঠিত হয় 1942 সালে",
+"hi": "वैज्ञानिक एवं औद्योगिक अनुसंधान परिषद की स्थापना: 1942",
+"mr": "वैज्ञानिक आणि औद्योगिक संशोधन महामंडळ ची स्थापना: 1942"
+}
+]
+},
+"organisation:True:indian institute of technology madras": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:national internet exchange of india": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of National Internet Exchange of India: New Delhi"
+},
+{
+"en": "National Internet Exchange of India was established in 2003"
+}
+]
+},
+"organisation:True:central institute of classical tamil": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:banaras hindu university": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Banaras Hindu University: Varanasi",
+"bn": "বেনারস হিন্দু বিশ্ববিদ্যালয়-এর সদর দপ্তর: বারাণসী",
+"hi": "काशी हिन्दू विश्वविद्यालय का मुख्यालय: वाराणसी",
+"mr": "बनारस हिंदू विद्यापीठ चे मुख्यालय: वाराणसी"
+},
+{
+"en": "Banaras Hindu University was established in 1916",
+"bn": "বেনারস হিন্দু বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় 1916 সালে",
+"hi": "काशी हिन्दू विश्वविद्यालय की स्थापना: 1916",
+"mr": "बनारस हिंदू विद्यापीठ ची स्थापना: 1916"
+}
+]
+},
+"organisation:True:national institute of technology rourkela": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:False:royal society of chemistry": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Royal Society of Chemistry was established in 1980",
+"bn": "রয়েল সোসাইটি অব কেমিস্ট্রি প্রতিষ্ঠিত হয় 1980 সালে"
+}
+]
+},
+"organisation:True:indian institute of management shillong": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Indian Institute of Management Shillong: Shillong",
+"hi": "भारतीय प्रबंध संस्थान, शिलांग का मुख्यालय: शिलांग",
+"mr": "भारतीय व्यवस्थापन संस्था, शिलाँग चे मुख्यालय: शिलाँग"
+},
+{
+"en": "Indian Institute of Management Shillong was established in 2008",
+"hi": "भारतीय प्रबंध संस्थान, शिलांग की स्थापना: 2008",
+"mr": "भारतीय व्यवस्थापन संस्था, शिलाँग ची स्थापना: 2008"
+}
+]
+},
+"organisation:True:nmdc steel ltd.": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:True:reserve bank of india": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Reserve Bank of India: Mumbai",
+"bn": "ভারতীয় রিজার্ভ ব্যাংক-এর সদর দপ্তর: মুম্বই",
+"hi": "भारतीय रिज़र्व बैंक का मुख्यालय: मुम्बई",
+"mr": "भारतीय रिझर्व्ह बँक चे मुख्यालय: मुंबई"
+},
+{
+"en": "Reserve Bank of India was established in 1935",
+"bn": "ভারতীয় রিজার্ভ ব্যাংক প্রতিষ্ঠিত হয় 1935 সালে",
+"hi": "भारतीय रिज़र्व बैंक की स्थापना: 1935",
+"mr": "भारतीय रिझर्व्ह बँक ची स्थापना: 1935"
+}
+]
 }
 }
