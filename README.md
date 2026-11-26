@@ -15,6 +15,7 @@ hourly         hub/collect.py   PIB "All Releases" pages of all 28 offices (Delh
 |---|---|---|
 | current_affairs_today | `apps/today/` | English; categories + West Bengal, Tripura/NE, States (with state name) |
 | current_affairs_in_bengali | `apps/bengali/` | Bengali; categories + west_bengal, tripura, north_east, states |
+| current_affairs_hindi | `apps/hindi/` | Hindi; same sections |
 | current_affairs_marathi | `apps/marathi/` | Marathi; categories + महाराष्ट्र (own tab), इतर राज्ये |
 
 Every app gets national news **and news from every state/UT**. Each item has a `region` (`national` or a
@@ -49,7 +50,9 @@ in `hub/collect.py`.
 3. Run Actions → CA Hub → Run workflow with task `generate` once, then check `apps/*/`.
 
 ## Adding an app or a language
-- New language (e.g. Hindi): add it to `LANGS` in `hub/config.py` with its script regex and style, and set its regions.
+- New language: add it to `LANGS` in `hub/config.py` (script regex + style), add its labels in `hub/static_gk.py` and
+  `hub/related_gk.py`, its state names in `hub/state_names.json`, map an app folder in `APP_LANG` (`hub/export.py`),
+  then run `python hub/backfill_lang.py <code>` to translate items already published.
 - New app: write an `export_<name>()` in `hub/export.py` and register it in `EXPORTERS`. Point the app at `apps/<name>/`.
 
 ## Limits
