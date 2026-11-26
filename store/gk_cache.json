@@ -1,4 +1,89 @@
 {
+"organisation:True:securities and exchange board of india": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Securities and Exchange Board of India: Mumbai",
+"bn": "সিকিউরিটি অ্যান্ড এক্সচেঞ্জ বোর্ড অফ ইন্ডিয়া-এর সদর দপ্তর: মুম্বই",
+"hi": "भारतीय प्रतिभूति और विनिमय बोर्ड का मुख्यालय: मुम्बई",
+"mr": "सिक्‍युरिटीज अँड एक्‍स्चेंज बोर्ड ऑफ इंडिया चे मुख्यालय: मुंबई"
+},
+{
+"en": "Securities and Exchange Board of India was established in 1992",
+"bn": "সিকিউরিটি অ্যান্ড এক্সচেঞ্জ বোর্ড অফ ইন্ডিয়া প্রতিষ্ঠিত হয় 1992 সালে",
+"hi": "भारतीय प्रतिभूति और विनिमय बोर्ड की स्थापना: 1992",
+"mr": "सिक्‍युरिटीज अँड एक्‍स्चेंज बोर्ड ऑफ इंडिया ची स्थापना: 1992"
+}
+]
+},
+"organisation:False:international organization of securities commissions": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of International Organization of Securities Commissions: Madrid",
+"hi": "प्रतिभूति आयोगों का अंतरराष्ट्रीय संगठन का मुख्यालय: मद्रिद"
+},
+{
+"en": "International Organization of Securities Commissions was established in 1983",
+"hi": "प्रतिभूति आयोगों का अंतरराष्ट्रीय संगठन की स्थापना: 1983"
+}
+]
+},
+"organisation:True:insurance regulatory and development authority of india": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Insurance Regulatory and Development Authority: Hyderabad",
+"hi": "बीमा विनियामक और विकास प्राधिकरण का मुख्यालय: हैदराबाद",
+"mr": "विमा नियामक आणि विकास प्राधिकरण चे मुख्यालय: हैदराबाद"
+}
+]
+},
+"organisation:True:insurance information bureau of india": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:False:asian development bank": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Asian Development Bank: Mandaluyong",
+"bn": "এশীয় উন্নয়ন ব্যাংক-এর সদর দপ্তর: ম্যান্ডালুং",
+"hi": "एशियाई विकास बैंक का मुख्यालय: मंडलुयोंग"
+},
+{
+"en": "Asian Development Bank was established in 1966",
+"bn": "এশীয় উন্নয়ন ব্যাংক প্রতিষ্ঠিত হয় 1966 সালে",
+"hi": "एशियाई विकास बैंक की स्थापना: 1966"
+}
+]
+},
+"organisation:False:world bank": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "World Bank was established in 1945",
+"bn": "বিশ্ব ব্যাংক প্রতিষ্ঠিত হয় 1945 সালে",
+"hi": "विश्व बैंक की स्थापना: 1945",
+"mr": "जागतिक बँक ची स्थापना: 1945"
+}
+]
+},
+"organisation:True:national council of applied economic research": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of National Council of Applied Economic Research: New Delhi"
+},
+{
+"en": "National Council of Applied Economic Research was established in 1956"
+}
+]
+},
+"organisation:True:ayushman bharat mission": {
+"at": "2026-11-26",
+"facts": []
+},
 "country:True:republic of india": {
 "at": "2026-11-26",
 "facts": []
@@ -9,10 +94,12 @@
 {
 "en": "Capital of Georgia: Tbilisi",
 "bn": "জর্জিয়া-এর রাজধানী: তিবিলিসি",
+"hi": "जॉर्जिया की राजधानी: त्बिलिसी",
 "mr": "जॉर्जिया ची राजधानी: त्बिलिसी"
 },
 {
 "en": "Currency of Georgia: Georgian lari",
+"hi": "जॉर्जिया की मुद्रा: लारी",
 "mr": "जॉर्जिया चे चलन: जॉर्जियन लारी"
 }
 ]
@@ -23,6 +110,7 @@
 {
 "en": "Ministry of External Affairs was established in 1946",
 "bn": "বিদেশ মন্ত্রক প্রতিষ্ঠিত হয় 1946 সালে",
+"hi": "विदेश मन्त्रालय की स्थापना: 1946",
 "mr": "परराष्ट्र मंत्रालय (भारत) ची स्थापना: 1946"
 }
 ]
@@ -40,11 +128,13 @@
 "facts": [
 {
 "en": "Capital of Kingdom of the Netherlands: Amsterdam",
-"bn": "নেদারল্যান্ড রাজ্য-এর রাজধানী: আমস্টারডাম"
+"bn": "নেদারল্যান্ড রাজ্য-এর রাজধানী: আমস্টারডাম",
+"hi": "नीदरलैण्ड की राजधानी: ऐम्स्टर्डैम"
 },
 {
 "en": "Currency of Kingdom of the Netherlands: euro",
-"bn": "নেদারল্যান্ড রাজ্য-এর মুদ্রা: ইউরো"
+"bn": "নেদারল্যান্ড রাজ্য-এর মুদ্রা: ইউরো",
+"hi": "नीदरलैण्ड की मुद्रा: यूरो"
 }
 ]
 },
@@ -58,6 +148,7 @@
 {
 "en": "Capital of Panama: Panama City",
 "bn": "পানামা-এর রাজধানী: পানামা সিটি",
+"hi": "पनामा की राजधानी: पनामा सिटी",
 "mr": "पनामा ची राजधानी: पनामा सिटी"
 },
 {
@@ -72,6 +163,7 @@
 {
 "en": "Capital of Nicaragua: Managua",
 "bn": "নিকারাগুয়া-এর রাজধানী: মানাগুয়া",
+"hi": "निकारागुआ की राजधानी: मनागुआ",
 "mr": "निकाराग्वा ची राजधानी: Managua"
 },
 {
@@ -86,11 +178,13 @@
 {
 "en": "Capital of Nepal: Kathmandu",
 "bn": "নেপাল-এর রাজধানী: কাঠমান্ডু",
+"hi": "नेपाल की राजधानी: काठमांडू",
 "mr": "नेपाळ ची राजधानी: काठमांडू"
 },
 {
 "en": "Currency of Nepal: Nepalese rupee",
 "bn": "নেপাল-এর মুদ্রা: নেপালি রুপি",
+"hi": "नेपाल की मुद्रा: नेपाली रुपया",
 "mr": "नेपाळ चे चलन: नेपाळी रुपया"
 }
 ]
@@ -100,11 +194,13 @@
 "facts": [
 {
 "en": "Headquarters of Shanghai Cooperation Organisation: Beijing",
-"bn": "সাংহাই সহযোগিতা সংস্থা-এর সদর দপ্তর: বেইজিং"
+"bn": "সাংহাই সহযোগিতা সংস্থা-এর সদর দপ্তর: বেইজিং",
+"hi": "शंघाई सहयोग संगठन का मुख्यालय: बीजिंग"
 },
 {
 "en": "Shanghai Cooperation Organisation was established in 2001",
-"bn": "সাংহাই সহযোগিতা সংস্থা প্রতিষ্ঠিত হয় 2001 সালে"
+"bn": "সাংহাই সহযোগিতা সংস্থা প্রতিষ্ঠিত হয় 2001 সালে",
+"hi": "शंघाई सहयोग संगठन की स्थापना: 2001"
 }
 ]
 },
@@ -118,11 +214,13 @@
 {
 "en": "Capital of France: Paris",
 "bn": "ফ্রান্স-এর রাজধানী: প্যারিস",
+"hi": "फ़्रान्स की राजधानी: पेरिस",
 "mr": "फ्रान्स ची राजधानी: पॅरिस"
 },
 {
 "en": "Currency of France: euro",
 "bn": "ফ্রান্স-এর মুদ্রা: ইউরো",
+"hi": "फ़्रान्स की मुद्रा: यूरो",
 "mr": "फ्रान्स चे चलन: युरो"
 }
 ]
@@ -131,10 +229,12 @@
 "at": "2026-11-26",
 "facts": [
 {
-"en": "Headquarters of Financial Action Task Force: Paris"
+"en": "Headquarters of Financial Action Task Force: Paris",
+"hi": "वित्तीय कार्रवाई कार्यदल का मुख्यालय: पेरिस"
 },
 {
-"en": "Financial Action Task Force was established in 1989"
+"en": "Financial Action Task Force was established in 1989",
+"hi": "वित्तीय कार्रवाई कार्यदल की स्थापना: 1989"
 }
 ]
 },
@@ -144,11 +244,13 @@
 {
 "en": "Headquarters of United States Navy: The Pentagon",
 "bn": "মার্কিন নৌবাহিনী-এর সদর দপ্তর: পেন্টাগন",
+"hi": "अमेरिकी नौसेना का मुख्यालय: पेंटागन",
 "mr": "अमेरिकेचे आरमार चे मुख्यालय: पेंटॅगॉन"
 },
 {
 "en": "United States Navy was established in 1775",
 "bn": "মার্কিন নৌবাহিনী প্রতিষ্ঠিত হয় 1775 সালে",
+"hi": "अमेरिकी नौसेना की स्थापना: 1775",
 "mr": "अमेरिकेचे आरमार ची स्थापना: 1775"
 }
 ]
@@ -167,11 +269,13 @@
 {
 "en": "Capital of Portugal: Lisbon",
 "bn": "পর্তুগাল-এর রাজধানী: লিসবন",
+"hi": "पुर्तगाल की राजधानी: लिस्बन",
 "mr": "पोर्तुगाल ची राजधानी: लिस्बन"
 },
 {
 "en": "Currency of Portugal: euro",
 "bn": "পর্তুগাল-এর মুদ্রা: ইউরো",
+"hi": "पुर्तगाल की मुद्रा: यूरो",
 "mr": "पोर्तुगाल चे चलन: युरो"
 }
 ]
@@ -182,11 +286,13 @@
 {
 "en": "Headquarters of European Union: Brussels",
 "bn": "ইউরোপীয় ইউনিয়ন-এর সদর দপ্তর: ব্রাসেলস",
+"hi": "यूरोपीय संघ का मुख्यालय: ब्रसेल्स",
 "mr": "युरोपीय संघ चे मुख्यालय: ब्रसेल्स"
 },
 {
 "en": "European Union was established in 1993",
 "bn": "ইউরোপীয় ইউনিয়ন প্রতিষ্ঠিত হয় 1993 সালে",
+"hi": "यूरोपीय संघ की स्थापना: 1993",
 "mr": "युरोपीय संघ ची स्थापना: 1993"
 }
 ]
@@ -197,11 +303,13 @@
 {
 "en": "Capital of Japan: Tokyo",
 "bn": "জাপান-এর রাজধানী: টোকিও",
+"hi": "जापान की राजधानी: टोक्यो",
 "mr": "जपान ची राजधानी: तोक्यो"
 },
 {
 "en": "Currency of Japan: yen",
 "bn": "জাপান-এর মুদ্রা: জাপানি ইয়েন",
+"hi": "जापान की मुद्रा: जापानी येन",
 "mr": "जपान चे चलन: जपानी येन"
 }
 ]
@@ -224,11 +332,13 @@
 {
 "en": "Capital of United States: Washington, D.C.",
 "bn": "মার্কিন যুক্তরাষ্ট্র-এর রাজধানী: ওয়াশিংটন ডি. সি.",
+"hi": "संयुक्त राज्य की राजधानी: वॉशिंगटन डी॰ सी॰",
 "mr": "अमेरिकेची संयुक्त संस्थाने ची राजधानी: वॉशिंग्टन"
 },
 {
 "en": "Currency of United States: United States dollar",
 "bn": "মার্কিন যুক্তরাষ্ট্র-এর মুদ্রা: মার্কিন ডলার",
+"hi": "संयुक्त राज्य की मुद्रा: अमेरिकी डॉलर",
 "mr": "अमेरिकेची संयुक्त संस्थाने चे चलन: अमेरिकन डॉलर"
 }
 ]
@@ -239,11 +349,13 @@
 {
 "en": "Capital of Australia: Canberra",
 "bn": "অস্ট্রেলিয়া-এর রাজধানী: ক্যানবেরা",
+"hi": "ऑस्ट्रेलिया की राजधानी: कैनबरा",
 "mr": "ऑस्ट्रेलिया ची राजधानी: कॅनबेरा"
 },
 {
 "en": "Currency of Australia: Australian dollar",
 "bn": "অস্ট্রেলিয়া-এর মুদ্রা: অস্ট্রেলীয় ডলার",
+"hi": "ऑस्ट्रेलिया की मुद्रा: ऑस्ट्रेलियाई डॉलर",
 "mr": "ऑस्ट्रेलिया चे चलन: ऑस्ट्रेलियन डॉलर"
 }
 ]
@@ -258,11 +370,13 @@
 {
 "en": "Headquarters of India Post: New Delhi",
 "bn": "ভারতীয় ডাক-এর সদর দপ্তর: নয়াদিল্লি",
+"hi": "भारतीय डाक का मुख्यालय: नई दिल्ली",
 "mr": "भारतीय टपाल सेवा चे मुख्यालय: नवी दिल्ली"
 },
 {
 "en": "India Post was established in 1854",
 "bn": "ভারতীয় ডাক প্রতিষ্ঠিত হয় 1854 সালে",
+"hi": "भारतीय डाक की स्थापना: 1854",
 "mr": "भारतीय टपाल सेवा ची स्थापना: 1854"
 }
 ]
@@ -285,11 +399,13 @@
 {
 "en": "Headquarters of Airports Authority of India: New Delhi",
 "bn": "ভারতীয় বিমানবন্দর কর্তৃপক্ষ-এর সদর দপ্তর: নয়াদিল্লি",
+"hi": "भारतीय विमानपत्तन प्राधिकरण का मुख्यालय: नई दिल्ली",
 "mr": "भारतीय विमानतळ प्राधिकरण चे मुख्यालय: नवी दिल्ली"
 },
 {
 "en": "Airports Authority of India was established in 1995",
 "bn": "ভারতীয় বিমানবন্দর কর্তৃপক্ষ প্রতিষ্ঠিত হয় 1995 সালে",
+"hi": "भारतीय विमानपत्तन प्राधिकरण की स्थापना: 1995",
 "mr": "भारतीय विमानतळ प्राधिकरण ची स्थापना: 1995"
 }
 ]
@@ -300,6 +416,7 @@
 {
 "en": "Capital of Assam: Dispur",
 "bn": "আসাম-এর রাজধানী: দিসপুর",
+"hi": "असम की राजधानी: दिसपुर",
 "mr": "आसाम ची राजधानी: दिसपूर"
 }
 ]
@@ -310,11 +427,13 @@
 {
 "en": "Capital of Singapore: Singapore",
 "bn": "সিঙ্গাপুর-এর রাজধানী: সিঙ্গাপুর",
+"hi": "सिंगापुर की राजधानी: सिंगापुर",
 "mr": "सिंगापूर ची राजधानी: सिंगापूर"
 },
 {
 "en": "Currency of Singapore: Singapore dollar",
 "bn": "সিঙ্গাপুর-এর মুদ্রা: সিঙ্গাপুর ডলার",
+"hi": "सिंगापुर की मुद्रा: सिंगापुर डॉलर",
 "mr": "सिंगापूर चे चलन: सिंगापूर डॉलर"
 }
 ]
@@ -325,11 +444,13 @@
 {
 "en": "Capital of Nepal: Kathmandu",
 "bn": "নেপাল-এর রাজধানী: কাঠমান্ডু",
+"hi": "नेपाल की राजधानी: काठमांडू",
 "mr": "नेपाळ ची राजधानी: काठमांडू"
 },
 {
 "en": "Currency of Nepal: Nepalese rupee",
 "bn": "নেপাল-এর মুদ্রা: নেপালি রুপি",
+"hi": "नेपाल की मुद्रा: नेपाली रुपया",
 "mr": "नेपाळ चे चलन: नेपाळी रुपया"
 }
 ]
@@ -356,6 +477,7 @@
 {
 "en": "Headquarters of National Bank for Agriculture and Rural Development: Mumbai",
 "bn": "ন্যাশনাল ব্যাংক ফর এগ্রিকালচার অ্যান্ড রুরাল ডেভেলপমেন্ট-এর সদর দপ্তর: মুম্বই",
+"hi": "राष्ट्रीय कृषि और ग्रामीण विकास बैंक का मुख्यालय: मुम्बई",
 "mr": "राष्ट्रीय शेती व ग्रामीण विकास बँक चे मुख्यालय: मुंबई"
 }
 ]
@@ -366,6 +488,7 @@
 {
 "en": "Capital of Mizoram: Aizawl",
 "bn": "মিজোরাম-এর রাজধানী: আইজল",
+"hi": "मिज़ोरम की राजधानी: आइज़ोल",
 "mr": "मिझोरम ची राजधानी: ऐझॉल"
 }
 ]
@@ -376,6 +499,7 @@
 {
 "en": "Capital of Meghalaya: Shillong",
 "bn": "মেঘালয়-এর রাজধানী: শিলং",
+"hi": "मेघालय की राजधानी: शिलांग",
 "mr": "मेघालय ची राजधानी: शिलाँग"
 }
 ]
@@ -401,6 +525,7 @@
 {
 "en": "Capital of Tamil Nadu: Chennai",
 "bn": "তামিলনাড়ু-এর রাজধানী: চেন্নাই",
+"hi": "तमिल नाडु की राजधानी: चेन्नई",
 "mr": "तमिळनाडू ची राजधानी: चेन्नई"
 }
 ]
@@ -411,6 +536,7 @@
 {
 "en": "Capital of Punjab: Chandigarh",
 "bn": "পাঞ্জাব, ভারত-এর রাজধানী: চণ্ডীগড়",
+"hi": "पंजाब की राजधानी: चण्डीगढ़",
 "mr": "पंजाब ची राजधानी: चंदिगढ"
 }
 ]
@@ -421,6 +547,7 @@
 {
 "en": "Capital of Uttar Pradesh: Lucknow",
 "bn": "উত্তরপ্রদেশ-এর রাজধানী: লক্ষ্ণৌ",
+"hi": "उत्तर प्रदेश की राजधानी: लखनऊ",
 "mr": "उत्तर प्रदेश ची राजधानी: लखनौ"
 }
 ]
@@ -431,6 +558,7 @@
 {
 "en": "Capital of Rajasthan: Jaipur",
 "bn": "রাজস্থান-এর রাজধানী: জয়পুর",
+"hi": "राजस्थान की राजधानी: जयपुर",
 "mr": "राजस्थान ची राजधानी: जयपूर"
 }
 ]
@@ -458,6 +586,7 @@
 {
 "en": "Capital of Goa: Panaji",
 "bn": "গোয়া-এর রাজধানী: পানাজি",
+"hi": "गोवा की राजधानी: पणजी",
 "mr": "गोवा ची राजधानी: पणजी"
 }
 ]
@@ -468,11 +597,13 @@
 {
 "en": "Headquarters of National Film Development Corporation of India: Mumbai",
 "bn": "জাতীয় চলচ্চিত্র উন্নয়ন কর্পোরেশন-এর সদর দপ্তর: মুম্বই",
+"hi": "भारतीय राष्ट्रीय फिल्म विकास कॉर्पोरेशन का मुख्यालय: मुम्बई",
 "mr": "भारतीय राष्ट्रीय फिल्म विकास कॉर्पोरेशन चे मुख्यालय: मुंबई"
 },
 {
 "en": "National Film Development Corporation of India was established in 1975",
 "bn": "জাতীয় চলচ্চিত্র উন্নয়ন কর্পোরেশন প্রতিষ্ঠিত হয় 1975 সালে",
+"hi": "भारतीय राष्ट्रीय फिल्म विकास कॉर्पोरेशन की स्थापना: 1975",
 "mr": "भारतीय राष्ट्रीय फिल्म विकास कॉर्पोरेशन ची स्थापना: 1975"
 }
 ]
@@ -483,89 +614,14 @@
 {
 "en": "Capital of Chile: Santiago",
 "bn": "চিলি-এর রাজধানী: সান্তিয়াগো",
+"hi": "चिली की राजधानी: सेण्टियागो",
 "mr": "चिली ची राजधानी: सान्तियागो"
 },
 {
 "en": "Currency of Chile: Chilean peso",
+"hi": "चिली की मुद्रा: चिलीयन पेसो",
 "mr": "चिली चे चलन: चिलीयन पेसो"
 }
 ]
-},
-"organisation:True:securities and exchange board of india": {
-"at": "2026-11-26",
-"facts": [
-{
-"en": "Headquarters of Securities and Exchange Board of India: Mumbai",
-"bn": "সিকিউরিটি অ্যান্ড এক্সচেঞ্জ বোর্ড অফ ইন্ডিয়া-এর সদর দপ্তর: মুম্বই",
-"mr": "सिक्‍युरिटीज अँड एक्‍स्चेंज बोर्ड ऑफ इंडिया चे मुख्यालय: मुंबई"
-},
-{
-"en": "Securities and Exchange Board of India was established in 1992",
-"bn": "সিকিউরিটি অ্যান্ড এক্সচেঞ্জ বোর্ড অফ ইন্ডিয়া প্রতিষ্ঠিত হয় 1992 সালে",
-"mr": "सिक्‍युरिटीज अँड एक्‍स्चेंज बोर्ड ऑफ इंडिया ची स्थापना: 1992"
-}
-]
-},
-"organisation:False:international organization of securities commissions": {
-"at": "2026-11-26",
-"facts": [
-{
-"en": "Headquarters of International Organization of Securities Commissions: Madrid"
-},
-{
-"en": "International Organization of Securities Commissions was established in 1983"
-}
-]
-},
-"organisation:True:insurance regulatory and development authority of india": {
-"at": "2026-11-26",
-"facts": [
-{
-"en": "Headquarters of Insurance Regulatory and Development Authority: Hyderabad",
-"mr": "विमा नियामक आणि विकास प्राधिकरण चे मुख्यालय: हैदराबाद"
-}
-]
-},
-"organisation:True:insurance information bureau of india": {
-"at": "2026-11-26",
-"facts": []
-},
-"organisation:False:asian development bank": {
-"at": "2026-11-26",
-"facts": [
-{
-"en": "Headquarters of Asian Development Bank: Mandaluyong",
-"bn": "এশীয় উন্নয়ন ব্যাংক-এর সদর দপ্তর: ম্যান্ডালুং"
-},
-{
-"en": "Asian Development Bank was established in 1966",
-"bn": "এশীয় উন্নয়ন ব্যাংক প্রতিষ্ঠিত হয় 1966 সালে"
-}
-]
-},
-"organisation:False:world bank": {
-"at": "2026-11-26",
-"facts": [
-{
-"en": "World Bank was established in 1945",
-"bn": "বিশ্ব ব্যাংক প্রতিষ্ঠিত হয় 1945 সালে",
-"mr": "जागतिक बँक ची स्थापना: 1945"
-}
-]
-},
-"organisation:True:national council of applied economic research": {
-"at": "2026-11-26",
-"facts": [
-{
-"en": "Headquarters of National Council of Applied Economic Research: New Delhi"
-},
-{
-"en": "National Council of Applied Economic Research was established in 1956"
-}
-]
-},
-"organisation:True:ayushman bharat mission": {
-"at": "2026-11-26",
-"facts": []
 }
 }

@@ -26,56 +26,56 @@ LANG_CODES = list(LANGS)  # en, bn, mr
 # out of the wrong options.
 TOPICS = {
     "state_capital": {
-        "label": {"en": "Capitals of states & UTs", "bn": "রাজ্য ও কেন্দ্রশাসিত অঞ্চলের রাজধানী",
+        "label": {"en": "Capitals of states & UTs", "hi": "राज्यों व केंद्र शासित प्रदेशों की राजधानियाँ", "bn": "রাজ্য ও কেন্দ্রশাসিত অঞ্চলের রাজধানী",
                   "mr": "राज्ये व केंद्रशासित प्रदेशांच्या राजधान्या"},
-        "q": {"en": "What is the capital of {x}?", "bn": "{x}-এর রাজধানী কোনটি?", "mr": "{x} ची राजधानी कोणती?"},
+        "q": {"en": "What is the capital of {x}?", "hi": "{x} की राजधानी क्या है?", "bn": "{x}-এর রাজধানী কোনটি?", "mr": "{x} ची राजधानी कोणती?"},
         "sparql": "?s wdt:P31 ?t. VALUES ?t {wd:Q12443800 wd:Q467745} ?s wdt:P36 ?a.",
     },
     "national_park_state": {
-        "label": {"en": "National parks of India", "bn": "ভারতের জাতীয় উদ্যান", "mr": "भारतातील राष्ट्रीय उद्याने"},
-        "q": {"en": "{x} is in which state/UT?", "bn": "{x} কোন রাজ্যে অবস্থিত?", "mr": "{x} कोणत्या राज्यात आहे?"},
+        "label": {"en": "National parks of India", "hi": "भारत के राष्ट्रीय उद्यान", "bn": "ভারতের জাতীয় উদ্যান", "mr": "भारतातील राष्ट्रीय उद्याने"},
+        "q": {"en": "{x} is in which state/UT?", "hi": "{x} किस राज्य/केंद्र शासित प्रदेश में है?", "bn": "{x} কোন রাজ্যে অবস্থিত?", "mr": "{x} कोणत्या राज्यात आहे?"},
         "sparql": "?s wdt:P31 wd:Q46169; wdt:P17 wd:Q668; wdt:P131* ?a. ?a wdt:P31 ?t. "
                   "VALUES ?t {wd:Q12443800 wd:Q467745}",
     },
     "heritage_site_state": {
-        "label": {"en": "UNESCO World Heritage Sites in India", "bn": "ভারতের ইউনেস্কো বিশ্ব ঐতিহ্য স্থান",
+        "label": {"en": "UNESCO World Heritage Sites in India", "hi": "भारत के यूनेस्को विश्व धरोहर स्थल", "bn": "ভারতের ইউনেস্কো বিশ্ব ঐতিহ্য স্থান",
                   "mr": "भारतातील युनेस्को जागतिक वारसा स्थळे"},
-        "q": {"en": "The World Heritage Site '{x}' is in which state/UT?",
+        "q": {"en": "The World Heritage Site '{x}' is in which state/UT?", "hi": "विश्व धरोहर स्थल '{x}' किस राज्य/केंद्र शासित प्रदेश में है?",
               "bn": "বিশ্ব ঐতিহ্য স্থান '{x}' কোন রাজ্যে অবস্থিত?",
               "mr": "जागतिक वारसा स्थळ '{x}' कोणत्या राज्यात आहे?"},
         "sparql": "?s wdt:P1435 wd:Q9259; wdt:P17 wd:Q668; wdt:P131* ?a. ?a wdt:P31 ?t. "
                   "VALUES ?t {wd:Q12443800 wd:Q467745}",
     },
     "country_capital": {
-        "label": {"en": "Countries & capitals", "bn": "দেশ ও রাজধানী", "mr": "देश व राजधान्या"},
-        "q": {"en": "What is the capital of {x}?", "bn": "{x}-এর রাজধানী কোনটি?", "mr": "{x} ची राजधानी कोणती?"},
+        "label": {"en": "Countries & capitals", "hi": "देश और राजधानियाँ", "bn": "দেশ ও রাজধানী", "mr": "देश व राजधान्या"},
+        "q": {"en": "What is the capital of {x}?", "hi": "{x} की राजधानी क्या है?", "bn": "{x}-এর রাজধানী কোনটি?", "mr": "{x} ची राजधानी कोणती?"},
         "sparql": "?s wdt:P31 wd:Q3624078; wdt:P36 ?a. FILTER NOT EXISTS {?s wdt:P576 ?end}",
     },
     "country_currency": {
-        "label": {"en": "Countries & currencies", "bn": "দেশ ও মুদ্রা", "mr": "देश व चलने"},
-        "q": {"en": "What is the currency of {x}?", "bn": "{x}-এর মুদ্রা কী?", "mr": "{x} चे चलन कोणते?"},
+        "label": {"en": "Countries & currencies", "hi": "देश और मुद्राएँ", "bn": "দেশ ও মুদ্রা", "mr": "देश व चलने"},
+        "q": {"en": "What is the currency of {x}?", "hi": "{x} की मुद्रा क्या है?", "bn": "{x}-এর মুদ্রা কী?", "mr": "{x} चे चलन कोणते?"},
         "sparql": "?s wdt:P31 wd:Q3624078; wdt:P38 ?a. FILTER NOT EXISTS {?s wdt:P576 ?end} "
                   "FILTER NOT EXISTS {?a wdt:P582 ?replaced}",
     },
     "intl_org_hq": {
-        "label": {"en": "Intergovernmental organisations: headquarters", "bn": "আন্তর্জাতিক সংস্থার সদর দপ্তর",
+        "label": {"en": "Intergovernmental organisations: headquarters", "hi": "अंतर-सरकारी संगठनों के मुख्यालय", "bn": "আন্তর্জাতিক সংস্থার সদর দপ্তর",
                   "mr": "आंतरराष्ट्रीय संस्थांची मुख्यालये"},
-        "q": {"en": "Where is the headquarters of {x}?", "bn": "{x}-এর সদর দপ্তর কোথায়?",
+        "q": {"en": "Where is the headquarters of {x}?", "hi": "{x} का मुख्यालय कहाँ है?", "bn": "{x}-এর সদর দপ্তর কোথায়?",
               "mr": "{x} चे मुख्यालय कोठे आहे?"},
         "sparql": "?s wdt:P31/wdt:P279* wd:Q245065; wdt:P159 ?a; wikibase:sitelinks ?n. FILTER(?n >= 40) "
                   "?a wdt:P31/wdt:P279* wd:Q515. FILTER NOT EXISTS {?s wdt:P576 ?end}",
     },
     "indian_bank_hq": {
-        "label": {"en": "Indian banks: headquarters", "bn": "ভারতীয় ব্যাংকের সদর দপ্তর",
+        "label": {"en": "Indian banks: headquarters", "hi": "भारतीय बैंकों के मुख्यालय", "bn": "ভারতীয় ব্যাংকের সদর দপ্তর",
                   "mr": "भारतीय बँकांची मुख्यालये"},
-        "q": {"en": "Where is the headquarters of {x}?", "bn": "{x}-এর সদর দপ্তর কোথায়?",
+        "q": {"en": "Where is the headquarters of {x}?", "hi": "{x} का मुख्यालय कहाँ है?", "bn": "{x}-এর সদর দপ্তর কোথায়?",
               "mr": "{x} चे मुख्यालय कोठे आहे?"},
         "sparql": "?s wdt:P31/wdt:P279* wd:Q22687; wdt:P17 wd:Q668; wdt:P159 ?a; wikibase:sitelinks ?n. "
                   "FILTER(?n >= 8) ?a wdt:P31/wdt:P279* wd:Q515. FILTER NOT EXISTS {?s wdt:P576 ?end}",
     },
 }
 
-FACT = {"en": "{q} Answer: {a}.", "bn": "{q} উত্তর: {a}।", "mr": "{q} उत्तर: {a}."}
+FACT = {"en": "{q} Answer: {a}.", "bn": "{q} উত্তর: {a}।", "mr": "{q} उत्तर: {a}.", "hi": "{q} उत्तर: {a}।"}
 
 
 def run(sparql: str) -> list:

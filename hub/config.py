@@ -18,6 +18,9 @@ LANGS = {
            "style": "simple standard Bengali (চলিত ভাষা), as written in Bengali exam books. "
                     "Keep proper nouns recognisable; give the English name in brackets the first time "
                     "for schemes/organisations, e.g. প্রধানমন্ত্রী আবাস যোজনা (PMAY)."},
+    "hi": {"name": "Hindi", "script": r"[\u0900-\u097F]",
+           "style": "simple standard Hindi as used in SSC / Railway / state PSC study material. Keep proper nouns "
+                    "recognisable; give the English name in brackets the first time for schemes/organisations."},
     "mr": {"name": "Marathi", "script": r"[\u0900-\u097F]",
            "style": "simple Marathi as used in MPSC / Police Bharti study material. Keep proper nouns "
                     "recognisable; give the English name in brackets the first time for schemes/organisations."},

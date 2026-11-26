@@ -28,15 +28,15 @@ PARK = {"Q46169", "Q473972"}  # national park, protected area
 
 # fact templates: key -> {lang: "..."}; {x} = entity, {v} = value
 T = {
-    "capital": {"en": "Capital of {x}: {v}", "bn": "{x}-এর রাজধানী: {v}", "mr": "{x} ची राजधानी: {v}"},
-    "currency": {"en": "Currency of {x}: {v}", "bn": "{x}-এর মুদ্রা: {v}", "mr": "{x} चे चलन: {v}"},
-    "hog": {"en": "Head of government of {x}: {v}", "bn": "{x}-এর সরকারপ্রধান: {v}", "mr": "{x} चे शासनप्रमुख: {v}"},
-    "hos": {"en": "Head of state of {x}: {v}", "bn": "{x}-এর রাষ্ট্রপ্রধান: {v}", "mr": "{x} चे राष्ट्रप्रमुख: {v}"},
-    "cm": {"en": "Chief Minister of {x}: {v}", "bn": "{x}-এর মুখ্যমন্ত্রী: {v}", "mr": "{x} चे मुख्यमंत्री: {v}"},
-    "hq": {"en": "Headquarters of {x}: {v}", "bn": "{x}-এর সদর দপ্তর: {v}", "mr": "{x} चे मुख्यालय: {v}"},
-    "founded": {"en": "{x} was established in {v}", "bn": "{x} প্রতিষ্ঠিত হয় {v} সালে", "mr": "{x} ची स्थापना: {v}"},
-    "chair": {"en": "Head of {x}: {v}", "bn": "{x}-এর প্রধান: {v}", "mr": "{x} चे प्रमुख: {v}"},
-    "state": {"en": "{x} is in {v}", "bn": "{x} অবস্থিত {v}-এ", "mr": "{x} हे {v} मध्ये आहे"},
+    "capital": {"hi": "{x} की राजधानी: {v}", "en": "Capital of {x}: {v}", "bn": "{x}-এর রাজধানী: {v}", "mr": "{x} ची राजधानी: {v}"},
+    "currency": {"hi": "{x} की मुद्रा: {v}", "en": "Currency of {x}: {v}", "bn": "{x}-এর মুদ্রা: {v}", "mr": "{x} चे चलन: {v}"},
+    "hog": {"hi": "{x} के शासनाध्यक्ष: {v}", "en": "Head of government of {x}: {v}", "bn": "{x}-এর সরকারপ্রধান: {v}", "mr": "{x} चे शासनप्रमुख: {v}"},
+    "hos": {"hi": "{x} के राष्ट्राध्यक्ष: {v}", "en": "Head of state of {x}: {v}", "bn": "{x}-এর রাষ্ট্রপ্রধান: {v}", "mr": "{x} चे राष्ट्रप्रमुख: {v}"},
+    "cm": {"hi": "{x} के मुख्यमंत्री: {v}", "en": "Chief Minister of {x}: {v}", "bn": "{x}-এর মুখ্যমন্ত্রী: {v}", "mr": "{x} चे मुख्यमंत्री: {v}"},
+    "hq": {"hi": "{x} का मुख्यालय: {v}", "en": "Headquarters of {x}: {v}", "bn": "{x}-এর সদর দপ্তর: {v}", "mr": "{x} चे मुख्यालय: {v}"},
+    "founded": {"hi": "{x} की स्थापना: {v}", "en": "{x} was established in {v}", "bn": "{x} প্রতিষ্ঠিত হয় {v} সালে", "mr": "{x} ची स्थापना: {v}"},
+    "chair": {"hi": "{x} के प्रमुख: {v}", "en": "Head of {x}: {v}", "bn": "{x}-এর প্রধান: {v}", "mr": "{x} चे प्रमुख: {v}"},
+    "state": {"hi": "{x} {v} में है", "en": "{x} is in {v}", "bn": "{x} অবস্থিত {v}-এ", "mr": "{x} हे {v} मध्ये आहे"},
 }
 
 

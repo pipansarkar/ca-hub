@@ -3,6 +3,7 @@
 apps/today/    current_affairs_today      (English)
 apps/bengali/  current_affairs_in_bengali (Bengali)
 apps/marathi/  current_affairs_marathi    (Marathi)
+apps/hindi/    current_affairs_hindi      (Hindi)
 
 To add an app: add its folder and language to APP_LANG (and the language to config.LANGS).
 """
@@ -73,7 +74,7 @@ def export_app(items, out, lang):
                               "updated": now_ist().isoformat(timespec="minutes")})
 
 
-APP_LANG = {"today": "en", "bengali": "bn", "marathi": "mr"}  # app folder -> language
+APP_LANG = {"today": "en", "bengali": "bn", "marathi": "mr", "hindi": "hi"}  # app folder -> language
 
 
 def export_static_gk(out, lang):
