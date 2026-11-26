@@ -490,5 +490,82 @@
 "mr": "चिली चे चलन: चिलीयन पेसो"
 }
 ]
+},
+"organisation:True:securities and exchange board of india": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Securities and Exchange Board of India: Mumbai",
+"bn": "সিকিউরিটি অ্যান্ড এক্সচেঞ্জ বোর্ড অফ ইন্ডিয়া-এর সদর দপ্তর: মুম্বই",
+"mr": "सिक्‍युरिटीज अँड एक्‍स्चेंज बोर्ड ऑफ इंडिया चे मुख्यालय: मुंबई"
+},
+{
+"en": "Securities and Exchange Board of India was established in 1992",
+"bn": "সিকিউরিটি অ্যান্ড এক্সচেঞ্জ বোর্ড অফ ইন্ডিয়া প্রতিষ্ঠিত হয় 1992 সালে",
+"mr": "सिक्‍युरिटीज अँड एक्‍स्चेंज बोर्ड ऑफ इंडिया ची स्थापना: 1992"
+}
+]
+},
+"organisation:False:international organization of securities commissions": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of International Organization of Securities Commissions: Madrid"
+},
+{
+"en": "International Organization of Securities Commissions was established in 1983"
+}
+]
+},
+"organisation:True:insurance regulatory and development authority of india": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Insurance Regulatory and Development Authority: Hyderabad",
+"mr": "विमा नियामक आणि विकास प्राधिकरण चे मुख्यालय: हैदराबाद"
+}
+]
+},
+"organisation:True:insurance information bureau of india": {
+"at": "2026-11-26",
+"facts": []
+},
+"organisation:False:asian development bank": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of Asian Development Bank: Mandaluyong",
+"bn": "এশীয় উন্নয়ন ব্যাংক-এর সদর দপ্তর: ম্যান্ডালুং"
+},
+{
+"en": "Asian Development Bank was established in 1966",
+"bn": "এশীয় উন্নয়ন ব্যাংক প্রতিষ্ঠিত হয় 1966 সালে"
+}
+]
+},
+"organisation:False:world bank": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "World Bank was established in 1945",
+"bn": "বিশ্ব ব্যাংক প্রতিষ্ঠিত হয় 1945 সালে",
+"mr": "जागतिक बँक ची स्थापना: 1945"
+}
+]
+},
+"organisation:True:national council of applied economic research": {
+"at": "2026-11-26",
+"facts": [
+{
+"en": "Headquarters of National Council of Applied Economic Research: New Delhi"
+},
+{
+"en": "National Council of Applied Economic Research was established in 1956"
+}
+]
+},
+"organisation:True:ayushman bharat mission": {
+"at": "2026-11-26",
+"facts": []
 }
 }

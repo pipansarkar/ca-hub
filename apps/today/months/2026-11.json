@@ -6,6 +6,271 @@
    "ai_assisted": true,
    "items": [
     {
+     "id": "4b35dd726e15",
+     "category": "Banking",
+     "state": "",
+     "tags": [
+      "Bank",
+      "SSC",
+      "State PSC",
+      "UPSC"
+     ],
+     "en": {
+      "title": "SEBI Hosts IOSCO Asia-Pacific Regional Committee Regulatory Roundtable",
+      "one_liner": "SEBI hosted the IOSCO Asia-Pacific Regional Committee Regulatory Roundtable on Market Infrastructure Institutions on November 19, 2026.",
+      "summary": "SEBI hosted IOSCO’s Asia-Pacific Regional Committee Regulatory Roundtable focusing on Market Infrastructure Institutions on November 19, 2026. The event brought together regional regulators to discuss regulatory frameworks and market infrastructure.",
+      "key_points": [
+       "Event: IOSCO Asia-Pacific Regional Committee Regulatory Roundtable",
+       "Host: SEBI",
+       "Focus: Market Infrastructure Institutions",
+       "Date: November 19, 2026"
+      ]
+     },
+     "mcq": {
+      "answer": 1,
+      "en": {
+       "question": "Which organization hosted the IOSCO Asia-Pacific Regional Committee Regulatory Roundtable on Market Infrastructure Institutions in November 2026?",
+       "options": [
+        "RBI",
+        "SEBI",
+        "IRDAI",
+        "PFRDA"
+       ]
+      }
+     },
+     "mcqs": [
+      {
+       "question": "Which organization hosted the IOSCO Asia-Pacific Regional Committee Regulatory Roundtable on Market Infrastructure Institutions in November 2026?",
+       "options": [
+        "RBI",
+        "SEBI",
+        "IRDAI",
+        "PFRDA"
+       ],
+       "answer": 1,
+       "explanation": "SEBI hosted the IOSCO Asia-Pacific Regional Committee Regulatory Roundtable on Market Infrastructure Institutions on November 19, 2026."
+      },
+      {
+       "question": "What was the core focus of the roundtable hosted by SEBI on November 19, 2026?",
+       "options": [
+        "Market Infrastructure Institutions",
+        "Mutual Fund Regulations",
+        "Foreign Exchange Reserves",
+        "Banking NPA Management"
+       ],
+       "answer": 0,
+       "explanation": "The roundtable specifically focused on Market Infrastructure Institutions under the IOSCO Asia-Pacific Regional Committee."
+      }
+     ],
+     "gk": [
+      "Headquarters of Securities and Exchange Board of India: Mumbai",
+      "Securities and Exchange Board of India was established in 1992",
+      "Headquarters of International Organization of Securities Commissions: Madrid",
+      "International Organization of Securities Commissions was established in 1983"
+     ],
+     "source_kind": "SEBI",
+     "source_name": "SEBI",
+     "source_url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-hosts-iosco-s-asia-pacific-regional-committee-regulatory-roundtable-on-market-infrastructure-institutions_105848.html"
+    },
+    {
+     "id": "6480d237c933",
+     "category": "Banking",
+     "state": "",
+     "tags": [
+      "Bank",
+      "SSC",
+      "State PSC",
+      "UPSC"
+     ],
+     "en": {
+      "title": "SEBI Constitutes Sub-Group of PMAC to Review ICDR Regulations",
+      "one_liner": "SEBI has constituted a sub-group of PMAC to review specified provisions of the SEBI (ICDR) Regulations, 2018.",
+      "summary": "SEBI constituted a sub-group of its Primary Market Advisory Committee (PMAC) on November 16, 2026. The sub-group has been tasked with reviewing specified provisions of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018.",
+      "key_points": [
+       "Body: PMAC Sub-Group",
+       "Regulator: SEBI",
+       "Subject: SEBI (ICDR) Regulations, 2018",
+       "Date: November 16, 2026"
+      ]
+     },
+     "mcq": {
+      "answer": 1,
+      "en": {
+       "question": "SEBI constituted a sub-group of which committee to review specific provisions in November 2026?",
+       "options": [
+        "MFAC",
+        "PMAC",
+        "FSRCC",
+        "TAC"
+       ]
+      }
+     },
+     "mcqs": [
+      {
+       "question": "SEBI constituted a sub-group of which committee to review specific provisions in November 2026?",
+       "options": [
+        "MFAC",
+        "PMAC",
+        "FSRCC",
+        "TAC"
+       ],
+       "answer": 1,
+       "explanation": "SEBI constituted a sub-group of PMAC (Primary Market Advisory Committee) to review specified provisions of the ICDR Regulations."
+      },
+      {
+       "question": "Which regulations are being reviewed by the newly constituted PMAC sub-group?",
+       "options": [
+        "SEBI (ICDR) Regulations, 2018",
+        "SEBI (LODR) Regulations, 2015",
+        "SEBI (Mutual Funds) Regulations, 1996",
+        "SEBI (AIF) Regulations, 2012"
+       ],
+       "answer": 0,
+       "explanation": "The sub-group was formed to review specified provisions of the SEBI (ICDR) Regulations, 2018."
+      }
+     ],
+     "gk": [
+      "Headquarters of Securities and Exchange Board of India: Mumbai",
+      "Securities and Exchange Board of India was established in 1992"
+     ],
+     "source_kind": "SEBI",
+     "source_name": "SEBI",
+     "source_url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-a-sub-group-of-pmac-to-review-specified-provisions-of-the-sebi-icdr-regulations-2018_105790.html"
+    },
+    {
+     "id": "12b00525bf68",
+     "category": "Banking",
+     "state": "",
+     "tags": [
+      "Bank",
+      "SSC",
+      "State PSC",
+      "UPSC"
+     ],
+     "en": {
+      "title": "IRDAI Forms Study Groups for Health Insurance Claims Transparency",
+      "one_liner": "The IAC Sub-Committee on Health Insurance formed two study groups to enhance transparency and accountability in health insurance claims.",
+      "summary": "The IAC Sub-Committee on Health Insurance, constituted by IRDAI, formed two study groups to recommend standardised claims and grievance metrics, a common reason code framework, and real-time visibility of the claims journey. Both study groups are chaired by Dr. Ayyaj Tamboli, Executive Director, IRDAI, and will submit their reports by December 26, 2026.",
+      "key_points": [
+       "Regulator: IRDAI",
+       "Action: Formed two study groups via IAC Sub-Committee on Health Insurance",
+       "Chairperson: Dr. Ayyaj Tamboli, Executive Director, IRDAI",
+       "Submission Deadline: December 26, 2026"
+      ]
+     },
+     "mcq": {
+      "answer": 1,
+      "en": {
+       "question": "Who is the chairperson of the two health insurance study groups formed by IRDAI in November 2026?",
+       "options": [
+        "Dr. Indu Bhushan",
+        "Dr. Ayyaj Tamboli",
+        "Shri Ajay Seth",
+        "Shri Manoj Kumar"
+       ]
+      }
+     },
+     "mcqs": [
+      {
+       "question": "Who is the chairperson of the two health insurance study groups formed by IRDAI in November 2026?",
+       "options": [
+        "Dr. Indu Bhushan",
+        "Dr. Ayyaj Tamboli",
+        "Shri Ajay Seth",
+        "Shri Manoj Kumar"
+       ],
+       "answer": 1,
+       "explanation": "Both study groups are chaired by Dr. Ayyaj Tamboli, Executive Director, IRDAI."
+      },
+      {
+       "question": "What is the deadline for both health insurance study groups to submit their reports to IRDAI?",
+       "options": [
+        "31 December 2026",
+        "26 December 2026",
+        "31 October 2026",
+        "23 September 2026"
+       ],
+       "answer": 1,
+       "explanation": "Both groups will submit their reports to IRDAI by 26th December 2026."
+      }
+     ],
+     "gk": [
+      "Headquarters of Insurance Regulatory and Development Authority: Hyderabad",
+      "Headquarters of Asian Development Bank: Mandaluyong",
+      "Asian Development Bank was established in 1966",
+      "World Bank was established in 1945"
+     ],
+     "source_kind": "IRDAI",
+     "source_name": "IRDAI",
+     "source_url": "https://irdai.gov.in/documents/37343/366347/Press+release+-+IRDAI+forms+two+study+groups+to+enhance+transparency+and+strengthen+accountability+in+health+insurance+claims.pdf/21cbd70f-fc2f-acc3-4636-4b3411389f04?version=1.0&t=1795532361323&download=true"
+    },
+    {
+     "id": "d62909433d23",
+     "category": "Banking",
+     "state": "",
+     "tags": [
+      "Bank",
+      "SSC",
+      "State PSC",
+      "UPSC"
+     ],
+     "en": {
+      "title": "IRDAI Constitutes Expert Committee for Distribution Reforms",
+      "one_liner": "IRDAI constituted an Expert Committee chaired by Dr. Indu Bhushan to strengthen the design and implementation of insurance distribution reforms.",
+      "summary": "IRDAI formed an Expert Committee comprising independent economists and insurance professionals to suggest measures on distribution reforms following a public consultation paper issued on September 23, 2026. The committee is chaired by Dr. Indu Bhushan, former CEO of Ayushman Bharat Mission, with Dr. Ayyaj Tamboli as Convenor. The committee will submit its report by December 31, 2026.",
+      "key_points": [
+       "Committee Chairperson: Dr. Indu Bhushan",
+       "Convenor: Dr. Ayyaj Tamboli",
+       "Reporting Deadline: December 31, 2026",
+       "Consultation Paper Date: September 23, 2026"
+      ]
+     },
+     "mcq": {
+      "answer": 1,
+      "en": {
+       "question": "Who is appointed as the chairperson of the Expert Committee on distribution reforms constituted by IRDAI?",
+       "options": [
+        "Shri Ajay Seth",
+        "Dr. Indu Bhushan",
+        "Shri Suresh Goyal",
+        "Dr. Ayyaj Tamboli"
+       ]
+      }
+     },
+     "mcqs": [
+      {
+       "question": "Who is appointed as the chairperson of the Expert Committee on distribution reforms constituted by IRDAI?",
+       "options": [
+        "Shri Ajay Seth",
+        "Dr. Indu Bhushan",
+        "Shri Suresh Goyal",
+        "Dr. Ayyaj Tamboli"
+       ],
+       "answer": 1,
+       "explanation": "The committee is chaired by Dr. Indu Bhushan, former CEO of Ayushman Bharat Mission."
+      },
+      {
+       "question": "By which date must the Expert Committee on distribution reforms submit its report to IRDAI?",
+       "options": [
+        "31 December 2026",
+        "26 December 2026",
+        "31 October 2026",
+        "23 September 2026"
+       ],
+       "answer": 0,
+       "explanation": "The committee has been given time until 31 December 2026 to submit its report."
+      }
+     ],
+     "gk": [
+      "Headquarters of Insurance Regulatory and Development Authority: Hyderabad",
+      "Headquarters of National Council of Applied Economic Research: New Delhi",
+      "National Council of Applied Economic Research was established in 1956"
+     ],
+     "source_kind": "IRDAI",
+     "source_name": "IRDAI",
+     "source_url": "https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%A8+%E0%A4%94%E0%A4%B0+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%8B+%E0%A4%AE%E0%A4%9C%E0%A4%AC%E0%A5%82%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87++%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%9C%E0%A5%8D%E0%A4%9E+%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF+%E0%A4%95%E0%A4%BE+%E0%A4%97%E0%A4%A0%E0%A4%A8+%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88+_+IRDAI+constitutes+Expert+Committee+to+strengthen+the+design+and+implementation+of+its+distribution+reforms.pdf/c70f41b4-1cfc-4f69-c4c1-e206e39b0167?version=3.0&t=1795496981191&download=true"
+    },
+    {
      "id": "f299235faa78",
      "category": "International",
      "state": "",
