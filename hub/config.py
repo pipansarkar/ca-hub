@@ -50,7 +50,9 @@ CATEGORIES = ["national", "international", "economy", "schemes", "appointments",
 EXAM_TAGS = ["UPSC", "Bank", "SSC", "Railways", "State PSC", "WBCS", "TPSC", "MPSC", "Police Bharti"]
 
 # ---- AI (free Gemini tier by default) --------------------------------------
-GEMINI_MODELS = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-3.5-flash-lite"]  # first = preferred, rest = fallbacks
+# Tried in order on every call. Flash-Lite models are the ones that reliably answer free-tier
+# requests; the bigger Flash models are often "503 high demand" for free users.
+GEMINI_MODELS = ["gemini-3.5-flash-lite", "gemini-flash-lite-latest", "gemini-3.8-flash", "gemini-3.6-flash"]
 SECONDS_BETWEEN_CALLS = 7      # stay under free-tier requests/minute
 MAX_PER_RUN = 20               # exam-relevant items processed per run (4 runs/day)
 BATCH = 4                      # releases per AI call
