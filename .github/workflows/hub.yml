@@ -51,6 +51,12 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
+      - name: Monthly PDFs
+        if: inputs.task == 'generate' || github.event.schedule == '35 0,6,12,16 * * *'
+        run: |
+          sudo apt-get install -y -qq fonts-noto-core > /dev/null
+          python hub/monthly_pdf.py
+
       - name: Retract
         if: inputs.task == 'retract'
         run: python hub/retract.py "$ITEM"

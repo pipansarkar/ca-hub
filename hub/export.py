@@ -94,7 +94,11 @@ def main() -> None:
     items = all_items()
     for name, lang in APP_LANG.items():
         out = APPS / name
-        shutil.rmtree(out, ignore_errors=True)  # full rebuild keeps retractions effective
+        # full rebuild keeps retractions effective; monthly PDFs (built separately) are kept
+        if out.exists():
+            for child in out.iterdir():
+                if child.name != "pdf":
+                    shutil.rmtree(child) if child.is_dir() else child.unlink()
         export_app(items, out, lang)
         export_static_gk(out, lang)
     print(f"[export] {len(items)} items -> {', '.join(APP_LANG)}")
