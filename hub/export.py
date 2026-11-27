@@ -98,7 +98,7 @@ def main() -> None:
         # full rebuild keeps retractions effective; monthly PDFs (built separately) are kept
         if out.exists():
             for child in out.iterdir():
-                if child.name != "pdf":
+                if child.name not in ("pdf", "important_days.json"):  # built by their own scripts
                     shutil.rmtree(child) if child.is_dir() else child.unlink()
         export_app(items, out, lang)
         export_static_gk(out, lang)

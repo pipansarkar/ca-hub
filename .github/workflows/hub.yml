@@ -37,7 +37,9 @@ jobs:
 
       - name: Static GK (Wikidata)
         if: inputs.task == 'static_gk' || github.event.schedule == '0 22 * * 6'
-        run: python hub/static_gk.py && python hub/export.py
+        run: python hub/static_gk.py && python hub/important_days.py && python hub/export.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Collect
         if: inputs.task != 'retract' && inputs.task != 'static_gk'
