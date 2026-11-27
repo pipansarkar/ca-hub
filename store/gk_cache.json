@@ -938,5 +938,116 @@
 "hi": "भारतीय प्रतिस्पर्धा आयोग की स्थापना: 2003"
 }
 ]
+},
+"organisation:True:ministry of ayush": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:india international trade fair": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:ministry of railways": {
+"at": "2026-11-27",
+"facts": [
+{
+"en": "Ministry of Railways was established in 1905",
+"bn": "রেল মন্ত্রক প্রতিষ্ঠিত হয় 1905 সালে",
+"hi": "रेल मंत्रालय की स्थापना: 1905",
+"mr": "भारतीय रेल्वे मंत्रालय ची स्थापना: 1905"
+}
+]
+},
+"state:True:uttarakhand": {
+"at": "2026-11-27",
+"facts": [
+{
+"en": "Capital of Uttarakhand: Dehradun",
+"bn": "উত্তরাখণ্ড-এর রাজধানী: দেরাদুন",
+"hi": "उत्तराखण्ड की राजधानी: देहरादून",
+"mr": "उत्तराखंड ची राजधानी: देहरादून"
+}
+]
+},
+"organisation:True:council of scientific and industrial research - central drug research institute": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:indian council of medical research": {
+"at": "2026-11-27",
+"facts": [
+{
+"en": "Headquarters of Indian Council of Medical Research: New Delhi",
+"bn": "ভারতীয় চিকিৎসা গবেষণা পর্ষদ-এর সদর দপ্তর: নয়াদিল্লি",
+"hi": "भारतीय आयुर्विज्ञान अनुसंधान परिषद का मुख्यालय: नई दिल्ली",
+"mr": "इंडियन काऊंसिल ऑफ मेडिकल रिसर्च चे मुख्यालय: नवी दिल्ली"
+},
+{
+"en": "Indian Council of Medical Research was established in 1948",
+"bn": "ভারতীয় চিকিৎসা গবেষণা পর্ষদ প্রতিষ্ঠিত হয় 1948 সালে",
+"hi": "भारतीय आयुर्विज्ञान अनुसंधान परिषद की स्थापना: 1948",
+"mr": "इंडियन काऊंसिल ऑफ मेडिकल रिसर्च ची स्थापना: 1948"
+}
+]
+},
+"organisation:True:council of scientific and industrial research - central road research institute": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:confederation of indian industry": {
+"at": "2026-11-27",
+"facts": [
+{
+"en": "Headquarters of Confederation of Indian Industry: New Delhi",
+"bn": "কনফেডারেশন অফ ইন্ডিয়ান ইন্ডাস্ট্রি-এর সদর দপ্তর: নয়াদিল্লি",
+"hi": "कॉन्फेडरेशन ऑफ इंडियन इंडस्ट्री का मुख्यालय: नई दिल्ली"
+},
+{
+"en": "Confederation of Indian Industry was established in 1895",
+"bn": "কনফেডারেশন অফ ইন্ডিয়ান ইন্ডাস্ট্রি প্রতিষ্ঠিত হয় 1895 সালে",
+"hi": "कॉन्फेडरेशन ऑफ इंडियन इंडस्ट्री की स्थापना: 1895"
+}
+]
+},
+"organisation:True:department of science and technology": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:indian institute of technology delhi": {
+"at": "2026-11-27",
+"facts": [
+{
+"en": "Headquarters of Indian Institute of Technology Delhi: New Delhi",
+"bn": "ভারতীয় প্রযুক্তিবিদ্যা প্রতিষ্ঠান দিল্লি-এর সদর দপ্তর: নয়াদিল্লি",
+"hi": "भारतीय प्रौद्योगिकी संस्थान दिल्ली का मुख्यालय: नई दिल्ली",
+"mr": "भारतीय तंत्रज्ञान संस्था दिल्ली चे मुख्यालय: नवी दिल्ली"
+},
+{
+"en": "Indian Institute of Technology Delhi was established in 1961",
+"bn": "ভারতীয় প্রযুক্তিবিদ্যা প্রতিষ্ঠান দিল্লি প্রতিষ্ঠিত হয় 1961 সালে",
+"hi": "भारतीय प्रौद्योगिकी संस्थान दिल्ली की स्थापना: 1961",
+"mr": "भारतीय तंत्रज्ञान संस्था दिल्ली ची स्थापना: 1961"
+}
+]
+},
+"organisation:True:centre for nano and soft matter sciences": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:national biodiversity authority": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:coir board": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:india trade promotion organisation": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:small industries development bank of india": {
+"at": "2026-11-27",
+"facts": []
 }
 }

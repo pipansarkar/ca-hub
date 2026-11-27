@@ -1,5 +1,2461 @@
 [
  {
+  "id": "18b35ac14b8c",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "national",
+  "category": "culture",
+  "tags": [
+   "UPSC",
+   "SSC",
+   "State PSC",
+   "Railways"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342620",
+  "answers": [
+   1,
+   0
+  ],
+  "langs": {
+   "en": {
+    "title": "Ayush Pavilion Wins Gold Medal at IITF 2026",
+    "one_liner": "The Ministry of Ayush won the Gold Medal for Public Communication and Outreach at the 45th India International Trade Fair 2026.",
+    "summary": "The Ministry of Ayush was awarded the Gold Medal in the Public Communication and Outreach category at the 45th India International Trade Fair 2026 held at Bharat Mandapam, New Delhi. The pavilion highlighted the theme 'Developing a Healthy India through the Heritage of Ayush' under the vision of Vikas aur Virasat. It showcased Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa, and Homoeopathy through interactive exhibits, receiving encouraging participation.",
+    "points": [
+     "Ministry of Ayush won the Gold Medal at IITF 2026.",
+     "Category: Public Communication and Outreach.",
+     "Venue: Bharat Mandapam, New Delhi.",
+     "Theme: आयुष की विरासत से स्वस्थ भारत का विकास (Developing a Healthy India through the Heritage of Ayush)."
+    ],
+    "static_gk": "The India International Trade Fair (IITF) is organized annually by the Trade Promotion Organisation of India (ITPO) at Pragati Maidan / Bharat Mandapam in New Delhi.",
+    "mcqs": [
+     {
+      "question": "Which ministry won the Gold Medal in Public Communication and Outreach at IITF 2026?",
+      "options": [
+       "Ministry of Health and Family Welfare",
+       "Ministry of Ayush",
+       "Ministry of Culture",
+       "Ministry of Commerce and Industry"
+      ],
+      "explanation": "The Ministry of Ayush won the Gold Medal in the category of Public Communication and Outreach at the 45th IITF 2026."
+     },
+     {
+      "question": "What was the theme of the Ayush Pavilion at IITF 2026?",
+      "options": [
+       "Developing a Healthy India through the Heritage of Ayush",
+       "Traditional Medicine for Global Health",
+       "Ayush for Universal Wellness",
+       "Vikas aur Virasat in Modern Healthcare"
+      ],
+      "explanation": "The Ayush Pavilion was themed आयुष की विरासत से स्वस्थ भारत का विकास (Developing a Healthy India through the Heritage of Ayush)."
+     }
+    ]
+   },
+   "bn": {
+    "title": "আয়ুষ প্যাভিলিয়ন IITF 2026-এ স্বর্ণপদক জিতেছে",
+    "one_liner": "আয়ুষ মন্ত্রক (Ministry of Ayush) ৪৫তম ইন্ডিয়া ইন্টারন্যাশনাল ট্রেড ফেয়ার (IITF) ২০২৬-এ জনসচেতনতা এবং প্রচারের জন্য স্বর্ণপদক জিতেছে।",
+    "summary": "নতুন দিল্লির ভারত মণ্ডপমে (Bharat Mandapam) অনুষ্ঠিত ৪৫তম ইন্ডিয়া ইন্টারন্যাশনাল ট্রেড ফেয়ার (IITF) ২০২৬-এ আয়ুষ মন্ত্রক (Ministry of Ayush) জনসচেতনতা এবং প্রচার বিভাগে স্বর্ণপদক লাভ করেছে। প্যাভিলিয়নটি 'বিকাশ ঔর বিরাসত' (Vikas aur Virasat)-এর দৃষ্টিভিন্নির অধীনে 'আয়ুষের ঐতিহ্যের মাধ্যমে একটি সুস্থ ভারত গড়ে তোলা' (Developing a Healthy India through the Heritage of Ayush) থিমটিকে তুলে ধরেছিল। এটি ইন্টারেক্টিভ প্রদর্শনীগুলির মাধ্যমে আয়ুর্বেদ, যোগ, প্রাকৃতিক চিকিৎসা, ইউনানি, সিদ্ধ, সোয়া-রিগপা এবং হোমোপ্যাথি প্রদর্শন করে এবং উৎসাহব্যঞ্জক অংশগ্রহণ লাভ করে।",
+    "points": [
+     "আয়ুষ মন্ত্রক (Ministry of Ayush) IITF 2026-এ স্বর্ণপদক জিতেছে।",
+     "বিভাগ: জনসচেতনতা এবং প্রচার (Public Communication and Outreach)।",
+     "ভেন্যু: ভারত মণ্ডপম (Bharat Mandapam), নতুন দিল্লি।",
+     "থিম: आयुष की विरासत से स्वस्थ भारत का विकास (Developing a Healthy India through the Heritage of Ayush)।"
+    ],
+    "static_gk": "ইন্ডিয়া ইন্টারন্যাশনাল ট্রেড ফেয়ার (IITF) নতুন দিল্লির প্রগতি ময়দান / ভারত মণ্ডপমে ইন্ডিয়া ট্রেড প্রমোশন অর্গানাইজেশন (ITPO) দ্বারা বার্ষিক আয়োজিত হয়।",
+    "mcqs": [
+     {
+      "question": "কোন মন্ত্রক IITF 2026-এ জনসচেতনতা এবং প্রচার বিভাগে স্বর্ণপদক জিতেছে?",
+      "options": [
+       "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রক (Ministry of Health and Family Welfare)",
+       "আয়ুষ মন্ত্রক (Ministry of Ayush)",
+       "সংস্কৃতি মন্ত্রক (Ministry of Culture)",
+       "বাণিজ্য ও শিল্প মন্ত্রক (Ministry of Commerce and Industry)"
+      ],
+      "explanation": "আয়ুষ মন্ত্রক (Ministry of Ayush) ৪৫তম IITF 2026-এ জনসচেতনতা এবং প্রচার বিভাগে স্বর্ণপদক জিতেছে।"
+     },
+     {
+      "question": "IITF 2026-এ আয়ুষ প্যাভিলিয়নের থিম কী ছিল?",
+      "options": [
+       "Developing a Healthy India through the Heritage of Ayush",
+       "Traditional Medicine for Global Health",
+       "Ayush for Universal Wellness",
+       "Vikas aur Virasat in Modern Healthcare"
+      ],
+      "explanation": "আয়ুষ প্যাভিলিয়নের থিম ছিল आयुष की विरासत से स्वस्थ भारत का विकास (Developing a Healthy India through the Heritage of Ayush)।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "आयुष पवेलियन ने IITF 2026 में स्वर्ण पदक जीता",
+    "one_liner": "आयुष मंत्रालय (Ministry of Ayush) ने 45वें भारत अंतर्राष्ट्रीय व्यापार मेले (IITF) 2026 में सार्वजनिक संचार और आउटरीच (Public Communication and Outreach) के लिए स्वर्ण पदक जीता।",
+    "summary": "आयुष मंत्रालय (Ministry of Ayush) को नई दिल्ली के भारत मंडपम (Bharat Mandapam) में आयोजित 45वें भारत अंतर्राष्ट्रीय व्यापार मेले (IITF) 2026 में सार्वजनिक संचार और आउटरीच श्रेणी में स्वर्ण पदक से सम्मानित किया गया। पवेलियन ने विकास और विरासत के दृष्टिकोण के तहत 'आयुष की विरासत से स्वस्थ भारत का विकास' (Developing a Healthy India through the Heritage of Ayush) विषय पर प्रकाश डाला। इसने इंटरैक्टिव प्रदर्शनों के माध्यम से आयुर्वेद, योग, प्राकृतिक चिकित्सा, यूनानी, सिद्ध, सोवा-रिग्पा और होम्योपैथी का प्रदर्शन किया, जिससे उत्साहजनक भागीदारी प्राप्त हुई।",
+    "points": [
+     "आयुष मंत्रालय (Ministry of Ayush) ने IITF 2026 में स्वर्ण पदक जीता।",
+     "श्रेणी: सार्वजनिक संचार और आउटरीच (Public Communication and Outreach)।",
+     "स्थान: भारत मंडपम (Bharat Mandapam), नई दिल्ली।",
+     "विषय: आयुष की विरासत से स्वस्थ भारत का विकास (Developing a Healthy India through the Heritage of Ayush)।"
+    ],
+    "static_gk": "भारत अंतर्राष्ट्रीय व्यापार मेला (IITF) प्रतिवर्ष नई दिल्ली के प्रगति मैदान / भारत मंडपम (Bharat Mandapam) में भारत व्यापार संवर्धन संगठन (ITPO) द्वारा आयोजित किया जाता है।",
+    "mcqs": [
+     {
+      "question": "IITF 2026 में किस मंत्रालय ने सार्वजनिक संचार और आउटरीच में स्वर्ण पदक जीता?",
+      "options": [
+       "स्वास्थ्य और परिवार कल्याण मंत्रालय (Ministry of Health and Family Welfare)",
+       "आयुष मंत्रालय (Ministry of Ayush)",
+       "संस्कृति मंत्रालय (Ministry of Culture)",
+       "वाणिज्य और उद्योग मंत्रालय (Ministry of Commerce and Industry)"
+      ],
+      "explanation": "आयुष मंत्रालय (Ministry of Ayush) ने 45वें IITF 2026 में सार्वजनिक संचार और आउटरीच की श्रेणी में स्वर्ण पदक जीता।"
+     },
+     {
+      "question": "IITF 2026 में आयुष पवेलियन का विषय क्या था?",
+      "options": [
+       "आयुष की विरासत से स्वस्थ भारत का विकास (Developing a Healthy India through the Heritage of Ayush)",
+       "वैश्विक स्वास्थ्य के लिए पारंपरिक चिकित्सा (Traditional Medicine for Global Health)",
+       "सार्वभौमिक कल्याण के लिए आयुष (Ayush for Universal Wellness)",
+       "आधुनिक स्वास्थ्य सेवा में विकास और विरासत (Vikas aur Virasat in Modern Healthcare)"
+      ],
+      "explanation": "आयुष पवेलियन का विषय आयुष की विरासत से स्वस्थ भारत का विकास (Developing a Healthy India through the Heritage of Ayush) था।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "IITF 2026 मध्ये आयुष पॅव्हेलियनने सुवर्ण पदक जिंकले",
+    "one_liner": "आयुष मंत्रालयाने (Ministry of Ayush) 45 व्या भारत आंतरराष्ट्रीय व्यापार मेळा 2026 (India International Trade Fair - IITF) मध्ये सार्वजनिक संप्रेषण आणि पोहोच (Public Communication and Outreach) श्रेणीमध्ये सुवर्ण पदक जिंकले.",
+    "summary": "नवी दिल्लीतील भारत मंडपम (Bharat Mandapam) येथे आयोजित 45 व्या भारत आंतरराष्ट्रीय व्यापार मेळा 2026 मध्ये आयुष मंत्रालयाने सार्वजनिक संप्रेषण आणि पोहोच श्रेणीमध्ये सुवर्ण पदक जिंकले. या पॅव्हेलियनने 'विकास और विरासत' या दृष्टीकोनाखाली 'आयुषच्या वारशाद्वारे निरोगी भारताचा विकास' (Developing a Healthy India through the Heritage of Ayush) ही थीम हायलाइट केली. यात परस्परसंवादी प्रदर्शनांद्वारे आयुर्वेद, योग, नैसरोपचार (Naturopathy), युनानी, सिद्ध, सोवा-रिग्पा आणि होमियोपॅथीचे प्रदर्शन करण्यात आले, ज्याला उत्साहवर्धक प्रतिसाद मिळाला.",
+    "points": [
+     "आयुष मंत्रालयाने IITF 2026 मध्ये सुवर्ण पदक जिंकले.",
+     "श्रेणी: सार्वजनिक संप्रेषण आणि पोहोच (Public Communication and Outreach).",
+     "स्थळ: भारत मंडपम, नवी दिल्ली.",
+     "थीम: आयुष की विरासत से स्वस्थ भारत का विकास (Developing a Healthy India through the Heritage of Ayush)."
+    ],
+    "static_gk": "भारत आंतरराष्ट्रीय व्यापार मेळा (IITF) दरवर्षी नवी दिल्लीतील प्रगती मैदान / भारत मंडपम येथे भारत व्यापार प्रवर्धन संस्था (ITPO) द्वारे आयोजित केला जातो.",
+    "mcqs": [
+     {
+      "question": "IITF 2026 मध्ये सार्वजनिक संप्रेषण आणि पोहोच श्रेणीमध्ये कोणत्या मंत्रालयाने सुवर्ण पदक जिंकले?",
+      "options": [
+       "आरोग्य आणि कुटुंब कल्याण मंत्रालय (Ministry of Health and Family Welfare)",
+       "आयुष मंत्रालय (Ministry of Ayush)",
+       "संस्कृती मंत्रालय (Ministry of Culture)",
+       "वाणिज्य आणि उद्योग मंत्रालय (Ministry of Commerce and Industry)"
+      ],
+      "explanation": "आयुष मंत्रालयाने 45 व्या IITF 2026 मधील सार्वजनिक संप्रेषण आणि पोहोच श्रेणीमध्ये सुवर्ण पदक जिंकले."
+     },
+     {
+      "question": "IITF 2026 मधील आयुष पॅव्हेलियनची थीम काय होती?",
+      "options": [
+       "आयुषच्या वारशाद्वारे निरोगी भारताचा विकास (Developing a Healthy India through the Heritage of Ayush)",
+       "जागतिक आरोग्यासाठी पारंपारिक औषध (Traditional Medicine for Global Health)",
+       "सार्वभौमिक निरोगीपणासाठी आयुष (Ayush for Universal Wellness)",
+       "आधुनिक आरोग्यसेवेमध्ये विकास आणि विरासत (Vikas aur Virasat in Modern Healthcare)"
+      ],
+      "explanation": "आयुष पॅव्हेलियनची थीम आयुष की विरासत से स्वस्थ भारत का विकास (Developing a Healthy India through the Heritage of Ayush) ही होती."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Ministry of Ayush",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "India International Trade Fair",
+    "short": "IITF",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "importance": 8,
+  "gk": []
+ },
+ {
+  "id": "1a3f26df1acc",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "uttarakhand",
+  "category": "national",
+  "tags": [
+   "UPSC",
+   "Railways",
+   "State PSC",
+   "SSC"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342624",
+  "answers": [
+   2,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "Breakthrough in Tunnel-14 of Rishikesh-Karnaprayag Rail Project",
+    "one_liner": "Indian Railways achieved the main tunnel breakthrough of the 6.59 km long Tunnel-14 in Uttarakhand's Rudraprayag district.",
+    "summary": "Indian Railways successfully achieved the main tunnel breakthrough of Tunnel-14, measuring 6.59 km, in the Rishikesh-Karnaprayag Rail Project located in Uttarakhand's Rudraprayag district. The excavation connected the 4.7 km section from Portal-1 in Sumerpur and 1.79 km from Portal-2 in Marora. Specialized techniques like pre-excavation, multi-drifting, micropiles, and controlled daytime blasting were utilized to ensure safety under inhabited areas.",
+    "points": [
+     "Project: Rishikesh-Karnaprayag Rail Project.",
+     "Tunnel length: 6.59 km (Tunnel-14).",
+     "Location: Rudraprayag district, Uttarakhand.",
+     "Connects Portal-1 (Sumerpur) and Portal-2 (Marora)."
+    ],
+    "static_gk": "Rudraprayag is a district in Uttarakhand situated at the confluence of the Alaknanda and Mandakini rivers.",
+    "mcqs": [
+     {
+      "question": "Tunnel-14, which recently saw a breakthrough, is part of which rail project?",
+      "options": [
+       "Udhampur-Srinagar-Baramulla Rail Link",
+       "Char Dham Railway Project",
+       "Rishikesh-Karnaprayag Rail Project",
+       "Bhanupali-Bilaspur-Beri Rail Line"
+      ],
+      "explanation": "Tunnel-14 is part of the strategically important Rishikesh-Karnaprayag Rail Project in Uttarakhand."
+     },
+     {
+      "question": "In which district of Uttarakhand is the 6.59 km long Tunnel-14 located?",
+      "options": [
+       "Chamoli",
+       "Rudraprayag",
+       "Pauri Garhwal",
+       "Tehri Garhwal"
+      ],
+      "explanation": "The main tunnel breakthrough of Tunnel-14 occurred in the Rudraprayag district of Uttarakhand."
+     }
+    ]
+   },
+   "bn": {
+    "title": "ঋষিকেশ-কর্ণপ্রয়াগ রেল প্রকল্পের টানেল-১৪-এ যুগান্তকারী সাফল্য",
+    "one_liner": "ভারতীয় রেল উত্তরাখণ্ডের রুদ্রপ্রয়াগ জেলায় ৬.৫৯ কিমি দীর্ঘ টানেল-১৪-এর প্রধান টানেল ব্রেকথ্রু অর্জন করেছে।",
+    "summary": "ভারতীয় রেল উত্তরাখণ্ডের রুদ্রপ্রয়াগ জেলায় অবস্থিত ঋষিকেশ-কর্ণপ্রয়াগ রেল প্রকল্পে ৬.৫৯ কিমি মাপের টানেল-১৪-এর প্রধান টানেল ব্রেকথ্রু সফলভাবে অর্জন করেছে। খননকার্য সুমেরপুরের পোর্টাল-১ থেকে ৪.৭ কিমি এবং মরোরার পোর্টাল-২ থেকে ১.৭৯ কিমি অংশকে সংযুক্ত করেছে। জনবহুল এলাকার নিচে নিরাপত্তা নিশ্চিত করার জন্য প্রি-এক্সক্যাভেশন, মাল্টি-ড্রিফটিং, মাইক্রোপাইল এবং নিয়ন্ত্রিত দিবালোকের ব্লাস্টিংয়ের মতো বিশেষ কৌশল ব্যবহার করা হয়েছিল।",
+    "points": [
+     "প্রকল্প: ঋষিকেশ-কর্ণপ্রয়াগ রেল প্রকল্প (Rishikesh-Karnaprayag Rail Project)।",
+     "টানেলের দৈর্ঘ্য: ৬.৫৯ কিমি (টানেল-১৪)।",
+     "অবস্থান: রুদ্রপ্রয়াগ জেলা, উত্তরাখণ্ড।",
+     "পোর্টাল-১ (সুমেরপুর) এবং পোর্টাল-২ (মরোরা) কে সংযুক্ত করে।"
+    ],
+    "static_gk": "রুদ্রপ্রয়াগ হল উত্তরাখণ্ডের একটি জেলা যা অলকানন্দা এবং মন্দাকিনী নদীর সঙ্গমস্থলে অবস্থিত।",
+    "mcqs": [
+     {
+      "question": "টানেল-১৪, যাতে সম্প্রতি ব্রেকথ্রু দেখা গেছে, এটি কোন রেল প্রকল্পের অংশ?",
+      "options": [
+       "উধমপুর-শ্রীনগর-বারামুল্লা রেল লিঙ্ক (Udhampur-Srinagar-Baramulla Rail Link)",
+       "চারধাম রেলওয়ে প্রকল্প (Char Dham Railway Project)",
+       "ঋষিকেশ-কর্ণপ্রয়াগ রেল প্রকল্প (Rishikesh-Karnaprayag Rail Project)",
+       "ভানুপালি-বিলাশপুর-বেরি রেল লাইন (Bhanupali-Bilaspur-Beri Rail Line)"
+      ],
+      "explanation": "টানেল-১৪ উত্তরাখণ্ডের কৌশলগতভাবে গুরুত্বপূর্ণ ঋষিকেশ-কর্ণপ্রয়াগ রেল প্রকল্পের অংশ।"
+     },
+     {
+      "question": "উত্তরাখণ্ডের কোন জেলায় ৬.৫৯ কিমি দীর্ঘ টানেল-১৪ অবস্থিত?",
+      "options": [
+       "চমোলী",
+       "রুদ্রপ্রয়াগ",
+       "পৌরী গড়বাল",
+       "তেহরী গড়বাল"
+      ],
+      "explanation": "টানেল-১৪-এর প্রধান টানেল ব্রেকথ্রু উত্তরাখণ্ডের রুদ্রপ্রয়াগ জেলায় ঘটেছে।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "ऋषिकेश-कर्णप्रयाग रेल परियोजना की सुरंग-14 में सफलता",
+    "one_liner": "भारतीय रेलवे ने उत्तराखंड के रुद्रप्रयाग जिले में 6.59 किमी लंबी सुरंग-14 (Tunnel-14) का मुख्य सुरंग ब्रेकथ्रू हासिल किया।",
+    "summary": "भारतीय रेलवे ने उत्तराखंड के रुद्रप्रयाग जिले में स्थित ऋषिकेश-कर्णप्रयाग रेल परियोजना में 6.59 किमी मापने वाली सुरंग-14 (Tunnel-14) का मुख्य सुरंग ब्रेकथ्रू सफलतापूर्वक हासिल कर लिया। उत्खनन ने सुमेरपुर में पोर्टल-1 से 4.7 किमी खंड और मरोरा में पोर्टल-2 से 1.79 किमी खंड को जोड़ा। आबादी वाले क्षेत्रों के तहत सुरक्षा सुनिश्चित करने के लिए पूर्व-उत्खनन, बहु-ड्रिफ्टिंग, माइक्रोपाइल्स और नियंत्रित डे-टाइम ब्लास्टिंग जैसी विशेष तकनीकों का उपयोग किया गया था।",
+    "points": [
+     "परियोजना: ऋषिकेश-कर्णप्रयाग रेल परियोजना।",
+     "सुरंग की लंबाई: 6.59 किमी (सुरंग-14)।",
+     "स्थान: रुद्रप्रयाग जिला, उत्तराखंड।",
+     "पोर्टल-1 (सुमेरपुर) और पोर्टल-2 (मरोरा) को जोड़ता है।"
+    ],
+    "static_gk": "रुद्रप्रयाग उत्तराखंड का एक जिला है जो अलकनंदा और मंदाकिनी नदियों के संगम पर स्थित है।",
+    "mcqs": [
+     {
+      "question": "सुरंग-14, जिसमें हाल ही में ब्रेकथ्रू देखा गया, किस रेल परियोजना का हिस्सा है?",
+      "options": [
+       "उधमपुर-श्रीनगर-बारामूला रेल लिंक (Udhampur-Srinagar-Baramulla Rail Link)",
+       "चार धाम रेलवे परियोजना (Char Dham Railway Project)",
+       "ऋषिकेश-कर्णप्रयाग रेल परियोजना (Rishikesh-Karnaprayag Rail Project)",
+       "भानुपाली-बिलासपुर-बेरी रेल लाइन (Bhanupali-Bilaspur-Beri Rail Line)"
+      ],
+      "explanation": "सुरंग-14 उत्तराखंड में रणनीतिक रूप से महत्वपूर्ण ऋषिकेश-कर्णप्रयाग रेल परियोजना का हिस्सा है।"
+     },
+     {
+      "question": "उत्तराखंड के किस जिले में 6.59 किमी लंबी सुरंग-14 स्थित है?",
+      "options": [
+       "चमोली (Chamoli)",
+       "रुद्रप्रयाग (Rudraprayag)",
+       "पौड़ी गढ़वाल (Pauri Garhwal)",
+       "टिहरी गढ़वाल (Tehri Garhwal)"
+      ],
+      "explanation": "सुरंग-14 का मुख्य सुरंग ब्रेकथ्रू उत्तराखंड के रुद्रप्रयाग जिले में हुआ।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "ऋषिकेश-कर्णप्रयाग रेल्वे प्रकल्पाच्या बोगदा-14 मध्ये मोठे यश",
+    "one_liner": "भारतीय रेल्वेने (Indian Railways) उत्तराखंडच्या रुद्रप्रयाग जिल्ह्यातील 6.59 किमी लांबीच्या बोगदा-14 (Tunnel-14) चे मुख्य बोगदा यश (breakthrough) साध्य केले.",
+    "summary": "भारतीय रेल्वेने उत्तराखंडच्या रुद्रप्रयाग जिल्ह्यात असलेल्या ऋषिकेश-कर्णप्रयाग रेल्वे प्रकल्पातील 6.59 किमी लांबीच्या बोगदा-14 चे मुख्य बोगदा यश यशस्वीरित्या साध्य केले. उत्खननामुळे सुमेरपूरमधील पोर्टल-1 (Portal-1) कडील 4.7 किमी विभाग आणि मरोरामधील पोर्टल-2 (Portal-2) कडील 1.79 किमी विभाग जोडले गेले. वस्ती असलेल्या क्षेत्राखाली सुरक्षा सुनिश्चित करण्यासाठी पूर्व-उत्खनन (pre-excavation), बहु-ड्रिफ्टिंग (multi-drifting), मायक्रोपाइल्स (micropiles) आणि नियंत्रित दिवसभरातील ब्लास्टिंग यांसारख्या विशेष तंत्रांचा वापर करण्यात आला.",
+    "points": [
+     "प्रकल्प: ऋषिकेश-कर्णप्रयाग रेल्वे प्रकल्प.",
+     "बोगद्याची लांबी: 6.59 किमी (बोगदा-14).",
+     "स्थान: रुद्रप्रयाग जिल्हा, उत्तराखंड.",
+     "पोर्टल-1 (सुमेरपूर) आणि पोर्टल-2 (मरोरा) यांना जोडते."
+    ],
+    "static_gk": "रुद्रप्रयाग हा उत्तराखंडमधील एक जिल्हा आहे जो अलकनंदा आणि मंदाकिनी नद्यांच्या संगमावर वसलेला आहे.",
+    "mcqs": [
+     {
+      "question": "बोगदा-14, ज्यामध्ये नुकतेच यश मिळाले आहे, हा कोणत्या रेल्वे प्रकल्पाचा भाग आहे?",
+      "options": [
+       "उधमपूर-श्रीराम-बारामुल्ला रेल्वे मार्ग (Udhampur-Srinagar-Baramulla Rail Link)",
+       "चार धाम रेल्वे प्रकल्प (Char Dham Railway Project)",
+       "ऋषिकेश-कर्णप्रयाग रेल्वे प्रकल्प (Rishikesh-Karnaprayag Rail Project)",
+       "भानुपल्ली-बिलासपूर-बेरी रेल्वे मार्ग (Bhanupali-Bilaspur-Beri Rail Line)"
+      ],
+      "explanation": "बोगदा-14 हा उत्तराखंडमधील धोरणात्मकरित्या महत्त्वाच्या ऋषिकेश-कर्णप्रयाग रेल्वे प्रकल्पाचा भाग आहे."
+     },
+     {
+      "question": "उत्तराखंडच्या कोणत्या जिल्ह्यात 6.59 किमी लांबीचा बोगदा-14 स्थित आहे?",
+      "options": [
+       "चमोली",
+       "रुद्रप्रयाग",
+       "पौरी गडवाल",
+       "टिहरी गडवाल"
+      ],
+      "explanation": "बोगदा-14 चे मुख्य बोगदा यश उत्तराखंडच्या रुद्रप्रयाग जिल्ह्यात साध्य झाले."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Ministry of Railways",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Uttarakhand",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   }
+  ],
+  "importance": 8,
+  "gk": [
+   {
+    "en": "Ministry of Railways was established in 1905",
+    "bn": "রেল মন্ত্রক প্রতিষ্ঠিত হয় 1905 সালে",
+    "hi": "रेल मंत्रालय की स्थापना: 1905",
+    "mr": "भारतीय रेल्वे मंत्रालय ची स्थापना: 1905"
+   },
+   {
+    "en": "Capital of Uttarakhand: Dehradun",
+    "bn": "উত্তরাখণ্ড-এর রাজধানী: দেরাদুন",
+    "hi": "उत्तराखण्ड की राजधानी: देहरादून",
+    "mr": "उत्तराखंड ची राजधानी: देहरादून"
+   }
+  ]
+ },
+ {
+  "id": "b7047ad8733b",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "uttar_pradesh",
+  "category": "science",
+  "tags": [
+   "UPSC",
+   "State PSC",
+   "SSC",
+   "Bank"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342644",
+  "answers": [
+   0,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "BSL-3 Facility Inaugurated at CSIR-CDRI Lucknow",
+    "one_liner": "Union Minister Dr. Jitendra Singh inaugurated the BSL-3/ABSL-3 facility and Dr. B. Mukerji Lecture Theatre at CSIR-CDRI, Lucknow.",
+    "summary": "Union Minister Dr. Jitendra Singh inaugurated the state-of-the-art Biosafety Level-3 (BSL-3)/Animal Biosafety Level-3 (ABSL-3) facility and Dr. B. Mukerji Lecture Theatre at CSIR-Central Drug Research Institute (CDRI) in Lucknow, Uttar Pradesh. The facility will strengthen high-containment research on Mycobacterium tuberculosis and other infectious diseases. CSIR-CDRI has developed 13 marketed drugs, filed over 1,000 patents, and licensed more than 80 process technologies.",
+    "points": [
+     "Facility inaugurated: BSL-3/ABSL-3 facility at CSIR-CDRI, Lucknow.",
+     "Focus areas: Mycobacterium tuberculosis and challenging infectious diseases.",
+     "CDRI achievements: Developed 13 marketed drugs, licensed over 80 process technologies, and filed over 1,000 patents.",
+     "Notable CDRI contraceptive drug: Centchroman (Ormeloxifene)."
+    ],
+    "static_gk": "CSIR-Central Drug Research Institute (CDRI) is located in Lucknow, Uttar Pradesh.",
+    "mcqs": [
+     {
+      "question": "The new BSL-3/ABSL-3 facility was inaugurated at which CSIR laboratory?",
+      "options": [
+       "CSIR-CDRI, Lucknow",
+       "CSIR-CSMCRI, Bhavnagar",
+       "CSIR-IMTECH, Chandigarh",
+       "CSIR-NCL, Pune"
+      ],
+      "explanation": "The BSL-3 facility was inaugurated at CSIR-Central Drug Research Institute (CDRI), Lucknow."
+     },
+     {
+      "question": "What is Centchroman (Ormeloxifene), developed by CSIR-CDRI?",
+      "options": [
+       "An anti-malarial vaccine",
+       "A non-steroidal once-a-week oral contraceptive",
+       "A treatment for bone fractures",
+       "A diagnostic kit for tuberculosis"
+      ],
+      "explanation": "Centchroman, also known as Ormeloxifene, is an indigenous non-steroidal, once-a-week oral contraceptive developed by CSIR-CDRI."
+     }
+    ]
+   },
+   "bn": {
+    "title": "CSIR-CDRI লখনউতে BSL-3 সুবিধা উদ্বোধন করা হয়েছে",
+    "one_liner": "কেন্দ্রীয় মন্ত্রী ড. জিতেন্দ্র সিং CSIR-CDRI, লখনউতে BSL-3/ABSL-3 সুবিধা এবং ড. বি. মুখার্জি লেকচার থিয়েটার উদ্বোধন করেছেন।",
+    "summary": "কেন্দ্রীয় মন্ত্রী ড. জিতেন্দ্র সিং উত্তর প্রদেশের লখনউতে অবস্থিত CSIR-সেন্ট্রাল ড্রাগ রিসার্চ ইনস্টিটিউট (CDRI)-এ অত্যাধুনিক বায়োসেফটি লেভেল-৩ (BSL-3)/অ্যানিমেল বায়োসেফটি লেভেল-৩ (ABSL-3) সুবিধা এবং ড. বি. মুখার্জি লেকচার থিয়েটার উদ্বোধন করেছেন। এই সুবিধাটি মাইকোব্যাকটেরিয়াম টিউবারকিউলোসিস এবং অন্যান্য সংক্রামক রোগের উপর উচ্চ-সংযোজন গবেষণা জোরদার করবে। CSIR-CDRI ১৩টি বাজারজাত ওষুধ তৈরি করেছে, ১,০০০-এর বেশি পেটেন্ট দাখিল করেছে এবং ৮০টিরও বেশি প্রক্রিয়া প্রযুক্তি লাইসেন্স করেছে।",
+    "points": [
+     "উদ্বোধন করা সুবিধা: CSIR-CDRI, লখনউতে BSL-3/ABSL-3 সুবিধা।",
+     "ফোকাস ক্ষেত্র: মাইকোব্যাকটেরিয়াম টিউবারকিউলোসিস এবং চ্যালেঞ্জিং সংক্রামক রোগ।",
+     "CDRI-এর অর্জন: ১৩টি বাজারজাত ওষুধ তৈরি করেছে, ৮০টিরও বেশি প্রক্রিয়া প্রযুক্তি লাইসেন্স করেছে এবং ১,০০০-এর বেশি পেটেন্ট দাখিল করেছে।",
+     "উল্লেখযোগ্য CDRI গর্ভনিরোধক ওষুধ: সেন্টক্রোমান (Centchroman) (অরমেলোক্সিফেন)।"
+    ],
+    "static_gk": "CSIR-সেন্ট্রাল ড্রাগ রিসার্চ ইনস্টিটিউট (CDRI) উত্তর প্রদেশের লখনউতে অবস্থিত।",
+    "mcqs": [
+     {
+      "question": "কোন CSIR ল্যাবরেটরিতে নতুন BSL-3/ABSL-3 সুবিধা উদ্বোধন করা হয়েছে?",
+      "options": [
+       "CSIR-CDRI, লখনউ",
+       "CSIR-CSMCRI, ভাবনগর",
+       "CSIR-IMTECH, চণ্ডীগড়",
+       "CSIR-NCL, পুনে"
+      ],
+      "explanation": "লখনউয়ের CSIR-সেন্ট্রাল ড্রাগ রিসার্চ ইনস্টিটিউট (CDRI)-এ BSL-3 সুবিধাটি উদ্বোধন করা হয়েছে।"
+     },
+     {
+      "question": "CSIR-CDRI দ্বারা বিকশিত সেন্টক্রোমান (অরমেলোক্সিফেন) কী?",
+      "options": [
+       "একটি ম্যালেরিয়া প্রতিরোধী ভ্যাকসিন",
+       "একটি নন-স্টেরয়েডাল সপ্তাহে একবার খাওয়ার গর্ভনিরোধক",
+       "হাড় ভাঙার চিকিৎসার ওষুধ",
+       "যক্ষ্মা রোগের একটি ডায়াগনস্টিক কিট"
+      ],
+      "explanation": "সেন্টক্রোমান, যা অরমেলোক্সিফেন নামেও পরিচিত, এটি CSIR-CDRI দ্বারা বিকশিত একটি দেশীয় নন-স্টেরয়েডাল, সপ্তাহে একবার খাওয়ার গর্ভনিরোধক।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "CSIR-CDRI लखनऊ में BSL-3 सुविधा का उद्घाटन",
+    "one_liner": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने CSIR-CDRI, लखनऊ में BSL-3/ABSL-3 सुविधा और डॉ. बी. मुकर्जी व्याख्यान कक्ष (Dr. B. Mukerji Lecture Theatre) का उद्घाटन किया।",
+    "summary": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने उत्तर प्रदेश के लखनऊ में CSIR-केंद्रीय औषधि अनुसंधान संस्थान (CDRI) में अत्याधुनिक जैव सुरक्षा स्तर-3 (BSL-3)/पशु जैव सुरक्षा स्तर-3 (ABSL-3) सुविधा और डॉ. बी. मुकर्जी व्याख्यान कक्ष का उद्घाटन किया। यह सुविधा माइकोबैक्टीरियम ट्यूबरकुलोसिस (Mycobacterium tuberculosis) और अन्य संक्रामक रोगों पर उच्च-निरोधक अनुसंधान को मजबूत करेगी। CSIR-CDRI ने 13 विपणन दवाएं विकसित की हैं, 1,000 से अधिक पेटेंट दाखिल किए हैं और 80 से अधिक प्रक्रिया प्रौद्योगिकियों का लाइसेंस लिया है।",
+    "points": [
+     "उद्घाटन की गई सुविधा: CSIR-CDRI, लखनऊ में BSL-3/ABSL-3 सुविधा।",
+     "फोकस क्षेत्र: माइकोबैक्टीरियम ट्यूबरकुलोसिस (Mycobacterium tuberculosis) और चुनौतीपूर्ण संक्रामक रोग।",
+     "CDRI की उपलब्धियां: 13 विपणन दवाएं विकसित कीं, 80 से अधिक प्रक्रिया प्रौद्योगिकियों का लाइसेंस लिया और 1,000 से अधिक पेटेंट दाखिल किए।",
+     "उल्लेखनीय CDRI गर्भनिरोधक दवा: सेंटक्रोमैन (Centchroman / Ormeloxifene)।"
+    ],
+    "static_gk": "CSIR-केंद्रीय औषधि अनुसंधान संस्थान (CDRI) उत्तर प्रदेश के लखनऊ में स्थित है।",
+    "mcqs": [
+     {
+      "question": "नई BSL-3/ABSL-3 सुविधा का उद्घाटन किस CSIR प्रयोगशाला में किया गया था?",
+      "options": [
+       "CSIR-CDRI, लखनऊ",
+       "CSIR-CSMCRI, भावनगर",
+       "CSIR-IMTECH, चंडीगढ़",
+       "CSIR-NCL, पुणे"
+      ],
+      "explanation": "BSL-3 सुविधा का उद्घाटन CSIR-केंद्रीय औषधि अनुसंधान संस्थान (CDRI), लखनऊ में किया गया था।"
+     },
+     {
+      "question": "CSIR-CDRI द्वारा विकसित सेंटक्रोमैन (Centchroman / Ormeloxifene) क्या है?",
+      "options": [
+       "एक मलेरिया-रोधी टीका",
+       "एक गैर-स्टेरायडल सप्ताह में एक बार ली जाने वाली मौखिक गर्भनिरोधक गोली (A non-steroidal once-a-week oral contraceptive)",
+       "हड्डियों के फ्रैक्चर के लिए एक उपचार",
+       "तपेदिक के लिए एक नैदानिक किट"
+      ],
+      "explanation": "सेंटक्रोमैन, जिसे ओरमेलॉक्सिफेन (Ormeloxifene) भी कहा जाता है, CSIR-CDRI द्वारा विकसित एक स्वदेशी गैर-स्टेरायडल, सप्ताह में एक बार ली जाने वाली मौखिक गर्भनिरोधक गोली है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "CSIR-CDRI लखनऊ येथे BSL-3 सुविधा केंद्र उद्घाटित",
+    "one_liner": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह यांनी CSIR-CDRI, लखनऊ येथे BSL-3/ABSL-3 सुविधा केंद्र आणि डॉ. बी. मुकर्जी व्याख्यान कक्षाचे उद्घाटन केले.",
+    "summary": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह यांनी उत्तर प्रदेशच्या लखनऊ येथील CSIR-केंद्रीय औषध अनुसंधान संस्था (CSIR-Central Drug Research Institute - CDRI) येथे अत्याधुनिक बायोसेफ्टी लेव्हल-3 (BSL-3)/अ‍ॅनिमल बायोसेफ्टी लेव्हल-3 (ABSL-3) सुविधा केंद्र आणि डॉ. बी. मुकर्जी व्याख्यान कक्षाचे उद्घाटन केले. हे सुविधा केंद्र मायकोबॅक्टेरियम ट्युबरकुलोसिस (Mycobacterium tuberculosis) आणि इतर संसर्गजन्य रोगांवरील उच्च-नियंत्रण संशोधनाला बळकट करेल. CSIR-CDRI ने 13 बाजारात उपलब्ध औषधे विकसित केली आहेत, 1,000 हून अधिक पेटंट दाखल केले आहेत आणि 80 पेक्षा जास्त प्रक्रिया तंत्रज्ञानाचे परवाने दिले आहेत.",
+    "points": [
+     "उद्घाटित सुविधा: CSIR-CDRI, लखनऊ येथे BSL-3/ABSL-3 सुविधा केंद्र.",
+     "लक्ष्य केंद्रित क्षेत्रे: मायकोबॅक्टेरियम ट्युबरकुलोसिस आणि आव्हानात्मक संसर्गजन्य रोग.",
+     "CDRI ची उपलब्धी: 13 बाजारात उपलब्ध औषधे विकसित केली, 80 हून अधिक प्रक्रिया तंत्रज्ञानाचे परवाने दिले आणि 1,000 हून अधिक पेटंट दाखल केले.",
+     "नोंदनीय CDRI गर्भनिरोधक औषध: सेंटक्रोमन (Centchroman - Ormeloxifene)."
+    ],
+    "static_gk": "CSIR-केंद्रीय औषध अनुसंधान संस्था (CSIR-CDRI) उत्तर प्रदेशच्या लखनऊ येथे स्थित आहे.",
+    "mcqs": [
+     {
+      "question": "नवीन BSL-3/ABSL-3 सुविधा केंद्र कोणत्या CSIR प्रयोगशाळेत उद्घाटित करण्यात आले?",
+      "options": [
+       "CSIR-CDRI, लखनऊ",
+       "CSIR-CSMCRI, भावनगर",
+       "CSIR-IMTECH, चंदीगड",
+       "CSIR-NCL, पुणे"
+      ],
+      "explanation": "BSL-3 सुविधा केंद्र CSIR-केंद्रीय औषध अनुसंधान संस्था (CSIR-CDRI), लखनऊ येथे उद्घाटित करण्यात आले."
+     },
+     {
+      "question": "CSIR-CDRI ने विकसित केलेले सेंटक्रोमन (ऑर्मेलोक्सिफेन) काय आहे?",
+      "options": [
+       "एक मलेरियाविरोधी लस",
+       "एक स्टेरॉइड नसलेले आठवड्यातून एकदा घेण्याचे तोंडावाटे घ्यायचे गर्भनिरोधक (A non-steroidal once-a-week oral contraceptive)",
+       "हाडे फ्रॅक्चरवर उपचार",
+       "क्षयरोग तपासणीसाठी निदान किट"
+      ],
+      "explanation": "सेंटक्रोमन, ज्याला ऑर्मेलोक्सिफेन (Ormeloxifene) म्हणूनही ओळखले जाते, हे CSIR-CDRI द्वारे विकसित केलेले स्वदेशी स्टेरॉइड नसलेले, आठवड्यातून एकदा घेण्याचे तोंडावाटे घ्यायचे गर्भनिरोधक आहे."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Council of Scientific and Industrial Research - Central Drug Research Institute",
+    "short": "CSIR-CDRI",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Indian Council of Medical Research",
+    "short": "ICMR",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "importance": 8,
+  "gk": [
+   {
+    "en": "Headquarters of Indian Council of Medical Research: New Delhi",
+    "bn": "ভারতীয় চিকিৎসা গবেষণা পর্ষদ-এর সদর দপ্তর: নয়াদিল্লি",
+    "hi": "भारतीय आयुर्विज्ञान अनुसंधान परिषद का मुख्यालय: नई दिल्ली",
+    "mr": "इंडियन काऊंसिल ऑफ मेडिकल रिसर्च चे मुख्यालय: नवी दिल्ली"
+   },
+   {
+    "en": "Indian Council of Medical Research was established in 1948",
+    "bn": "ভারতীয় চিকিৎসা গবেষণা পর্ষদ প্রতিষ্ঠিত হয় 1948 সালে",
+    "hi": "भारतीय आयुर्विज्ञान अनुसंधान परिषद की स्थापना: 1948",
+    "mr": "इंडियन काऊंसिल ऑफ मेडिकल रिसर्च ची स्थापना: 1948"
+   }
+  ]
+ },
+ {
+  "id": "7bc3a91be92d",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "national",
+  "category": "science",
+  "tags": [
+   "UPSC",
+   "SSC",
+   "State PSC",
+   "Railways"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342604",
+  "answers": [
+   0,
+   0
+  ],
+  "langs": {
+   "en": {
+    "title": "CSIR-CRRI Wins CII 4R Awards 2026 for Waste Technology",
+    "one_liner": "CSIR-CRRI won the CII 4R Awards 2026 and was recognized among India's Top 30 Waste-to-Worth Leaders for its Steel Slag Road Technology.",
+    "summary": "CSIR-Central Road Research Institute (CSIR-CRRI), New Delhi, received the CII 4R Awards 2026 in the category of Excellence in Innovative Solutions for Sustainable Waste Management by Research Labs/Academic Institutions. It was also recognized among India's Top 30 Waste-to-Worth Leaders for its Steel Slag Road Technology and ECOFIX instant pothole repair mix. These innovations utilize industrial waste from steel plants for sustainable infrastructure development.",
+    "points": [
+     "Award: CII 4R Awards 2026.",
+     "Recipient: CSIR-Central Road Research Institute (CSIR-CRRI), New Delhi.",
+     "Recognized technologies: Steel Slag Road Technology and ECOFIX.",
+     "Steel industry waste generated annually in India: Approximately 30 million tonnes."
+    ],
+    "static_gk": "CSIR-Central Road Research Institute (CSIR-CRRI) is headquartered in New Delhi.",
+    "mcqs": [
+     {
+      "question": "Which institution won the CII 4R Awards 2026 for Steel Slag Road Technology?",
+      "options": [
+       "CSIR-CRRI",
+       "CSIR-CDRI",
+       "CSIR-NCL",
+       "IIT Delhi"
+      ],
+      "explanation": "CSIR-Central Road Research Institute (CSIR-CRRI) won the CII 4R Awards 2026 for its Steel Slag Road Technology and ECOFIX."
+     },
+     {
+      "question": "What is ECOFIX, developed utilizing industrial by-products?",
+      "options": [
+       "An instant pothole repair mix",
+       "A water purification filter",
+       "A prefabricated bridge material",
+       "An anti-skid floor coating"
+      ],
+      "explanation": "ECOFIX is an iron and steel slag-based instant pothole repair mix used for sustainable road maintenance."
+     }
+    ]
+   },
+   "bn": {
+    "title": "বর্জ্য প্রযুক্তির জন্য CSIR-CRRI CII 4R পুরস্কার ২০২৬ জিতেছে",
+    "one_liner": "CSIR-CRRI তার স্টিল স্ল্যাগ রোড টেকনোলজির (Steel Slag Road Technology) জন্য CII 4R পুরস্কার ২০২৬ জিতেছে এবং ভারতের শীর্ষ ৩০টি বর্জ্য থেকে সম্পদে পরিণত করার নেতৃস্থানীয়দের (Waste-to-Worth Leaders) মধ্যে স্বীকৃতি পেয়েছে।",
+    "summary": "নতুন দিল্লির CSIR-সেন্ট্রাল রোড রিসার্চ ইনস্টিটিউট (CSIR-CRRI), গবেষণা ল্যাবরেটরি/একাডেমিক প্রতিষ্ঠানগুলির দ্বারা টেকসই বর্জ্য ব্যবস্থাপনায় উদ্ভাবনী সমাধানে শ্রেষ্ঠত্ব (Excellence in Innovative Solutions for Sustainable Waste Management) বিভাগে CII 4R পুরস্কার ২০২৬ পেয়েছে। এটি তার স্টিল স্ল্যাগ রোড টেকনোলজি এবং ECOFIX তাৎক্ষণিক গর্ত মেরামত মিশ্রণের (instant pothole repair mix) জন্য ভারতের শীর্ষ ৩০টি বর্জ্য থেকে সম্পদে পরিণত করার নেতৃস্থানীয়দের (Waste-to-Worth Leaders) মধ্যেও স্বীকৃত হয়েছে। এই উদ্ভাবনগুলি টেকসই পরিকাঠামো উন্নয়নের জন্য ইস্পাত কারখানাগুলির শিল্প বর্জ্য ব্যবহার করে।",
+    "points": [
+     "পুরস্কার: CII 4R পুরস্কার ২০২৬।",
+     "প্রাপক: CSIR-সেন্ট্রাল রোড রিসার্চ ইনস্টিটিউট (CSIR-CRRI), নতুন দিল্লি।",
+     "স্বীকৃত প্রযুক্তি: স্টিল স্ল্যাগ রোড টেকনোলজি এবং ECOFIX।",
+     "ভারতে বার্ষিক উৎপাদিত ইস্পাত শিল্পের বর্জ্য: প্রায় ৩০ মিলিয়ন টন।"
+    ],
+    "static_gk": "CSIR-সেন্ট্রাল রোড রিসার্চ ইনস্টিটিউট (CSIR-CRRI)-এর সদর দপ্তর নতুন দিল্লিতে অবস্থিত।",
+    "mcqs": [
+     {
+      "question": "কোন প্রতিষ্ঠান স্টিল স্ল্যাগ রোড টেকনোলজির জন্য CII 4R পুরস্কার ২০২৬ জিতেছে?",
+      "options": [
+       "CSIR-CRRI",
+       "CSIR-CDRI",
+       "CSIR-NCL",
+       "IIT দিল্লি"
+      ],
+      "explanation": "CSIR-সেন্ট্রাল রোড রিসার্চ ইনস্টিটিউট (CSIR-CRRI) তার স্টিল স্ল্যাগ রোড টেকনোলজি এবং ECOFIX-এর জন্য CII 4R পুরস্কার ২০২৬ জিতেছে।"
+     },
+     {
+      "question": "শিল্প উপজাত ব্যবহার করে বিকশিত ECOFIX কী?",
+      "options": [
+       "একটি তাৎক্ষণিক গর্ত মেরামতের মিশ্রণ (instant pothole repair mix)",
+       "একটি জল পরিশোধন ফিল্টার",
+       "একটি প্রিফেব্রিকেটেড সেতুর উপাদান",
+       "একটি অ্যান্টি-স্কিড মেঝে প্রলেপ"
+      ],
+      "explanation": "ECOFIX হল লোহা এবং ইস্পাত স্ল্যাগ-ভিত্তিক একটি তাৎক্ষণিক গর্ত মেরামতের মিশ্রণ যা টেকসই রাস্তা রক্ষণাবেক্ষণের জন্য ব্যবহৃত হয়।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "CSIR-CRRI ने अपशिष्ट प्रौद्योगिकी के लिए CII 4R पुरस्कार 2026 जीता",
+    "one_liner": "CSIR-CRRI ने CII 4R पुरस्कार 2026 जीता और अपनी स्टील स्लैग रोड टेक्नोलॉजी (Steel Slag Road Technology) के लिए भारत के शीर्ष 30 वेस्ट-टू-वर्थ लीडर्स (Waste-to-Worth Leaders) में मान्यता प्राप्त की।",
+    "summary": "CSIR-केंद्रीय सड़क अनुसंधान संस्थान (CSIR-CRRI), नई दिल्ली को अनुसंधान प्रयोगशालाओं/शैक्षणिक संस्थानों द्वारा सतत अपशिष्ट प्रबंधन में नवीन समाधानों में उत्कृष्टता की श्रेणी में CII 4R पुरस्कार 2026 प्राप्त हुआ। इसे इसकी स्टील स्लैग रोड टेक्नोलॉजी और ECOFIX इंस्टेंट गड्ढे की मरम्मत के मिश्रण के लिए भारत के शीर्ष 30 वेस्ट-टू-वर्थ लीडर्स में भी मान्यता दी गई थी। ये नवाचार सतत बुनियादी ढांचे के विकास के लिए इस्पात संयंत्रों के औद्योगिक कचरे का उपयोग करते हैं।",
+    "points": [
+     "पुरस्कार: CII 4R पुरस्कार 2026।",
+     "प्राप्तकर्ता: CSIR-केंद्रीय सड़क अनुसंधान संस्थान (CSIR-CRRI), नई दिल्ली।",
+     "मान्यता प्राप्त प्रौद्योगिकियां: स्टील स्लैग रोड टेक्नोलॉजी और ECOFIX।",
+     "भारत में प्रतिवर्ष उत्पन्न होने वाला इस्पात उद्योग का कचरा: लगभग 30 मिलियन टन।"
+    ],
+    "static_gk": "CSIR-केंद्रीय सड़क अनुसंधान संस्थान (CSIR-CRRI) का मुख्यालय नई दिल्ली में है।",
+    "mcqs": [
+     {
+      "question": "किस संस्थान ने स्टील स्लैग रोड टेक्नोलॉजी के लिए CII 4R पुरस्कार 2026 जीता?",
+      "options": [
+       "CSIR-CRRI",
+       "CSIR-CDRI",
+       "CSIR-NCL",
+       "IIT दिल्ली"
+      ],
+      "explanation": "CSIR-केंद्रीय सड़क अनुसंधान संस्थान (CSIR-CRRI) ने अपनी स्टील स्लैग रोड टेक्नोलॉजी और ECOFIX के लिए CII 4R पुरस्कार 2026 जीता।"
+     },
+     {
+      "question": "औद्योगिक उप-उत्पादों का उपयोग करके विकसित ECOFIX क्या है?",
+      "options": [
+       "सड़क के गड्ढे की तुरंत मरम्मत करने वाला मिश्रण (An instant pothole repair mix)",
+       "एक जल शोधन फिल्टर",
+       "एक पूर्वनिर्मित पुल सामग्री",
+       "एक एंटी-स्किड फर्श कोटिंग"
+      ],
+      "explanation": "ECOFIX सतत सड़क रखरखाव के लिए उपयोग किया जाने वाला लोहे और इस्पात के स्लैग पर आधारित सड़क के गड्ढे की तुरंत मरम्मत करने वाला मिश्रण है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "कचरा तंत्रज्ञानासाठी CSIR-CRRI ने जिंकले CII 4R पुरस्कार 2026",
+    "one_liner": "CSIR-CRRI ने CII 4R पुरस्कार 2026 जिंकला आणि त्याच्या स्टील स्लाग रोड तंत्रज्ञानासाठी (Steel Slag Road Technology) भारताच्या शीर्ष 30 वेस्ट-टू-वर्थ लीडर्समध्ये मान्यता मिळवली.",
+    "summary": "CSIR-केंद्रीय रस्ते संशोधन संस्था (CSIR-Central Road Research Institute - CSIR-CRRI), नवी दिल्ली यांना संशोधन प्रयोगशाळा/शैक्षणिक संस्थांद्वारे शाश्वत कचरा व्यवस्थापनासाठी नाविन्यपूर्ण उपायांमध्ये उत्कृष्टता (Excellence in Innovative Solutions for Sustainable Waste Management by Research Labs/Academic Institutions) या श्रेणीमध्ये CII 4R पुरस्कार 2026 मिळाला. त्याच्या स्टील स्लाग रोड तंत्रज्ञान आणि ECOFIX इन्स्टंट खड्डा दुरुस्ती मिश्रणासाठी (instant pothole repair mix) भारताच्या शीर्ष 30 वेस्ट-टू-वर्थ लीडर्समध्येही त्याचा सन्मान करण्यात आला. हे नवोपक्रम शाश्वत पायाभूत सुविधा विकासासाठी पोलाद कारखान्यांमधील औद्योगिक कचऱ्याचा वापर करतात.",
+    "points": [
+     "पुरस्कार: CII 4R पुरस्कार 2026.",
+     "प्राप्तकर्ता: CSIR-केंद्रीय रस्ते संशोधन संस्था (CSIR-CRRI), नवी दिल्ली.",
+     "मान्यताप्राप्त तंत्रज्ञान: स्टील स्लाग रोड तंत्रज्ञान आणि ECOFIX.",
+     "भारतात दरवर्षी तयार होणारा पोलाद उद्योगाचा कचरा: अंदाजे 30 दशलक्ष टन."
+    ],
+    "static_gk": "CSIR-केंद्रीय रस्ते संशोधन संस्था (CSIR-CRRI) चे मुख्यालय नवी दिल्ली येथे आहे.",
+    "mcqs": [
+     {
+      "question": "स्टील स्लाग रोड तंत्रज्ञानासाठी कोणत्या संस्थेने CII 4R पुरस्कार 2026 जिंकला?",
+      "options": [
+       "CSIR-CRRI",
+       "CSIR-CDRI",
+       "CSIR-NCL",
+       "IIT दिल्ली"
+      ],
+      "explanation": "CSIR-केंद्रीय रस्ते संशोधन संस्था (CSIR-CRRI) ने त्याच्या स्टील स्लाग रोड तंत्रज्ञान आणि ECOFIX साठी CII 4R पुरस्कार 2026 जिंकला."
+     },
+     {
+      "question": "औद्योगिक उप-उत्पादनांचा वापर करून विकसित केलेले ECOFIX काय आहे?",
+      "options": [
+       "एक इन्स्टंट खड्डा दुरुस्ती मिश्रण (An instant pothole repair mix)",
+       "एक पाणी शुद्धीकरण फिल्टर",
+       "एक प्रीफॅब्रिकेटेड पूल साहित्य",
+       "एक अँटी-स्किड फ्लोअर कोटिंग"
+      ],
+      "explanation": "ECOFIX हे शाश्वत रस्ते रखरखावासाठी वापरले जाणारे लोह आणि स्टील स्लागवर आधारित इन्स्टंट खड्डा दुरुस्ती मिश्रण आहे."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Council of Scientific and Industrial Research - Central Road Research Institute",
+    "short": "CSIR-CRRI",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Confederation of Indian Industry",
+    "short": "CII",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "importance": 8,
+  "gk": [
+   {
+    "en": "Headquarters of Confederation of Indian Industry: New Delhi",
+    "bn": "কনফেডারেশন অফ ইন্ডিয়ান ইন্ডাস্ট্রি-এর সদর দপ্তর: নয়াদিল্লি",
+    "hi": "कॉन्फेडरेशन ऑफ इंडियन इंडस्ट्री का मुख्यालय: नई दिल्ली"
+   },
+   {
+    "en": "Confederation of Indian Industry was established in 1895",
+    "bn": "কনফেডারেশন অফ ইন্ডিয়ান ইন্ডাস্ট্রি প্রতিষ্ঠিত হয় 1895 সালে",
+    "hi": "कॉन्फेडरेशन ऑफ इंडियन इंडस्ट्री की स्थापना: 1895"
+   }
+  ]
+ },
+ {
+  "id": "d9f323b9826c",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "national",
+  "category": "science",
+  "tags": [
+   "UPSC",
+   "SSC",
+   "State PSC",
+   "Railways"
+  ],
+  "source_name": "PIB Delhi",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342511",
+  "answers": [
+   0,
+   0
+  ],
+  "langs": {
+   "en": {
+    "title": "New technology developed for stable, tunable and scalable white LEDs",
+    "one_liner": "Researchers developed a dual-protection strategy using halide perovskite nanocrystals to create stable, tunable white LEDs.",
+    "summary": "Researchers from CeNS Bengaluru and IIT Delhi have developed an innovative dual-protection strategy to prevent colour blurring in halide perovskite nanocrystals used for white LEDs. By reducing halide vacancies with lead selenide and applying a 5 to 6 nanometre thick atomic layer deposition of aluminum oxide, they successfully stabilised white light emission. This technology enables flexible, cost-effective white-lighting technologies for smartphones and lighting.",
+    "points": [
+     "Developed by researchers from CeNS Bengaluru and IIT Delhi.",
+     "Uses halide perovskite nanocrystals with formula CsPbX3.",
+     "Employs lead selenide treatment and aluminium oxide atomic layer deposition encapsulation.",
+     "Published in the scientific journal Small."
+    ],
+    "static_gk": "The Department of Science and Technology functions under the Ministry of Science and Technology, Government of India.",
+    "mcqs": [
+     {
+      "question": "Which material was used to reduce halide vacancies on the perovskite crystal surface?",
+      "options": [
+       "Lead selenide",
+       "Aluminum oxide",
+       "Silicon dioxide",
+       "Zinc sulphide"
+      ],
+      "explanation": "Researchers reduced halide vacancies on the crystal surface using a material called lead selenide."
+     },
+     {
+      "question": "What is the chemical formula given for all-inorganic halide perovskite nanocrystals in the study?",
+      "options": [
+       "CsPbX3",
+       "CH3NH3PbI3",
+       "Cs2SnI6",
+       "MAPbBr3"
+      ],
+      "explanation": "The text states the chemical formula is CsPbX3, where X can be chlorine, bromine, or iodine."
+     }
+    ]
+   },
+   "bn": {
+    "title": "স্থায়ী, টিউনযোগ্য এবং স্কেলযোগ্য হোয়াইট এলইডির (White LED) জন্য নতুন প্রযুক্তি বিকশিত হয়েছে",
+    "one_liner": "গবেষকরা স্থিতিশীল, টিউনযোগ্য হোয়াইট এলইডি তৈরির জন্য হ্যালাইড পেরোভস্কাইট ন্যানোক্রিস্টাল ব্যবহার করে একটি দ্বৈত-সুরক্ষা কৌশল বিকশিত করেছেন।",
+    "summary": "সেন্টার ফর ন্যানো অ্যান্ড সফট সায়েন্সেস (CeNS) বেঙ্গালুরু এবং আইআইটি (IIT) দিল্লির গবেষকরা হোয়াইট এলইডিতে ব্যবহৃত হ্যালাইড পেরোভস্কাইট ন্যানোক্রিস্টালগুলির রঙের ঝাপসা হওয়া রোধ করার জন্য একটি উদ্ভাবনী দ্বৈত-সুরক্ষা কৌশল বিকশিত করেছেন। লিড সেলিনাইড দিয়ে হ্যালাইড শূন্যতা হ্রাস করে এবং ৫ থেকে ৬ ন্যানোমিটার পুরু অ্যালুমিনিয়াম অক্সাইডের পারমাণবিক স্তর জমা করে, তারা সফলভাবে সাদা আলোর নির্গমনকে স্থিতিশীল করেছেন। এই প্রযুক্তি স্মার্টফোন এবং আলোর জন্য নমনীয়, সাশ্রয়ী মূল্যের সাদা আলোর প্রযুক্তি সক্ষম করে।",
+    "points": [
+     "সেন্টার ফর ন্যানো অ্যান্ড সফট সায়েন্সেস (CeNS) বেঙ্গালুরু এবং আইআইটি (IIT) দিল্লির গবেষকদের দ্বারা বিকশিত।",
+     "CsPbX3 সূত্র সহ হ্যালাইড পেরোভস্কাইট ন্যানোক্রিস্টাল ব্যবহার করে।",
+     "লিড সেলিনাইড চিকিৎসা এবং অ্যালুমিনিয়াম অক্সাইড পারমাণবিক স্তর ডিপোজিশন এনক্যাপসুলেশন নিয়োগ করে।",
+     "স্মল (Small) বৈজ্ঞানিক জার্নালে প্রকাশিত।"
+    ],
+    "static_gk": "বিজ্ঞান ও প্রযুক্তি বিভাগ ভারত সরকারের বিজ্ঞান ও প্রযুক্তি মন্ত্রকের অধীনে কাজ করে।",
+    "mcqs": [
+     {
+      "question": "পেরোভস্কাইট স্ফটিকের পৃষ্ঠে হ্যালাইড শূন্যতা কমাতে কোন উপাদানটি ব্যবহার করা হয়েছিল?",
+      "options": [
+       "লিড সেলিনাইড",
+       "অ্যালুমিনিয়াম অক্সাইড",
+       "সিলিকন ডাই অক্সাইড",
+       "জিংক সালফাইড"
+      ],
+      "explanation": "গবেষকরা লিড সেলিনাইড নামক একটি উপাদান ব্যবহার করে স্ফটিকের পৃষ্ঠে হ্যালাইড শূন্যতা কমিয়েছেন।"
+     },
+     {
+      "question": "অধ্যয়নে সমস্ত-অজৈব হ্যালাইড পেরোভস্কাইট ন্যানোক্রিস্টালগুলির জন্য প্রদত্ত রাসায়নিক সূত্র কী?",
+      "options": [
+       "CsPbX3",
+       "CH3NH3PbI3",
+       "Cs2SnI6",
+       "MAPbBr3"
+      ],
+      "explanation": "পাঠ্যে রাসায়নিক সূত্রটি CsPbX3 হিসাবে উল্লেখ করা হয়েছে, যেখানে X ক্লোরিন, ব্রোমিন বা আয়োডিন হতে পারে।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "स्थिर, ट्यून करने योग्य और स्केलेबल व्हाइट एलइडी (White LEDs) के लिए नई तकनीक विकसित की गई",
+    "one_liner": "शोधकर्ताओं ने स्थिर, ट्यून करने योग्य व्हाइट एलइडी (White LEDs) बनाने के लिए हैलाइड पेरोव्हस्काइट नैनोकणों (halide perovskite nanocrystals) का उपयोग करके एक दोहरी-सुरक्षा रणनीति विकसित की है।",
+    "summary": "सीईएनएस (CeNS) बेंगलुरु और आईआईटी (IIT) दिल्ली के शोधकर्ताओं ने व्हाइट एलइडी (White LEDs) में उपयोग होने वाले हैलाइड पेरोव्हस्काइट नैनोकणों (halide perovskite nanocrystals) में रंग धुंधलेपन को रोकने के लिए एक अभिनव दोहरी-सुरक्षा रणनीति विकसित की है। लेड सेलेनाइड के साथ हैलाइड रिक्तियों को कम करके और एल्युमिनियम ऑक्साइड की 5 से 6 नैनोमीटर मोटी परमाणु परत निक्षेप को लागू करके, उन्होंने सफेद रोशनी के उत्सर्जन को सफलतापूर्वक स्थिर किया। यह तकनीक स्मार्टफोन और प्रकाश व्यवस्था के लिए लचीली, लागत प्रभावी सफेद-रोशनी प्रौद्योगिकियों को सक्षम बनाती है।",
+    "points": [
+     "सीईएनएस (CeNS) बेंगलुरु और आईआईटी (IIT) दिल्ली के शोधकर्ताओं द्वारा विकसित।",
+     "सूत्र CsPbX3 वाले हैलाइड पेरोव्हस्काइट नैनोकणों (halide perovskite nanocrystals) का उपयोग करता है।",
+     "लेड सेलेनाइड उपचार और एल्युमिनियम ऑक्साइड परमाणु परत निक्षेप एनकैप्सुलेशन को नियोजित करता है।",
+     "वैज्ञानिक पत्रिका स्मॉल (Small) में प्रकाशित।"
+    ],
+    "static_gk": "विज्ञान और प्रौद्योगिकी विभाग भारत सरकार के विज्ञान और प्रौद्योगिकी मंत्रालय के अधीन कार्य करता है।",
+    "mcqs": [
+     {
+      "question": "पेरोव्हस्काइट क्रिस्टल सतह पर हैलाइड रिक्तियों को कम करने के लिए किस सामग्री का उपयोग किया गया था?",
+      "options": [
+       "लेड सेलेनाइड",
+       "एल्युमिनियम ऑक्साइड",
+       "सिलिकॉन डाइऑक्साइड",
+       "जिंक सल्फाइड"
+      ],
+      "explanation": "शोधकर्ताओं ने लेड सेलेनाइड नामक सामग्री का उपयोग करके क्रिस्टल सतह पर हैलाइड रिक्तियों को कम किया।"
+     },
+     {
+      "question": "अध्ययन में सभी-अकार्बनिक हैलाइड पेरोव्हस्काइट नैनोकणों के लिए दिया गया रासायनिक सूत्र क्या है?",
+      "options": [
+       "CsPbX3",
+       "CH3NH3PbI3",
+       "Cs2SnI6",
+       "MAPbBr3"
+      ],
+      "explanation": "पाठ में रासायनिक सूत्र CsPbX3 बताया गया है, जहाँ X क्लोरीन, ब्रोमीन या आयोडीन हो सकता है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "स्थिर, ट्यून करण्यायोग्य आणि मोजण्यायोग्य पांढऱ्या एलईडी (LEDs) साठी नवीन तंत्रज्ञान विकसित",
+    "one_liner": "संशोधकांनी स्थिर, ट्यून करण्यायोग्य पांढरे एलईडी (LEDs) तयार करण्यासाठी हॅलाइड पेरोव्हस्काइट नॅनोक्रिस्टल्सचा वापर करून ड्युअल-प्रोटेक्शन धोरण विकसित केले आहे.",
+    "summary": "सेन्स (CeNS) बंगळुरू आणि IIT दिल्लीच्या संशोधकांनी पांढऱ्या एलईडीसाठी (LEDs) वापरल्या जाणाऱ्या हॅलाइड पेरोव्हस्काइट नॅनोक्रिस्टल्समध्ये रंगाचे धूसर होणे रोखण्यासाठी एक नाविन्यपूर्ण ड्युअल-प्रोटेक्शन धोरण विकसित केले आहे. लीड सेलेनाइडसह हॅलाइड व्हॅन्सीज कमी करून आणि 5 ते 6 नॅनोमीटर जाडीच्या आकडेवारीनुसार ॲल्युमिनियम ऑक्साईडचे अणु थर निक्षेपण (atomic layer deposition) लागू करून, त्यांनी पांढऱ्या प्रकाशाचे उत्सर्जन यशस्वीपणे स्थिर केले. हे तंत्रज्ञान स्मार्टफोन आणि प्रकाशयोजनेसाठी लवचिक, किफायतशीर पांढऱ्या प्रकाशयोजनेचे तंत्रज्ञान सक्षम करते.",
+    "points": [
+     "सेन्स (CeNS) बंगळुरू आणि IIT दिल्लीच्या संशोधकांद्वारे विकसित.",
+     "CsPbX3 सूत्रासह हॅलाइड पेरोव्हस्काइट नॅनोक्रिस्टल्सचा वापर करते.",
+     "लीड सेलेनाइड उपचार आणि ॲल्युमिनियम ऑक्साईड ॲटॉमिक लेयर डिपॉझिशन एन्कॅप्स्युलेशन वापरते.",
+     "वैज्ञानिक जर्नल 'स्मॉल' (Small) मध्ये प्रकाशित."
+    ],
+    "static_gk": "विज्ञान आणि तंत्रज्ञान विभाग (Department of Science and Technology) भारत सरकारच्या विज्ञान आणि तंत्रज्ञान मंत्रालयांतर्गत काम करतो.",
+    "mcqs": [
+     {
+      "question": "पेरोव्हस्काइट क्रिस्टलच्या पृष्ठभागावर हॅलाइड व्हॅन्सीज कमी करण्यासाठी कोणती सामग्री वापरली गेली?",
+      "options": [
+       "लीड सेलेनाइड",
+       "ॲल्युमिनियम ऑक्साईड",
+       "सिलिकॉन डायऑक्साइड",
+       "झिंक सल्फाईड"
+      ],
+      "explanation": "संशोधकांनी लीड सेलेनाइड नावाच्या सामग्रीचा वापर करून क्रिस्टल पृष्ठभागावर हॅलाइड व्हॅन्सीज कमी केल्या."
+     },
+     {
+      "question": "अभ्यासामध्ये सर्व-अजैविक हॅलाइड पेरोव्हस्काइट नॅनोक्रिस्टल्ससाठी दिलेले रासायनिक सूत्र काय आहे?",
+      "options": [
+       "CsPbX3",
+       "CH3NH3PbI3",
+       "Cs2SnI6",
+       "MAPbBr3"
+      ],
+      "explanation": "मजकुरात रासायनिक सूत्र CsPbX3 असल्याचे नमूद केले आहे, जिथे X क्लोरीन, ब्रोमीन किंवा आयोडीन असू शकतो."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Department of Science and Technology",
+    "short": "DST",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Indian Institute of Technology Delhi",
+    "short": "IIT Delhi",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Centre for Nano and Soft Matter Sciences",
+    "short": "CeNS",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "importance": 8,
+  "gk": [
+   {
+    "en": "Headquarters of Indian Institute of Technology Delhi: New Delhi",
+    "bn": "ভারতীয় প্রযুক্তিবিদ্যা প্রতিষ্ঠান দিল্লি-এর সদর দপ্তর: নয়াদিল্লি",
+    "hi": "भारतीय प्रौद्योगिकी संस्थान दिल्ली का मुख्यालय: नई दिल्ली",
+    "mr": "भारतीय तंत्रज्ञान संस्था दिल्ली चे मुख्यालय: नवी दिल्ली"
+   },
+   {
+    "en": "Indian Institute of Technology Delhi was established in 1961",
+    "bn": "ভারতীয় প্রযুক্তিবিদ্যা প্রতিষ্ঠান দিল্লি প্রতিষ্ঠিত হয় 1961 সালে",
+    "hi": "भारतीय प्रौद्योगिकी संस्थान दिल्ली की स्थापना: 1961",
+    "mr": "भारतीय तंत्रज्ञान संस्था दिल्ली ची स्थापना: 1961"
+   }
+  ]
+ },
+ {
+  "id": "7b71bf30763b",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "tamil_nadu",
+  "category": "environment",
+  "tags": [
+   "UPSC",
+   "State PSC",
+   "Bank",
+   "SSC"
+  ],
+  "source_name": "PIB Chennai",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342606",
+  "answers": [
+   1,
+   2
+  ],
+  "langs": {
+   "en": {
+    "title": "NBA Disburses ₹13.76 Crore in ABS Funds for Biodiversity Conservation",
+    "one_liner": "The National Biodiversity Authority disbursed ₹13.76 crore across 28 states and 4 UTs under the ABS mechanism.",
+    "summary": "The National Biodiversity Authority (NBA) disbursed ₹13.76 crore to 28 states and 4 union territories to promote biodiversity conservation and sustainable use of biological resources. The funds originate from Access and Benefit Sharing (ABS) contributions by AYUSH manufacturing companies utilising medicinal plants. Among medicinal plants, species like Guggul, Ashwagandha, and Bhringraj contributed majorly to the benefit-sharing amount.",
+    "points": [
+     "NBA disbursed ₹13.76 crore across 28 States and 4 UTs.",
+     "Funds sourced from ABS contributions by AYUSH products manufacturing companies.",
+     "Total utilization covered 234 plant species.",
+     "Maharashtra received the highest ABS allocation of ₹1,75,24,129.00."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "How much total ABS fund was disbursed by the National Biodiversity Authority?",
+      "options": [
+       "₹10.50 crore",
+       "₹13.76 crore",
+       "₹20.40 crore",
+       "₹278 crore"
+      ],
+      "explanation": "The NBA disbursed ₹13.76 crore to promote biodiversity conservation."
+     },
+     {
+      "question": "Which state received the highest ABS amount allocation in the disbursement list?",
+      "options": [
+       "Karnataka",
+       "Kerala",
+       "Maharashtra",
+       "Andhra Pradesh"
+      ],
+      "explanation": "Maharashtra topped the state-wise disbursement list receiving ₹1,75,24,129.00."
+     }
+    ]
+   },
+   "bn": {
+    "title": "ন্যাশনাল বায়োডাইভারসিটি অথরিটি (NBA) জীববৈচিত্র্য সংরক্ষণের জন্য এবিএস (ABS) তহবিলে ১৩.৭৬ কোটি টাকা বিতরণ করেছে",
+    "one_liner": "ন্যাশনাল বায়োডাইভারসিটি অথরিটি (NBA) এবিএস (ABS) কাঠামোর অধীনে ২৮টি রাজ্য এবং ৪টি কেন্দ্রশাসিত অঞ্চলে ১৩.৭৬ কোটি টাকা বিতরণ করেছে।",
+    "summary": "ন্যাশনাল বায়োডাইভারসিটি অথরিটি (NBA) জীববৈচিত্র্য সংরক্ষণ এবং জৈব সম্পদের টেকসই ব্যবহার প্রচারের জন্য ২৮টি রাজ্য এবং ৪টি কেন্দ্রশাসিত অঞ্চলকে ১৩.৭৬ কোটি টাকা বিতরণ করেছে। তহবিলগুলি ঔষধি উদ্ভিদ ব্যবহারকারী আয়ুষ (AYUSH) উত্পাদনকারী কোম্পানিগুলির অ্যাক্সেস অ্যান্ড বেনিফিট শেয়ারিং (ABS) অবদান থেকে উদ্ভূত হয়। ঔষধি উদ্ভিদের মধ্যে গুগগুল, অশ্বগন্ধা এবং ভৃঙ্গরাজের মতো প্রজাতিগুলি সুবিধা-বন্টন পরিমাণে প্রধান অবদান রেখেছিল।",
+    "points": [
+     "NBA ২৮টি রাজ্য এবং ৪টি কেন্দ্রশাসিত অঞ্চলে ১৩.৭৬ কোটি টাকা বিতরণ করেছে।",
+     "তহবিলগুলি আয়ুষ (AYUSH) পণ্য প্রস্তুতকারী কোম্পানিগুলির এবিএস (ABS) অবদান থেকে সংগ্রহ করা হয়েছে।",
+     "মোট ব্যবহার ২৩৪টি উদ্ভিদ প্রজাতিকে কভার করেছে।",
+     "মহারাষ্ট্র সর্বোচ্চ ১,৭৫,২৪,১২৯.০০ টাকার এবিএস (ABS) বরাদ্দ পেয়েছে।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "ন্যাশনাল বায়োডাইভারসিটি অথরিটি দ্বারা মোট কত এবিএস (ABS) তহবিল বিতরণ করা হয়েছিল?",
+      "options": [
+       "১০.৫০ কোটি টাকা",
+       "১৩.৭৬ কোটি টাকা",
+       "২০.৪০ কোটি টাকা",
+       "২৭৮ কোটি টাকা"
+      ],
+      "explanation": "জীববৈচিত্র্য সংরক্ষণ প্রচারের জন্য NBA ১৩.৭৬ কোটি টাকা বিতরণ করেছে।"
+     },
+     {
+      "question": "বিতরণ তালিকায় কোন রাজ্য সর্বোচ্চ এবিএস (ABS) পরিমাণ বরাদ্দ পেয়েছে?",
+      "options": [
+       "কর্ণাটক",
+       "কেরালা",
+       "মহারাষ্ট্র",
+       "অন্ধ্র প্রদেশ"
+      ],
+      "explanation": "মহারাষ্ট্র রাজ্যভিত্তিক বিতরণ তালিকার শীর্ষে রয়েছে এবং ১,৭৫,২৪,১২৯.০০ টাকা পেয়েছে।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "जैव विविधता संरक्षण के लिए एनबीए (NBA) ने एबीएस (ABS) फंड में 13.76 करोड़ रुपये वितरित किए",
+    "one_liner": "राष्ट्रीय जैव विविधता प्राधिकरण (National Biodiversity Authority) ने एबीएस (ABS) तंत्र के तहत 28 राज्यों और 4 केंद्र शासित प्रदेशों में 13.76 करोड़ रुपये वितरित किए।",
+    "summary": "राष्ट्रीय जैव विविधता प्राधिकरण (National Biodiversity Authority - NBA) ने जैव विविधता संरक्षण और जैविक संसाधनों के सतत उपयोग को बढ़ावा देने के लिए 28 राज्यों और 4 केंद्र शासित प्रदेशों को 13.76 करोड़ रुपये वितरित किए। यह फंड औषधीय पौधों का उपयोग करने वाली आयुष विनिर्माण कंपनियों के एक्सेस एंड बेनिफिट शेयरिंग (Access and Benefit Sharing - ABS) योगदान से आता है। औषधीय पौधों में गूगल, अश्वगंधा और भृंगराज जैसी प्रजातियों ने लाभ-साझाकरण राशि में प्रमुख योगदान दिया।",
+    "points": [
+     "एनबीए (NBA) ने 28 राज्यों और 4 केंद्र शासित प्रदेशों में 13.76 करोड़ रुपये वितरित किए।",
+     "आयुष उत्पाद विनिर्माण कंपनियों के एबीएस (ABS) योगदान से प्राप्त फंड।",
+     "कुल उपयोग में 234 पौधे प्रजातियां शामिल थीं।",
+     "महाराष्ट्र को 1,75,24,129.00 रुपये का सबसे अधिक एबीएस (ABS) आवंटन प्राप्त हुआ।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "राष्ट्रीय जैव विविधता प्राधिकरण (National Biodiversity Authority) द्वारा कुल कितना एबीएस (ABS) फंड वितरित किया गया?",
+      "options": [
+       "10.50 करोड़ रुपये",
+       "13.76 करोड़ रुपये",
+       "20.40 करोड़ रुपये",
+       "278 करोड़ रुपये"
+      ],
+      "explanation": "जैव विविधता संरक्षण को बढ़ावा देने के लिए एनबीए (NBA) ने 13.76 करोड़ रुपये वितरित किए।"
+     },
+     {
+      "question": "वितरण सूची में किस राज्य को सबसे अधिक एबीएस (ABS) राशि का आवंटन प्राप्त हुआ?",
+      "options": [
+       "कर्नाटक",
+       "केरल",
+       "महाराष्ट्र",
+       "आंध्र प्रदेश"
+      ],
+      "explanation": "महाराष्ट्र 1,75,24,129.00 रुपये प्राप्त करके राज्य-वार वितरण सूची में शीर्ष पर रहा।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "जैवविविधता संवर्धनासाठी राष्ट्रीय जैवविविधता प्राधिकरणाद्वारे (NBA) ABS निधीतून 13.76 कोटी रुपये वितरित",
+    "one_liner": "राष्ट्रीय जैवविविधता प्राधिकरणाने (National Biodiversity Authority) ABS यंत्रणेअंतर्गत 28 राज्ये आणि 4 केंद्रशासित प्रदेशांमध्ये 13.76 कोटी रुपये वितरित केले.",
+    "summary": "राष्ट्रीय जैवविविधता प्राधिकरणाने (NBA) जैवविविधता संवर्धन आणि जैविक संसाधनांचा शाश्वत वापर यांना प्रोत्साहन देण्यासाठी 28 राज्ये आणि 4 केंद्रशासित प्रदेशांना 13.76 कोटी रुपये वितरित केले. हा निधी औषधी वनस्पती वापरणाऱ्या आयुष (AYUSH) उत्पादन कंपन्यांच्या ॲक्सेस अँड बेनिफिट शेअरिंग (ABS) योगदानातून आला आहे. औषधी वनस्पतींमध्ये गुग्गुळ, अश्वगंधा आणि भृंगराज यांसारख्या प्रजातींनी लाभ-सामायिकरणाच्या रकमेमध्ये प्रमुख योगदान दिले.",
+    "points": [
+     "NBA ने 28 राज्ये आणि 4 केंद्रशासित प्रदेशांमध्ये 13.76 कोटी रुपये वितरित केले.",
+     "आयुष (AYUSH) उत्पादने निर्माण करणाऱ्या कंपन्यांच्या ABS योगदानाolis मधून निधी प्राप्त.",
+     "एकूण वापरात 234 वनस्पती प्रजातींचा समावेश होता.",
+     "महाराष्ट्राला 1,75,24,129.00 रुपयांचे सर्वाधिक ABS वाटप मिळाले."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "राष्ट्रीय जैवविविधता प्राधिकरणाद्वारे एकूण किती ABS निधी वितरित करण्यात आला?",
+      "options": [
+       "10.50 कोटी रुपये",
+       "13.76 कोटी रुपये",
+       "20.40 कोटी रुपये",
+       "278 कोटी रुपये"
+      ],
+      "explanation": "जैवविविधता संवर्धनाला प्रोत्साहन देण्यासाठी NBA ने 13.76 कोटी रुपये वितरित केले."
+     },
+     {
+      "question": "वितरण सूचीमध्ये कोणत्या राज्याला सर्वाधिक ABS रकमेचे वाटप मिळाले?",
+      "options": [
+       "कर्नाटक",
+       "केरळ",
+       "महाराष्ट्र",
+       "आंध्र प्रदेश"
+      ],
+      "explanation": "महाराष्ट्र राज्यवार वितरण सूचीमध्ये शीर्षस्थानी असून त्याला 1,75,24,129.00 रुपये मिळाले."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "National Biodiversity Authority",
+    "short": "NBA",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "importance": 9,
+  "gk": []
+ },
+ {
+  "id": "9de8873908f0",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "kerala",
+  "category": "culture",
+  "tags": [
+   "SSC",
+   "Bank",
+   "State PSC",
+   "Railways",
+   "Police Bharti"
+  ],
+  "source_name": "PIB Thiruvananthapuram",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342559",
+  "answers": [
+   2,
+   0
+  ],
+  "langs": {
+   "en": {
+    "title": "Coir Board Wins Gold Medal at India International Trade Fair 2026",
+    "one_liner": "The Coir Board won the Gold Medal for Excellence in Display at the 45th India International Trade Fair 2026.",
+    "summary": "The Coir Board pavilion won first place and a Gold Medal for Excellence in Display under the Commodity Boards category at the 45th India International Trade Fair (IITF 2026) held at Pragati Maidan, New Delhi. The award was received by Coir Board Secretary Mohammed Salique Parvez from ITPO Chairman Javed Ashraf. The pavilion showcased coir applications like soilless farming, geotextiles, and vertical garden systems.",
+    "points": [
+     "Awarded at the 45th India International Trade Fair (IITF 2026).",
+     "Won in the Commodity Boards category for Excellence in Display.",
+     "Held at Pragati Maidan, New Delhi.",
+     "Award received by Coir Board Secretary Mohammed Salique Parvez."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "At which edition of the India International Trade Fair did the Coir Board win the Gold Medal?",
+      "options": [
+       "40th IITF",
+       "42nd IITF",
+       "45th IITF",
+       "50th IITF"
+      ],
+      "explanation": "The Coir Board won the award at the 45th India International Trade Fair (IITF 2026)."
+     },
+     {
+      "question": "Who received the Gold Medal award on behalf of the Coir Board?",
+      "options": [
+       "Shri Mohammed Salique Parvez",
+       "Shri Javed Ashraf",
+       "Shri Keshavendra Kumar",
+       "Shri Narendra Modi"
+      ],
+      "explanation": "Shri Mohammed Salique Parvez received the award from ITPO Chairman Shri Javed Ashraf."
+     }
+    ]
+   },
+   "bn": {
+    "title": "কয়ার বোর্ড (Coir Board) ভারত আন্তর্জাতিক বাণিজ্য মেলা ২০২৬-এ স্বর্ণপদক জিতেছে",
+    "one_liner": "কয়ার বোর্ড (Coir Board) ৪৫তম ভারত আন্তর্জাতিক বাণিজ্য মেলা ২০২৬-এ ডিসপ্লেতে শ্রেষ্ঠত্বের জন্য স্বর্ণপদক জিতেছে।",
+    "summary": "নতুন দিল্লির প্রগতি ময়দানে অনুষ্ঠিত ৪৫তম ভারত আন্তর্জাতিক বাণিজ্য মেলা (IITF 2026)-এর কমোডিটি বোর্ড বিভাগে কয়ার বোর্ড (Coir Board) প্যাভিলিয়ন প্রথম স্থান এবং ডিসপ্লেতে শ্রেষ্ঠত্বের জন্য স্বর্ণপদক জিতেছে। পুরস্কারটি আইটিপিও (ITPO) চেয়ারম্যান জাভেদ আশরাফের কাছ থেকে কয়ার বোর্ডের (Coir Board) সচিব মোহাম্মদ সালিক পারভেজ গ্রহণ করেন। প্যাভিলিয়নটি মাটিহীন চাষ, জিওটেক্সটাইল এবং উল্লম্ব উদ্যান ব্যবস্থার মতো কয়ারের প্রয়োগগুলি প্রদর্শন করেছিল।",
+    "points": [
+     "৪৫তম ভারত আন্তর্জাতিক বাণিজ্য মেলা (IITF 2026)-এ পুরস্কৃত হয়েছে।",
+     "ডিসপ্লেতে শ্রেষ্ঠত্বের জন্য কমোডিটি বোর্ড বিভাগে জিতেছে।",
+     "নতুন দিল্লির প্রগতি ময়দানে অনুষ্ঠিত হয়।",
+     "কয়ার বোর্ডের (Coir Board) সচিব মোহাম্মদ সালিক পারভেজ পুরস্কার গ্রহণ করেন।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "ভারত আন্তর্জাতিক বাণিজ্য মেলার কোন সংস্করণে কয়ার বোর্ড (Coir Board) স্বর্ণপদক জিতেছে?",
+      "options": [
+       "৪০তম IITF",
+       "৪২তম IITF",
+       "৪৫তম IITF",
+       "৫০তম IITF"
+      ],
+      "explanation": "কয়ার বোর্ড (Coir Board) ৪৫তম ভারত আন্তর্জাতিক বাণিজ্য মেলা (IITF 2026)-এ পুরস্কার জিতেছে।"
+     },
+     {
+      "question": "কয়ার বোর্ডের (Coir Board) পক্ষে কে স্বর্ণপদক পুরস্কার গ্রহণ করেছিলেন?",
+      "options": [
+       "শ্রী মোহাম্মদ সালিক পারভেজ",
+       "শ্রী জাভেদ আশরাফ",
+       "শ্রী কেশবেন্দ্র কুমার",
+       "শ্রী নরেন্দ্র মোদী"
+      ],
+      "explanation": "শ্রী মোহাম্মদ সালিক পারভেজ আইটিপিও (ITPO) চেয়ারম্যান শ্রী জাভেদ আশরাফের কাছ থেকে পুরস্কার গ্রহণ করেন।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "कोइर बोर्ड (Coir Board) ने भारत अंतर्राष्ट्रीय व्यापार मेला 2026 में स्वर्ण पदक जीता",
+    "one_liner": "कोइर बोर्ड (Coir Board) ने 45वें भारत अंतर्राष्ट्रीय व्यापार मेले 2026 में प्रदर्शन में उत्कृष्टता के लिए स्वर्ण पदक जीता।",
+    "summary": "नई दिल्ली के प्रगति मैदान में आयोजित 45वें भारत अंतर्राष्ट्रीय व्यापार मेले (IITF 2026) में कोइर बोर्ड (Coir Board) के मंडप ने कमोडिटी बोर्ड श्रेणी के तहत प्रदर्शन में उत्कृष्टता के लिए पहला स्थान और स्वर्ण पदक जीता। यह पुरस्कार आईटीपीओ (ITPO) के अध्यक्ष जावेद अशरफ से कोइर बोर्ड (Coir Board) के सचिव मोहम्मद सालिक परवेज ने प्राप्त किया। मंडप में बिना मिट्टी की खेती, जियोटेक्सटाइल और वर्टिकल गार्डन सिस्टम जैसे कोइर अनुप्रयोगों को प्रदर्शित किया गया।",
+    "points": [
+     "45वें भारत अंतर्राष्ट्रीय व्यापार मेले (IITF 2026) में सम्मानित।",
+     "कमोडिटी बोर्ड श्रेणी में प्रदर्शन में उत्कृष्टता के लिए जीता।",
+     "प्रगति मैदान, नई दिल्ली में आयोजित।",
+     "कोइर बोर्ड (Coir Board) के सचिव मोहम्मद सालिक परवेज द्वारा पुरस्कार प्राप्त किया गया।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "भारत अंतर्राष्ट्रीय व्यापार मेले के किस संस्करण में कोइर बोर्ड (Coir Board) ने स्वर्ण पदक जीता?",
+      "options": [
+       "40वां IITF",
+       "42वां IITF",
+       "45वां IITF",
+       "50वां IITF"
+      ],
+      "explanation": "कोइर बोर्ड (Coir Board) ने 45वें भारत अंतर्राष्ट्रीय व्यापार मेले (IITF 2026) में पुरस्कार जीता।"
+     },
+     {
+      "question": "कोइर बोर्ड (Coir Board) की ओर से स्वर्ण पदक पुरस्कार किसने प्राप्त किया?",
+      "options": [
+       "श्री मोहम्मद सालिक परवेज",
+       "श्री जावेद अशरफ",
+       "श्री केशवेंद्र कुमार",
+       "श्री नरेंद्र मोदी"
+      ],
+      "explanation": "श्री मोहम्मद सालिक परवेज ने आईटीपीओ (ITPO) के अध्यक्ष श्री जावेद अशरफ से पुरस्कार प्राप्त किया।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "कयर बोर्डाने (Coir Board) इंडिया इंटरनॅशनल ट्रेड फेअर 2026 मध्ये सुवर्णपदक जिंकले",
+    "one_liner": "कयर बोर्डाने (Coir Board) 45 व्या इंडिया इंटरनॅशनल ट्रेड फेअर 2026 मध्ये उत्कृष्ट प्रदर्शनासाठी सुवर्णपदक जिंकले.",
+    "summary": "नवी दिल्लीतील प्रगती मैदान येथे आयोजित 45 व्या इंडिया इंटरनॅशनल ट्रेड फेअर (IITF 2026) मध्ये कमोडिटी बोर्ड्स श्रेणी अंतर्गत कयर बोर्ड (Coir Board) पॅव्हेलियनने प्रथम क्रमांक आणि उत्कृष्ट प्रदर्शनासाठी सुवर्णपदक जिंकले. ITPO चे अध्यक्ष जावेद अश्रफ यांच्याकडून कयर बोर्डाचे सचिव मोहम्मद सालिक पर्वेझ यांनी हा पुरस्कार स्वीकारला. पॅव्हेलियनमध्ये मातीशिवाय शेती (soilless farming), जिओटेक्सटाईल्स आणि व्हर्टिकल गार्डन सिस्टम्स यांसारख्या कयरच्या उपयोगांचे प्रदर्शन करण्यात आले.",
+    "points": [
+     "45 व्या इंडिया इंटरनॅशनल ट्रेड फेअर (IITF 2026) मध्ये प्रदान.",
+     "उत्कृष्ट प्रदर्शनासाठी कमोडिटी बोर्ड श्रेणीत विजय.",
+     "नवी दिल्लीतील प्रगती मैदान येथे आयोजित.",
+     "कयर बोर्डाचे सचिव मोहम्मद सालिक पर्वेझ यांच्या by पुरस्कार स्वीकारला."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "कयर बोर्डाने इंडिया इंटरनॅशनल ट्रेड फेअरच्या कोणत्या आवृत्तीत सुवर्णपदक जिंकले?",
+      "options": [
+       "40 वे IITF",
+       "42 वे IITF",
+       "45 वे IITF",
+       "50 वे IITF"
+      ],
+      "explanation": "कयर बोर्डाने 45 व्या इंडिया इंटरनॅशनल ट्रेड फेअर (IITF 2026) मध्ये हा पुरस्कार जिंकला."
+     },
+     {
+      "question": "कयर बोर्डाच्या वतीने सुवर्णपदक पुरस्कार कोणी स्वीकारला?",
+      "options": [
+       "श्री. मोहम्मद सालिक पर्वेझ",
+       "श्री. जावेद अश्रफ",
+       "श्री. केशवेंद्र कुमार",
+       "श्री. नरेंद्र मोदी"
+      ],
+      "explanation": "श्री. मोहम्मद सालिक पर्वेझ यांनी ITPO चे अध्यक्ष श्री. जावेद अश्रफ यांच्याकडून पुरस्कार स्वीकारला."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Coir Board",
+    "short": "",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "India Trade Promotion Organisation",
+    "short": "ITPO",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "importance": 7,
+  "gk": []
+ },
+ {
+  "id": "d6cda1a99f21",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "rajasthan",
+  "category": "economy",
+  "tags": [
+   "UPSC",
+   "State PSC",
+   "Bank"
+  ],
+  "source_name": "PIB Jaipur",
+  "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342561",
+  "answers": [
+   2,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "NABARD's State Rural Development Conclave in Rajasthan",
+    "one_liner": "NABARD hosted the State Rural Development Conclave 2026-27 in Jaipur, estimating Rajasthan's priority-sector credit potential at ₹5.76 lakh crore for 2027-28.",
+    "summary": "NABARD's Rajasthan Regional Office organised the State Rural Development Conclave 2026-27 at Jaipur, bringing together policymakers, bankers, and grassroots institutions. NABARD's Chief General Manager Dr. R. Ravibabu estimated the State's priority-sector credit potential for 2027-28 at ₹5.76 lakh crore. Chief Secretary Shri V. Srinivas highlighted key initiatives like PM KUSUM and water security projects. Four technical sessions were conducted, and various successful rural groups were felicitated.",
+    "points": [
+     "Organised by NABARD Rajasthan Regional Office at Constitution Club of Rajasthan, Jaipur.",
+     "Priority-sector credit potential for 2027-28 estimated at ₹5.76 lakh crore.",
+     "Shri V. Srinivas served as the Chief Guest and Shri Ranjeev Shanker represented RBI.",
+     "Featured four technical sessions covering credit potential, infrastructure, climate, and rural value chains."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "What is Rajasthan's estimated priority-sector credit potential for 2027-28 as announced by NABARD?",
+      "options": [
+       "₹3.50 lakh crore",
+       "₹4.25 lakh crore",
+       "₹5.76 lakh crore",
+       "₹6.10 lakh crore"
+      ],
+      "explanation": "NABARD estimated Rajasthan's priority-sector credit potential for 2027-28 at ₹5.76 lakh crore."
+     },
+     {
+      "question": "Where was the State Rural Development Conclave 2026-27 organised by NABARD?",
+      "options": [
+       "Udaipur",
+       "Jaipur",
+       "Jodhpur",
+       "Ajmer"
+      ],
+      "explanation": "The conclave was organised at the Constitution Club of Rajasthan, Jaipur."
+     }
+    ]
+   },
+   "bn": {
+    "title": "রাজস্থানে নাবার্ডের (NABARD) রাজ্য গ্রামীণ উন্নয়ন কনক্লেভ",
+    "one_liner": "নাবার্ড (NABARD) জয়পুরে রাজ্য গ্রামীণ উন্নয়ন কনক্লেভ ২০২৬-২৭ আয়োজন করেছে এবং ২০২৭-২৮ সালের জন্য রাজস্থানের অগ্রাধিকারপ্রাপ্ত খাতের ঋণ সম্ভাবনা ৫.৭৬ লক্ষ কোটি টাকা অনুমান করেছে।",
+    "summary": "নাবার্ডের (NABARD) রাজস্থান আঞ্চলিক কার্যালয় জয়পুরে রাজ্য গ্রামীণ উন্নয়ন কনক্লেভ ২০২৬-২৭ আয়োজন করে, যেখানে নীতিনির্ধারক, ব্যাংকার এবং তৃণমূল স্তরের প্রতিষ্ঠানগুলি একত্রিত হয়। নাবার্ডের (NABARD) প্রধান মহা ব্যবস্থাপক ড. আর. রবিবাবু ২০২৭-২৮ সালের জন্য রাজ্যের অগ্রাধিকারপ্রাপ্ত খাতের ঋণ সম্ভাবনা ৫.৭৬ লক্ষ কোটি টাকা অনুমান করেছেন। মুখ্যসচিব শ্রী ভি. শ্রীনিবাস পিএম কুসুম (PM KUSUM) এবং জল সুরক্ষা প্রকল্পের মতো প্রধান উদ্যোগগুলির উপর আলোকপাত করেন। চারটি প্রযুক্তিগত সেশন পরিচালিত হয় এবং বিভিন্ন সফল গ্রামীণ গোষ্ঠীকে সংবর্ধনা জানানো হয়।",
+    "points": [
+     "নাবার্ড (NABARD) রাজস্থান আঞ্চলিক কার্যালয় কর্তৃক রাজস্থানের জয়পুরের কনস্টিটিউশন ক্লাবে আয়োজিত।",
+     "২০২৭-২৮ সালের জন্য অগ্রাধিকারপ্রাপ্ত খাতের ঋণ সম্ভাবনা ৫.৭৬ লক্ষ কোটি টাকা অনুমান করা হয়েছে।",
+     "শ্রী ভি. শ্রীনিবাস প্রধান অতিথি হিসেবে এবং শ্রী রঞ্জীব শঙ্কর আরবিআই (RBI)-এর প্রতিনিধিত্ব করেন।",
+     "ঋণ সম্ভাবনা, পরিকাঠামো, জলবায়ু এবং গ্রামীণ মূল্য শৃঙ্খল কভার করে চারটি প্রযুক্তিগত সেশন অন্তর্ভুক্ত ছিল।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "নাবার্ড (NABARD) কর্তৃক ঘোষিত ২০২৭-২৮ সালের জন্য রাজস্থানের আনুমানিক অগ্রাধিকারপ্রাপ্ত খাতের ঋণ সম্ভাবনা কত?",
+      "options": [
+       "৩.৫০ লক্ষ কোটি টাকা",
+       "৪.২৫ লক্ষ কোটি টাকা",
+       "৫.৭৬ লক্ষ কোটি টাকা",
+       "৬.১০ লক্ষ কোটি টাকা"
+      ],
+      "explanation": "নাবার্ড (NABARD) ২০২৭-২৮ সালের জন্য রাজস্থানের অগ্রাধিকারপ্রাপ্ত খাতের ঋণ সম্ভাবনা ৫.৭৬ লক্ষ কোটি টাকা অনুমান করেছে।"
+     },
+     {
+      "question": "নাবার্ড (NABARD) দ্বারা রাজ্য গ্রামীণ উন্নয়ন কনক্লেভ ২০২৬-২৭ কোথায় আয়োজিত হয়েছিল?",
+      "options": [
+       "উদয়পুর",
+       "জয়পুর",
+       "যোধপুর",
+       "আজমেড়"
+      ],
+      "explanation": "কনক্লেভটি রাজস্থানের জয়পুরের কনস্টিটিউশন ক্লাবে আয়োজিত হয়েছিল।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "नाबार्ड (NABARD) की राजस्थान में राज्य ग्रामीण विकास संगोष्ठी",
+    "one_liner": "नाबार्ड (NABARD) ने जयपुर में राज्य ग्रामीण विकास संगोष्ठी 2026-27 की मेजबानी की, जिसमें वर्ष 2027-28 के लिए राजस्थान की प्राथमिकता प्राप्त क्षेत्र (प्रायोरिटी-सेक्टर) ऋण क्षमता 5.76 लाख करोड़ रुपये आंकी गई।",
+    "summary": "नाबार्ड (NABARD) के राजस्थान क्षेत्रीय कार्यालय ने जयपुर में राज्य ग्रामीण विकास संगोष्ठी 2026-27 का आयोजन किया, जिसमें नीति निर्माताओं, बैंकरों और जमीनी स्तर के संस्थानों को एक साथ लाया गया। नाबार्ड (NABARD) के मुख्य महाप्रबंधक डॉ. आर. रविबाबू ने वर्ष 2027-28 के लिए राज्य की प्राथमिकता प्राप्त क्षेत्र (प्रायोरिटी-सेक्टर) ऋण क्षमता 5.76 लाख करोड़ रुपये आंकी। मुख्य सचिव श्री वी. श्रीनिवास ने पीएम कुसुम (PM KUSUM) और जल सुरक्षा परियोजनाओं जैसी प्रमुख पहलों पर प्रकाश डाला। चार तकनीकी सत्र आयोजित किए गए और विभिन्न सफल ग्रामीण समूहों को सम्मानित किया गया।",
+    "points": [
+     "संविधान क्लब ऑफ राजस्थान, जयपुर में नाबार्ड (NABARD) राजस्थान क्षेत्रीय कार्यालय द्वारा आयोजित।",
+     "वर्ष 2027-28 के लिए प्राथमिकता प्राप्त क्षेत्र (प्रायोरिटी-सेक्टर) ऋण क्षमता 5.76 लाख करोड़ रुपये आंकी गई।",
+     "श्री वी. श्रीनिवास ने मुख्य अतिथि के रूप में कार्य किया और श्री रंजीव शंकर ने आरबीआई (RBI) का प्रतिनिधित्व किया।",
+     "ऋण क्षमता, बुनियादी ढांचे, जलवायु और ग्रामीण मूल्य श्रृंखलाओं को कवर करने वाले चार तकनीकी सत्र शामिल किए गए।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "नाबार्ड (NABARD) द्वारा घोषित वर्ष 2027-28 के लिए राजस्थान की अनुमानित प्राथमिकता प्राप्त क्षेत्र (प्रायोरिटी-सेक्टर) ऋण क्षमता क्या है?",
+      "options": [
+       "3.50 लाख करोड़ रुपये",
+       "4.25 लाख करोड़ रुपये",
+       "5.76 लाख करोड़ रुपये",
+       "6.10 लाख करोड़ रुपये"
+      ],
+      "explanation": "नाबार्ड (NABARD) ने वर्ष 2027-28 के लिए राजस्थान की प्राथमिकता प्राप्त क्षेत्र (प्रायोरिटी-सेक्टर) ऋण क्षमता 5.76 लाख करोड़ रुपये आंकी है।"
+     },
+     {
+      "question": "नाबार्ड (NABARD) द्वारा राज्य ग्रामीण विकास संगोष्ठी 2026-27 का आयोजन कहाँ किया गया था?",
+      "options": [
+       "उदयपुर",
+       "जयपुर",
+       "जोधपुर",
+       "अजमेर"
+      ],
+      "explanation": "इस संगोष्ठी का आयोजन संविधान क्लब ऑफ राजस्थान, जयपुर में किया गया था।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "राजस्थानमधील नाबार्डची (NABARD) राज्य ग्रामीण विकास परिषद",
+    "one_liner": "नाबार्डने (NABARD) जयपूर येथे राज्य ग्रामीण विकास परिषद २०२६-२७ चे आयोजन केले आणि २०२७-२८ साठी राजस्थानच्या प्राधान्य-क्षेत्र कर्ज क्षमतेचा अंदाज ₹५.७६ लाख कोटी वर्तवला.",
+    "summary": "नॅशनल बँक फॉर एग्रीकल्चर अँड रूरल डेव्हलपमेंट (NABARD) च्या राजस्थान प्रादेशिक कार्यालयाने जयपूर येथे राज्य ग्रामीण विकास परिषद २०२६-२७ चे आयोजन केले, ज्यामध्ये धोरणकर्ते, बँकर्स आणि तळागाळातील संस्था एकत्र आल्या. नाबार्डचे (NABARD) मुख्य महाव्यवस्थापक डॉ. आर. रविबाबू यांनी २०२७-२८ साठी राज्याच्या प्राधान्य-क्षेत्र कर्ज क्षमतेचा अंदाज ₹५.७६ लाख कोटी वर्तवला. मुख्य सचिव श्री व्ही. श्रीनिवास यांनी पीएम कुसुम (PM KUSUM) आणि जल सुरक्षा प्रकल्पांसारख्या प्रमुख उपक्रमांवर प्रकाश टाकला. चार तांत्रिक सत्रे आयोजित करण्यात आली आणि विविध यशस्वी ग्रामीण गटांचा सत्कार करण्यात आला.",
+    "points": [
+     "संविधान क्लब ऑफ राजस्थान, जयपूर येथे नाबार्ड (NABARD) राजस्थान प्रादेशिक कार्यालयाद्वारे आयोजित.",
+     "२०२७-२८ साठी प्राधान्य-क्षेत्र कर्ज क्षमता ₹५.७६ लाख कोटी अंदाजित.",
+     "श्री व्ही. श्रीनिवास यांनी प्रमुख पाहुणे म्हणून काम पाहिले आणि श्री रणजीव शंकर यांनी रिझर्व्ह बँक ऑफ इंडियाचे (RBI) प्रतिनिधित्व केले.",
+     "कर्ज क्षमता, पायाभूत सुविधा, हवामान आणि ग्रामीण मूल्य साखळी यांचा समावेश असलेली चार तांत्रिक सत्रे वैशिष्ट्य ठरली."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "नाबार्डने (NABARD) जाहीर केल्यानुसार २०२७-२८ साठी राजस्थानची अंदाजित प्राधान्य-क्षेत्र कर्ज क्षमता किती आहे?",
+      "options": [
+       "₹३.५० लाख कोटी",
+       "₹४.२५ लाख कोटी",
+       "₹५.७६ लाख कोटी",
+       "₹६.१० लाख कोटी"
+      ],
+      "explanation": "नाबार्डने (NABARD) २०२७-२८ साठी राजस्थानच्या प्राधान्य-क्षेत्र कर्ज क्षमतेचा अंदाज ₹५.७६ लाख कोटी वर्तवला आहे."
+     },
+     {
+      "question": "नाबार्डद्वारे (NABARD) राज्य ग्रामीण विकास परिषद २०२६-२७ कुठे आयोजित करण्यात आली होती?",
+      "options": [
+       "उदयपूर",
+       "जयपूर",
+       "जोधपूर",
+       "अजमेर"
+      ],
+      "explanation": "या परिषदेचे आयोजन संविधान क्लब ऑफ राजस्थान, जयपूर येथे करण्यात आले होते."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "National Bank for Agriculture and Rural Development",
+    "short": "NABARD",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Reserve Bank of India",
+    "short": "RBI",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Rajasthan",
+    "short": "",
+    "kind": "state",
+    "indian": true
+   }
+  ],
+  "importance": 8,
+  "gk": [
+   {
+    "en": "Headquarters of National Bank for Agriculture and Rural Development: Mumbai",
+    "bn": "ন্যাশনাল ব্যাংক ফর এগ্রিকালচার অ্যান্ড রুরাল ডেভেলপমেন্ট-এর সদর দপ্তর: মুম্বই",
+    "hi": "राष्ट्रीय कृषि और ग्रामीण विकास बैंक का मुख्यालय: मुम्बई",
+    "mr": "राष्ट्रीय शेती व ग्रामीण विकास बँक चे मुख्यालय: मुंबई"
+   },
+   {
+    "en": "Headquarters of Reserve Bank of India: Mumbai",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক-এর সদর দপ্তর: মুম্বই",
+    "hi": "भारतीय रिज़र्व बैंक का मुख्यालय: मुम्बई",
+    "mr": "भारतीय रिझर्व्ह बँक चे मुख्यालय: मुंबई"
+   },
+   {
+    "en": "Reserve Bank of India was established in 1935",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক প্রতিষ্ঠিত হয় 1935 সালে",
+    "hi": "भारतीय रिज़र्व बैंक की स्थापना: 1935",
+    "mr": "भारतीय रिझर्व्ह बँक ची स्थापना: 1935"
+   },
+   {
+    "en": "Capital of Rajasthan: Jaipur",
+    "bn": "রাজস্থান-এর রাজধানী: জয়পুর",
+    "hi": "राजस्थान की राजधानी: जयपुर",
+    "mr": "राजस्थान ची राजधानी: जयपूर"
+   }
+  ]
+ },
+ {
+  "id": "27b9973a0589",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "national",
+  "category": "banking",
+  "tags": [
+   "Bank",
+   "UPSC",
+   "SSC"
+  ],
+  "source_name": "RBI",
+  "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64057",
+  "answers": [
+   1,
+   0
+  ],
+  "langs": {
+   "en": {
+    "title": "RBI Weekly Statistical Supplement on Liabilities and Assets",
+    "one_liner": "RBI released its weekly statistical supplement detailing liabilities, assets, foreign exchange reserves, and scheduled commercial banks' business data.",
+    "summary": "The Reserve Bank of India published its Weekly Statistical Supplement featuring data on liabilities and assets, foreign exchange reserves, scheduled commercial banks' business in India, money stock components, and liquidity operations. Total foreign exchange reserves stood at ₹64,97,956 crore (US$ 7,00,898 million) as on November 20, 2026. Bank credit for scheduled commercial banks was recorded at ₹2,31,11,541 crore as on November 15, 2026.",
+    "points": [
+     "Total Foreign Exchange Reserves stood at ₹64,97,956 crore (US$ 7,00,898 million) as on November 20, 2026.",
+     "Aggregate Deposits of Scheduled Commercial Banks stood at ₹2,80,46,926 crore as on November 15, 2026.",
+     "Bank Credit of Scheduled Commercial Banks stood at ₹2,31,11,541 crore as on November 15, 2026.",
+     "Data includes liquidity operations conducted through Repo, Reverse Repo, MSF, and SDF."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "What was the total foreign exchange reserves of India as on November 20, 2026?",
+      "options": [
+       "₹54,06,553 crore",
+       "₹64,97,956 crore",
+       "₹74,12,450 crore",
+       "₹85,20,100 crore"
+      ],
+      "explanation": "As per the RBI statistical supplement, total foreign exchange reserves stood at ₹64,97,956 crore as on November 20, 2026."
+     },
+     {
+      "question": "As of November 15, 2026, what was the bank credit of scheduled commercial banks?",
+      "options": [
+       "₹2,31,11,541 crore",
+       "₹2,80,46,926 crore",
+       "₹1,09,3939 crore",
+       "₹3,14,53,126 crore"
+      ],
+      "explanation": "Bank credit of scheduled commercial banks was recorded at ₹2,31,11,541 crore as on November 15, 2026."
+     }
+    ]
+   },
+   "hi": {
+    "title": "देनदारियों और परिसंपत्तियों पर आरबीआई (RBI) का साप्ताहिक सांख्यिकीय पूरक",
+    "one_liner": "आरबीआई (RBI) ने अपनी साप्ताहिक सांख्यिकीय पूरक जारी की जिसमें देनदारियों, परिसंपत्तियों, विदेशी मुद्रा भंडार और अनुसूचित वाणिज्यिक बैंकों के व्यावसायिक डेटा का विवरण दिया गया है।",
+    "summary": "भारतीय रिजर्व बैंक (Reserve Bank of India) ने देनदारियों और परिसंपत्तियों, विदेशी मुद्रा भंडार, भारत में अनुसूचित वाणिज्यिक बैंकों के व्यवसाय, मुद्रा स्टॉक घटकों और तरलता संचालन पर डेटा प्रदर्शित करते हुए अपना साप्ताहिक सांख्यिकीय पूरक प्रकाशित किया। 20 नवंबर 2026 तक कुल विदेशी मुद्रा भंडार 64,97,956 करोड़ रुपये (7,00,898 मिलियन अमेरिकी डॉलर) था। 15 नवंबर 2026 तक अनुसूचित वाणिज्यिक बैंकों का बैंक ऋण 2,31,11,541 करोड़ रुपये दर्ज किया गया था।",
+    "points": [
+     "20 नवंबर 2026 तक कुल विदेशी मुद्रा भंडार 64,97,956 करोड़ रुपये (7,00,898 मिलियन अमेरिकी डॉलर) था।",
+     "15 नवंबर 2026 तक अनुसूचित वाणिज्यिक बैंकों की कुल जमा राशि 2,80,46,926 करोड़ रुपये थी।",
+     "15 नवंबर 2026 तक अनुसूचित वाणिज्यिक बैंकों का बैंक ऋण 2,31,11,541 करोड़ रुपये था।",
+     "डेटा में रेपो, रिवर्स रेपो, एमएसएफ (MSF) और एसडीएफ (SDF) के माध्यम से संचालित तरलता संचालन शामिल हैं।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "20 नवंबर 2026 तक भारत का कुल विदेशी मुद्रा भंडार कितना था?",
+      "options": [
+       "54,06,553 करोड़ रुपये",
+       "64,97,956 करोड़ रुपये",
+       "74,12,450 करोड़ रुपये",
+       "85,20,100 करोड़ रुपये"
+      ],
+      "explanation": "आरबीआई (RBI) के सांख्यिकीय पूरक के अनुसार, 20 नवंबर 2026 तक कुल विदेशी मुद्रा भंडार 64,97,956 करोड़ रुपये था।"
+     },
+     {
+      "question": "15 नवंबर 2026 तक, अनुसूचित वाणिज्यिक बैंकों का बैंक ऋण कितना था?",
+      "options": [
+       "2,31,11,541 करोड़ रुपये",
+       "2,80,46,926 करोड़ रुपये",
+       "1,09,3939 करोड़ रुपये",
+       "3,14,53,126 करोड़ रुपये"
+      ],
+      "explanation": "15 नवंबर 2026 तक अनुसूचित वाणिज्यिक बैंकों का बैंक ऋण 2,31,11,541 करोड़ रुपये दर्ज किया गया था।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "दायित्वे आणि मालमत्तांवरील रिझर्व्ह बँक ऑफ इंडियाची (RBI) साप्ताहिक सांख्यिकीय पुरवणी",
+    "one_liner": "रिझर्व्ह बँक ऑफ इंडियाने (RBI) दायित्वे, मालमत्ता, परकीय चलन साठा आणि अनुसूचित व्यावसायिक बँकांचा व्यवसाय डेटा तपशीलवार देणारी साप्ताहिक सांख्यिकीय पुरवणी जारी केली.",
+    "summary": "रिझर्व्ह बँक ऑफ इंडियाने (RBI) दायित्वे आणि मालमत्ता, परकीय चलन साठा, भारतातील अनुसूचित व्यावसायिक बँकांचा व्यवसाय, चलन साठा घटक आणि तरलता ऑपरेशन्स यावरील डेटा દર્शवणारी साप्ताहिक सांख्यिकीय पुरवणी प्रकाशित केली. २० नोव्हेंबर २०२६ रोजी एकूण परकीय चलन साठा ₹६४,९७,९५६ कोटी (US$ ७,००,८९८ दशलक्ष) होता. १५ नोव्हेंबर २०२६ रोजी अनुसूचित व्यावसायिक बँकांचे बँक कर्ज ₹२,३१,११,५४१ कोटी नोंदवले गेले.",
+    "points": [
+     "२० नोव्हेंबर २०२६ रोजी एकूण परकीय चलन साठा ₹६४,९७,९५६ कोटी (US$ ७,००,८९८ दशलक्ष) होता.",
+     "१५ नोव्हेंबर २०२६ रोजी अनुसूचित व्यावसायिक बँकांच्या एकूण ठेवी ₹२,८०,४६,९२६ कोटी होत्या.",
+     "१५ नोव्हेंबर २०२६ रोजी अनुसूचित व्यावसायिक बँकांचे बँक कर्ज ₹२,३१,११,५४१ कोटी होते.",
+     "डेटा मध्ये रेपो, रिव्हर्स रेपो, एमएसएफ (MSF) आणि एसडीएफ (SDF) द्वारे चालवल्या जाणाऱ्या तरलता ऑपरेशन्सचा समावेश आहे."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "२० नोव्हेंबर २०२६ रोजी भारताचा एकूण परकीय चलन साठा किती होता?",
+      "options": [
+       "₹५४,०६,५५३ कोटी",
+       "₹६४,९७,९५६ कोटी",
+       "₹७४,१२,४५० कोटी",
+       "₹८५,२०,१० कोटी"
+      ],
+      "explanation": "रिझर्व्ह बँक ऑफ इंडियाच्या (RBI) सांख्यिकीय पुरवणीनुसार, २० नोव्हेंबर २०२६ रोजी एकूण परकीय चलन साठा ₹६४,९७,९५६ कोटी होता."
+     },
+     {
+      "question": "१५ नोव्हेंबर २०२६ नुसार, अनुसूचित व्यावसायिक बँकांचे बँक कर्ज किती होते?",
+      "options": [
+       "₹२,३१,११,५४१ कोटी",
+       "₹२,८०,४६,९२६ कोटी",
+       "₹१,०९,३९३९ कोटी",
+       "₹३,१४,५३,१२६ कोटी"
+      ],
+      "explanation": "१५ नोव्हेंबर २०२६ रोजी अनुसूचित व्यावसायिक बँकांचे बँक कर्ज ₹२,३१,११,५४१ कोटी नोंदवले गेले."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Reserve Bank of India",
+    "short": "RBI",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "importance": 6,
+  "gk": [
+   {
+    "en": "Headquarters of Reserve Bank of India: Mumbai",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক-এর সদর দপ্তর: মুম্বই",
+    "hi": "भारतीय रिज़र्व बैंक का मुख्यालय: मुम्बई",
+    "mr": "भारतीय रिझर्व्ह बँक चे मुख्यालय: मुंबई"
+   },
+   {
+    "en": "Reserve Bank of India was established in 1935",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক প্রতিষ্ঠিত হয় 1935 সালে",
+    "hi": "भारतीय रिज़र्व बैंक की स्थापना: 1935",
+    "mr": "भारतीय रिझर्व्ह बँक ची स्थापना: 1935"
+   }
+  ]
+ },
+ {
+  "id": "7aa0d3773f73",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "national",
+  "category": "banking",
+  "tags": [
+   "Bank",
+   "UPSC",
+   "SSC"
+  ],
+  "source_name": "RBI",
+  "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64056",
+  "answers": [
+   1,
+   0
+  ],
+  "langs": {
+   "en": {
+    "title": "RBI Government Stock Full Auction Results",
+    "one_liner": "RBI announced full auction results for government stocks including 6.20% GS 2029, 6.57% GS 2033, 7.63% GS 2056, and 7.50% GOI SGrB 2056.",
+    "summary": "The Reserve Bank of India published auction results for four government securities: 6.20% GS 2029, 6.57% GS 2033, 7.63% GS 2056, and 7.50% GOI SGrB 2056. The notified amounts were ₹9,000 crore, ₹12,000 crore, ₹9,000 crore, and ₹3,000 crore respectively. Competitive bids received and accepted varied across instruments, with cut-off yields ranging from 6.9960% for the 2029 stock to 7.7996% for the 2056 government stock. There was no devolvement on primary dealers.",
+    "points": [
+     "Securities auctioned include 6.20% GS 2029, 6.57% GS 2033, 7.63% GS 2056, and 7.50% GOI SGrB 2056.",
+     "Notified amounts were ₹9,000 crore (GS 2029), ₹12,000 crore (GS 2033), ₹9,000 crore (GS 2056), and ₹3,000 crore (SGrB 2056).",
+     "YTM at cut-off price was 6.9960% for 6.20% GS 2029 and 7.7996% for 7.63% GS 2056.",
+     "Nil devolvement was reported on primary dealers across all auctioned securities."
+    ],
+    "static_gk": "Government securities (G-secs) in India are issued by the Reserve Bank of India on behalf of the Government of India.",
+    "mcqs": [
+     {
+      "question": "What was the notified amount for the 6.57% GS 2033 auction?",
+      "options": [
+       "₹9,000 crore",
+       "₹12,000 crore",
+       "₹3,000 crore",
+       "₹15,000 crore"
+      ],
+      "explanation": "The notified amount for 6.57% GS 2033 was ₹12,000 crore."
+     },
+     {
+      "question": "What was the Yield to Maturity (YTM) at cut-off price for 6.20% GS 2029?",
+      "options": [
+       "6.9960%",
+       "7.2736%",
+       "7.7996%",
+       "7.7721%"
+      ],
+      "explanation": "The YTM at cut-off price for 6.20% GS 2029 was 6.9960%."
+     }
+    ]
+   },
+   "hi": {
+    "title": "आरबीआई (RBI) सरकारी स्टॉक पूर्ण नीलामी परिणाम",
+    "one_liner": "आरबीआई (RBI) ने 6.20% जीएस 2029 (6.20% GS 2029), 6.57% जीएस 2033 (6.57% GS 2033), 7.63% जीएस 2056 (7.63% GS 2056), और 7.50% जीओआई एसजीआरबी 2056 (7.50% GOI SGrB 2056) सहित सरकारी स्टॉक के लिए पूर्ण नीलामी परिणामों की घोषणा की।",
+    "summary": "भारतीय रिजर्व बैंक (Reserve Bank of India) ने चार सरकारी प्रतिभूतियों: 6.20% जीएस 2029 (6.20% GS 2029), 6.57% जीएस 2033 (6.57% GS 2033), 7.63% जीएस 2056 (7.63% GS 2056), और 7.50% जीओआई एसजीआरबी 2056 (7.50% GOI SGrB 2056) के लिए नीलामी परिणाम प्रकाशित किए। अधिसूचित राशि क्रमशः 9,000 करोड़ रुपये, 12,000 करोड़ रुपये, 9,000 करोड़ रुपये और 3,000 करोड़ रुपये थी। प्राप्त और स्वीकृत प्रतिस्पर्धी बोलियां उपकरणों में भिन्न थीं, 2029 के स्टॉक के लिए 6.9960% से लेकर 2056 के सरकारी स्टॉक के लिए 7.7996% तक कट-ऑफ यील्ड थीं। प्राथमिक डीलरों पर कोई devolvement (अतिदेयता) नहीं था।",
+    "points": [
+     "नीलाम की गई प्रतिभूतियों में 6.20% जीएस 2029 (6.20% GS 2029), 6.57% जीएस 2033 (6.57% GS 2033), 7.63% जीएस 2056 (7.63% GS 2056), और 7.50% जीओआई एसजीआरबी 2056 (7.50% GOI SGrB 2056) शामिल हैं।",
+     "अधिसूचित राशि 9,000 करोड़ रुपये (जीएस 2029), 12,000 करोड़ रुपये (जीएस 2033), 9,000 करोड़ रुपये (जीएस 2056), और 3,000 करोड़ रुपये (एसजीआरबी 2056) थी।",
+     "कट-ऑफ कीमत पर वाईटीएम (YTM) 6.20% जीएस 2029 के लिए 6.9960% और 7.63% जीएस 2056 के लिए 7.7996% था।",
+     "सभी नीलाम की गई प्रतिभूतियों पर प्राथमिक डीलरों पर शून्य devolvement (अतिदेयता) दर्ज की गई।"
+    ],
+    "static_gk": "भारत में सरकारी प्रतिभूतियां (जी-सेक्युरिटीज) भारत सरकार की ओर से भारतीय रिजर्व बैंक द्वारा जारी की जाती हैं।",
+    "mcqs": [
+     {
+      "question": "6.57% जीएस 2033 (6.57% GS 2033) नीलामी के लिए अधिसूचित राशि क्या थी?",
+      "options": [
+       "9,000 करोड़ रुपये",
+       "12,000 करोड़ रुपये",
+       "3,000 करोड़ रुपये",
+       "15,000 करोड़ रुपये"
+      ],
+      "explanation": "6.57% जीएस 2033 के लिए अधिसूचित राशि 12,000 करोड़ रुपये थी।"
+     },
+     {
+      "question": "6.20% जीएस 2029 (6.20% GS 2029) के लिए कट-ऑफ कीमत पर यील्ड टू मेच्योरिटी (YTM) क्या थी?",
+      "options": [
+       "6.9960%",
+       "7.2736%",
+       "7.7996%",
+       "7.7721%"
+      ],
+      "explanation": "6.20% जीएस 2029 के लिए कट-ऑफ कीमत पर वाईटीएम (YTM) 6.9960% था।"
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Reserve Bank of India",
+    "short": "RBI",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "importance": 6,
+  "gk": [
+   {
+    "en": "Headquarters of Reserve Bank of India: Mumbai",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক-এর সদর দপ্তর: মুম্বই",
+    "hi": "भारतीय रिज़र्व बैंक का मुख्यालय: मुम्बई",
+    "mr": "भारतीय रिझर्व्ह बँक चे मुख्यालय: मुंबई"
+   },
+   {
+    "en": "Reserve Bank of India was established in 1935",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক প্রতিষ্ঠিত হয় 1935 সালে",
+    "hi": "भारतीय रिज़र्व बैंक की स्थापना: 1935",
+    "mr": "भारतीय रिझर्व्ह बँक ची स्थापना: 1935"
+   }
+  ]
+ },
+ {
+  "id": "60ddd54971a1",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "national",
+  "category": "banking",
+  "tags": [
+   "Bank",
+   "UPSC",
+   "SSC",
+   "State PSC"
+  ],
+  "source_name": "RBI",
+  "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64062",
+  "answers": [
+   2,
+   0
+  ],
+  "langs": {
+   "en": {
+    "title": "RBI Issues Amendment Directions on Suspected Money Mule Accounts",
+    "one_liner": "RBI issued KYC amendment directions to establish a Standard Operating Procedure for placing temporary debit holds on suspected money mule accounts.",
+    "summary": "Following stakeholder feedback on draft directions issued on September 11, 2026, the Reserve Bank of India issued final Amendment Directions concerning suspected money mule accounts to prevent cyber-enabled financial frauds. The directions lay down a uniform, Standard Operating Procedure (SOP) allowing banks to suo moto place temporary debit holds on accounts linked to fraud and to remove them in coordination with Law Enforcement Agencies. The directions come into effect from July 1, 2027, or earlier at a bank's discretion.",
+    "points": [
+     "Draft directions were initially issued on September 11, 2026, for stakeholder feedback.",
+     "Introduces an SOP for banks to place temporary debit holds on suspected money mule and cyber fraud accounts.",
+     "Holds will be managed and removed in coordination with Law Enforcement Agencies (LEAs).",
+     "Directions become effective from July 1, 2027, or an earlier date chosen by the bank."
+    ],
+    "static_gk": "The Reserve Bank of India headquarters is located in Mumbai, Maharashtra.",
+    "mcqs": [
+     {
+      "question": "When do the RBI's Amendment Directions on Suspected Money Mule Accounts come into effect?",
+      "options": [
+       "January 1, 2027",
+       "April 1, 2027",
+       "July 1, 2027",
+       "December 31, 2027"
+      ],
+      "explanation": "The Amendment Directions shall come into effect from July 1, 2027, or from an earlier date decided by the bank."
+     },
+     {
+      "question": "When were the initial draft Reserve Bank of India (Know Your Customer) Amendment Directions issued for feedback?",
+      "options": [
+       "September 11, 2026",
+       "August 15, 2026",
+       "October 20, 2026",
+       "November 27, 2026"
+      ],
+      "explanation": "The draft directions were issued on September 11, 2026, for seeking feedback from stakeholders."
+     }
+    ]
+   },
+   "bn": {
+    "title": "সন্দেহভাজন মানি মিউল অ্যাকাউন্ট সংক্রান্ত সংশোধনী নির্দেশিকা জারি করেছে আরবিআই (RBI)",
+    "one_liner": "সন্দেহভাজন মানি মিউল অ্যাকাউন্টে অস্থায়ী ডেবিট হোল্ড রাখার জন্য একটি স্ট্যান্ডার্ড অপারেটিং পদ্ধতি প্রতিষ্ঠা করতে আরবিআই (RBI) কেওয়াইসি (KYC) সংশোধনী নির্দেশিকা জারি করেছে।",
+    "summary": "২০২৬ সালের ১১ সেপ্টেম্বর জারি করা খসড়া নির্দেশিকাগুলির উপর স্টেকহোল্ডারদের প্রতিক্রিয়ার পর, ভারতের রিজার্ভ ব্যাংক (RBI) সাইবার-সক্ষম আর্থিক জালিয়াতি রোধ করতে সন্দেহভাজন মানি মিউল অ্যাকাউন্ট সম্পর্কিত চূড়ান্ত সংশোধনী নির্দেশিকা জারি করেছে। নির্দেশিকাগুলি একটি অভিন্ন, স্ট্যান্ডার্ড অপারেটিং পদ্ধতি (SOP) নির্ধারণ করে যা ব্যাংকগুলিকে জালিয়াতির সাথে যুক্ত অ্যাকাউন্টগুলিতে স্বয়ংক্রিয়ভাবে অস্থায়ী ডেবিট হোল্ড রাখতে এবং আইন প্রয়োগকারী সংস্থাগুলির সাথে সমন্বয় করে সেগুলি সরাতে অনুমতি দেয়। নির্দেশিকাগুলি ২০২৭ সালের ১ জুলাই থেকে বা ব্যাংকের বিবেচনার ভিত্তিতে তার আগে কার্যকর হবে।",
+    "points": [
+     "স্টেকহোল্ডারদের কাছ থেকে প্রতিক্রিয়ার জন্য খসড়া নির্দেশিকাগুলি মূলত ২০২৬ সালের ১১ সেপ্টেম্বর জারি করা হয়েছিল।",
+     "সন্দেহভাজন মানি মিউল এবং সাইবার জালিয়াতির অ্যাকাউন্টগুলিতে ব্যাংকগুলির অস্থায়ী ডেবিট হোল্ড রাখার জন্য একটি এসওপি (SOP) প্রবর্তন করে।",
+     "আইন প্রয়োগকারী সংস্থাগুলির (LEAs) সাথে সমন্বয় করে হোল্ডগুলি পরিচালনা এবং সরানো হবে।",
+     "নির্দেশিকাগুলি ২০২৭ সালের ১ জুলাই থেকে বা ব্যাংক কর্তৃক নির্বাচিত একটি পূর্ববর্তী তারিখ থেকে কার্যকর হয়।"
+    ],
+    "static_gk": "ভারতের রিজার্ভ ব্যাংকের সদর দপ্তর মহারাষ্ট্রের মুম্বাইয়ে অবস্থিত।",
+    "mcqs": [
+     {
+      "question": "সন্দেহভাজন মানি মিউল অ্যাকাউন্ট সংক্রান্ত আরবিআই (RBI)-এর সংশোধনী নির্দেশিকাগুলি কবে থেকে কার্যকর হয়?",
+      "options": [
+       "১ জানুয়ারি, ২০২৭",
+       "১ এপ্রিল, ২০২৭",
+       "১ জুলাই, ২০২৭",
+       "৩১ ডিসেম্বর, ২০২৭"
+      ],
+      "explanation": "সংশোধনী নির্দেশিকাগুলি ২০২৭ সালের ১ জুলাই থেকে বা ব্যাংক কর্তৃক নির্ধারিত একটি পূর্ববর্তী তারিখ থেকে কার্যকর হবে।"
+     },
+     {
+      "question": "প্রতিক্রিয়া চাওয়ার জন্য ভারতের রিজার্ভ ব্যাংকের প্রাথমিক খসড়া (আপনার গ্রাহককে জানুন) সংশোধনী নির্দেশিকা কবে জারি করা হয়েছিল?",
+      "options": [
+       "১১ সেপ্টেম্বর, ২০২৬",
+       "১৫ আগস্ট, ২০২৬",
+       "২০ অক্টোবর, ২০২৬",
+       "২৭ নভেম্বর, ২০২৬"
+      ],
+      "explanation": "স্টেকহোল্ডারদের কাছ থেকে প্রতিক্রিয়া চাওয়ার জন্য ২০২৬ সালের ১১ সেপ্টেম্বর খসড়া নির্দেশিকা জারি করা হয়েছিল।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "संदिग्ध मनी म्युल खातों पर आरबीआई (RBI) ने संशोधन निर्देश जारी किए",
+    "one_liner": "आरबीआई (RBI) ने संदिग्ध मनी म्युल खातों पर अस्थायी डेबिट होल्ड रखने के लिए एक मानक संचालन प्रक्रिया स्थापित करने हेतु केवाईसी (KYC) संशोधन निर्देश जारी किए।",
+    "summary": "11 सितंबर 2026 को जारी मसौदा निर्देशों पर हितधारकों की प्रतिक्रिया के बाद, भारतीय रिजर्व बैंक (Reserve Bank of India) ने साइबर-सक्षम वित्तीय धोखाधड़ी को रोकने के लिए संदिग्ध मनी म्युल खातों से संबंधित अंतिम संशोधन निर्देश जारी किए। निर्देश एक समान मानक संचालन प्रक्रिया (एसओपी) निर्धारित करते हैं जो बैंकों को धोखाधड़ी से जुड़े खातों पर स्वतः (suo moto) अस्थायी डेबिट होल्ड रखने और कानून प्रवर्तन एजेंसियों के समन्वय से उन्हें हटाने की अनुमति देती है। निर्देश 1 जुलाई 2027 से या बैंक के विवेक पर उससे पहले लागू होते हैं।",
+    "points": [
+     "हितधारकों की प्रतिक्रिया के लिए मसौदा निर्देश शुरू में 11 सितंबर 2026 को जारी किए गए थे।",
+     "बैंकों के लिए संदिग्ध मनी म्युल और साइबर धोखाधड़ी खातों पर अस्थायी डेबिट होल्ड रखने के लिए एक एसओपी (SOP) पेश करता है।",
+     "होल्ड को कानून प्रवर्तन एजेंसियों (LEA) के समन्वय में प्रबंधित और हटाया जाएगा।",
+     "निर्देश 1 जुलाई 2027 या बैंक द्वारा चुनी गई पहले की तारीख से प्रभावी होते हैं।"
+    ],
+    "static_gk": "भारतीय रिजर्व बैंक का मुख्यालय मुंबई, महाराष्ट्र में स्थित है।",
+    "mcqs": [
+     {
+      "question": "संदिग्ध मनी म्युल खातों पर आरबीआई (RBI) के संशोधन निर्देश कब प्रभावी होते हैं?",
+      "options": [
+       "1 जनवरी 2027",
+       "1 अप्रैल 2027",
+       "1 जुलाई 2027",
+       "31 दिसंबर 2027"
+      ],
+      "explanation": "संशोधन निर्देश 1 जुलाई 2027 से या बैंक द्वारा तय की गई पहले की तारीख से प्रभावी होंगे।"
+     },
+     {
+      "question": "प्रतिक्रिया मांगने के लिए प्रारंभिक मसौदा भारतीय रिजर्व बैंक (अपने ग्राहक को जानें) संशोधन निर्देश कब जारी किए गए थे?",
+      "options": [
+       "11 सितंबर 2026",
+       "15 अगस्त 2026",
+       "20 अक्टूबर 2026",
+       "27 नवंबर 2026"
+      ],
+      "explanation": "हितधारकों से प्रतिक्रिया प्राप्त करने के लिए मसौदा निर्देश 11 सितंबर 2026 को जारी किए गए थे।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "रिझर्व्ह बँक ऑफ इंडियाने (RBI) संशयित मनी म्युल खात्यांवर सुधारणा निर्देश जारी केले",
+    "one_liner": "रिझर्व्ह बँक ऑफ इंडियाने (RBI) संशयित मनी म्युल खात्यांवर तात्पुरती डेबिट होल्ड ठेवण्यासाठी मानक ऑपरेटिंग प्रक्रिया (SOP) स्थापित करण्यासाठी केवायसी (KYC) सुधारणा निर्देश जारी केले.",
+    "summary": "११ सप्टेंबर २०२६ रोजी जारी केलेल्या मसुदा निर्देशांवर भागधारकांच्या अभिप्रायानंतर, रिझर्व्ह बँक ऑफ इंडियाने (RBI) सायबर-सक्षम वित्तीय फसवणूक रोखण्यासाठी संशयित मनी म्युल खात्यांविषयी अंतिम सुधारणा निर्देश जारी केले. हे निर्देश एक समान, मानक ऑपरेटिंग प्रक्रिया (SOP) निर्धारित करतात ज्यामुळे बँकांना फसवणुकीशी जोडलेल्या खात्यांवर स्वतःहून (suo moto) तात्पुरती डेबिट होल्ड ठेवण्याची आणि कायदा अंमलबजावणी संस्थांच्या समन्वयाने ती काढून टाकण्याची मुभा मिळते. हे निर्देश १ जुलै २०२७ पासून किंवा बँकांच्या विवेकबुद्धीनुसार आधी लागू होतात.",
+    "points": [
+     "भागधारकांच्या अभिप्रायासाठी मसुदा निर्देश सुरुवातीला ११ सप्टेंबर २०२६ रोजी जारी करण्यात आले होते.",
+     "बँकांना संशयित मनी म्युल आणि सायबर फसवणूक खात्यांवर तात्पुरती डेबिट होल्ड ठेवण्यासाठी एसओपी (SOP) सादर करते.",
+     "होल्ड्स कायदा अंमलबजावणी संस्थांच्या (LEAs) समन्वयाने व्यवस्थापित आणि काढून टाकले जातील.",
+     "निर्देश १ जुलै २०२७ पासून किंवा बँकेने निवडलेल्या पूर्वीच्या तारखेपासून प्रभावी होतात."
+    ],
+    "static_gk": "रिझर्व्ह बँक ऑफ इंडियाचे (RBI) मुख्यालय मुंबई, महाराष्ट्र येथे आहे.",
+    "mcqs": [
+     {
+      "question": "संशयित मनी म्युल खात्यांवरील रिझर्व्ह बँक ऑफ इंडियाचे (RBI) सुधारणा निर्देश कधी प्रभावी होतात?",
+      "options": [
+       "१ जानेवारी २०२७",
+       "१ एप्रिल २०२७",
+       "१ जुलै २०२७",
+       "३१ डिसेंबर २०२७"
+      ],
+      "explanation": "सुधारणा निर्देश १ जुलै २०२७ पासून किंवा बँकेने ठरवलेल्या आधीच्या तारखेपासून प्रभावी होतील."
+     },
+     {
+      "question": "अभिप्रायासाठी सुरुवातीचे मसुदा रिझर्व्ह बँक ऑफ इंडिया (नो युअर कस्टमर) सुधारणा निर्देश कधी जारी करण्यात आले?",
+      "options": [
+       "११ सप्टेंबर २०२६",
+       "१५ ऑगस्ट २०२६",
+       "२० ऑक्टोबर २०२६",
+       "२७ नोव्हेंबर २०२६"
+      ],
+      "explanation": "भागधारकांकडून अभिप्राय मागवण्यासाठी ११ सप्टेंबर २०२६ रोजी मसुदा निर्देश जारी करण्यात आले होते."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Reserve Bank of India",
+    "short": "RBI",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "importance": 7,
+  "gk": [
+   {
+    "en": "Headquarters of Reserve Bank of India: Mumbai",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক-এর সদর দপ্তর: মুম্বই",
+    "hi": "भारतीय रिज़र्व बैंक का मुख्यालय: मुम्बई",
+    "mr": "भारतीय रिझर्व्ह बँक चे मुख्यालय: मुंबई"
+   },
+   {
+    "en": "Reserve Bank of India was established in 1935",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক প্রতিষ্ঠিত হয় 1935 সালে",
+    "hi": "भारतीय रिज़र्व बैंक की स्थापना: 1935",
+    "mr": "भारतीय रिझर्व्ह बँक ची स्थापना: 1935"
+   }
+  ]
+ },
+ {
+  "id": "39ae9112d82f",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "national",
+  "category": "banking",
+  "tags": [
+   "Bank",
+   "UPSC",
+   "SSC"
+  ],
+  "source_name": "RBI",
+  "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64061",
+  "answers": [
+   1,
+   0
+  ],
+  "langs": {
+   "en": {
+    "title": "RBI to conduct Overnight Variable Rate Repo auction on November 30, 2026",
+    "one_liner": "RBI will conduct an overnight Variable Rate Repo auction for a notified amount of ₹50,000 crore on November 30, 2026.",
+    "summary": "The Reserve Bank of India has announced a Variable Rate Repo auction under the Liquidity Adjustment Facility to manage near-term liquidity conditions. The auction for a notified amount of ₹50,000 crore and a tenor of 1 day will be held on Monday, November 30, 2026, between 09:30 AM and 10:00 AM, with the reversal scheduled for December 01, 2026.",
+    "points": [
+     "Auction Date: November 30, 2026",
+     "Notified Amount: ₹50,000 crore",
+     "Tenor: 1 day",
+     "Reversal Date: December 01, 2026"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "What is the notified amount for the RBI Variable Rate Repo auction scheduled for November 30, 2026?",
+      "options": [
+       "₹25,000 crore",
+       "₹50,000 crore",
+       "₹75,000 crore",
+       "₹1,00,000 crore"
+      ],
+      "explanation": "The RBI announced a VRR auction for a notified amount of ₹50,000 crore."
+     },
+     {
+      "question": "What is the tenor of the Variable Rate Repo auction scheduled by RBI for November 30, 2026?",
+      "options": [
+       "1 day",
+       "7 days",
+       "14 days",
+       "28 days"
+      ],
+      "explanation": "The tenor for the scheduled VRR auction is 1 day."
+     }
+    ]
+   },
+   "bn": {
+    "title": "৩০ নভেম্বর, ২০২৬ তারিখে ওভারনাইট ভ্যারিয়েবল রেট রেপো নিলাম পরিচালনা করবে RBI",
+    "one_liner": "RBI আগামী ৩০ নভেম্বর, ২০২৬ তারিখে ৫০,০০০ কোটি টাকার বিজ্ঞাপিত পরিমাণের জন্য একটি ওভারনাইট ভ্যারিয়েবল রেট রেপো নিলাম পরিচালনা করবে।",
+    "summary": "স্বল্পমেয়াদী তারল্য পরিস্থিতি নিয়ন্ত্রণের জন্য রিজার্ভ ব্যাঙ্ক অফ ইন্ডিয়া (Reserve Bank of India) লিকুইডিটি অ্যাডজাস্টমেন্ট ফ্যাসিলিটির অধীনে একটি ভ্যারিয়েবল রেট রেপো নিলাম ঘোষণা করেছে। ১ দিন মেয়াদী এবং ৫০,০০০ কোটি টাকার বিজ্ঞাপিত পরিমাণের এই নিলামটি আগামী ৩০ নভেম্বর, ২০২৬ সোমবার সকাল ০৯:৩০ থেকে সকাল ১০:০০ টার মধ্যে অনুষ্ঠিত হবে এবং এর রিভার্সাল ০১ ডিসেম্বর, ২০২৬ তারিখে নির্ধারিত হয়েছে।",
+    "points": [
+     "নিলামের তারিখ: ৩০ নভেম্বর, ২০২৬",
+     "বিজ্ঞাপিত পরিমাণ: ৫০,০০০ কোটি টাকা",
+     "মেয়াদ: ১ দিন",
+     "রিভার্সালের তারিখ: ০১ ডিসেম্বর, ২০২৬"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "৩০ নভেম্বর, ২০২৬ তারিখে নির্ধারিত RBI ভ্যারিয়েবল রেট রেপো নিলামের জন্য বিজ্ঞাপিত পরিমাণ কত?",
+      "options": [
+       "২৫,০০০ কোটি টাকা",
+       "৫০,০০০ কোটি টাকা",
+       "৭৫,০০০ কোটি টাকা",
+       "১,০০,০০০ কোটি টাকা"
+      ],
+      "explanation": "RBI ৫০,০০০ কোটি টাকার বিজ্ঞাপিত পরিমাণের জন্য একটি VRR নিলাম ঘোষণা করেছে।"
+     },
+     {
+      "question": "৩০ নভেম্বর, ২০২৬ তারিখে RBI-এর নির্ধারিত ভ্যারিয়েবল রেট রেপো নিলামের মেয়াদ কত?",
+      "options": [
+       "১ দিন",
+       "৭ দিন",
+       "১৪ দিন",
+       "২৮ দিন"
+      ],
+      "explanation": "নির্ধারিত VRR নিলামের মেয়াদ হলো ১ দিন।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "RBI 30 नवंबर 2026 को ओवरनाइट वेरिएबल रेट रेपो नीलामी आयोजित करेगा",
+    "one_liner": "RBI 30 नवंबर 2026 को ₹50,000 करोड़ की अधिसूचित राशि के लिए ओवरनाइट वेरिएबल रेट रेपो नीलामी आयोजित करेगा।",
+    "summary": "भारतीय रिजर्व बैंक (Reserve Bank of India - RBI) ने अल्पकालिक तरलता स्थितियों को प्रबंधित करने के लिए तरलता समायोजन सुविधा (Liquidity Adjustment Facility) के तहत एक वेरिएबल रेट रेपो नीलामी की घोषणा की है। ₹50,000 करोड़ की अधिसूचित राशि और 1 दिन की अवधि (tenor) के लिए यह नीलामी सोमवार, 30 नवंबर 2026 को सुबह 09:30 बजे से सुबह 10:00 बजे के बीच आयोजित की जाएगी, और इसकी उलट प्रक्रिया (reversal) 1 दिसंबर 2026 को निर्धारित है।",
+    "points": [
+     "नीलामी की तारीख: 30 नवंबर 2026",
+     "अधिसूचित राशि: ₹50,000 करोड़",
+     "अवधि (Tenor): 1 दिन",
+     "रिवर्सल की तारीख: 1 दिसंबर 2026"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "30 नवंबर 2026 के लिए निर्धारित RBI वेरिएबल रेट रेपो नीलामी की अधिसूचित राशि क्या है?",
+      "options": [
+       "₹25,000 करोड़",
+       "₹50,000 करोड़",
+       "₹75,000 करोड़",
+       "₹1,00,000 करोड़"
+      ],
+      "explanation": "RBI ने ₹50,000 करोड़ की अधिसूचित राशि के लिए VRR नीलामी की घोषणा की।"
+     },
+     {
+      "question": "30 नवंबर 2026 के लिए RBI द्वारा निर्धारित वेरिएबल रेट रेपो नीलामी की अवधि (tenor) कितनी है?",
+      "options": [
+       "1 दिन",
+       "7 दिन",
+       "14 दिन",
+       "28 दिन"
+      ],
+      "explanation": "निर्धारित VRR नीलामी की अवधि 1 दिन है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "आरबीआय (RBI) ३० नोव्हेंबर २०२६ रोजी ओव्हरनाईट व्हेरिएबल रेट रेपो लिलाव घेणार",
+    "one_liner": "आरबीआय (RBI) ३० नोव्हेंबर २०२६ रोजी ५०,००० कोटी रुपयांच्या अधिसूचित रकमेसाठी ओव्हरनाईट व्हेरिएबल रेट रेपो लिलाव घेईल.",
+    "summary": "रिझर्व्ह बँक ऑफ इंडियाने (Reserve Bank of India) नजीकच्या काळातील तरलता परिस्थिती व्यवस्थापित करण्यासाठी तरलता समायोजन सुविधेअंतर्गत (Liquidity Adjustment Facility) व्हेरिएबल रेट रेपो लिलाव जाहीर केला आहे. ५०,००० कोटी रुपयांच्या अधिसूचित रकमेसाठी आणि १ दिवसाच्या कालावधीसाठी हा लिलाव सोमवार, ३० नोव्हेंबर २०२६ रोजी सकाळी ९:३० ते सकाळी १०:०० या वेळेत होईल, ज्याची उलटफेरी (reversal) १ डिसेंबर २०२६ रोजी ठरवली आहे.",
+    "points": [
+     "लिलाव तारीख: ३० नोव्हेंबर २०२६",
+     "अधिसूचित रक्कम: ₹५०,००० कोटी",
+     "कालावधी: १ दिवस",
+     "उलटफेरीची तारीख: १ डिसेंबर २०२६"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "३० नोव्हेंबर २०२६ रोजी नियोजित आरबीआय (RBI) व्हेरिएबल रेट रेपो लिलावासाठी अधिसूचित रक्कम किती आहे?",
+      "options": [
+       "₹२५,००० कोटी",
+       "₹५०,००० कोटी",
+       "₹७५,००० कोटी",
+       "₹१,००,००० कोटी"
+      ],
+      "explanation": "आरबीआयने (RBI) ₹५०,००० कोटींच्या अधिसूचित रकमेसाठी व्हीआरआर (VRR) लिलाव जाहीर केला."
+     },
+     {
+      "question": "३० नोव्हेंबर २०२६ रोजी आरबीआयने (RBI) नियोजित केलेल्या व्हेरिएबल रेट रेपो लिलावाचा कालावधी किती आहे?",
+      "options": [
+       "१ दिवस",
+       "७ दिवस",
+       "१४ दिवस",
+       "२८ दिवस"
+      ],
+      "explanation": "नियोजित व्हीआरआर (VRR) लिलावाचा कालावधी १ दिवस आहे."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Reserve Bank of India",
+    "short": "RBI",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "importance": 7,
+  "gk": [
+   {
+    "en": "Headquarters of Reserve Bank of India: Mumbai",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক-এর সদর দপ্তর: মুম্বই",
+    "hi": "भारतीय रिज़र्व बैंक का मुख्यालय: मुम्बई",
+    "mr": "भारतीय रिझर्व्ह बँक चे मुख्यालय: मुंबई"
+   },
+   {
+    "en": "Reserve Bank of India was established in 1935",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক প্রতিষ্ঠিত হয় 1935 সালে",
+    "hi": "भारतीय रिज़र्व बैंक की स्थापना: 1935",
+    "mr": "भारतीय रिझर्व्ह बँक ची स्थापना: 1935"
+   }
+  ]
+ },
+ {
+  "id": "5e9db5424282",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "national",
+  "category": "banking",
+  "tags": [
+   "Bank",
+   "UPSC",
+   "State PSC"
+  ],
+  "source_name": "RBI",
+  "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64059",
+  "answers": [
+   2,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "31st Meeting of SAC to Review MSME Credit Flow Held in Kolkata",
+    "one_liner": "RBI Deputy Governor chaired the 31st Standing Advisory Committee meeting in Kolkata to review credit flow to MSMEs.",
+    "summary": "The 31st meeting of the Standing Advisory Committee to review credit flow to MSMEs took place in Kolkata on November 27, 2026, chaired by RBI Deputy Governor Shri Swaminathan J. Participants included senior officials from the Ministry of MSME, Ministry of Finance, SIDBI, NABARD, and other financial institutions. Discussions focused on collateral-free lending, cash-flow-based lending using ULI, TReDS invoice settlements, and MSMED (Amendment) Act provisions.",
+    "points": [
+     "Meeting: 31st Standing Advisory Committee meeting",
+     "Location: Kolkata",
+     "Date: November 27, 2026",
+     "Chaired By: Shri Swaminathan J, Deputy Governor, RBI"
+    ],
+    "static_gk": "Small Industries Development Bank of India (SIDBI) is headquartered in Lucknow, Uttar Pradesh.",
+    "mcqs": [
+     {
+      "question": "Where was the 31st meeting of the Standing Advisory Committee to review MSME credit flow held?",
+      "options": [
+       "Mumbai",
+       "New Delhi",
+       "Kolkata",
+       "Chennai"
+      ],
+      "explanation": "The 31st SAC meeting was held in Kolkata on November 27, 2026."
+     },
+     {
+      "question": "Who chaired the 31st meeting of the Standing Advisory Committee on MSME credit flow?",
+      "options": [
+       "Shaktikanta Das",
+       "Shri Swaminathan J",
+       "T. Rabi Sankar",
+       "M. Rajeshwar Rao"
+      ],
+      "explanation": "The meeting was chaired by RBI Deputy Governor Shri Swaminathan J."
+     }
+    ]
+   },
+   "bn": {
+    "title": "এমএসএমই (MSME) ঋণ প্রবাহ পর্যালোচনা করার জন্য SAC-এর ৩১তম বৈঠক কলকাতায় অনুষ্ঠিত হয়েছে",
+    "one_liner": "এমএসএমই-তে ঋণ প্রবাহ পর্যালোচনা করার জন্য কলকাতায় স্ট্যান্ডিং অ্যাডভাইজরি কমিটির ৩১তম বৈঠকে সভাপতিত্ব করেন RBI-এর ডেপুটি গভর্নর।",
+    "summary": "এমএসএমই-তে ঋণ প্রবাহ পর্যালোচনা করার জন্য স্ট্যান্ডিং অ্যাডভাইজরি কমিটির (Standing Advisory Committee) ৩১তম বৈঠকটি ২০২৬ সালের ২৭ নভেম্বর কলকাতায় অনুষ্ঠিত হয়, যার সভাপতিত্ব করেন RBI-এর ডেপুটি গভর্নর শ্রী স্বামীনাথন জে (Shri Swaminathan J)। অংশগ্রহণকারীদের মধ্যে উপস্থিত ছিলেন এমএসএমই মন্ত্রক, অর্থ মন্ত্রক, সিডবি (SIDBI), নাবার্ড (NABARD) এবং অন্যান্য আর্থিক প্রতিষ্ঠানের ঊর্ধ্বতন কর্মকর্তারা। আলোচনায় মূল গুরুত্ব দেওয়া হয় সমবায়-মুক্ত ঋণ প্রদান, ULI ব্যবহার করে নগদ প্রবাহ-ভিত্তিক ঋণ, TReDS চালান নিষ্পত্তি এবং MSMED (সংশোধনী) আইনের বিধানগুলির ওপর।",
+    "points": [
+     "বৈঠক: ৩১তম স্ট্যান্ডিং অ্যাডভাইজরি কমিটির বৈঠক",
+     "স্থান: কলকাতা",
+     "তারিখ: ২৭ নভেম্বর, ২০২৬",
+     "সভাপতিত্ব করেন: শ্রী স্বামীনাথন জে, ডেপুটি গভর্নর, RBI"
+    ],
+    "static_gk": "স্মল ইন্ডাস্ট্রিজ ডেভেলপমেন্ট ব্যাঙ্ক অফ ইন্ডিয়া (Small Industries Development Bank of India - SIDBI)-এর সদর দপ্তর উত্তরপ্রদেশের লখনউতে অবস্থিত।",
+    "mcqs": [
+     {
+      "question": "এমএসএমই ঋণ প্রবাহ পর্যালোচনা করার জন্য স্ট্যান্ডিং অ্যাডভাইজরি কমিটির ৩১তম বৈঠক কোথায় অনুষ্ঠিত হয়েছিল?",
+      "options": [
+       "মুম্বাই",
+       "নতুন দিল্লি",
+       "কলকাতা",
+       "চেন্নাই"
+      ],
+      "explanation": "৩১তম SAC বৈঠকটি ২৭ নভেম্বর, ২০২৬ তারিখে কলকাতায় অনুষ্ঠিত হয়েছিল।"
+     },
+     {
+      "question": "এমএসএমই ঋণ প্রবাহ সংক্রান্ত স্ট্যান্ডিং অ্যাডভাইজরি কমিটির ৩১তম বৈঠকে কে সভাপতিত্ব করেছিলেন?",
+      "options": [
+       "শক্তিকান্ত দাস",
+       "শ্রী স্বামীনাথন জে",
+       "টি. রবি শঙ্কর",
+       "এম. রাজেশ্বর রাও"
+      ],
+      "explanation": "বৈঠকটির সভাপতিত্ব করেছিলেন RBI-এর ডেপুটি গভর্নর শ্রী স্বামীনাথন জে।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "MSME ऋण प्रवाह की समीक्षा के लिए SAC की 31वीं बैठक कोलकाता में आयोजित",
+    "one_liner": "MSMEs को ऋण प्रवाह की समीक्षा के लिए कोलकाता में RBI डिप्टी गवर्नर की अध्यक्षता में 31वीं स्थायी सलाहकार समिति की बैठक हुई।",
+    "summary": "MSMEs को ऋण प्रवाह की समीक्षा करने वाली स्थायी सलाहकार समिति (Standing Advisory Committee) की 31वीं बैठक 27 नवंबर 2026 को कोलकाता में आयोजित की गई, जिसकी अध्यक्षता RBI के डिप्टी गवर्नर श्री स्वामीनाथन जे. (Shri Swaminathan J) ने की। प्रतिभागियों में MSME मंत्रालय, वित्त मंत्रालय, सिडबी (SIDBI), नाबार्ड (NABARD) और अन्य वित्तीय संस्थानों के वरिष्ठ अधिकारी शामिल थे। चर्चाओं का केंद्र संपार्श्विक-मुक्त (collateral-free) ऋण, ULI का उपयोग करके नकदी प्रवाह-आधारित ऋण, TReDS चालान निपटान और MSMED (संशोधन) अधिनियम के प्रावधान रहे।",
+    "points": [
+     "बैठक: 31वीं स्थायी सलाहकार समिति बैठक",
+     "स्थान: कोलकाता",
+     "तारीख: 27 नवंबर 2026",
+     "अध्यक्षता: श्री स्वामीनाथन जे., डिप्टी गवर्नर, RBI"
+    ],
+    "static_gk": "भारतीय लघु उद्योग विकास बैंक (Small Industries Development Bank of India - SIDBI) का मुख्यालय लखनऊ, उत्तर प्रदेश में है।",
+    "mcqs": [
+     {
+      "question": "MSME ऋण प्रवाह की समीक्षा के लिए स्थायी सलाहकार समिति की 31वीं बैठक कहाँ आयोजित की गई थी?",
+      "options": [
+       "मुंबई",
+       "नई दिल्ली",
+       "कोलकाता",
+       "चेन्नई"
+      ],
+      "explanation": "31वीं SAC बैठक 27 नवंबर 2026 को कोलकाता में आयोजित की गई थी।"
+     },
+     {
+      "question": "MSME ऋण प्रवाह पर स्थायी सलाहकार समिति की 31वीं बैठक की अध्यक्षता किसने की?",
+      "options": [
+       "शक्तिकांत दास",
+       "श्री स्वामीनाथन जे.",
+       "टी. रबी शंकर",
+       "एम. राजेश्वर राव"
+      ],
+      "explanation": "बैठक की अध्यक्षता RBI के डिप्टी गवर्नर श्री स्वामीनाथन जे. ने की।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "एम.एस.एम.ई. (MSME) कर्ज प्रवाह पुनरावलोकनासाठी एसएसीची (SAC) ३१ वी बैठक कोलकात्यात पार पडली",
+    "one_liner": "एम.एस.एम.ई. (MSMEs) कडे जाणार्‍या कर्ज प्रवाहाचा आढावा घेण्यासाठी आरबीआयच्या (RBI) डेप्युटी गव्हर्नरच्या अध्यक्षतेखाली कोलकात्यात ३१ वी स्थायी सल्लागार समितीची बैठक पार पडली.",
+    "summary": "एम.एस.एम.ई. (MSMEs) कडील कर्ज प्रवाहाचा आढावा घेण्यासाठी स्थायी सल्लागार समितीची (Standing Advisory Committee) ३१ वी बैठक २७ नोव्हेंबर २०२६ रोजी कोलकात्यात पार पडली, ज्याचे अध्यक्षपद आरबीआयचे (RBI) डेप्युटी गव्हर्नर श्री स्वामिनाथन जे. यांनी भूषवले. यात एम.एस.एम.ई. मंत्रालय (Ministry of MSME), वित्त मंत्रालय (Ministry of Finance), सिडबी (SIDBI), नाबार्ड (NABARD) आणि इतर वित्तीय संस्थांचे वरिष्ठ अधिकारी सहभागी झाले होते. तारण-मुक्त कर्ज देणे, युएलआय (ULI) वापरून रोख-प्रवाह आधारित कर्ज देणे, टीआरईडीएस (TReDS) चलन सेटलमेंट आणि एमएसएमईडी (सुधारणा) कायदा [MSMED (Amendment) Act] तरतुदींवर चर्चा केंद्रित होती.",
+    "points": [
+     "बैठक: ३१ वी स्थायी सल्लागार समिती बैठक",
+     "स्थान: कोलकाता",
+     "तारीख: २७ नोव्हेंबर २०२६",
+     "अध्यक्ष: श्री स्वामिनाथन जे, डेप्युटी गव्हर्नर, आरबीआय (RBI)"
+    ],
+    "static_gk": "भारतीय लघु उद्योग विकास बँक (Small Industries Development Bank of India - SIDBI) चे मुख्यालय लखनौ, उत्तर प्रदेश येथे आहे.",
+    "mcqs": [
+     {
+      "question": "एम.एस.एम.ई. (MSME) कर्ज प्रवाहाचा आढावा घेण्यासाठी स्थायी सल्लागार समितीची ३१ वी बैठक कुठे आयोजित करण्यात आली होती?",
+      "options": [
+       "मुंबई",
+       "नवी दिल्ली",
+       "कोलकाता",
+       "चेन्नई"
+      ],
+      "explanation": "३१ वी एसएसी (SAC) बैठक २७ नोव्हेंबर २०२६ रोजी कोलकात्यात पार पडली."
+     },
+     {
+      "question": "एम.एस.एम.ई. (MSME) कर्ज प्रवाहावरील स्थायी सल्लागार समितीच्या ३१ व्या बैठकीचे अध्यक्षपद कोणी भूषवले?",
+      "options": [
+       "शक्तिकांत दास",
+       "श्री स्वामिनाथन जे",
+       "टी. रबी शंकर",
+       "एम. राजेश्वर राव"
+      ],
+      "explanation": "या बैठकीचे अध्यक्षपद आरबीआयचे (RBI) डेप्युटी गव्हर्नर श्री स्वामिनाथन जे. यांनी भूषवले."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Reserve Bank of India",
+    "short": "RBI",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Small Industries Development Bank of India",
+    "short": "SIDBI",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "National Bank for Agriculture and Rural Development",
+    "short": "NABARD",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "importance": 8,
+  "gk": [
+   {
+    "en": "Headquarters of Reserve Bank of India: Mumbai",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক-এর সদর দপ্তর: মুম্বই",
+    "hi": "भारतीय रिज़र्व बैंक का मुख्यालय: मुम्बई",
+    "mr": "भारतीय रिझर्व्ह बँक चे मुख्यालय: मुंबई"
+   },
+   {
+    "en": "Reserve Bank of India was established in 1935",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক প্রতিষ্ঠিত হয় 1935 সালে",
+    "hi": "भारतीय रिज़र्व बैंक की स्थापना: 1935",
+    "mr": "भारतीय रिझर्व्ह बँक ची स्थापना: 1935"
+   },
+   {
+    "en": "Headquarters of National Bank for Agriculture and Rural Development: Mumbai",
+    "bn": "ন্যাশনাল ব্যাংক ফর এগ্রিকালচার অ্যান্ড রুরাল ডেভেলপমেন্ট-এর সদর দপ্তর: মুম্বই",
+    "hi": "राष्ट्रीय कृषि और ग्रामीण विकास बैंक का मुख्यालय: मुम्बई",
+    "mr": "राष्ट्रीय शेती व ग्रामीण विकास बँक चे मुख्यालय: मुंबई"
+   }
+  ]
+ },
+ {
+  "id": "094de567219e",
+  "date": "2026-11-28",
+  "time": "2026-11-28T03:05+05:30",
+  "region": "national",
+  "category": "banking",
+  "tags": [
+   "Bank",
+   "SSC",
+   "UPSC"
+  ],
+  "source_name": "RBI",
+  "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64058",
+  "answers": [
+   2,
+   1
+  ],
+  "langs": {
+   "en": {
+    "title": "RBI Announces Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+    "one_liner": "RBI announced an auction for 91-day, 182-day, and 364-day Treasury Bills totalling ₹23,000 crore on December 02, 2026.",
+    "summary": "The Reserve Bank of India announced the auction of Government of India Treasury Bills worth a total notified amount of ₹23,000 crore, comprising 91-Day (₹8,000 crore), 182-Day (₹8,000 crore), and 364-Day (₹7,000 crore) bills. The auction will be held on December 02, 2026, using the multiple price method on the E-Kuber system. Retail investors can participate through the Retail Direct portal with allocation restricted to a maximum of 5 percent of the notified amount.",
+    "points": [
+     "Total Notified Amount: ₹23,000 crore",
+     "Auction Date: December 02, 2026",
+     "Settlement Date: December 03, 2026",
+     "Retail Investor Limit: Maximum 5 percent of the notified amount"
+    ],
+    "static_gk": "Treasury bills are short-term debt instruments issued by the Government of India and currently issued in three tenors: 91-day, 182-day, and 364-day.",
+    "mcqs": [
+     {
+      "question": "What is the total notified amount for the Treasury Bills auction announced by RBI for December 02, 2026?",
+      "options": [
+       "₹15,000 crore",
+       "₹20,000 crore",
+       "₹23,000 crore",
+       "₹25,000 crore"
+      ],
+      "explanation": "The total notified amount for the 91-day, 182-day, and 364-day Treasury Bills auction is ₹23,000 crore."
+     },
+     {
+      "question": "What is the maximum percentage restriction for retail investor allocation in the Treasury Bills auction?",
+      "options": [
+       "2 percent",
+       "5 percent",
+       "10 percent",
+       "15 percent"
+      ],
+      "explanation": "For retail investors, the allocation is restricted to a maximum of 5 percent of the notified amount."
+     }
+    ]
+   },
+   "bn": {
+    "title": "৯১-দিন, ১৮২-দিন এবং ৩৬৪-দিনের ট্রেজারি বিলের নিলাম ঘোষণা করল RBI",
+    "one_liner": "RBI আগামী ০২ ডিসেম্বর, ২০২৬ তারিখে মোট ২৩,০০০ কোটি টাকার ৯১-দিনের, ১৮২-দিনের এবং ৩৬৪-দিনের ট্রেজারি বিলের নিলাম ঘোষণা করেছে।",
+    "summary": "রিজার্ভ ব্যাঙ্ক অফ ইন্ডিয়া ভারত সরকারের মোট ২৩,০০০ কোটি টাকার বিজ্ঞাপিত পরিমাণের ট্রেজারি বিলের নিলাম ঘোষণা করেছে, যার মধ্যে রয়েছে ৯১-দিনের (৮,০০০ কোটি টাকা), ১৮২-দিনের (৮,০০০ কোটি টাকা) এবং ৩৬৪-দিনের (৭,০০০ কোটি টাকা) বিল। ই-কুবেব (E-Kuber) সিস্টেমে একাধিক মূল্য পদ্ধতিতে আগামী ০২ ডিসেম্বর, ২০২৬ তারিখে এই নিলাম অনুষ্ঠিত হবে। খুচরা বিনিয়োগকারীরা রিটেল ডাইরেক্ট পোর্টালের মাধ্যমে অংশগ্রহণ করতে পারবেন এবং বরাদ্দ বিজ্ঞাপিত পরিমাণের সর্বোচ্চ ৫ শতাংশের মধ্যে সীমাবদ্ধ থাকবে।",
+    "points": [
+     "মোট বিজ্ঞাপিত পরিমাণ: ২৩,০০০ কোটি টাকা",
+     "নিলামের তারিখ: ০২ ডিসেম্বর, ২০২৬",
+     "নিষ্পত্তির তারিখ: ০৩ ডিসেম্বর, ২০২৬",
+     "খুচরা বিনিয়োগকারীর সীমা: বিজ্ঞাপিত পরিমাণের সর্বোচ্চ ৫ শতাংশ"
+    ],
+    "static_gk": "ট্রেজারি বিল হলো ভারত সরকার কর্তৃক জারি করা স্বল্পমেয়াদী ঋণ উপকরণ এবং বর্তমানে এটি তিনটি মেয়াদে জারি করা হয়: ৯১-দিন, ১৮২-দিন এবং ৩৬৪-দিন।",
+    "mcqs": [
+     {
+      "question": "০২ ডিসেম্বর, ২০২৬ তারিখের জন্য RBI কর্তৃক ঘোষিত ট্রেজারি বিলের নিলামের মোট বিজ্ঞাপিত পরিমাণ কত?",
+      "options": [
+       "১৫,০০০ কোটি টাকা",
+       "২০,০০০ কোটি টাকা",
+       "২৩,০০০ কোটি টাকা",
+       "২৫,০০০ কোটি টাকা"
+      ],
+      "explanation": "৯১-দিনের, ১৮২-দিনের এবং ৩৬৪-দিনের ট্রেজারি বিলের নিলামের মোট বিজ্ঞাপিত পরিমাণ হলো ২৩,০০০ কোটি টাকা।"
+     },
+     {
+      "question": "ট্রেজারি বিলের নিলামে খুচরা বিনিয়োগকারী বরাদ্দের জন্য সর্বোচ্চ শতাংশের সীমাবদ্ধতা কত?",
+      "options": [
+       "২ শতাংশ",
+       "৫ শতাংশ",
+       "১০ শতাংশ",
+       "১৫ শতাংশ"
+      ],
+      "explanation": "খুচরা বিনিয়োগকারীদের জন্য বরাদ্দ বিজ্ঞাপিত পরিমাণের সর্বোচ্চ ৫ শতাংশের মধ্যে সীমাবদ্ধ।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "RBI ने 91-दिवसीय, 182-दिवसीय और 364-दिवसीय ट्रेजरी बिलों की नीलामी की घोषणा की",
+    "one_liner": "RBI ने 2 दिसंबर 2026 को कुल ₹23,000 करोड़ के 91-दिवसीय, 182-दिवसीय और 364-दिवसीय ट्रेजरी बिलों की नीलामी की घोषणा की।",
+    "summary": "भारतीय रिजर्व बैंक ने कुल ₹23,000 करोड़ की अधिसूचित राशि के भारत सरकार के ट्रेजरी बिलों की नीलामी की घोषणा की, जिसमें 91-दिवसीय (₹8,000 करोड़), 182-दिवसीय (₹8,000 करोड़) और 364-दिवसीय (₹7,000 करोड़) बिल शामिल हैं। यह नीलामी 2 दिसंबर 2026 को E-Kuber प्रणाली पर बहु-मूल्य पद्धति (multiple price method) का उपयोग करके आयोजित की जाएगी। खुदरा निवेशक (retail investors) रिटेल डायरेक्ट पोर्टल के माध्यम से भाग ले सकते हैं और आवंटन अधिसूचित राशि के अधिकतम 5 प्रतिशत तक सीमित है।",
+    "points": [
+     "कुल अधिसूचित राशि: ₹23,000 करोड़",
+     "नीलामी की तारीख: 2 दिसंबर 2026",
+     "बंदोबस्त की तारीख: 3 दिसंबर 2026",
+     "खुदरा निवेशक सीमा: अधिसूचित राशि का अधिकतम 5 प्रतिशत"
+    ],
+    "static_gk": "ट्रेजरी बिल भारत सरकार द्वारा जारी किए जाने वाले अल्पकालिक ऋण साधन हैं और वर्तमान में तीन अवधियों में जारी किए जाते हैं: 91-दिवसीय, 182-दिवसीय और 364-दिवसीय।",
+    "mcqs": [
+     {
+      "question": "2 दिसंबर 2026 को RBI द्वारा घोषित ट्रेजरी बिल नीलामी के लिए कुल अधिसूचित राशि कितनी है?",
+      "options": [
+       "₹15,000 करोड़",
+       "₹20,000 करोड़",
+       "₹23,000 करोड़",
+       "₹25,000 करोड़"
+      ],
+      "explanation": "91-दिवसीय, 182-दिवसीय और 364-दिवसीय ट्रेजरी बिलों की नीलामी के लिए कुल अधिसूचित राशि ₹23,000 करोड़ है।"
+     },
+     {
+      "question": "ट्रेजरी बिल नीलामी में खुदरा निवेशक आवंटन के लिए अधिकतम प्रतिशत प्रतिबंध क्या है?",
+      "options": [
+       "2 प्रतिशत",
+       "5 प्रतिशत",
+       "10 प्रतिशत",
+       "15 प्रतिशत"
+      ],
+      "explanation": "खुदरा निवेशकों के लिए, आवंटन अधिसूचित राशि के अधिकतम 5 प्रतिशत तक सीमित है।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "आरबीआयने (RBI) ९१-दिवसीय, १८२-दिवसीय आणि ३६४-दिवसीय ट्रेझरी बिलांच्या लिलावाची घोषणा केली",
+    "one_liner": "आरबीआयने (RBI) २ डिसेंबर २०२६ रोजी एकूण २३,००० कोटी रुपयांच्या ९१-दिवसीय, १८२-दिवसीय आणि ३६४-दिवसीय ट्रेझरी बिलांच्या लिलावाची घोषणा केली.",
+    "summary": "रिझर्व्ह बँक ऑफ इंडियाने (Reserve Bank of India) एकूण २३,००० कोटी रुपयांच्या अधिसूचित रकमेची भारत सरकारच्या ट्रेझरी बिल लिलावाची घोषणा केली, ज्यामध्ये ९१-दिवसीय (८,००० कोटी रुपये), १८२-दिवसीय (८,००० कोटी रुपये) आणि ३६४-दिवसीय (७,००० कोटी रुपये) बिलांचा समावेश आहे. ई-कुबेर प्रणालीवर (E-Kuber system) बहु-किंमत पद्धतीचा वापर करून २ डिसेंबर २०२६ रोजी हा लिलाव घेतला जाईल. किरकोळ गुंतवणूकदार रिटेल डायरेक्ट पोर्टलद्वारे (Retail Direct portal) सहभागी होऊ शकतात आणि वाटप अधिसूचित रकमेच्या कमाल ५ टक्क्यांपर्यंत मर्यादित असेल.",
+    "points": [
+     "एकूण अधिसूचित रक्कम: ₹२३,००० कोटी",
+     "लिलाव तारीख: २ डिसेंबर २०२६",
+     "सेटलमेंट तारीख: ३ डिसेंबर २०२६",
+     "किरकोळ गुंतवणूकदार मर्यादा: अधिसूचित रकमेच्या कमाल ५ टक्के"
+    ],
+    "static_gk": "ट्रेझरी बिल ही भारत सरकारने जारी केलेली अल्पकालीन कर्जाची साधने आहेत आणि सध्या ती तीन कालावधीत जारी केली जातात: ९१-दिवसीय, १८२-दिवसीय आणि ३६४-दिवसीय.",
+    "mcqs": [
+     {
+      "question": "२ डिसेंबर २०२६ रोजी आरबीआयने (RBI) जाहीर केलेल्या ट्रेझरी बिल लिलावासाठी एकूण अधिसूचित रक्कम किती आहे?",
+      "options": [
+       "₹१५,००० कोटी",
+       "₹२०,००० कोटी",
+       "₹२३,००० कोटी",
+       "₹२५,००० कोटी"
+      ],
+      "explanation": "९१-दिवसीय, १८२-दिवसीय आणि ३६४-दिवसीय ट्रेझरी बिल लिलावासाठी एकूण अधिसूचित रक्कम २३,००० कोटी रुपये आहे."
+     },
+     {
+      "question": "ट्रेझरी बिल लिलावात किरकोळ गुंतवणूकदारांच्या वाटपासाठी कमाल टक्केवारी मर्यादा किती आहे?",
+      "options": [
+       "२ टक्के",
+       "५ टक्के",
+       "१० टक्के",
+       "१५ टक्के"
+      ],
+      "explanation": "किरकोळ गुंतवणूकदारांसाठी, वाटप अधिसूचित रकमेच्या कमाल ५ टक्क्यांपर्यंत मर्यादित आहे."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Reserve Bank of India",
+    "short": "RBI",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "importance": 7,
+  "gk": [
+   {
+    "en": "Headquarters of Reserve Bank of India: Mumbai",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক-এর সদর দপ্তর: মুম্বই",
+    "hi": "भारतीय रिज़र्व बैंक का मुख्यालय: मुम्बई",
+    "mr": "भारतीय रिझर्व्ह बँक चे मुख्यालय: मुंबई"
+   },
+   {
+    "en": "Reserve Bank of India was established in 1935",
+    "bn": "ভারতীয় রিজার্ভ ব্যাংক প্রতিষ্ঠিত হয় 1935 সালে",
+    "hi": "भारतीय रिज़र्व बैंक की स्थापना: 1935",
+    "mr": "भारतीय रिझर्व्ह बँक ची स्थापना: 1935"
+   }
+  ]
+ },
+ {
   "id": "5a5f358d72cc",
   "date": "2026-11-27",
   "time": "2026-11-27T14:29+05:30",
