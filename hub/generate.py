@@ -45,6 +45,7 @@ class Entity(BaseModel):
 
 class Core(BaseModel):
     n: int
+    importance: int = Field(description="1-10: how likely this is to be asked in competitive exams")
     entities: List[Entity]
     category: str
     region: str
@@ -117,6 +118,8 @@ Fields:
   regulators, banks, UN bodies, companies), countries, Indian states/UTs, and places such as national
   parks or wetlands. Give the full official English name (e.g. "National Film Development Corporation
   of India"), the abbreviation, the kind (state = Indian state/UT only), and whether it is Indian. No people.
+- importance: 1-10, how likely an examiner is to ask about this (10 = landmark: major scheme launch,
+  summit, constitutional/legal change, top appointment, big award or index ranking; 1 = minor routine event).
 - n: the release number you were given."""
 
 
@@ -188,6 +191,7 @@ def make_items(batch: list, date: str, time: str) -> list:
             "source_name": src["source"], "source_url": src["link"],
             "answers": answers, "langs": {"en": en}, "_source": source_text,
             "entities": [e.model_dump() for e in core.entities][:4],
+            "importance": max(1, min(10, core.importance)),
         }
         try:
             items[core.n]["gk"] = facts_for(items[core.n]["entities"])  # verified Wikidata facts

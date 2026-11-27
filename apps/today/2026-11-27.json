@@ -65,6 +65,7 @@
     "Headquarters of Banaras Hindu University: Varanasi",
     "Banaras Hindu University was established in 1916"
    ],
+   "importance": 8,
    "en": {
     "title": "Vice-President to Inaugurate Fifth Edition of Kashi Tamil Sangamam",
     "one_liner": "The fifth edition of Kashi Tamil Sangamam will be held from November 28 to December 12, 2026, in Varanasi, focusing on the Thirukkural.",
@@ -142,6 +143,7 @@
     "Headquarters of Ministry of Electronics and Information Technology: 20, Ashoka Road",
     "Ministry of Electronics and Information Technology was established in 2016"
    ],
+   "importance": 7,
    "en": {
     "title": "STPI Inaugurates its 75th Centre in Bareilly, Uttar Pradesh",
     "one_liner": "Software Technology Parks of India launched its 75th centre in Bareilly, Uttar Pradesh, to strengthen the regional IT and startup ecosystem.",
@@ -216,6 +218,7 @@
     "explanation": "The eligible age group for NAVYA 2.0 has been widened from 16–18 years to 16–25 years."
    },
    "gk": [],
+   "importance": 7,
    "en": {
     "title": "MWCD and MSDE to Jointly Launch NAVYA 2.0 in Haridwar",
     "one_liner": "The second phase of NAVYA will be launched in Haridwar to empower adolescent girls and young women across 100 districts.",
@@ -289,6 +292,7 @@
     "explanation": "The All India Institute of Ayurveda (AIIA), Goa, hosted the national-level conference."
    },
    "gk": [],
+   "importance": 5,
    "en": {
     "title": "National Conference on AYUSH Standardization Held at AIIA Goa",
     "one_liner": "AIIA Goa hosted a national conference on AYUSH Standardization to discuss the Standard National Action Plan 2027–32.",
@@ -363,6 +367,7 @@
     "explanation": "The two-day Power Ministers’ Conference commenced in New Delhi on November 27, 2026."
    },
    "gk": [],
+   "importance": 5,
    "en": {
     "title": "Two-day Power Ministers’ Conference begins in New Delhi",
     "one_liner": "The two-day Power Ministers’ Conference commenced in New Delhi on November 27, 2026, chaired by Union Minister Shri Manohar Lal.",
@@ -437,6 +442,7 @@
     "explanation": "Shri Piyush Goyal addressed the India Debt Capital Market Summit 2026."
    },
    "gk": [],
+   "importance": 4,
    "en": {
     "title": "India’s Growth Story Remains Strong Amid Global Uncertainties: Piyush Goyal",
     "one_liner": "Union Minister Shri Piyush Goyal stated at the India Debt Capital Market Summit 2026 that India's growth remains strong and resilient.",
@@ -516,6 +522,7 @@
     "Headquarters of Securities and Exchange Board of India: Mumbai",
     "Securities and Exchange Board of India was established in 1992"
    ],
+   "importance": 5,
    "en": {
     "title": "CCI Approves Combination Involving Samara AIFs and Associated Road Carriers",
     "one_liner": "The CCI approved a proposed combination involving Samara AIFs, Calyx Container Terminals, and Associated Road Carriers.",
@@ -593,6 +600,7 @@
     "Headquarters of Reserve Bank of India: Mumbai",
     "Reserve Bank of India was established in 1935"
    ],
+   "importance": 4,
    "en": {
     "title": "Government Stock Auction Results Announced by RBI",
     "one_liner": "The Reserve Bank of India released the cut-off and auction results for Government Stock and Sovereign Green Bonds.",
@@ -670,6 +678,7 @@
     "Headquarters of Reserve Bank of India: Mumbai",
     "Reserve Bank of India was established in 1935"
    ],
+   "importance": 4,
    "en": {
     "title": "RBI Conducts 3-day Variable Rate Repo Auction on November 27, 2026",
     "one_liner": "The Reserve Bank of India conducted a 3-day Variable Rate Repo auction on November 27, 2026, allotting 75,006 crore rupees.",

@@ -34,7 +34,7 @@ TOPICS = {
     "national_park_state": {
         "label": {"en": "National parks of India", "hi": "भारत के राष्ट्रीय उद्यान", "bn": "ভারতের জাতীয় উদ্যান", "mr": "भारतातील राष्ट्रीय उद्याने"},
         "q": {"en": "{x} is in which state/UT?", "hi": "{x} किस राज्य/केंद्र शासित प्रदेश में है?", "bn": "{x} কোন রাজ্যে অবস্থিত?", "mr": "{x} कोणत्या राज्यात आहे?"},
-        "sparql": "?s wdt:P31 wd:Q46169; wdt:P17 wd:Q668; wdt:P131* ?a. ?a wdt:P31 ?t. "
+        "sparql": "?s wdt:P31 wd:Q46169; wdt:P17 wd:Q668; wdt:P131/wdt:P131?/wdt:P131? ?a. ?a wdt:P31 ?t. "
                   "VALUES ?t {wd:Q12443800 wd:Q467745}",
     },
     "heritage_site_state": {
@@ -43,7 +43,7 @@ TOPICS = {
         "q": {"en": "The World Heritage Site '{x}' is in which state/UT?", "hi": "विश्व धरोहर स्थल '{x}' किस राज्य/केंद्र शासित प्रदेश में है?",
               "bn": "বিশ্ব ঐতিহ্য স্থান '{x}' কোন রাজ্যে অবস্থিত?",
               "mr": "जागतिक वारसा स्थळ '{x}' कोणत्या राज्यात आहे?"},
-        "sparql": "?s wdt:P1435 wd:Q9259; wdt:P17 wd:Q668; wdt:P131* ?a. ?a wdt:P31 ?t. "
+        "sparql": "?s wdt:P1435 wd:Q9259; wdt:P17 wd:Q668; wdt:P131/wdt:P131?/wdt:P131? ?a. ?a wdt:P31 ?t. "
                   "VALUES ?t {wd:Q12443800 wd:Q467745}",
     },
     "country_capital": {
@@ -72,6 +72,51 @@ TOPICS = {
               "mr": "{x} चे मुख्यालय कोठे आहे?"},
         "sparql": "?s wdt:P31/wdt:P279* wd:Q22687; wdt:P17 wd:Q668; wdt:P159 ?a; wikibase:sitelinks ?n. "
                   "FILTER(?n >= 8) ?a wdt:P31/wdt:P279* wd:Q515. FILTER NOT EXISTS {?s wdt:P576 ?end}",
+    },
+    "ramsar_state": {
+        "label": {"en": "Ramsar wetlands of India", "bn": "ভারতের রামসার জলাভূমি", "hi": "भारत की रामसर आर्द्रभूमियाँ",
+                  "mr": "भारतातील रामसर पाणथळ जागा"},
+        "q": {"en": "The Ramsar site '{x}' is in which state/UT?", "bn": "রামসার জলাভূমি '{x}' কোন রাজ্যে অবস্থিত?",
+              "hi": "रामसर स्थल '{x}' किस राज्य/केंद्र शासित प्रदेश में है?", "mr": "रामसर स्थळ '{x}' कोणत्या राज्यात आहे?"},
+        "sparql": "?s wdt:P1435 wd:Q19683138; wdt:P17 wd:Q668; wdt:P131/wdt:P131?/wdt:P131? ?a. ?a wdt:P31 ?t. VALUES ?t {wd:Q12443800 wd:Q467745}",
+    },
+    "biosphere_state": {
+        "label": {"en": "Biosphere reserves of India", "bn": "ভারতের বায়োস্ফিয়ার রিজার্ভ", "hi": "भारत के जैवमंडल आरक्षित क्षेत्र",
+                  "mr": "भारतातील जैवावरण राखीव क्षेत्रे"},
+        "q": {"en": "{x} is in which state/UT?", "bn": "{x} কোন রাজ্যে অবস্থিত?", "hi": "{x} किस राज्य/केंद्र शासित प्रदेश में है?",
+              "mr": "{x} कोणत्या राज्यात आहे?"},
+        "sparql": "?s wdt:P31 wd:Q158454; wdt:P17 wd:Q668; wdt:P131/wdt:P131? ?a. ?a wdt:P31 ?t. VALUES ?t {wd:Q12443800 wd:Q467745}",
+    },
+    "river_mouth": {
+        "label": {"en": "Rivers of India: where they flow into", "bn": "ভারতের নদী: কোথায় মিশেছে", "hi": "भारत की नदियाँ: कहाँ मिलती हैं",
+                  "mr": "भारतातील नद्या: कुठे मिळतात"},
+        "q": {"en": "Into which river or sea does the {x} flow?", "bn": "{x} কোন নদী বা সাগরে গিয়ে মিশেছে?",
+              "hi": "{x} किस नदी या सागर में मिलती है?", "mr": "{x} कोणत्या नदीला किंवा समुद्राला मिळते?"},
+        "sparql": "?s wdt:P31 wd:Q4022; wdt:P17 wd:Q668; wdt:P403 ?a; wikibase:sitelinks ?n. FILTER(?n >= 15)",
+        "max_answers": 1,
+    },
+    "airport_city": {
+        "label": {"en": "Airports of India", "bn": "ভারতের বিমানবন্দর", "hi": "भारत के हवाई अड्डे", "mr": "भारतातील विमानतळ"},
+        "q": {"en": "{x} is in which city?", "bn": "{x} কোন শহরে অবস্থিত?", "hi": "{x} किस शहर में है?",
+              "mr": "{x} कोणत्या शहरात आहे?"},
+        "sparql": "?s wdt:P31/wdt:P279* wd:Q1248784; wdt:P17 wd:Q668; wdt:P931 ?a; wikibase:sitelinks ?n. FILTER(?n >= 12)",
+        "max_answers": 1,
+        "no_answer_in_subject": True,
+    },
+    "country_legislature": {
+        "label": {"en": "Parliaments of the world", "bn": "বিশ্বের সংসদ", "hi": "विश्व की संसदें", "mr": "जगातील संसद"},
+        "q": {"en": "What is the parliament of {x} called?", "bn": "{x}-এর সংসদের নাম কী?", "hi": "{x} की संसद का नाम क्या है?",
+              "mr": "{x} च्या संसदेचे नाव काय?"},
+        "sparql": "?s wdt:P31 wd:Q3624078; wdt:P194 ?a. FILTER NOT EXISTS {?s wdt:P576 ?end}",
+        "max_answers": 1,
+        "no_subject_in_answer": True,
+    },
+    "country_continent": {
+        "label": {"en": "Countries & continents", "bn": "দেশ ও মহাদেশ", "hi": "देश और महाद्वीप", "mr": "देश व खंड"},
+        "q": {"en": "{x} is in which continent?", "bn": "{x} কোন মহাদেশে অবস্থিত?", "hi": "{x} किस महाद्वीप में है?",
+              "mr": "{x} कोणत्या खंडात आहे?"},
+        "sparql": "?s wdt:P31 wd:Q3624078; wdt:P30 ?a. FILTER NOT EXISTS {?s wdt:P576 ?end}",
+        "max_answers": 1,
     },
 }
 
@@ -110,7 +155,7 @@ def build_topic(key: str, t: dict) -> list:
     pool = sorted(alabel)
     items = []
     for s, ans in sorted(answers.items()):
-        if len(ans) > 2:   # too many valid answers (e.g. park across many districts) -> ambiguous
+        if len(ans) > t.get("max_answers", 2):  # too many valid answers -> ambiguous
             continue
         correct = sorted(ans)[0]
         wrong_pool = [a for a in pool if a not in ans]
@@ -124,6 +169,10 @@ def build_topic(key: str, t: dict) -> list:
             opts_w = [alabel[w][l] for w in wrong if l in alabel[w] and alabel[w][l] != c][:3]
             if not x or not c or len(set(opts_w)) < 3 or x.startswith("Q"):
                 continue
+            if t.get("no_subject_in_answer") and x.split()[-1].lower() in c.lower():
+                continue  # e.g. "Parliament of Canada" would give the answer away
+            if t.get("no_answer_in_subject") and c.split()[0].lower()[:4] in x.lower():
+                continue  # e.g. "Jodhpur Airport" -> Jodhpur
             options = opts_w + [c]
             rng.shuffle(options)
             qtext = t["q"][l].format(x=x)
@@ -137,13 +186,20 @@ def build_topic(key: str, t: dict) -> list:
 
 
 def main() -> None:
+    old_path = STORE / "static_gk.json"
+    old = json.loads(old_path.read_text(encoding="utf-8")) if old_path.exists() else {"items": [], "topics": {}}
     bank, topics = [], {}
     for key, t in TOPICS.items():
         try:
             items = build_topic(key, t)
+            if not items:
+                raise RuntimeError("no questions")
         except Exception as exc:
-            print(f"[skip] {key}: {exc}", file=sys.stderr)
-            continue
+            # Wikidata timed out etc.: keep this topic's questions from the last good build
+            items = [i for i in old["items"] if i["topic"] == key]
+            print(f"[keep-old] {key}: {str(exc)[:80]} -> {len(items)} previous questions", file=sys.stderr)
+            if not items:
+                continue
         per = {l: sum(1 for i in items if l in i["langs"]) for l in LANG_CODES}
         print(f"[topic] {key}: {per}", file=sys.stderr)
         topics[key] = t["label"]

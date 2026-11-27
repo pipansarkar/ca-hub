@@ -7,7 +7,13 @@
   "country_capital": "Countries & capitals",
   "country_currency": "Countries & currencies",
   "intl_org_hq": "Intergovernmental organisations: headquarters",
-  "indian_bank_hq": "Indian banks: headquarters"
+  "indian_bank_hq": "Indian banks: headquarters",
+  "ramsar_state": "Ramsar wetlands of India",
+  "biosphere_state": "Biosphere reserves of India",
+  "river_mouth": "Rivers of India: where they flow into",
+  "airport_city": "Airports of India",
+  "country_legislature": "Parliaments of the world",
+  "country_continent": "Countries & continents"
  },
  "items": [
   {
@@ -1299,20 +1305,6 @@
    "source_url": "https://www.wikidata.org/wiki/Q2663264"
   },
   {
-   "id": "39a7a385d5",
-   "topic": "national_park_state",
-   "question": "Salim Ali National Park is in which state/UT?",
-   "options": [
-    "Manipur",
-    "Telangana",
-    "Jammu and Kashmir",
-    "Ladakh"
-   ],
-   "answer": 2,
-   "fact": "Salim Ali National Park is in which state/UT? Answer: Jammu and Kashmir.",
-   "source_url": "https://www.wikidata.org/wiki/Q2667857"
-  },
-  {
    "id": "a248719cbb",
    "topic": "national_park_state",
    "question": "Vansda National Park is in which state/UT?",
@@ -2097,20 +2089,6 @@
    "source_url": "https://www.wikidata.org/wiki/Q648548"
   },
   {
-   "id": "8aece3d376",
-   "topic": "national_park_state",
-   "question": "Sanjay Gandhi National Park is in which state/UT?",
-   "options": [
-    "Jharkhand",
-    "Odisha",
-    "Jammu and Kashmir",
-    "Maharashtra"
-   ],
-   "answer": 3,
-   "fact": "Sanjay Gandhi National Park is in which state/UT? Answer: Maharashtra.",
-   "source_url": "https://www.wikidata.org/wiki/Q648907"
-  },
-  {
    "id": "8b4a53d18a",
    "topic": "national_park_state",
    "question": "Bandipur National Park is in which state/UT?",
@@ -2293,27 +2271,13 @@
    "source_url": "https://www.wikidata.org/wiki/Q969593"
   },
   {
-   "id": "c270c5a018",
-   "topic": "heritage_site_state",
-   "question": "The World Heritage Site 'Santiniketan' is in which state/UT?",
-   "options": [
-    "West Bengal",
-    "Rajasthan",
-    "Assam",
-    "Odisha"
-   ],
-   "answer": 0,
-   "fact": "The World Heritage Site 'Santiniketan' is in which state/UT? Answer: West Bengal.",
-   "source_url": "https://www.wikidata.org/wiki/Q1026431"
-  },
-  {
    "id": "066e96f5d2",
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Hill Forts of Rajasthan' is in which state/UT?",
    "options": [
-    "Karnataka",
+    "Kerala",
     "Tamil Nadu",
-    "Uttar Pradesh",
+    "Uttarakhand",
     "Rajasthan"
    ],
    "answer": 3,
@@ -2325,9 +2289,9 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Tower of Shadows' is in which state/UT?",
    "options": [
-    "West Bengal",
+    "Rajasthan",
+    "Odisha",
     "Sikkim",
-    "Uttarakhand",
     "Chandigarh"
    ],
    "answer": 3,
@@ -2341,7 +2305,7 @@
    "options": [
     "Assam",
     "Sikkim",
-    "Goa",
+    "Himachal Pradesh",
     "National Capital Territory of Delhi"
    ],
    "answer": 0,
@@ -2353,9 +2317,9 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Dhal ni Pol' is in which state/UT?",
    "options": [
-    "Chandigarh",
-    "Madhya Pradesh",
-    "National Capital Territory of Delhi",
+    "West Bengal",
+    "Maharashtra",
+    "Kerala",
     "Gujarat"
    ],
    "answer": 3,
@@ -2367,10 +2331,10 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Maratha Military Landscapes of India' is in which state/UT?",
    "options": [
-    "Rajasthan",
+    "Odisha",
     "Kerala",
     "Maharashtra",
-    "Sikkim"
+    "Madhya Pradesh"
    ],
    "answer": 2,
    "fact": "The World Heritage Site 'Maratha Military Landscapes of India' is in which state/UT? Answer: Maharashtra.",
@@ -2381,10 +2345,10 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Great Himalayan National Park' is in which state/UT?",
    "options": [
-    "Odisha",
+    "Kerala",
     "Himachal Pradesh",
-    "Tamil Nadu",
-    "Karnataka"
+    "Uttar Pradesh",
+    "Chandigarh"
    ],
    "answer": 1,
    "fact": "The World Heritage Site 'Great Himalayan National Park' is in which state/UT? Answer: Himachal Pradesh.",
@@ -2395,12 +2359,12 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Churches and Convents of Goa' is in which state/UT?",
    "options": [
-    "Goa",
-    "Odisha",
+    "Uttarakhand",
+    "Chandigarh",
     "Assam",
-    "Uttar Pradesh"
+    "Goa"
    ],
-   "answer": 0,
+   "answer": 3,
    "fact": "The World Heritage Site 'Churches and Convents of Goa' is in which state/UT? Answer: Goa.",
    "source_url": "https://www.wikidata.org/wiki/Q15726428"
   },
@@ -2409,10 +2373,10 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Nanda Devi and Valley of Flowers National Parks' is in which state/UT?",
    "options": [
-    "West Bengal",
-    "Bihar",
+    "Rajasthan",
+    "Madhya Pradesh",
     "Uttarakhand",
-    "Kerala"
+    "West Bengal"
    ],
    "answer": 2,
    "fact": "The World Heritage Site 'Nanda Devi and Valley of Flowers National Parks' is in which state/UT? Answer: Uttarakhand.",
@@ -2423,42 +2387,14 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Nanda Devi National Park' is in which state/UT?",
    "options": [
-    "Uttarakhand",
-    "Uttar Pradesh",
-    "Himachal Pradesh",
-    "Kerala"
-   ],
-   "answer": 0,
-   "fact": "The World Heritage Site 'Nanda Devi National Park' is in which state/UT? Answer: Uttarakhand.",
-   "source_url": "https://www.wikidata.org/wiki/Q1648266"
-  },
-  {
-   "id": "a908ed1e18",
-   "topic": "heritage_site_state",
-   "question": "The World Heritage Site 'Khajuraho Group of Monuments' is in which state/UT?",
-   "options": [
-    "Rajasthan",
+    "Karnataka",
     "Madhya Pradesh",
     "Uttarakhand",
-    "Uttar Pradesh"
+    "West Bengal"
    ],
-   "answer": 1,
-   "fact": "The World Heritage Site 'Khajuraho Group of Monuments' is in which state/UT? Answer: Madhya Pradesh.",
-   "source_url": "https://www.wikidata.org/wiki/Q167298"
-  },
-  {
-   "id": "a7b3bbfbe1",
-   "topic": "heritage_site_state",
-   "question": "The World Heritage Site 'Agra Fort' is in which state/UT?",
-   "options": [
-    "Tamil Nadu",
-    "Uttar Pradesh",
-    "Rajasthan",
-    "Maharashtra"
-   ],
-   "answer": 1,
-   "fact": "The World Heritage Site 'Agra Fort' is in which state/UT? Answer: Uttar Pradesh.",
-   "source_url": "https://www.wikidata.org/wiki/Q171857"
+   "answer": 2,
+   "fact": "The World Heritage Site 'Nanda Devi National Park' is in which state/UT? Answer: Uttarakhand.",
+   "source_url": "https://www.wikidata.org/wiki/Q1648266"
   },
   {
    "id": "0f6124a24b",
@@ -2466,8 +2402,8 @@
    "question": "The World Heritage Site 'Descent of the Ganges' is in which state/UT?",
    "options": [
     "Tamil Nadu",
-    "Odisha",
-    "Uttarakhand",
+    "West Bengal",
+    "Sikkim",
     "National Capital Territory of Delhi"
    ],
    "answer": 0,
@@ -2479,12 +2415,12 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Fatehpur Sikri' is in which state/UT?",
    "options": [
-    "Chandigarh",
-    "Tamil Nadu",
-    "Bihar",
-    "Uttar Pradesh"
+    "Uttarakhand",
+    "Goa",
+    "Uttar Pradesh",
+    "Sikkim"
    ],
-   "answer": 3,
+   "answer": 2,
    "fact": "The World Heritage Site 'Fatehpur Sikri' is in which state/UT? Answer: Uttar Pradesh.",
    "source_url": "https://www.wikidata.org/wiki/Q179046"
   },
@@ -2493,12 +2429,12 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Sanchi' is in which state/UT?",
    "options": [
-    "West Bengal",
-    "Madhya Pradesh",
+    "Assam",
+    "Rajasthan",
     "National Capital Territory of Delhi",
-    "Goa"
+    "Madhya Pradesh"
    ],
-   "answer": 1,
+   "answer": 3,
    "fact": "The World Heritage Site 'Sanchi' is in which state/UT? Answer: Madhya Pradesh.",
    "source_url": "https://www.wikidata.org/wiki/Q181123"
   },
@@ -2509,8 +2445,8 @@
    "options": [
     "Gujarat",
     "Maharashtra",
-    "Madhya Pradesh",
-    "Tamil Nadu"
+    "Chandigarh",
+    "Kerala"
    ],
    "answer": 1,
    "fact": "The World Heritage Site 'Ajanta Caves' is in which state/UT? Answer: Maharashtra.",
@@ -2521,37 +2457,23 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Ellora Caves' is in which state/UT?",
    "options": [
-    "Rajasthan",
-    "Maharashtra",
-    "Kerala",
-    "Goa"
-   ],
-   "answer": 1,
-   "fact": "The World Heritage Site 'Ellora Caves' is in which state/UT? Answer: Maharashtra.",
-   "source_url": "https://www.wikidata.org/wiki/Q189616"
-  },
-  {
-   "id": "7ea681e0ec",
-   "topic": "heritage_site_state",
-   "question": "The World Heritage Site 'Humayun's Tomb' is in which state/UT?",
-   "options": [
-    "West Bengal",
-    "Kerala",
-    "Maharashtra",
-    "National Capital Territory of Delhi"
+    "Himachal Pradesh",
+    "Telangana",
+    "Tamil Nadu",
+    "Maharashtra"
    ],
    "answer": 3,
-   "fact": "The World Heritage Site 'Humayun's Tomb' is in which state/UT? Answer: National Capital Territory of Delhi.",
-   "source_url": "https://www.wikidata.org/wiki/Q189648"
+   "fact": "The World Heritage Site 'Ellora Caves' is in which state/UT? Answer: Maharashtra.",
+   "source_url": "https://www.wikidata.org/wiki/Q189616"
   },
   {
    "id": "145d1bfe0c",
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Kaziranga National Park' is in which state/UT?",
    "options": [
+    "Madhya Pradesh",
+    "Uttarakhand",
     "Kerala",
-    "Goa",
-    "Karnataka",
     "Assam"
    ],
    "answer": 3,
@@ -2563,40 +2485,26 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Jantar Mantar' is in which state/UT?",
    "options": [
-    "Tamil Nadu",
-    "Gujarat",
+    "West Bengal",
     "National Capital Territory of Delhi",
-    "Rajasthan"
+    "Tamil Nadu",
+    "Uttar Pradesh"
    ],
-   "answer": 2,
+   "answer": 1,
    "fact": "The World Heritage Site 'Jantar Mantar' is in which state/UT? Answer: National Capital Territory of Delhi.",
    "source_url": "https://www.wikidata.org/wiki/Q2045115"
-  },
-  {
-   "id": "6771059ffe",
-   "topic": "heritage_site_state",
-   "question": "The World Heritage Site 'Nalanda Mahavihara' is in which state/UT?",
-   "options": [
-    "Bihar",
-    "Kerala",
-    "Goa",
-    "National Capital Territory of Delhi"
-   ],
-   "answer": 0,
-   "fact": "The World Heritage Site 'Nalanda Mahavihara' is in which state/UT? Answer: Bihar.",
-   "source_url": "https://www.wikidata.org/wiki/Q216243"
   },
   {
    "id": "3c6c8d6329",
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Kevladev National Park' is in which state/UT?",
    "options": [
-    "Assam",
-    "Kerala",
+    "Rajasthan",
+    "Madhya Pradesh",
     "West Bengal",
-    "Rajasthan"
+    "Assam"
    ],
-   "answer": 3,
+   "answer": 0,
    "fact": "The World Heritage Site 'Kevladev National Park' is in which state/UT? Answer: Rajasthan.",
    "source_url": "https://www.wikidata.org/wiki/Q235878"
   },
@@ -2606,9 +2514,9 @@
    "question": "The World Heritage Site 'Chhatrapati Shivaji Maharaj Terminus' is in which state/UT?",
    "options": [
     "National Capital Territory of Delhi",
-    "Uttarakhand",
+    "Sikkim",
     "Maharashtra",
-    "Tamil Nadu"
+    "Kerala"
    ],
    "answer": 2,
    "fact": "The World Heritage Site 'Chhatrapati Shivaji Maharaj Terminus' is in which state/UT? Answer: Maharashtra.",
@@ -2619,10 +2527,10 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Khangchendzonga National Park' is in which state/UT?",
    "options": [
-    "Kerala",
+    "Madhya Pradesh",
     "Sikkim",
-    "Karnataka",
-    "West Bengal"
+    "Kerala",
+    "National Capital Territory of Delhi"
    ],
    "answer": 1,
    "fact": "The World Heritage Site 'Khangchendzonga National Park' is in which state/UT? Answer: Sikkim.",
@@ -2633,12 +2541,12 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Hampi' is in which state/UT?",
    "options": [
-    "Karnataka",
-    "Goa",
-    "Odisha",
-    "National Capital Territory of Delhi"
+    "Telangana",
+    "Himachal Pradesh",
+    "Rajasthan",
+    "Karnataka"
    ],
-   "answer": 0,
+   "answer": 3,
    "fact": "The World Heritage Site 'Hampi' is in which state/UT? Answer: Karnataka.",
    "source_url": "https://www.wikidata.org/wiki/Q26732"
   },
@@ -2647,12 +2555,12 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Sarnath' is in which state/UT?",
    "options": [
-    "Karnataka",
-    "Rajasthan",
-    "Himachal Pradesh",
-    "Uttar Pradesh"
+    "Telangana",
+    "Uttar Pradesh",
+    "Kerala",
+    "Tamil Nadu"
    ],
-   "answer": 3,
+   "answer": 1,
    "fact": "The World Heritage Site 'Sarnath' is in which state/UT? Answer: Uttar Pradesh.",
    "source_url": "https://www.wikidata.org/wiki/Q324394"
   },
@@ -2661,10 +2569,10 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Bhimbetka rock shelters' is in which state/UT?",
    "options": [
-    "Bihar",
-    "Gujarat",
+    "West Bengal",
+    "Assam",
     "Madhya Pradesh",
-    "Chandigarh"
+    "Gujarat"
    ],
    "answer": 2,
    "fact": "The World Heritage Site 'Bhimbetka rock shelters' is in which state/UT? Answer: Madhya Pradesh.",
@@ -2676,41 +2584,13 @@
    "question": "The World Heritage Site 'Ramappa Temple' is in which state/UT?",
    "options": [
     "Telangana",
+    "Himachal Pradesh",
     "Madhya Pradesh",
-    "Kerala",
-    "Tamil Nadu"
+    "Uttar Pradesh"
    ],
    "answer": 0,
    "fact": "The World Heritage Site 'Ramappa Temple' is in which state/UT? Answer: Telangana.",
    "source_url": "https://www.wikidata.org/wiki/Q3380656"
-  },
-  {
-   "id": "717be1542e",
-   "topic": "heritage_site_state",
-   "question": "The World Heritage Site 'Mahabodhi Temple' is in which state/UT?",
-   "options": [
-    "Bihar",
-    "Madhya Pradesh",
-    "Gujarat",
-    "Chandigarh"
-   ],
-   "answer": 0,
-   "fact": "The World Heritage Site 'Mahabodhi Temple' is in which state/UT? Answer: Bihar.",
-   "source_url": "https://www.wikidata.org/wiki/Q4513"
-  },
-  {
-   "id": "ab860c8891",
-   "topic": "heritage_site_state",
-   "question": "The World Heritage Site 'Red Fort' is in which state/UT?",
-   "options": [
-    "Kerala",
-    "Bihar",
-    "National Capital Territory of Delhi",
-    "Gujarat"
-   ],
-   "answer": 2,
-   "fact": "The World Heritage Site 'Red Fort' is in which state/UT? Answer: National Capital Territory of Delhi.",
-   "source_url": "https://www.wikidata.org/wiki/Q45957"
   },
   {
    "id": "6ed78937c7",
@@ -2718,27 +2598,13 @@
    "question": "The World Heritage Site 'Manas National Park' is in which state/UT?",
    "options": [
     "Assam",
-    "Chandigarh",
-    "Himachal Pradesh",
-    "Sikkim"
+    "West Bengal",
+    "Goa",
+    "Odisha"
    ],
    "answer": 0,
    "fact": "The World Heritage Site 'Manas National Park' is in which state/UT? Answer: Assam.",
    "source_url": "https://www.wikidata.org/wiki/Q506511"
-  },
-  {
-   "id": "70b485fef9",
-   "topic": "heritage_site_state",
-   "question": "The World Heritage Site 'Jantar Mantar' is in which state/UT?",
-   "options": [
-    "Kerala",
-    "West Bengal",
-    "Himachal Pradesh",
-    "Rajasthan"
-   ],
-   "answer": 3,
-   "fact": "The World Heritage Site 'Jantar Mantar' is in which state/UT? Answer: Rajasthan.",
-   "source_url": "https://www.wikidata.org/wiki/Q508634"
   },
   {
    "id": "318ee70940",
@@ -2746,11 +2612,11 @@
    "question": "The World Heritage Site 'Sundarbans National Park' is in which state/UT?",
    "options": [
     "Assam",
-    "Karnataka",
-    "Bihar",
-    "West Bengal"
+    "West Bengal",
+    "National Capital Territory of Delhi",
+    "Goa"
    ],
-   "answer": 3,
+   "answer": 1,
    "fact": "The World Heritage Site 'Sundarbans National Park' is in which state/UT? Answer: West Bengal.",
    "source_url": "https://www.wikidata.org/wiki/Q532440"
   },
@@ -2759,12 +2625,12 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'iron pillar of Delhi' is in which state/UT?",
    "options": [
-    "Maharashtra",
-    "Kerala",
     "National Capital Territory of Delhi",
+    "Madhya Pradesh",
+    "Karnataka",
     "Chandigarh"
    ],
-   "answer": 2,
+   "answer": 0,
    "fact": "The World Heritage Site 'iron pillar of Delhi' is in which state/UT? Answer: National Capital Territory of Delhi.",
    "source_url": "https://www.wikidata.org/wiki/Q543419"
   },
@@ -2773,12 +2639,12 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Historic City of Ahmadabad' is in which state/UT?",
    "options": [
+    "Karnataka",
+    "Kerala",
     "Gujarat",
-    "Bihar",
-    "Maharashtra",
-    "Karnataka"
+    "Goa"
    ],
-   "answer": 0,
+   "answer": 2,
    "fact": "The World Heritage Site 'Historic City of Ahmadabad' is in which state/UT? Answer: Gujarat.",
    "source_url": "https://www.wikidata.org/wiki/Q5472448"
   },
@@ -2787,9 +2653,9 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Valley of Flowers National Park' is in which state/UT?",
    "options": [
-    "Kerala",
-    "Chandigarh",
     "Himachal Pradesh",
+    "West Bengal",
+    "Karnataka",
     "Uttarakhand"
    ],
    "answer": 3,
@@ -2801,10 +2667,10 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Kaas Plateau' is in which state/UT?",
    "options": [
-    "Telangana",
+    "National Capital Territory of Delhi",
     "Maharashtra",
-    "Madhya Pradesh",
-    "Assam"
+    "Chandigarh",
+    "Gujarat"
    ],
    "answer": 1,
    "fact": "The World Heritage Site 'Kaas Plateau' is in which state/UT? Answer: Maharashtra.",
@@ -2815,9 +2681,9 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Elephanta Caves' is in which state/UT?",
    "options": [
-    "Rajasthan",
-    "Kerala",
-    "Chandigarh",
+    "Tamil Nadu",
+    "Madhya Pradesh",
+    "Karnataka",
     "Maharashtra"
    ],
    "answer": 3,
@@ -2829,10 +2695,10 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Tomb of Isa Khan' is in which state/UT?",
    "options": [
-    "Kerala",
-    "National Capital Territory of Delhi",
     "Himachal Pradesh",
-    "West Bengal"
+    "National Capital Territory of Delhi",
+    "Karnataka",
+    "Rajasthan"
    ],
    "answer": 1,
    "fact": "The World Heritage Site 'Tomb of Isa Khan' is in which state/UT? Answer: National Capital Territory of Delhi.",
@@ -2844,9 +2710,9 @@
    "question": "The World Heritage Site 'Jaipur' is in which state/UT?",
    "options": [
     "Assam",
-    "Himachal Pradesh",
+    "Sikkim",
     "Rajasthan",
-    "Bihar"
+    "Goa"
    ],
    "answer": 2,
    "fact": "The World Heritage Site 'Jaipur' is in which state/UT? Answer: Rajasthan.",
@@ -2857,10 +2723,10 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Maidam' is in which state/UT?",
    "options": [
-    "West Bengal",
-    "Maharashtra",
+    "National Capital Territory of Delhi",
+    "Chandigarh",
     "Assam",
-    "Karnataka"
+    "Kerala"
    ],
    "answer": 2,
    "fact": "The World Heritage Site 'Maidam' is in which state/UT? Answer: Assam.",
@@ -2871,9 +2737,9 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Great Living Chola Temples' is in which state/UT?",
    "options": [
-    "Goa",
+    "Himachal Pradesh",
     "Assam",
-    "Telangana",
+    "Uttarakhand",
     "Tamil Nadu"
    ],
    "answer": 3,
@@ -2885,10 +2751,10 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Rani ki vav' is in which state/UT?",
    "options": [
-    "Kerala",
-    "Goa",
+    "Madhya Pradesh",
+    "Himachal Pradesh",
     "Gujarat",
-    "Uttarakhand"
+    "West Bengal"
    ],
    "answer": 2,
    "fact": "The World Heritage Site 'Rani ki vav' is in which state/UT? Answer: Gujarat.",
@@ -2899,12 +2765,12 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Secretariat Building' is in which state/UT?",
    "options": [
+    "Maharashtra",
+    "Kerala",
     "Chandigarh",
-    "Tamil Nadu",
-    "Uttarakhand",
-    "Madhya Pradesh"
+    "Sikkim"
    ],
-   "answer": 0,
+   "answer": 2,
    "fact": "The World Heritage Site 'Secretariat Building' is in which state/UT? Answer: Chandigarh.",
    "source_url": "https://www.wikidata.org/wiki/Q7444209"
   },
@@ -2913,12 +2779,12 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Konark Sun Temple' is in which state/UT?",
    "options": [
-    "Chandigarh",
     "Odisha",
-    "Goa",
-    "National Capital Territory of Delhi"
+    "Karnataka",
+    "National Capital Territory of Delhi",
+    "Himachal Pradesh"
    ],
-   "answer": 1,
+   "answer": 0,
    "fact": "The World Heritage Site 'Konark Sun Temple' is in which state/UT? Answer: Odisha.",
    "source_url": "https://www.wikidata.org/wiki/Q752091"
   },
@@ -2927,10 +2793,10 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Pattadakal Group of Monuments' is in which state/UT?",
    "options": [
-    "Telangana",
+    "National Capital Territory of Delhi",
     "Gujarat",
     "Karnataka",
-    "Chandigarh"
+    "Kerala"
    ],
    "answer": 2,
    "fact": "The World Heritage Site 'Pattadakal Group of Monuments' is in which state/UT? Answer: Karnataka.",
@@ -2941,10 +2807,10 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Champaner-Pavagadh Archaeological Park' is in which state/UT?",
    "options": [
-    "Goa",
-    "National Capital Territory of Delhi",
+    "Uttar Pradesh",
+    "Himachal Pradesh",
     "Gujarat",
-    "Telangana"
+    "National Capital Territory of Delhi"
    ],
    "answer": 2,
    "fact": "The World Heritage Site 'Champaner-Pavagadh Archaeological Park' is in which state/UT? Answer: Gujarat.",
@@ -2955,10 +2821,10 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Taj Mahal' is in which state/UT?",
    "options": [
-    "Goa",
-    "Rajasthan",
+    "West Bengal",
+    "Tamil Nadu",
     "Uttar Pradesh",
-    "Uttarakhand"
+    "Sikkim"
    ],
    "answer": 2,
    "fact": "The World Heritage Site 'Taj Mahal' is in which state/UT? Answer: Uttar Pradesh.",
@@ -2969,10 +2835,10 @@
    "topic": "heritage_site_state",
    "question": "The World Heritage Site 'Dholavira' is in which state/UT?",
    "options": [
-    "Kerala",
+    "Madhya Pradesh",
     "Gujarat",
-    "Rajasthan",
-    "Odisha"
+    "Uttarakhand",
+    "Telangana"
    ],
    "answer": 1,
    "fact": "The World Heritage Site 'Dholavira' is in which state/UT? Answer: Gujarat.",
@@ -9529,6 +9395,5844 @@
    "answer": 0,
    "fact": "Where is the headquarters of Reserve Bank of India? Answer: Mumbai.",
    "source_url": "https://www.wikidata.org/wiki/Q944085"
+  },
+  {
+   "id": "80e3486159",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Nangal Wildlife Sanctuary' is in which state/UT?",
+   "options": [
+    "Himachal Pradesh",
+    "Rajasthan",
+    "Maharashtra",
+    "Punjab"
+   ],
+   "answer": 3,
+   "fact": "The Ramsar site 'Nangal Wildlife Sanctuary' is in which state/UT? Answer: Punjab.",
+   "source_url": "https://www.wikidata.org/wiki/Q109905245"
+  },
+  {
+   "id": "dd208f382b",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Great Rann of Kutch' is in which state/UT?",
+   "options": [
+    "Assam",
+    "Gujarat",
+    "Maharashtra",
+    "Ladakh"
+   ],
+   "answer": 1,
+   "fact": "The Ramsar site 'Great Rann of Kutch' is in which state/UT? Answer: Gujarat.",
+   "source_url": "https://www.wikidata.org/wiki/Q1118568"
+  },
+  {
+   "id": "f1d6c87d44",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Nalbana Bird Sanctuary' is in which state/UT?",
+   "options": [
+    "Kerala",
+    "Odisha",
+    "Punjab",
+    "Gujarat"
+   ],
+   "answer": 1,
+   "fact": "The Ramsar site 'Nalbana Bird Sanctuary' is in which state/UT? Answer: Odisha.",
+   "source_url": "https://www.wikidata.org/wiki/Q15650265"
+  },
+  {
+   "id": "1441bb740a",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Nandur Madhmeshwar Bird Sanctuary' is in which state/UT?",
+   "options": [
+    "Bihar",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Punjab"
+   ],
+   "answer": 2,
+   "fact": "The Ramsar site 'Nandur Madhmeshwar Bird Sanctuary' is in which state/UT? Answer: Maharashtra.",
+   "source_url": "https://www.wikidata.org/wiki/Q19808294"
+  },
+  {
+   "id": "8a368e0acb",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Chilika Lake' is in which state/UT?",
+   "options": [
+    "Madhya Pradesh",
+    "Kerala",
+    "Jammu and Kashmir",
+    "Odisha"
+   ],
+   "answer": 3,
+   "fact": "The Ramsar site 'Chilika Lake' is in which state/UT? Answer: Odisha.",
+   "source_url": "https://www.wikidata.org/wiki/Q2047322"
+  },
+  {
+   "id": "81ebcdc5bb",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Tso Moriri' is in which state/UT?",
+   "options": [
+    "Himachal Pradesh",
+    "Maharashtra",
+    "Odisha",
+    "Ladakh"
+   ],
+   "answer": 3,
+   "fact": "The Ramsar site 'Tso Moriri' is in which state/UT? Answer: Ladakh.",
+   "source_url": "https://www.wikidata.org/wiki/Q2087758"
+  },
+  {
+   "id": "e9440ba54d",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Kevladev National Park' is in which state/UT?",
+   "options": [
+    "Himachal Pradesh",
+    "Bihar",
+    "Assam",
+    "Rajasthan"
+   ],
+   "answer": 3,
+   "fact": "The Ramsar site 'Kevladev National Park' is in which state/UT? Answer: Rajasthan.",
+   "source_url": "https://www.wikidata.org/wiki/Q235878"
+  },
+  {
+   "id": "5ce22e4fae",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Ashtamudi Lake' is in which state/UT?",
+   "options": [
+    "Himachal Pradesh",
+    "Maharashtra",
+    "Jammu and Kashmir",
+    "Kerala"
+   ],
+   "answer": 3,
+   "fact": "The Ramsar site 'Ashtamudi Lake' is in which state/UT? Answer: Kerala.",
+   "source_url": "https://www.wikidata.org/wiki/Q2605009"
+  },
+  {
+   "id": "a4198d01d2",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Bhitarkanika Mangroves' is in which state/UT?",
+   "options": [
+    "Odisha",
+    "Gujarat",
+    "Ladakh",
+    "Madhya Pradesh"
+   ],
+   "answer": 0,
+   "fact": "The Ramsar site 'Bhitarkanika Mangroves' is in which state/UT? Answer: Odisha.",
+   "source_url": "https://www.wikidata.org/wiki/Q4901841"
+  },
+  {
+   "id": "4419d573a8",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Bhojtal' is in which state/UT?",
+   "options": [
+    "Kerala",
+    "Madhya Pradesh",
+    "Himachal Pradesh",
+    "Assam"
+   ],
+   "answer": 1,
+   "fact": "The Ramsar site 'Bhojtal' is in which state/UT? Answer: Madhya Pradesh.",
+   "source_url": "https://www.wikidata.org/wiki/Q4901916"
+  },
+  {
+   "id": "8283feb5ea",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Chandra Taal' is in which state/UT?",
+   "options": [
+    "Assam",
+    "Punjab",
+    "Bihar",
+    "Himachal Pradesh"
+   ],
+   "answer": 3,
+   "fact": "The Ramsar site 'Chandra Taal' is in which state/UT? Answer: Himachal Pradesh.",
+   "source_url": "https://www.wikidata.org/wiki/Q5071315"
+  },
+  {
+   "id": "a3d39225d5",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Chari-Dhand Wetland Conservation Reserve' is in which state/UT?",
+   "options": [
+    "Maharashtra",
+    "Gujarat",
+    "Bihar",
+    "Madhya Pradesh"
+   ],
+   "answer": 1,
+   "fact": "The Ramsar site 'Chari-Dhand Wetland Conservation Reserve' is in which state/UT? Answer: Gujarat.",
+   "source_url": "https://www.wikidata.org/wiki/Q5074314"
+  },
+  {
+   "id": "a2f41a6d16",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Point Calimere Wildlife and Bird Sanctuary' is in which state/UT?",
+   "options": [
+    "Tamil Nadu",
+    "Odisha",
+    "Rajasthan",
+    "Maharashtra"
+   ],
+   "answer": 0,
+   "fact": "The Ramsar site 'Point Calimere Wildlife and Bird Sanctuary' is in which state/UT? Answer: Tamil Nadu.",
+   "source_url": "https://www.wikidata.org/wiki/Q5614058"
+  },
+  {
+   "id": "1ae25777a5",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Harike Wetland' is in which state/UT?",
+   "options": [
+    "Maharashtra",
+    "Punjab",
+    "Rajasthan",
+    "Kerala"
+   ],
+   "answer": 1,
+   "fact": "The Ramsar site 'Harike Wetland' is in which state/UT? Answer: Punjab.",
+   "source_url": "https://www.wikidata.org/wiki/Q5657472"
+  },
+  {
+   "id": "cb06985313",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Kanwar Lake Bird Sanctuary' is in which state/UT?",
+   "options": [
+    "Bihar",
+    "Punjab",
+    "Jammu and Kashmir",
+    "Assam"
+   ],
+   "answer": 0,
+   "fact": "The Ramsar site 'Kanwar Lake Bird Sanctuary' is in which state/UT? Answer: Bihar.",
+   "source_url": "https://www.wikidata.org/wiki/Q6365748"
+  },
+  {
+   "id": "e7664e4e8d",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Kerala backwaters' is in which state/UT?",
+   "options": [
+    "Rajasthan",
+    "Jammu and Kashmir",
+    "Kerala",
+    "Odisha"
+   ],
+   "answer": 2,
+   "fact": "The Ramsar site 'Kerala backwaters' is in which state/UT? Answer: Kerala.",
+   "source_url": "https://www.wikidata.org/wiki/Q666519"
+  },
+  {
+   "id": "74528e1f44",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Renuka Lake' is in which state/UT?",
+   "options": [
+    "Rajasthan",
+    "Kerala",
+    "Assam",
+    "Himachal Pradesh"
+   ],
+   "answer": 3,
+   "fact": "The Ramsar site 'Renuka Lake' is in which state/UT? Answer: Himachal Pradesh.",
+   "source_url": "https://www.wikidata.org/wiki/Q7313585"
+  },
+  {
+   "id": "b77e32de3e",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Thrissur-Ponnani Kole Wetlands' is in which state/UT?",
+   "options": [
+    "Bihar",
+    "Kerala",
+    "Jammu and Kashmir",
+    "Tamil Nadu"
+   ],
+   "answer": 1,
+   "fact": "The Ramsar site 'Thrissur-Ponnani Kole Wetlands' is in which state/UT? Answer: Kerala.",
+   "source_url": "https://www.wikidata.org/wiki/Q7375474"
+  },
+  {
+   "id": "0da9ddf3b5",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Wular Lake' is in which state/UT?",
+   "options": [
+    "Tamil Nadu",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Jammu and Kashmir"
+   ],
+   "answer": 3,
+   "fact": "The Ramsar site 'Wular Lake' is in which state/UT? Answer: Jammu and Kashmir.",
+   "source_url": "https://www.wikidata.org/wiki/Q744741"
+  },
+  {
+   "id": "d00c7a7e23",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Sasthamcotta Lake' is in which state/UT?",
+   "options": [
+    "Odisha",
+    "Kerala",
+    "Gujarat",
+    "Jammu and Kashmir"
+   ],
+   "answer": 1,
+   "fact": "The Ramsar site 'Sasthamcotta Lake' is in which state/UT? Answer: Kerala.",
+   "source_url": "https://www.wikidata.org/wiki/Q75254"
+  },
+  {
+   "id": "d9491b64b5",
+   "topic": "ramsar_state",
+   "question": "The Ramsar site 'Dipor Bil' is in which state/UT?",
+   "options": [
+    "Bihar",
+    "Assam",
+    "Ladakh",
+    "Kerala"
+   ],
+   "answer": 1,
+   "fact": "The Ramsar site 'Dipor Bil' is in which state/UT? Answer: Assam.",
+   "source_url": "https://www.wikidata.org/wiki/Q986842"
+  },
+  {
+   "id": "816cb63065",
+   "topic": "biosphere_state",
+   "question": "Seshachalam Hills biosphere is in which state/UT?",
+   "options": [
+    "Arunachal Pradesh",
+    "Himachal Pradesh",
+    "Madhya Pradesh",
+    "Andhra Pradesh"
+   ],
+   "answer": 3,
+   "fact": "Seshachalam Hills biosphere is in which state/UT? Answer: Andhra Pradesh.",
+   "source_url": "https://www.wikidata.org/wiki/Q124973096"
+  },
+  {
+   "id": "5efb35e13d",
+   "topic": "biosphere_state",
+   "question": "Achanakmar-Amarkantak Biosphere Reserve is in which state/UT?",
+   "options": [
+    "Chhattisgarh",
+    "Arunachal Pradesh",
+    "Andhra Pradesh",
+    "Himachal Pradesh"
+   ],
+   "answer": 0,
+   "fact": "Achanakmar-Amarkantak Biosphere Reserve is in which state/UT? Answer: Chhattisgarh.",
+   "source_url": "https://www.wikidata.org/wiki/Q16058035"
+  },
+  {
+   "id": "6d991ba7dd",
+   "topic": "biosphere_state",
+   "question": "Nanda Devi National Park is in which state/UT?",
+   "options": [
+    "Himachal Pradesh",
+    "Chhattisgarh",
+    "Uttarakhand",
+    "Madhya Pradesh"
+   ],
+   "answer": 2,
+   "fact": "Nanda Devi National Park is in which state/UT? Answer: Uttarakhand.",
+   "source_url": "https://www.wikidata.org/wiki/Q1648266"
+  },
+  {
+   "id": "fdd1e48919",
+   "topic": "biosphere_state",
+   "question": "Cold Desert is in which state/UT?",
+   "options": [
+    "Madhya Pradesh",
+    "Himachal Pradesh",
+    "Uttarakhand",
+    "Andhra Pradesh"
+   ],
+   "answer": 1,
+   "fact": "Cold Desert is in which state/UT? Answer: Himachal Pradesh.",
+   "source_url": "https://www.wikidata.org/wiki/Q5142237"
+  },
+  {
+   "id": "e5001fb513",
+   "topic": "biosphere_state",
+   "question": "Dihang-Dibang Biosphere Reserve is in which state/UT?",
+   "options": [
+    "Madhya Pradesh",
+    "Chhattisgarh",
+    "Andhra Pradesh",
+    "Arunachal Pradesh"
+   ],
+   "answer": 3,
+   "fact": "Dihang-Dibang Biosphere Reserve is in which state/UT? Answer: Arunachal Pradesh.",
+   "source_url": "https://www.wikidata.org/wiki/Q5276394"
+  },
+  {
+   "id": "a86ff6c0ad",
+   "topic": "biosphere_state",
+   "question": "Valley of Flowers National Park is in which state/UT?",
+   "options": [
+    "Himachal Pradesh",
+    "Arunachal Pradesh",
+    "Uttarakhand",
+    "Madhya Pradesh"
+   ],
+   "answer": 2,
+   "fact": "Valley of Flowers National Park is in which state/UT? Answer: Uttarakhand.",
+   "source_url": "https://www.wikidata.org/wiki/Q605897"
+  },
+  {
+   "id": "ed9a90e052",
+   "topic": "biosphere_state",
+   "question": "Pachmarhi Biosphere Reserve is in which state/UT?",
+   "options": [
+    "Himachal Pradesh",
+    "Chhattisgarh",
+    "Andhra Pradesh",
+    "Madhya Pradesh"
+   ],
+   "answer": 3,
+   "fact": "Pachmarhi Biosphere Reserve is in which state/UT? Answer: Madhya Pradesh.",
+   "source_url": "https://www.wikidata.org/wiki/Q7122045"
+  },
+  {
+   "id": "8755e52421",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Zuari River flow?",
+   "options": [
+    "Rann of Kutch",
+    "Kaveri",
+    "Arabian Sea",
+    "Yamuna"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Zuari River flow? Answer: Arabian Sea.",
+   "source_url": "https://www.wikidata.org/wiki/Q10362759"
+  },
+  {
+   "id": "27c4ac42e4",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Chambal River flow?",
+   "options": [
+    "Sutlej",
+    "Bhāgīrathi River",
+    "Yamuna",
+    "Rann of Kutch"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Chambal River flow? Answer: Yamuna.",
+   "source_url": "https://www.wikidata.org/wiki/Q1060631"
+  },
+  {
+   "id": "01f5ff440b",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Lohit River flow?",
+   "options": [
+    "Arabian Sea",
+    "Brahmaputra River",
+    "Jamuna River",
+    "Pranhita River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Lohit River flow? Answer: Brahmaputra River.",
+   "source_url": "https://www.wikidata.org/wiki/Q1083286"
+  },
+  {
+   "id": "9c906911b0",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Koyna River flow?",
+   "options": [
+    "Vembanad",
+    "Godavari River",
+    "Krishna River",
+    "Kaveri"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Koyna River flow? Answer: Krishna River.",
+   "source_url": "https://www.wikidata.org/wiki/Q1134765"
+  },
+  {
+   "id": "4c75966806",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Daman Ganga River flow?",
+   "options": [
+    "Krishna River",
+    "Arabian Sea",
+    "Chenab River",
+    "Panjnad River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Daman Ganga River flow? Answer: Arabian Sea.",
+   "source_url": "https://www.wikidata.org/wiki/Q1158202"
+  },
+  {
+   "id": "08b428bd0a",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Amarāvati River flow?",
+   "options": [
+    "Alaknanda River",
+    "Kaveri",
+    "Hooghly River",
+    "Shyok River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Amarāvati River flow? Answer: Kaveri.",
+   "source_url": "https://www.wikidata.org/wiki/Q11945675"
+  },
+  {
+   "id": "6dd538e944",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Yamuna flow?",
+   "options": [
+    "Krishna River",
+    "Indus River",
+    "Kaveri",
+    "Ganges"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Yamuna flow? Answer: Ganges.",
+   "source_url": "https://www.wikidata.org/wiki/Q132726"
+  },
+  {
+   "id": "86a0827e54",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Betwa River flow?",
+   "options": [
+    "Arabian Sea",
+    "Sharda River",
+    "Pranhita River",
+    "Yamuna"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Betwa River flow? Answer: Yamuna.",
+   "source_url": "https://www.wikidata.org/wiki/Q1334522"
+  },
+  {
+   "id": "8afe1cfa9b",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Galwan River flow?",
+   "options": [
+    "Shyok River",
+    "Vembanad",
+    "Meghna River",
+    "Sharda River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Galwan River flow? Answer: Shyok River.",
+   "source_url": "https://www.wikidata.org/wiki/Q13507935"
+  },
+  {
+   "id": "2254982381",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Son River flow?",
+   "options": [
+    "Panjnad River",
+    "Sutlej",
+    "Bhāgīrathi River",
+    "Ganges"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Son River flow? Answer: Ganges.",
+   "source_url": "https://www.wikidata.org/wiki/Q1418174"
+  },
+  {
+   "id": "e9bb844d9b",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Alaknanda River flow?",
+   "options": [
+    "Rann of Kutch",
+    "Bhāgīrathi River",
+    "Indus River",
+    "Ganges"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Alaknanda River flow? Answer: Ganges.",
+   "source_url": "https://www.wikidata.org/wiki/Q1419768"
+  },
+  {
+   "id": "8bdae14b7b",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Tunga River flow?",
+   "options": [
+    "Krishna River",
+    "Godavari River",
+    "Meghna River",
+    "Hooghly River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Tunga River flow? Answer: Krishna River.",
+   "source_url": "https://www.wikidata.org/wiki/Q1458759"
+  },
+  {
+   "id": "db8044874d",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Zanskar River flow?",
+   "options": [
+    "Indus River",
+    "Ghaghara River",
+    "Godavari River",
+    "Pranhita River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Zanskar River flow? Answer: Indus River.",
+   "source_url": "https://www.wikidata.org/wiki/Q147014"
+  },
+  {
+   "id": "9a0b7a4224",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Shyok River flow?",
+   "options": [
+    "Ghaghara River",
+    "Indus River",
+    "Mahananda River",
+    "Bay of Bengal"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Shyok River flow? Answer: Indus River.",
+   "source_url": "https://www.wikidata.org/wiki/Q1587234"
+  },
+  {
+   "id": "bdca310a2e",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Indravati River flow?",
+   "options": [
+    "Godavari River",
+    "Panjnad River",
+    "Chambal River",
+    "Bay of Bengal"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Indravati River flow? Answer: Godavari River.",
+   "source_url": "https://www.wikidata.org/wiki/Q1661830"
+  },
+  {
+   "id": "d50b6b2854",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Bhagirathi River flow?",
+   "options": [
+    "Mahananda River",
+    "Rann of Kutch",
+    "Chambal River",
+    "Ganges"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Bhagirathi River flow? Answer: Ganges.",
+   "source_url": "https://www.wikidata.org/wiki/Q170218"
+  },
+  {
+   "id": "ee5dbfad55",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Subansiri River flow?",
+   "options": [
+    "Brahmaputra River",
+    "Chenab River",
+    "Indus River",
+    "Vembanad"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Subansiri River flow? Answer: Brahmaputra River.",
+   "source_url": "https://www.wikidata.org/wiki/Q1709162"
+  },
+  {
+   "id": "8734ae0a0e",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Barak River flow?",
+   "options": [
+    "Bay of Bengal",
+    "Rann of Kutch",
+    "Yamuna",
+    "Alaknanda River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Barak River flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q1709169"
+  },
+  {
+   "id": "cc4674b368",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Sutlej flow?",
+   "options": [
+    "Panjnad River",
+    "Hooghly River",
+    "Shyok River",
+    "Kaveri"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Sutlej flow? Answer: Panjnad River.",
+   "source_url": "https://www.wikidata.org/wiki/Q171675"
+  },
+  {
+   "id": "f3930e46ef",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Musi River flow?",
+   "options": [
+    "Krishna River",
+    "Ganges",
+    "Yamuna",
+    "Bay of Bengal"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Musi River flow? Answer: Krishna River.",
+   "source_url": "https://www.wikidata.org/wiki/Q185720"
+  },
+  {
+   "id": "1c33e87b95",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Penna River flow?",
+   "options": [
+    "Bay of Bengal",
+    "Tungabhadra River",
+    "Bhāgīrathi River",
+    "Panjnad River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Penna River flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q1877489"
+  },
+  {
+   "id": "d31e76503e",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Godavari River flow?",
+   "options": [
+    "Indus River",
+    "Bhāgīrathi River",
+    "Krishna River",
+    "Bay of Bengal"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Godavari River flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q191314"
+  },
+  {
+   "id": "00a5e90a87",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Krishna River flow?",
+   "options": [
+    "Shyok River",
+    "Bay of Bengal",
+    "Meghna River",
+    "Rann of Kutch"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Krishna River flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q193499"
+  },
+  {
+   "id": "6efdf12c60",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Damodar River flow?",
+   "options": [
+    "Hooghly River",
+    "Bay of Bengal",
+    "Sutlej",
+    "Indus River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Damodar River flow? Answer: Hooghly River.",
+   "source_url": "https://www.wikidata.org/wiki/Q1971511"
+  },
+  {
+   "id": "ffeadaf9a4",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Manas River flow?",
+   "options": [
+    "Brahmaputra River",
+    "Gulf of Khambhat",
+    "Godavari River",
+    "Bhāgīrathi River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Manas River flow? Answer: Brahmaputra River.",
+   "source_url": "https://www.wikidata.org/wiki/Q2015702"
+  },
+  {
+   "id": "3f8ec792d8",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Torsa River flow?",
+   "options": [
+    "Chenab River",
+    "Brahmaputra River",
+    "Rann of Kutch",
+    "Tungabhadra River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Torsa River flow? Answer: Brahmaputra River.",
+   "source_url": "https://www.wikidata.org/wiki/Q2066287"
+  },
+  {
+   "id": "95816850bb",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Sharda River flow?",
+   "options": [
+    "Tungabhadra River",
+    "Ghaghara River",
+    "Mahananda River",
+    "Chenab River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Sharda River flow? Answer: Ghaghara River.",
+   "source_url": "https://www.wikidata.org/wiki/Q2095324"
+  },
+  {
+   "id": "2fc6780868",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Jhelum River flow?",
+   "options": [
+    "Chenab River",
+    "Meghna River",
+    "Chambal River",
+    "Sutlej"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Jhelum River flow? Answer: Chenab River.",
+   "source_url": "https://www.wikidata.org/wiki/Q214874"
+  },
+  {
+   "id": "9176733a2d",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Chenab River flow?",
+   "options": [
+    "Chenab River",
+    "Yamuna",
+    "Panjnad River",
+    "Bay of Bengal"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Chenab River flow? Answer: Panjnad River.",
+   "source_url": "https://www.wikidata.org/wiki/Q216875"
+  },
+  {
+   "id": "9116246263",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Shipra River flow?",
+   "options": [
+    "Shyok River",
+    "Brahmaputra River",
+    "Rann of Kutch",
+    "Chambal River"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Shipra River flow? Answer: Chambal River.",
+   "source_url": "https://www.wikidata.org/wiki/Q2349029"
+  },
+  {
+   "id": "30e955f5e1",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Mahananda River flow?",
+   "options": [
+    "Chambal River",
+    "Arabian Sea",
+    "Ganges",
+    "Gulf of Khambhat"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Mahananda River flow? Answer: Ganges.",
+   "source_url": "https://www.wikidata.org/wiki/Q2428539"
+  },
+  {
+   "id": "b92a9d50ba",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Jalangi River flow?",
+   "options": [
+    "Jamuna River",
+    "Hooghly River",
+    "Sutlej",
+    "Bhāgīrathi River"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Jalangi River flow? Answer: Bhāgīrathi River.",
+   "source_url": "https://www.wikidata.org/wiki/Q2561276"
+  },
+  {
+   "id": "df8beb4036",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Mandovi River flow?",
+   "options": [
+    "Arabian Sea",
+    "Panjnad River",
+    "Tungabhadra River",
+    "Jamuna River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Mandovi River flow? Answer: Arabian Sea.",
+   "source_url": "https://www.wikidata.org/wiki/Q2587169"
+  },
+  {
+   "id": "7cb723d55a",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Chaliyar flow?",
+   "options": [
+    "Meghna River",
+    "Arabian Sea",
+    "Indus River",
+    "Shyok River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Chaliyar flow? Answer: Arabian Sea.",
+   "source_url": "https://www.wikidata.org/wiki/Q2604984"
+  },
+  {
+   "id": "2f6667d1df",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Atrai River flow?",
+   "options": [
+    "Jamuna River",
+    "Gulf of Khambhat",
+    "Meghna River",
+    "Alaknanda River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Atrai River flow? Answer: Jamuna River.",
+   "source_url": "https://www.wikidata.org/wiki/Q2621444"
+  },
+  {
+   "id": "1e9dd22f3f",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Periyar River flow?",
+   "options": [
+    "Hooghly River",
+    "Godavari River",
+    "Vembanad",
+    "Ganges"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Periyar River flow? Answer: Vembanad.",
+   "source_url": "https://www.wikidata.org/wiki/Q2634049"
+  },
+  {
+   "id": "2bf170501a",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Brahmani River flow?",
+   "options": [
+    "Bay of Bengal",
+    "Sharda River",
+    "Indus River",
+    "Brahmaputra River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Brahmani River flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q2639171"
+  },
+  {
+   "id": "d9f529dc8f",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Pamba River flow?",
+   "options": [
+    "Indus River",
+    "Chenab River",
+    "Chambal River",
+    "Vembanad"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Pamba River flow? Answer: Vembanad.",
+   "source_url": "https://www.wikidata.org/wiki/Q2641922"
+  },
+  {
+   "id": "df98b068ab",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Mahanadi flow?",
+   "options": [
+    "Bay of Bengal",
+    "Meghna River",
+    "Yamuna",
+    "Gulf of Khambhat"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Mahanadi flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q271044"
+  },
+  {
+   "id": "31812df986",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Banas River flow?",
+   "options": [
+    "Meghna River",
+    "Jamuna River",
+    "Gulf of Khambhat",
+    "Chambal River"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Banas River flow? Answer: Chambal River.",
+   "source_url": "https://www.wikidata.org/wiki/Q2722701"
+  },
+  {
+   "id": "8ffb004800",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Hindon River flow?",
+   "options": [
+    "Yamuna",
+    "Meghna River",
+    "Sutlej",
+    "Kaveri"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Hindon River flow? Answer: Yamuna.",
+   "source_url": "https://www.wikidata.org/wiki/Q2723150"
+  },
+  {
+   "id": "139673d957",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Wardha River flow?",
+   "options": [
+    "Godavari River",
+    "Ghaghara River",
+    "Panjnad River",
+    "Pranhita River"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Wardha River flow? Answer: Pranhita River.",
+   "source_url": "https://www.wikidata.org/wiki/Q2723656"
+  },
+  {
+   "id": "3a798a6636",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Adyar River flow?",
+   "options": [
+    "Bay of Bengal",
+    "Krishna River",
+    "Kaveri",
+    "Chenab River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Adyar River flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q2825422"
+  },
+  {
+   "id": "f9d324371e",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Mechi River flow?",
+   "options": [
+    "Gulf of Khambhat",
+    "Mahananda River",
+    "Shyok River",
+    "Sharda River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Mechi River flow? Answer: Mahananda River.",
+   "source_url": "https://www.wikidata.org/wiki/Q2866240"
+  },
+  {
+   "id": "65fe6c3b49",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the West Rapti River flow?",
+   "options": [
+    "Sharda River",
+    "Ghaghara River",
+    "Jamuna River",
+    "Brahmaputra River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the West Rapti River flow? Answer: Ghaghara River.",
+   "source_url": "https://www.wikidata.org/wiki/Q2869013"
+  },
+  {
+   "id": "f72a92c211",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Luni River flow?",
+   "options": [
+    "Rann of Kutch",
+    "Indus River",
+    "Jamuna River",
+    "Jhelum River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Luni River flow? Answer: Rann of Kutch.",
+   "source_url": "https://www.wikidata.org/wiki/Q289273"
+  },
+  {
+   "id": "e108308266",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Bhavani River flow?",
+   "options": [
+    "Brahmaputra River",
+    "Kaveri",
+    "Chenab River",
+    "Panjnad River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Bhavani River flow? Answer: Kaveri.",
+   "source_url": "https://www.wikidata.org/wiki/Q2900667"
+  },
+  {
+   "id": "edea940c7a",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Surma River flow?",
+   "options": [
+    "Brahmaputra River",
+    "Meghna River",
+    "Shyok River",
+    "Chenab River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Surma River flow? Answer: Meghna River.",
+   "source_url": "https://www.wikidata.org/wiki/Q2985860"
+  },
+  {
+   "id": "7c73d2ba0c",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Wainganga River flow?",
+   "options": [
+    "Rann of Kutch",
+    "Pranhita River",
+    "Bhāgīrathi River",
+    "Yamuna"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Wainganga River flow? Answer: Pranhita River.",
+   "source_url": "https://www.wikidata.org/wiki/Q3132789"
+  },
+  {
+   "id": "90f155302d",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Ravi River flow?",
+   "options": [
+    "Kaveri",
+    "Chambal River",
+    "Hooghly River",
+    "Chenab River"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Ravi River flow? Answer: Chenab River.",
+   "source_url": "https://www.wikidata.org/wiki/Q317899"
+  },
+  {
+   "id": "38baecf802",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Kaladan River flow?",
+   "options": [
+    "Bay of Bengal",
+    "Jhelum River",
+    "Sutlej",
+    "Alaknanda River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Kaladan River flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q3182712"
+  },
+  {
+   "id": "91d0104023",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Beas River flow?",
+   "options": [
+    "Sutlej",
+    "Arabian Sea",
+    "Chenab River",
+    "Sharda River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Beas River flow? Answer: Sutlej.",
+   "source_url": "https://www.wikidata.org/wiki/Q319590"
+  },
+  {
+   "id": "9cbdd28505",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Sarayu flow?",
+   "options": [
+    "Panjnad River",
+    "Brahmaputra River",
+    "Sharda River",
+    "Godavari River"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Sarayu flow? Answer: Sharda River.",
+   "source_url": "https://www.wikidata.org/wiki/Q3241461"
+  },
+  {
+   "id": "97a918ffa7",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Tawi River flow?",
+   "options": [
+    "Panjnad River",
+    "Indus River",
+    "Meghna River",
+    "Chenab River"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Tawi River flow? Answer: Chenab River.",
+   "source_url": "https://www.wikidata.org/wiki/Q3306198"
+  },
+  {
+   "id": "cc654aeb71",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Ken River flow?",
+   "options": [
+    "Meghna River",
+    "Mahananda River",
+    "Yamuna",
+    "Indus River"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Ken River flow? Answer: Yamuna.",
+   "source_url": "https://www.wikidata.org/wiki/Q3322395"
+  },
+  {
+   "id": "1b1d3526cd",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Ajay River flow?",
+   "options": [
+    "Shyok River",
+    "Jhelum River",
+    "Sutlej",
+    "Hooghly River"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Ajay River flow? Answer: Hooghly River.",
+   "source_url": "https://www.wikidata.org/wiki/Q3350175"
+  },
+  {
+   "id": "f66631ccfe",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Kali River flow?",
+   "options": [
+    "Arabian Sea",
+    "Rann of Kutch",
+    "Bagmati River",
+    "Jamuna River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Kali River flow? Answer: Arabian Sea.",
+   "source_url": "https://www.wikidata.org/wiki/Q3461744"
+  },
+  {
+   "id": "c438bee842",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Sharavathi flow?",
+   "options": [
+    "Jhelum River",
+    "Alaknanda River",
+    "Hooghly River",
+    "Arabian Sea"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Sharavathi flow? Answer: Arabian Sea.",
+   "source_url": "https://www.wikidata.org/wiki/Q3519817"
+  },
+  {
+   "id": "31b158f3a6",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Mandakini River flow?",
+   "options": [
+    "Chambal River",
+    "Jhelum River",
+    "Alaknanda River",
+    "Rann of Kutch"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Mandakini River flow? Answer: Alaknanda River.",
+   "source_url": "https://www.wikidata.org/wiki/Q3520922"
+  },
+  {
+   "id": "7cf6f5324b",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Netravati River flow?",
+   "options": [
+    "Bay of Bengal",
+    "Brahmaputra River",
+    "Panjnad River",
+    "Arabian Sea"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Netravati River flow? Answer: Arabian Sea.",
+   "source_url": "https://www.wikidata.org/wiki/Q3520928"
+  },
+  {
+   "id": "26f9ab1fb7",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Kabini River flow?",
+   "options": [
+    "Sutlej",
+    "Kaveri",
+    "Vembanad",
+    "Arabian Sea"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Kabini River flow? Answer: Kaveri.",
+   "source_url": "https://www.wikidata.org/wiki/Q3536422"
+  },
+  {
+   "id": "c4b8e31a48",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Kadalundi River flow?",
+   "options": [
+    "Pranhita River",
+    "Chenab River",
+    "Arabian Sea",
+    "Alaknanda River"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Kadalundi River flow? Answer: Arabian Sea.",
+   "source_url": "https://www.wikidata.org/wiki/Q3595344"
+  },
+  {
+   "id": "4e835d06c2",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Burhi Gandak River flow?",
+   "options": [
+    "Ghaghara River",
+    "Ganges",
+    "Meghna River",
+    "Brahmaputra River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Burhi Gandak River flow? Answer: Ganges.",
+   "source_url": "https://www.wikidata.org/wiki/Q3630468"
+  },
+  {
+   "id": "9c921f51d4",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Raidāk River flow?",
+   "options": [
+    "Sharda River",
+    "Bay of Bengal",
+    "Alaknanda River",
+    "Brahmaputra River"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Raidāk River flow? Answer: Brahmaputra River.",
+   "source_url": "https://www.wikidata.org/wiki/Q3647339"
+  },
+  {
+   "id": "2266be9f3d",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Kameng River flow?",
+   "options": [
+    "Brahmaputra River",
+    "Ghaghara River",
+    "Hooghly River",
+    "Chenab River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Kameng River flow? Answer: Brahmaputra River.",
+   "source_url": "https://www.wikidata.org/wiki/Q3652914"
+  },
+  {
+   "id": "82107d47d0",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Manjira River flow?",
+   "options": [
+    "Godavari River",
+    "Kaveri",
+    "Indus River",
+    "Ghaghara River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Manjira River flow? Answer: Godavari River.",
+   "source_url": "https://www.wikidata.org/wiki/Q3695675"
+  },
+  {
+   "id": "4826037811",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Neelum River flow?",
+   "options": [
+    "Indus River",
+    "Chenab River",
+    "Panjnad River",
+    "Jhelum River"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Neelum River flow? Answer: Jhelum River.",
+   "source_url": "https://www.wikidata.org/wiki/Q3696512"
+  },
+  {
+   "id": "6e160ef92a",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Baitarani River flow?",
+   "options": [
+    "Chambal River",
+    "Bay of Bengal",
+    "Kaveri",
+    "Yamuna"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Baitarani River flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q3773157"
+  },
+  {
+   "id": "9bf85dbe0a",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Subarnarekha River flow?",
+   "options": [
+    "Gulf of Khambhat",
+    "Sutlej",
+    "Rann of Kutch",
+    "Bay of Bengal"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Subarnarekha River flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q3822918"
+  },
+  {
+   "id": "f3301f207c",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Ghaghara River flow?",
+   "options": [
+    "Chambal River",
+    "Mahananda River",
+    "Ganges",
+    "Jamuna River"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Ghaghara River flow? Answer: Ganges.",
+   "source_url": "https://www.wikidata.org/wiki/Q390232"
+  },
+  {
+   "id": "f5a19fe2e1",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Dibang River flow?",
+   "options": [
+    "Rann of Kutch",
+    "Bhāgīrathi River",
+    "Brahmaputra River",
+    "Yamuna"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Dibang River flow? Answer: Brahmaputra River.",
+   "source_url": "https://www.wikidata.org/wiki/Q4161089"
+  },
+  {
+   "id": "c968b56900",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Brahmaputra River flow?",
+   "options": [
+    "Vembanad",
+    "Brahmaputra River",
+    "Mahananda River",
+    "Ganges"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Brahmaputra River flow? Answer: Ganges.",
+   "source_url": "https://www.wikidata.org/wiki/Q45403"
+  },
+  {
+   "id": "6563320b4c",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Bhadra River flow?",
+   "options": [
+    "Mahananda River",
+    "Godavari River",
+    "Panjnad River",
+    "Tungabhadra River"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Bhadra River flow? Answer: Tungabhadra River.",
+   "source_url": "https://www.wikidata.org/wiki/Q472896"
+  },
+  {
+   "id": "e9f95cccac",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Gomti River flow?",
+   "options": [
+    "Ganges",
+    "Indus River",
+    "Vembanad",
+    "Chenab River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Gomti River flow? Answer: Ganges.",
+   "source_url": "https://www.wikidata.org/wiki/Q477676"
+  },
+  {
+   "id": "4f7099cf66",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Ganges flow?",
+   "options": [
+    "Bay of Bengal",
+    "Hooghly River",
+    "Brahmaputra River",
+    "Kaveri"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Ganges flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q5089"
+  },
+  {
+   "id": "bb01950ba8",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Mahi River flow?",
+   "options": [
+    "Bhāgīrathi River",
+    "Arabian Sea",
+    "Rann of Kutch",
+    "Mahananda River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Mahi River flow? Answer: Arabian Sea.",
+   "source_url": "https://www.wikidata.org/wiki/Q542539"
+  },
+  {
+   "id": "e2f4b4cacc",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Palar River flow?",
+   "options": [
+    "Hooghly River",
+    "Bay of Bengal",
+    "Arabian Sea",
+    "Indus River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Palar River flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q609625"
+  },
+  {
+   "id": "96e4267f8a",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Jaldhaka River flow?",
+   "options": [
+    "Kaveri",
+    "Sutlej",
+    "Bay of Bengal",
+    "Brahmaputra River"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Jaldhaka River flow? Answer: Brahmaputra River.",
+   "source_url": "https://www.wikidata.org/wiki/Q6126710"
+  },
+  {
+   "id": "67670320e3",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Sankosh River flow?",
+   "options": [
+    "Brahmaputra River",
+    "Ganges",
+    "Panjnad River",
+    "Rann of Kutch"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Sankosh River flow? Answer: Brahmaputra River.",
+   "source_url": "https://www.wikidata.org/wiki/Q629894"
+  },
+  {
+   "id": "3372c8217a",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Sabarmati flow?",
+   "options": [
+    "Ganges",
+    "Shyok River",
+    "Arabian Sea",
+    "Sharda River"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Sabarmati flow? Answer: Arabian Sea.",
+   "source_url": "https://www.wikidata.org/wiki/Q630397"
+  },
+  {
+   "id": "397080e981",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Tamsa River flow?",
+   "options": [
+    "Hooghly River",
+    "Arabian Sea",
+    "Ganges",
+    "Chenab River"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Tamsa River flow? Answer: Ganges.",
+   "source_url": "https://www.wikidata.org/wiki/Q632555"
+  },
+  {
+   "id": "9d05e2f440",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Kamala River flow?",
+   "options": [
+    "Pranhita River",
+    "Bagmati River",
+    "Rann of Kutch",
+    "Tungabhadra River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Kamala River flow? Answer: Bagmati River.",
+   "source_url": "https://www.wikidata.org/wiki/Q6355608"
+  },
+  {
+   "id": "810ca912c2",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Kosi River flow?",
+   "options": [
+    "Ghaghara River",
+    "Bhāgīrathi River",
+    "Ganges",
+    "Tungabhadra River"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Kosi River flow? Answer: Ganges.",
+   "source_url": "https://www.wikidata.org/wiki/Q695610"
+  },
+  {
+   "id": "71fdd89845",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Tapti River flow?",
+   "options": [
+    "Gulf of Khambhat",
+    "Pranhita River",
+    "Hooghly River",
+    "Sharda River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Tapti River flow? Answer: Gulf of Khambhat.",
+   "source_url": "https://www.wikidata.org/wiki/Q707056"
+  },
+  {
+   "id": "bfb37c46b3",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Indus River flow?",
+   "options": [
+    "Brahmaputra River",
+    "Indus River",
+    "Kaveri",
+    "Arabian Sea"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Indus River flow? Answer: Arabian Sea.",
+   "source_url": "https://www.wikidata.org/wiki/Q7348"
+  },
+  {
+   "id": "88018ad9a9",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Sabari River flow?",
+   "options": [
+    "Panjnad River",
+    "Jhelum River",
+    "Bagmati River",
+    "Godavari River"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Sabari River flow? Answer: Godavari River.",
+   "source_url": "https://www.wikidata.org/wiki/Q7395907"
+  },
+  {
+   "id": "dc8b454de8",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Hooghly River flow?",
+   "options": [
+    "Krishna River",
+    "Mahananda River",
+    "Sutlej",
+    "Bay of Bengal"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Hooghly River flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q739687"
+  },
+  {
+   "id": "8bb34f1aa0",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Karnaphuli flow?",
+   "options": [
+    "Godavari River",
+    "Bay of Bengal",
+    "Tungabhadra River",
+    "Jhelum River"
+   ],
+   "answer": 1,
+   "fact": "Into which river or sea does the Karnaphuli flow? Answer: Bay of Bengal.",
+   "source_url": "https://www.wikidata.org/wiki/Q766956"
+  },
+  {
+   "id": "1848261374",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Gandaki River flow?",
+   "options": [
+    "Bhāgīrathi River",
+    "Krishna River",
+    "Vembanad",
+    "Ganges"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Gandaki River flow? Answer: Ganges.",
+   "source_url": "https://www.wikidata.org/wiki/Q849494"
+  },
+  {
+   "id": "971a9bdb7c",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Bharathappuzha flow?",
+   "options": [
+    "Tungabhadra River",
+    "Kaveri",
+    "Ganges",
+    "Arabian Sea"
+   ],
+   "answer": 3,
+   "fact": "Into which river or sea does the Bharathappuzha flow? Answer: Arabian Sea.",
+   "source_url": "https://www.wikidata.org/wiki/Q854841"
+  },
+  {
+   "id": "7df80a96e7",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Bhima River flow?",
+   "options": [
+    "Godavari River",
+    "Tungabhadra River",
+    "Krishna River",
+    "Hooghly River"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Bhima River flow? Answer: Krishna River.",
+   "source_url": "https://www.wikidata.org/wiki/Q854999"
+  },
+  {
+   "id": "eed98c6f30",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Teesta River flow?",
+   "options": [
+    "Arabian Sea",
+    "Krishna River",
+    "Brahmaputra River",
+    "Bay of Bengal"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Teesta River flow? Answer: Brahmaputra River.",
+   "source_url": "https://www.wikidata.org/wiki/Q907883"
+  },
+  {
+   "id": "86652089b0",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Padma River flow?",
+   "options": [
+    "Meghna River",
+    "Gulf of Khambhat",
+    "Godavari River",
+    "Sharda River"
+   ],
+   "answer": 0,
+   "fact": "Into which river or sea does the Padma River flow? Answer: Meghna River.",
+   "source_url": "https://www.wikidata.org/wiki/Q930773"
+  },
+  {
+   "id": "d6142cc9fc",
+   "topic": "river_mouth",
+   "question": "Into which river or sea does the Tungabhadra River flow?",
+   "options": [
+    "Sharda River",
+    "Vembanad",
+    "Krishna River",
+    "Godavari River"
+   ],
+   "answer": 2,
+   "fact": "Into which river or sea does the Tungabhadra River flow? Answer: Krishna River.",
+   "source_url": "https://www.wikidata.org/wiki/Q949183"
+  },
+  {
+   "id": "ec40d5d26c",
+   "topic": "airport_city",
+   "question": "Dabolim Airport is in which city?",
+   "options": [
+    "Porbandar",
+    "Jaisalmer",
+    "Kandla",
+    "Goa"
+   ],
+   "answer": 3,
+   "fact": "Dabolim Airport is in which city? Answer: Goa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1431173"
+  },
+  {
+   "id": "310b48d253",
+   "topic": "airport_city",
+   "question": "Kushok Bakula Rimpochee Airport is in which city?",
+   "options": [
+    "Raipur",
+    "Ballari",
+    "Leh",
+    "Bhopal – Mumbai Express"
+   ],
+   "answer": 2,
+   "fact": "Kushok Bakula Rimpochee Airport is in which city? Answer: Leh.",
+   "source_url": "https://www.wikidata.org/wiki/Q1431870"
+  },
+  {
+   "id": "1733805de5",
+   "topic": "airport_city",
+   "question": "Kazi Nazrul Islam International Airport is in which city?",
+   "options": [
+    "Kangra",
+    "Siliguri",
+    "Anand Lok",
+    "Durgapur"
+   ],
+   "answer": 3,
+   "fact": "Kazi Nazrul Islam International Airport is in which city? Answer: Durgapur.",
+   "source_url": "https://www.wikidata.org/wiki/Q14941562"
+  },
+  {
+   "id": "46bd24c6e9",
+   "topic": "airport_city",
+   "question": "Muzzafarpur Airport is in which city?",
+   "options": [
+    "Muzaffarpur",
+    "Guwahati",
+    "Bengaluru",
+    "Kozhikode"
+   ],
+   "answer": 0,
+   "fact": "Muzzafarpur Airport is in which city? Answer: Muzaffarpur.",
+   "source_url": "https://www.wikidata.org/wiki/Q1528543"
+  },
+  {
+   "id": "b8c5ea2e43",
+   "topic": "airport_city",
+   "question": "Mysuru Airport is in which city?",
+   "options": [
+    "Mysore",
+    "Pune",
+    "Ballari",
+    "Porbandar"
+   ],
+   "answer": 0,
+   "fact": "Mysuru Airport is in which city? Answer: Mysore.",
+   "source_url": "https://www.wikidata.org/wiki/Q1529219"
+  },
+  {
+   "id": "d5e8dcfaf8",
+   "topic": "airport_city",
+   "question": "Swami Vivekananda Airport is in which city?",
+   "options": [
+    "Lakshadweep",
+    "Raipur",
+    "Pakyong",
+    "Hyderabad"
+   ],
+   "answer": 1,
+   "fact": "Swami Vivekananda Airport is in which city? Answer: Raipur.",
+   "source_url": "https://www.wikidata.org/wiki/Q1595087"
+  },
+  {
+   "id": "894d716c31",
+   "topic": "airport_city",
+   "question": "Belagavi Airport is in which city?",
+   "options": [
+    "Belgaum",
+    "Tirupati",
+    "Anand Lok",
+    "Kadapa"
+   ],
+   "answer": 0,
+   "fact": "Belagavi Airport is in which city? Answer: Belgaum.",
+   "source_url": "https://www.wikidata.org/wiki/Q1657741"
+  },
+  {
+   "id": "5a1f773b35",
+   "topic": "airport_city",
+   "question": "Begumpet Airport is in which city?",
+   "options": [
+    "Chandigarh",
+    "Hyderabad",
+    "Ballari",
+    "Jabalpur"
+   ],
+   "answer": 1,
+   "fact": "Begumpet Airport is in which city? Answer: Hyderabad.",
+   "source_url": "https://www.wikidata.org/wiki/Q1657769"
+  },
+  {
+   "id": "273f87b692",
+   "topic": "airport_city",
+   "question": "Dr. Babasaheb Ambedkar International Airport is in which city?",
+   "options": [
+    "Kochi",
+    "Nagpur",
+    "Gwalior",
+    "Rajahmundry"
+   ],
+   "answer": 1,
+   "fact": "Dr. Babasaheb Ambedkar International Airport is in which city? Answer: Nagpur.",
+   "source_url": "https://www.wikidata.org/wiki/Q1657780"
+  },
+  {
+   "id": "0d05fedc55",
+   "topic": "airport_city",
+   "question": "Shaheed Bhagat Singh International Airport is in which city?",
+   "options": [
+    "Kochi",
+    "Ranchi",
+    "Chandigarh",
+    "Bhuj"
+   ],
+   "answer": 2,
+   "fact": "Shaheed Bhagat Singh International Airport is in which city? Answer: Chandigarh.",
+   "source_url": "https://www.wikidata.org/wiki/Q1835533"
+  },
+  {
+   "id": "973f4a0a49",
+   "topic": "airport_city",
+   "question": "Jolly Grant Airport is in which city?",
+   "options": [
+    "Patna",
+    "Dehradun",
+    "Srinagar",
+    "Diu"
+   ],
+   "answer": 1,
+   "fact": "Jolly Grant Airport is in which city? Answer: Dehradun.",
+   "source_url": "https://www.wikidata.org/wiki/Q1936151"
+  },
+  {
+   "id": "75d0a59f62",
+   "topic": "airport_city",
+   "question": "Sri Sathya Sai Airport is in which city?",
+   "options": [
+    "Siliguri",
+    "Mopa",
+    "Amritsar",
+    "Puttaparthi"
+   ],
+   "answer": 3,
+   "fact": "Sri Sathya Sai Airport is in which city? Answer: Puttaparthi.",
+   "source_url": "https://www.wikidata.org/wiki/Q1939560"
+  },
+  {
+   "id": "d6d0772beb",
+   "topic": "airport_city",
+   "question": "Lokpriya Gopinath Bordoloi International Airport is in which city?",
+   "options": [
+    "Shimla",
+    "Aurangabad",
+    "Raipur",
+    "Guwahati"
+   ],
+   "answer": 3,
+   "fact": "Lokpriya Gopinath Bordoloi International Airport is in which city? Answer: Guwahati.",
+   "source_url": "https://www.wikidata.org/wiki/Q2673008"
+  },
+  {
+   "id": "692a2ffc66",
+   "topic": "airport_city",
+   "question": "Jayprakash Narayan Airport is in which city?",
+   "options": [
+    "Kannur district",
+    "Patna",
+    "Tiruchirappalli",
+    "Jalgaon"
+   ],
+   "answer": 1,
+   "fact": "Jayprakash Narayan Airport is in which city? Answer: Patna.",
+   "source_url": "https://www.wikidata.org/wiki/Q2673010"
+  },
+  {
+   "id": "a0e67b00ae",
+   "topic": "airport_city",
+   "question": "Keshod Airport is in which city?",
+   "options": [
+    "Diu",
+    "Junagadh",
+    "Khajuraho",
+    "Salem district"
+   ],
+   "answer": 1,
+   "fact": "Keshod Airport is in which city? Answer: Junagadh.",
+   "source_url": "https://www.wikidata.org/wiki/Q2722850"
+  },
+  {
+   "id": "172c9aba19",
+   "topic": "airport_city",
+   "question": "Rajiv Gandhi International Airport is in which city?",
+   "options": [
+    "Puttaparthi",
+    "Jammu",
+    "Hyderabad",
+    "Amritsar"
+   ],
+   "answer": 2,
+   "fact": "Rajiv Gandhi International Airport is in which city? Answer: Hyderabad.",
+   "source_url": "https://www.wikidata.org/wiki/Q278667"
+  },
+  {
+   "id": "faf845bead",
+   "topic": "airport_city",
+   "question": "Shri Guru Gobind Singh Ji Airport is in which city?",
+   "options": [
+    "Jodhpur",
+    "Bhubaneswar",
+    "Nanded",
+    "Varanasi"
+   ],
+   "answer": 2,
+   "fact": "Shri Guru Gobind Singh Ji Airport is in which city? Answer: Nanded.",
+   "source_url": "https://www.wikidata.org/wiki/Q282238"
+  },
+  {
+   "id": "7d5d834be7",
+   "topic": "airport_city",
+   "question": "Bagdogra Airport is in which city?",
+   "options": [
+    "Siliguri",
+    "Coimbatore",
+    "Vijayawada",
+    "Srinagar"
+   ],
+   "answer": 0,
+   "fact": "Bagdogra Airport is in which city? Answer: Siliguri.",
+   "source_url": "https://www.wikidata.org/wiki/Q2900847"
+  },
+  {
+   "id": "aa315d349b",
+   "topic": "airport_city",
+   "question": "Chhatrapati Sambhajinagar Airport is in which city?",
+   "options": [
+    "Akola",
+    "Thiruvananthapuram",
+    "Srinagar",
+    "Aurangabad"
+   ],
+   "answer": 3,
+   "fact": "Chhatrapati Sambhajinagar Airport is in which city? Answer: Aurangabad.",
+   "source_url": "https://www.wikidata.org/wiki/Q2903059"
+  },
+  {
+   "id": "89120a864a",
+   "topic": "airport_city",
+   "question": "Gaggal Airport is in which city?",
+   "options": [
+    "Kangra",
+    "Delhi",
+    "Jorhat",
+    "Jodhpur"
+   ],
+   "answer": 0,
+   "fact": "Gaggal Airport is in which city? Answer: Kangra.",
+   "source_url": "https://www.wikidata.org/wiki/Q3188822"
+  },
+  {
+   "id": "7576aaa991",
+   "topic": "airport_city",
+   "question": "Lal Bahadur Shastri Airport is in which city?",
+   "options": [
+    "Varanasi",
+    "Srinagar",
+    "Bengaluru",
+    "Kangra"
+   ],
+   "answer": 0,
+   "fact": "Lal Bahadur Shastri Airport is in which city? Answer: Varanasi.",
+   "source_url": "https://www.wikidata.org/wiki/Q3276974"
+  },
+  {
+   "id": "8b7d63b188",
+   "topic": "airport_city",
+   "question": "Lengpui Airport is in which city?",
+   "options": [
+    "Imphal",
+    "Porbandar",
+    "Aizawl",
+    "Jammu"
+   ],
+   "answer": 2,
+   "fact": "Lengpui Airport is in which city? Answer: Aizawl.",
+   "source_url": "https://www.wikidata.org/wiki/Q3504954"
+  },
+  {
+   "id": "dd18dad4e6",
+   "topic": "airport_city",
+   "question": "Tuticorin Airport is in which city?",
+   "options": [
+    "Thoothukudi",
+    "Kullu",
+    "Imphal",
+    "Mopa"
+   ],
+   "answer": 0,
+   "fact": "Tuticorin Airport is in which city? Answer: Thoothukudi.",
+   "source_url": "https://www.wikidata.org/wiki/Q3522770"
+  },
+  {
+   "id": "0c8abc12a3",
+   "topic": "airport_city",
+   "question": "Vidyanagar Airport is in which city?",
+   "options": [
+    "Bathinda",
+    "Hyderabad",
+    "Ballari",
+    "Akola"
+   ],
+   "answer": 2,
+   "fact": "Vidyanagar Airport is in which city? Answer: Ballari.",
+   "source_url": "https://www.wikidata.org/wiki/Q3529756"
+  },
+  {
+   "id": "bea497d274",
+   "topic": "airport_city",
+   "question": "Lilabari Airport is in which city?",
+   "options": [
+    "Chennai metropolitan area",
+    "Vadodara",
+    "North Lakhimpur",
+    "Bhavnagar"
+   ],
+   "answer": 2,
+   "fact": "Lilabari Airport is in which city? Answer: North Lakhimpur.",
+   "source_url": "https://www.wikidata.org/wiki/Q3631773"
+  },
+  {
+   "id": "f9bb76628d",
+   "topic": "airport_city",
+   "question": "Noida International Airport is in which city?",
+   "options": [
+    "Salem district",
+    "Ramnagar, Agartala",
+    "Bhopal",
+    "Delhi"
+   ],
+   "answer": 3,
+   "fact": "Noida International Airport is in which city? Answer: Delhi.",
+   "source_url": "https://www.wikidata.org/wiki/Q3812243"
+  },
+  {
+   "id": "988552302e",
+   "topic": "airport_city",
+   "question": "Sri Guru Ram Dass Jee International Airport is in which city?",
+   "options": [
+    "Indian Institute of Information Technology, Lucknow",
+    "Varanasi",
+    "Amritsar",
+    "Jamnagar"
+   ],
+   "answer": 2,
+   "fact": "Sri Guru Ram Dass Jee International Airport is in which city? Answer: Amritsar.",
+   "source_url": "https://www.wikidata.org/wiki/Q385356"
+  },
+  {
+   "id": "0dabc8c218",
+   "topic": "airport_city",
+   "question": "Netaji Subhas Chandra Bose International Airport is in which city?",
+   "options": [
+    "Kolkata",
+    "Thiruvananthapuram",
+    "Dehradun",
+    "Goa"
+   ],
+   "answer": 0,
+   "fact": "Netaji Subhas Chandra Bose International Airport is in which city? Answer: Kolkata.",
+   "source_url": "https://www.wikidata.org/wiki/Q388535"
+  },
+  {
+   "id": "cd2f17bd27",
+   "topic": "airport_city",
+   "question": "Sardar Vallabhbhai Patel International Airport is in which city?",
+   "options": [
+    "Coimbatore",
+    "Ahmedabad",
+    "Jaisalmer",
+    "Srinagar"
+   ],
+   "answer": 1,
+   "fact": "Sardar Vallabhbhai Patel International Airport is in which city? Answer: Ahmedabad.",
+   "source_url": "https://www.wikidata.org/wiki/Q401700"
+  },
+  {
+   "id": "a65233a6cb",
+   "topic": "airport_city",
+   "question": "Kempegowda International Airport is in which city?",
+   "options": [
+    "Varanasi",
+    "Madurai",
+    "Muzaffarpur",
+    "Bengaluru"
+   ],
+   "answer": 3,
+   "fact": "Kempegowda International Airport is in which city? Answer: Bengaluru.",
+   "source_url": "https://www.wikidata.org/wiki/Q503364"
+  },
+  {
+   "id": "d4783d3dba",
+   "topic": "airport_city",
+   "question": "Chhatrapati Shivaji Maharaj International Airport is in which city?",
+   "options": [
+    "Mumbai",
+    "Dehradun",
+    "Lucknow",
+    "Bhuj"
+   ],
+   "answer": 0,
+   "fact": "Chhatrapati Shivaji Maharaj International Airport is in which city? Answer: Mumbai.",
+   "source_url": "https://www.wikidata.org/wiki/Q504368"
+  },
+  {
+   "id": "724a572bbc",
+   "topic": "airport_city",
+   "question": "Calicut International Airport is in which city?",
+   "options": [
+    "Silchar",
+    "Belgaum",
+    "Mopa",
+    "Kozhikode"
+   ],
+   "answer": 3,
+   "fact": "Calicut International Airport is in which city? Answer: Kozhikode.",
+   "source_url": "https://www.wikidata.org/wiki/Q573547"
+  },
+  {
+   "id": "e12c504149",
+   "topic": "airport_city",
+   "question": "Cochin International Airport is in which city?",
+   "options": [
+    "Bengaluru",
+    "Kochi",
+    "Siliguri",
+    "Rajkot"
+   ],
+   "answer": 1,
+   "fact": "Cochin International Airport is in which city? Answer: Kochi.",
+   "source_url": "https://www.wikidata.org/wiki/Q592172"
+  },
+  {
+   "id": "f84da553ac",
+   "topic": "airport_city",
+   "question": "Birsa Munda Airport is in which city?",
+   "options": [
+    "Bhubaneswar",
+    "Lucknow",
+    "Ranchi",
+    "Kadapa"
+   ],
+   "answer": 2,
+   "fact": "Birsa Munda Airport is in which city? Answer: Ranchi.",
+   "source_url": "https://www.wikidata.org/wiki/Q598231"
+  },
+  {
+   "id": "a39f1f61ca",
+   "topic": "airport_city",
+   "question": "Biju Patnaik Airport is in which city?",
+   "options": [
+    "North Lakhimpur",
+    "Gorakhpur",
+    "Madurai",
+    "Bhubaneswar"
+   ],
+   "answer": 3,
+   "fact": "Biju Patnaik Airport is in which city? Answer: Bhubaneswar.",
+   "source_url": "https://www.wikidata.org/wiki/Q598850"
+  },
+  {
+   "id": "1e2db8d031",
+   "topic": "airport_city",
+   "question": "Bhuntar Airport is in which city?",
+   "options": [
+    "Gorakhpur",
+    "Kullu",
+    "Kochi",
+    "Ramnagar, Agartala"
+   ],
+   "answer": 1,
+   "fact": "Bhuntar Airport is in which city? Answer: Kullu.",
+   "source_url": "https://www.wikidata.org/wiki/Q619720"
+  },
+  {
+   "id": "9ed601f57b",
+   "topic": "airport_city",
+   "question": "Juhu Aerodrome is in which city?",
+   "options": [
+    "Kolhapur",
+    "Mumbai",
+    "Rajkot junction railway station",
+    "Indian Institute of Information Technology, Lucknow"
+   ],
+   "answer": 1,
+   "fact": "Juhu Aerodrome is in which city? Answer: Mumbai.",
+   "source_url": "https://www.wikidata.org/wiki/Q674812"
+  },
+  {
+   "id": "2a69509edc",
+   "topic": "airport_city",
+   "question": "Sahnewal Airport is in which city?",
+   "options": [
+    "Jorhat",
+    "Ludhiana",
+    "Porbandar",
+    "Goa"
+   ],
+   "answer": 1,
+   "fact": "Sahnewal Airport is in which city? Answer: Ludhiana.",
+   "source_url": "https://www.wikidata.org/wiki/Q7399709"
+  },
+  {
+   "id": "715ec934f8",
+   "topic": "airport_city",
+   "question": "Sonari Airport is in which city?",
+   "options": [
+    "Tirupati",
+    "Shillong",
+    "Porbandar",
+    "Jamshedpur"
+   ],
+   "answer": 3,
+   "fact": "Sonari Airport is in which city? Answer: Jamshedpur.",
+   "source_url": "https://www.wikidata.org/wiki/Q7560814"
+  },
+  {
+   "id": "88274f2a5b",
+   "topic": "airport_city",
+   "question": "Agatti Aerodrome is in which city?",
+   "options": [
+    "Lakshadweep",
+    "Rajahmundry",
+    "Delhi",
+    "Agartala"
+   ],
+   "answer": 0,
+   "fact": "Agatti Aerodrome is in which city? Answer: Lakshadweep.",
+   "source_url": "https://www.wikidata.org/wiki/Q892248"
+  },
+  {
+   "id": "377f9e472d",
+   "topic": "airport_city",
+   "question": "Veer Savarkar International Airport is in which city?",
+   "options": [
+    "Jalgaon",
+    "Ayodhya",
+    "Srivijayapuram",
+    "Goa"
+   ],
+   "answer": 2,
+   "fact": "Veer Savarkar International Airport is in which city? Answer: Srivijayapuram.",
+   "source_url": "https://www.wikidata.org/wiki/Q937462"
+  },
+  {
+   "id": "512bcdfd4a",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Guinea called?",
+   "options": [
+    "National Assembly of People's Power",
+    "National Assembly",
+    "Assembly of the Republic of Kosovo",
+    "Parliament of Ivory Coast"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Guinea called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q1006"
+  },
+  {
+   "id": "b2bfbf7e04",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Guinea-Bissau called?",
+   "options": [
+    "National Assembly of Bahrain",
+    "National People's Assembly",
+    "Legislative Assembly of Samoa",
+    "Parliament of Jamaica"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Guinea-Bissau called? Answer: National People's Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q1007"
+  },
+  {
+   "id": "645a4de8f1",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Malawi called?",
+   "options": [
+    "National Assembly",
+    "Folketing",
+    "National Assembly of Botswana",
+    "Stortinget"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Malawi called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q1020"
+  },
+  {
+   "id": "cbfbbfab08",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Mauritania called?",
+   "options": [
+    "Parliament of Eswatini",
+    "National Assembly",
+    "Legislative Assembly of El Salvador",
+    "Palau National Congress"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Mauritania called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q1025"
+  },
+  {
+   "id": "7aa41cc262",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Mozambique called?",
+   "options": [
+    "Parliament of Rwanda",
+    "General Council of Andorra",
+    "Assembly of the Republic",
+    "National Assembly of Azerbaijan"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Mozambique called? Answer: Assembly of the Republic.",
+   "source_url": "https://www.wikidata.org/wiki/Q1029"
+  },
+  {
+   "id": "f7433b12a6",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Niger called?",
+   "options": [
+    "Parliament of Jordan",
+    "Parliament of The Bahamas",
+    "National Assembly",
+    "Parliament of Georgia"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Niger called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q1032"
+  },
+  {
+   "id": "470f8f0644",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Senegal called?",
+   "options": [
+    "Parliament of Cambodia",
+    "Federal Assembly of Switzerland",
+    "National Assembly",
+    "German Bundestag"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Senegal called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q1041"
+  },
+  {
+   "id": "0c17f4aefb",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Ethiopia called?",
+   "options": [
+    "National Assembly",
+    "Parliament of the United Kingdom",
+    "Federal Parliamentary Assembly",
+    "Parliament of Antigua and Barbuda"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Ethiopia called? Answer: Federal Parliamentary Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q115"
+  },
+  {
+   "id": "9bab0d0e73",
+   "topic": "country_legislature",
+   "question": "What is the parliament of France called?",
+   "options": [
+    "Saeima",
+    "French Parliament",
+    "Austrian Parliament",
+    "Parliament of Finland"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of France called? Answer: French Parliament.",
+   "source_url": "https://www.wikidata.org/wiki/Q142"
+  },
+  {
+   "id": "2ec02d4f75",
+   "topic": "country_legislature",
+   "question": "What is the parliament of People's Republic of China called?",
+   "options": [
+    "Legislative Assembly of Tonga",
+    "Parliament of Romania",
+    "National People's Congress",
+    "Parliament of Ghana"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of People's Republic of China called? Answer: National People's Congress.",
+   "source_url": "https://www.wikidata.org/wiki/Q148"
+  },
+  {
+   "id": "442393915d",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Japan called?",
+   "options": [
+    "Parliament of Egypt",
+    "Parliament of Haiti",
+    "National Assembly",
+    "National Diet"
+   ],
+   "answer": 3,
+   "fact": "What is the parliament of Japan called? Answer: National Diet.",
+   "source_url": "https://www.wikidata.org/wiki/Q17"
+  },
+  {
+   "id": "233ee79676",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Iceland called?",
+   "options": [
+    "National Assembly of Bulgaria",
+    "Althing",
+    "Legislative Assembly of Samoa",
+    "National Parliament of Solomon Islands"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Iceland called? Answer: Althing.",
+   "source_url": "https://www.wikidata.org/wiki/Q189"
+  },
+  {
+   "id": "1a8765fc3f",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Estonia called?",
+   "options": [
+    "Palestinian Legislative Council",
+    "Riigikogu",
+    "Congress of the Republic of Peru",
+    "Belgian Federal Parliament"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Estonia called? Answer: Riigikogu.",
+   "source_url": "https://www.wikidata.org/wiki/Q191"
+  },
+  {
+   "id": "3745789777",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Norway called?",
+   "options": [
+    "Parliament of Tuvalu",
+    "Parliament of Lesotho",
+    "Stortinget",
+    "Parliament of Jamaica"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Norway called? Answer: Stortinget.",
+   "source_url": "https://www.wikidata.org/wiki/Q20"
+  },
+  {
+   "id": "7120b9bf01",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Latvia called?",
+   "options": [
+    "Parliament of Nauru",
+    "Parliament of Antigua and Barbuda",
+    "National Assembly",
+    "Saeima"
+   ],
+   "answer": 3,
+   "fact": "What is the parliament of Latvia called? Answer: Saeima.",
+   "source_url": "https://www.wikidata.org/wiki/Q211"
+  },
+  {
+   "id": "5d9ea213df",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Ukraine called?",
+   "options": [
+    "National Assembly",
+    "National Assembly of Thailand",
+    "Verkhovna Rada",
+    "Oireachtas"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Ukraine called? Answer: Verkhovna Rada.",
+   "source_url": "https://www.wikidata.org/wiki/Q212"
+  },
+  {
+   "id": "de8490719b",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Slovakia called?",
+   "options": [
+    "National Council of the Slovak Republic",
+    "House of Assembly of Dominica",
+    "Parliament of Kenya",
+    "Pontifical Commission for the Vatican City State"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Slovakia called? Answer: National Council of the Slovak Republic.",
+   "source_url": "https://www.wikidata.org/wiki/Q214"
+  },
+  {
+   "id": "2ee8261872",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Palestine called?",
+   "options": [
+    "National Assembly",
+    "Althing",
+    "Palestinian Legislative Council",
+    "Congress of the Union"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Palestine called? Answer: Palestinian Legislative Council.",
+   "source_url": "https://www.wikidata.org/wiki/Q219060"
+  },
+  {
+   "id": "8c4068b847",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Monaco called?",
+   "options": [
+    "National Council",
+    "Parliament of Kazakhstan",
+    "National Assembly of Armenia",
+    "The Knesset"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Monaco called? Answer: National Council.",
+   "source_url": "https://www.wikidata.org/wiki/Q235"
+  },
+  {
+   "id": "98666af187",
+   "topic": "country_legislature",
+   "question": "What is the parliament of San Marino called?",
+   "options": [
+    "Grand and General Council",
+    "National Assembly  of Venezuela",
+    "National Council",
+    "National Council of the Slovak Republic"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of San Marino called? Answer: Grand and General Council.",
+   "source_url": "https://www.wikidata.org/wiki/Q238"
+  },
+  {
+   "id": "a709f37b6a",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Cuba called?",
+   "options": [
+    "Parliament of Cameroon",
+    "National Assembly",
+    "National Assembly of People's Power",
+    "National Assembly of Thailand"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Cuba called? Answer: National Assembly of People's Power.",
+   "source_url": "https://www.wikidata.org/wiki/Q241"
+  },
+  {
+   "id": "21d0cf827f",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Belize called?",
+   "options": [
+    "Palestinian Legislative Council",
+    "Council of Representatives of Iraq",
+    "Parliament of Madagascar",
+    "National Assembly"
+   ],
+   "answer": 3,
+   "fact": "What is the parliament of Belize called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q242"
+  },
+  {
+   "id": "f185526a67",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Indonesia called?",
+   "options": [
+    "People's Consultative Assembly",
+    "National Assembly",
+    "Congress of the Republic of Peru",
+    "Supreme Assembly"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Indonesia called? Answer: People's Consultative Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q252"
+  },
+  {
+   "id": "15af8889e6",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Uzbekistan called?",
+   "options": [
+    "Parliament of Malaysia",
+    "Oliy Majlis",
+    "Parliament of Madagascar",
+    "Belgian Federal Parliament"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Uzbekistan called? Answer: Oliy Majlis.",
+   "source_url": "https://www.wikidata.org/wiki/Q265"
+  },
+  {
+   "id": "3c4bb970ce",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Ireland called?",
+   "options": [
+    "Oireachtas",
+    "Parliament of Albania",
+    "Verkhovna Rada",
+    "Congress of Paraguay"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Ireland called? Answer: Oireachtas.",
+   "source_url": "https://www.wikidata.org/wiki/Q27"
+  },
+  {
+   "id": "0a05a638d4",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Hungary called?",
+   "options": [
+    "National Assembly of Armenia",
+    "National Assembly",
+    "Parliament of Cameroon",
+    "National Assembly  of Venezuela"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Hungary called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q28"
+  },
+  {
+   "id": "03217d1cf6",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Spain called?",
+   "options": [
+    "Parliament of Finland",
+    "People's Consultative Assembly",
+    "Cortes Generales",
+    "Supreme Assembly"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Spain called? Answer: Cortes Generales.",
+   "source_url": "https://www.wikidata.org/wiki/Q29"
+  },
+  {
+   "id": "ad0173eaac",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Belgium called?",
+   "options": [
+    "Belgian Federal Parliament",
+    "Saeima",
+    "Hellenic Parliament",
+    "German Bundestag"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Belgium called? Answer: Belgian Federal Parliament.",
+   "source_url": "https://www.wikidata.org/wiki/Q31"
+  },
+  {
+   "id": "dc162c8bd4",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Luxembourg called?",
+   "options": [
+    "Parliament of Ivory Coast",
+    "Parliament of The Bahamas",
+    "Chamber of Deputies",
+    "Parliament of Cambodia"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Luxembourg called? Answer: Chamber of Deputies.",
+   "source_url": "https://www.wikidata.org/wiki/Q32"
+  },
+  {
+   "id": "50b20a44c6",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Lithuania called?",
+   "options": [
+    "Seimas",
+    "Parliament of Vanuatu",
+    "Parliament of Lesotho",
+    "Congress of the Republic of Guatemala"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Lithuania called? Answer: Seimas.",
+   "source_url": "https://www.wikidata.org/wiki/Q37"
+  },
+  {
+   "id": "bf570a8394",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Italy called?",
+   "options": [
+    "National Legislature",
+    "Parliament of Malta",
+    "House of Representatives",
+    "Italian Parliament"
+   ],
+   "answer": 3,
+   "fact": "What is the parliament of Italy called? Answer: Italian Parliament.",
+   "source_url": "https://www.wikidata.org/wiki/Q38"
+  },
+  {
+   "id": "234c5883d5",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Greece called?",
+   "options": [
+    "Hellenic Parliament",
+    "National Parliament of Solomon Islands",
+    "Parliament of Romania",
+    "Assembly of the Union of the Comoros"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Greece called? Answer: Hellenic Parliament.",
+   "source_url": "https://www.wikidata.org/wiki/Q41"
+  },
+  {
+   "id": "b21b959b49",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Argentina called?",
+   "options": [
+    "House of Assembly of Saint Vincent and the Grenadines",
+    "National Assembly of Armenia",
+    "Argentine National Congress",
+    "Palau National Congress"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Argentina called? Answer: Argentine National Congress.",
+   "source_url": "https://www.wikidata.org/wiki/Q414"
+  },
+  {
+   "id": "b842c2fe6b",
+   "topic": "country_legislature",
+   "question": "What is the parliament of North Korea called?",
+   "options": [
+    "National Assembly of the Republic of Belarus",
+    "Supreme Council",
+    "Supreme People's Assembly",
+    "Parliament of Lesotho"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of North Korea called? Answer: Supreme People's Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q423"
+  },
+  {
+   "id": "8cc235d579",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Portugal called?",
+   "options": [
+    "Assembly of the Republic",
+    "National Assembly",
+    "Parliament of Georgia",
+    "Saeima"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Portugal called? Answer: Assembly of the Republic.",
+   "source_url": "https://www.wikidata.org/wiki/Q45"
+  },
+  {
+   "id": "d3e18a3ab1",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Timor-Leste called?",
+   "options": [
+    "Parliament of Albania",
+    "National Parliament",
+    "National Assembly of Seychelles",
+    "The Knesset"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Timor-Leste called? Answer: National Parliament.",
+   "source_url": "https://www.wikidata.org/wiki/Q574"
+  },
+  {
+   "id": "a2bae6913e",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Chad called?",
+   "options": [
+    "Federal Assembly of Switzerland",
+    "National Assembly",
+    "National People's Congress",
+    "Pontifical Commission for the Vatican City State"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Chad called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q657"
+  },
+  {
+   "id": "21b68793bc",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Mongolia called?",
+   "options": [
+    "State Great Khural",
+    "Parliament of Rwanda",
+    "Congress of the Union",
+    "Parliament of Equatorial Guinea"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Mongolia called? Answer: State Great Khural.",
+   "source_url": "https://www.wikidata.org/wiki/Q711"
+  },
+  {
+   "id": "2f2a70aa7c",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Suriname called?",
+   "options": [
+    "Seimas",
+    "Parliament of Eswatini",
+    "National Assembly",
+    "National People's Assembly"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Suriname called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q730"
+  },
+  {
+   "id": "9ff542f335",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Guyana called?",
+   "options": [
+    "Jatiya Sangsad",
+    "National Assembly",
+    "The Knesset",
+    "National Assembly of Nigeria"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Guyana called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q734"
+  },
+  {
+   "id": "1d667c6728",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Ecuador called?",
+   "options": [
+    "Parliament of Sierra Leone",
+    "Parliament of the Democratic Republic of the Congo",
+    "Parliament of Zimbabwe",
+    "National Assembly"
+   ],
+   "answer": 3,
+   "fact": "What is the parliament of Ecuador called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q736"
+  },
+  {
+   "id": "19c1c1704f",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Bolivia called?",
+   "options": [
+    "French Parliament",
+    "Palestinian Legislative Council",
+    "Parliament of the Czech Republic",
+    "Plurinational Legislative Assembly"
+   ],
+   "answer": 3,
+   "fact": "What is the parliament of Bolivia called? Answer: Plurinational Legislative Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q750"
+  },
+  {
+   "id": "c1e4ba0b2e",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Kingdom of Denmark called?",
+   "options": [
+    "Folketing",
+    "Parliament of Sierra Leone",
+    "Congress of the Union",
+    "Oireachtas"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Kingdom of Denmark called? Answer: Folketing.",
+   "source_url": "https://www.wikidata.org/wiki/Q756617"
+  },
+  {
+   "id": "30dea1de8e",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Saint Kitts and Nevis called?",
+   "options": [
+    "New Zealand Parliament",
+    "National Assembly",
+    "Congress of the Dominican Republic",
+    "Parliament of Rwanda"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Saint Kitts and Nevis called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q763"
+  },
+  {
+   "id": "9ec587fc5b",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Iran called?",
+   "options": [
+    "House of Representatives",
+    "Islamic Consultative Assembly",
+    "The Knesset",
+    "Parliament of Kenya"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Iran called? Answer: Islamic Consultative Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q794"
+  },
+  {
+   "id": "c561fe7d3b",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Israel called?",
+   "options": [
+    "The Knesset",
+    "Bundesrat",
+    "Parliament of Bhutan",
+    "Parliament of Cambodia"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Israel called? Answer: The Knesset.",
+   "source_url": "https://www.wikidata.org/wiki/Q801"
+  },
+  {
+   "id": "f1c2834d85",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Kyrgyzstan called?",
+   "options": [
+    "High Council of State",
+    "Supreme Council",
+    "House of Representatives",
+    "Parliament of Antigua and Barbuda"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Kyrgyzstan called? Answer: Supreme Council.",
+   "source_url": "https://www.wikidata.org/wiki/Q813"
+  },
+  {
+   "id": "af89a6f7fd",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Laos called?",
+   "options": [
+    "Grand and General Council",
+    "National Assembly",
+    "Parliament of Kenya",
+    "Althing"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Laos called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q819"
+  },
+  {
+   "id": "20dafafe60",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Maldives called?",
+   "options": [
+    "Parliament of Antigua and Barbuda",
+    "People's Majlis",
+    "Parliament of Lesotho",
+    "Parliament of Canada"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Maldives called? Answer: People's Majlis.",
+   "source_url": "https://www.wikidata.org/wiki/Q826"
+  },
+  {
+   "id": "447437448f",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Myanmar called?",
+   "options": [
+    "Congress of the Dominican Republic",
+    "Assembly of the Union",
+    "Parliamentary Assembly of Bosnia and Herzegovina",
+    "Parliament of Sweden"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Myanmar called? Answer: Assembly of the Union.",
+   "source_url": "https://www.wikidata.org/wiki/Q836"
+  },
+  {
+   "id": "e856f708da",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Tajikistan called?",
+   "options": [
+    "Hellenic Parliament",
+    "Supreme Assembly",
+    "Parliament of Malaysia",
+    "Legislative Yuan"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Tajikistan called? Answer: Supreme Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q863"
+  },
+  {
+   "id": "155867ccbb",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Taiwan called?",
+   "options": [
+    "Legislative Yuan",
+    "National Assembly of Armenia",
+    "Saeima",
+    "Legislative Council of Brunei"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Taiwan called? Answer: Legislative Yuan.",
+   "source_url": "https://www.wikidata.org/wiki/Q865"
+  },
+  {
+   "id": "c0d382dd65",
+   "topic": "country_legislature",
+   "question": "What is the parliament of United Arab Emirates called?",
+   "options": [
+    "Parliament of Zimbabwe",
+    "Parliament of Nepal",
+    "Federal Supreme Council",
+    "Palestinian Legislative Council"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of United Arab Emirates called? Answer: Federal Supreme Council.",
+   "source_url": "https://www.wikidata.org/wiki/Q878"
+  },
+  {
+   "id": "31f62481c9",
+   "topic": "country_legislature",
+   "question": "What is the parliament of South Korea called?",
+   "options": [
+    "National Assembly",
+    "Stortinget",
+    "Parliament of Nepal",
+    "Parliament of Namibia"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of South Korea called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q884"
+  },
+  {
+   "id": "452539b6a6",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Bangladesh called?",
+   "options": [
+    "People's Assembly of Syria",
+    "Stortinget",
+    "National Assembly",
+    "Jatiya Sangsad"
+   ],
+   "answer": 3,
+   "fact": "What is the parliament of Bangladesh called? Answer: Jatiya Sangsad.",
+   "source_url": "https://www.wikidata.org/wiki/Q902"
+  },
+  {
+   "id": "9c729d842d",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Mali called?",
+   "options": [
+    "United States Congress",
+    "Bundesrat",
+    "National Assembly",
+    "Parliament of The Bahamas"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Mali called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q912"
+  },
+  {
+   "id": "0a388fb461",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Tanzania called?",
+   "options": [
+    "Federal Assembly of Switzerland",
+    "Parliament of India",
+    "Assembly of the Republic",
+    "National Assembly"
+   ],
+   "answer": 3,
+   "fact": "What is the parliament of Tanzania called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q924"
+  },
+  {
+   "id": "86aa41bc62",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Central African Republic called?",
+   "options": [
+    "Legislative Yuan",
+    "National Assembly",
+    "House of Representatives",
+    "Parliament of Morocco"
+   ],
+   "answer": 1,
+   "fact": "What is the parliament of Central African Republic called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q929"
+  },
+  {
+   "id": "b719c032e5",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Togo called?",
+   "options": [
+    "People's Majlis",
+    "Parliament of the Republic of the Congo",
+    "National Assembly",
+    "Legislative Assembly of Tonga"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Togo called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q945"
+  },
+  {
+   "id": "325170e773",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Tunisia called?",
+   "options": [
+    "National Parliament of Solomon Islands",
+    "People's Majlis",
+    "Legislative Assembly of Tonga",
+    "Assembly of the Representatives of the People"
+   ],
+   "answer": 3,
+   "fact": "What is the parliament of Tunisia called? Answer: Assembly of the Representatives of the People.",
+   "source_url": "https://www.wikidata.org/wiki/Q948"
+  },
+  {
+   "id": "f40712056e",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Zambia called?",
+   "options": [
+    "National Assembly",
+    "Stortinget",
+    "Parliament of Pakistan",
+    "Parliament of the Republic of Moldova"
+   ],
+   "answer": 0,
+   "fact": "What is the parliament of Zambia called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q953"
+  },
+  {
+   "id": "5ebaf9c15c",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Mexico called?",
+   "options": [
+    "Parliament of Zimbabwe",
+    "Legislature of the Marshall Islands",
+    "Congress of the Union",
+    "National Assembly"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Mexico called? Answer: Congress of the Union.",
+   "source_url": "https://www.wikidata.org/wiki/Q96"
+  },
+  {
+   "id": "f181105967",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Benin called?",
+   "options": [
+    "Parliament of Tuvalu",
+    "Parliament of Trinidad and Tobago",
+    "National Legislature of South Sudan",
+    "National Assembly"
+   ],
+   "answer": 3,
+   "fact": "What is the parliament of Benin called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q962"
+  },
+  {
+   "id": "3fff5fd5e6",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Djibouti called?",
+   "options": [
+    "National Legislature of South Sudan",
+    "Congress of the Republic of Guatemala",
+    "National Assembly",
+    "National Congress of Brazil"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Djibouti called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q977"
+  },
+  {
+   "id": "35e7aa36ba",
+   "topic": "country_legislature",
+   "question": "What is the parliament of Eritrea called?",
+   "options": [
+    "National People's Congress",
+    "Parliament of Algeria",
+    "National Assembly",
+    "Islamic Consultative Assembly"
+   ],
+   "answer": 2,
+   "fact": "What is the parliament of Eritrea called? Answer: National Assembly.",
+   "source_url": "https://www.wikidata.org/wiki/Q986"
+  },
+  {
+   "id": "4b1f82fa72",
+   "topic": "country_continent",
+   "question": "Gabon is in which continent?",
+   "options": [
+    "Oceania",
+    "Europe",
+    "Africa",
+    "Asia"
+   ],
+   "answer": 2,
+   "fact": "Gabon is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1000"
+  },
+  {
+   "id": "694243a758",
+   "topic": "country_continent",
+   "question": "The Gambia is in which continent?",
+   "options": [
+    "Africa",
+    "Europe",
+    "Asia",
+    "Eurasia"
+   ],
+   "answer": 0,
+   "fact": "The Gambia is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1005"
+  },
+  {
+   "id": "e1c18ae850",
+   "topic": "country_continent",
+   "question": "Guinea is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Oceania",
+    "Africa",
+    "North America"
+   ],
+   "answer": 2,
+   "fact": "Guinea is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1006"
+  },
+  {
+   "id": "f09e61e161",
+   "topic": "country_continent",
+   "question": "Guinea-Bissau is in which continent?",
+   "options": [
+    "Africa",
+    "Insular Oceania",
+    "North America",
+    "Oceania"
+   ],
+   "answer": 0,
+   "fact": "Guinea-Bissau is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1007"
+  },
+  {
+   "id": "40a09ac3e2",
+   "topic": "country_continent",
+   "question": "Ivory Coast is in which continent?",
+   "options": [
+    "Asia",
+    "North America",
+    "Oceania",
+    "Africa"
+   ],
+   "answer": 3,
+   "fact": "Ivory Coast is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1008"
+  },
+  {
+   "id": "bace5987e7",
+   "topic": "country_continent",
+   "question": "Cameroon is in which continent?",
+   "options": [
+    "South America",
+    "Asia",
+    "Europe",
+    "Africa"
+   ],
+   "answer": 3,
+   "fact": "Cameroon is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1009"
+  },
+  {
+   "id": "aab374a6d2",
+   "topic": "country_continent",
+   "question": "Cape Verde is in which continent?",
+   "options": [
+    "Eurasia",
+    "South America",
+    "Africa",
+    "Asia"
+   ],
+   "answer": 2,
+   "fact": "Cape Verde is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1011"
+  },
+  {
+   "id": "8c7b6f3c9e",
+   "topic": "country_continent",
+   "question": "Lesotho is in which continent?",
+   "options": [
+    "Oceania",
+    "North America",
+    "Africa",
+    "Eurasia"
+   ],
+   "answer": 2,
+   "fact": "Lesotho is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1013"
+  },
+  {
+   "id": "f78caf682e",
+   "topic": "country_continent",
+   "question": "Liberia is in which continent?",
+   "options": [
+    "Asia",
+    "Europe",
+    "Africa",
+    "Eurasia"
+   ],
+   "answer": 2,
+   "fact": "Liberia is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1014"
+  },
+  {
+   "id": "5639c6c636",
+   "topic": "country_continent",
+   "question": "Libya is in which continent?",
+   "options": [
+    "North America",
+    "Europe",
+    "Oceania",
+    "Africa"
+   ],
+   "answer": 3,
+   "fact": "Libya is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1016"
+  },
+  {
+   "id": "2a9e5995bd",
+   "topic": "country_continent",
+   "question": "Madagascar is in which continent?",
+   "options": [
+    "Oceania",
+    "Eurasia",
+    "Africa",
+    "South America"
+   ],
+   "answer": 2,
+   "fact": "Madagascar is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1019"
+  },
+  {
+   "id": "2e49841d6a",
+   "topic": "country_continent",
+   "question": "Malawi is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "South America",
+    "Oceania",
+    "Africa"
+   ],
+   "answer": 3,
+   "fact": "Malawi is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1020"
+  },
+  {
+   "id": "0d0a1ffd3a",
+   "topic": "country_continent",
+   "question": "Mauritania is in which continent?",
+   "options": [
+    "Africa",
+    "North America",
+    "Oceania",
+    "Eurasia"
+   ],
+   "answer": 0,
+   "fact": "Mauritania is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1025"
+  },
+  {
+   "id": "47e168acd5",
+   "topic": "country_continent",
+   "question": "Mauritius is in which continent?",
+   "options": [
+    "South America",
+    "Oceania",
+    "Africa",
+    "Insular Oceania"
+   ],
+   "answer": 2,
+   "fact": "Mauritius is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1027"
+  },
+  {
+   "id": "05735ef1c2",
+   "topic": "country_continent",
+   "question": "Morocco is in which continent?",
+   "options": [
+    "Africa",
+    "South America",
+    "Asia",
+    "Eurasia"
+   ],
+   "answer": 0,
+   "fact": "Morocco is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1028"
+  },
+  {
+   "id": "3f714d6bd9",
+   "topic": "country_continent",
+   "question": "Mozambique is in which continent?",
+   "options": [
+    "Oceania",
+    "Europe",
+    "North America",
+    "Africa"
+   ],
+   "answer": 3,
+   "fact": "Mozambique is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1029"
+  },
+  {
+   "id": "8186a1ab38",
+   "topic": "country_continent",
+   "question": "Namibia is in which continent?",
+   "options": [
+    "Africa",
+    "Eurasia",
+    "South America",
+    "North America"
+   ],
+   "answer": 0,
+   "fact": "Namibia is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1030"
+  },
+  {
+   "id": "3d73930daf",
+   "topic": "country_continent",
+   "question": "Niger is in which continent?",
+   "options": [
+    "Europe",
+    "Africa",
+    "Insular Oceania",
+    "Oceania"
+   ],
+   "answer": 1,
+   "fact": "Niger is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1032"
+  },
+  {
+   "id": "7629eb1eea",
+   "topic": "country_continent",
+   "question": "Nigeria is in which continent?",
+   "options": [
+    "Eurasia",
+    "Africa",
+    "Asia",
+    "Oceania"
+   ],
+   "answer": 1,
+   "fact": "Nigeria is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1033"
+  },
+  {
+   "id": "bc683ee312",
+   "topic": "country_continent",
+   "question": "Uganda is in which continent?",
+   "options": [
+    "Eurasia",
+    "Asia",
+    "Africa",
+    "North America"
+   ],
+   "answer": 2,
+   "fact": "Uganda is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1036"
+  },
+  {
+   "id": "31fa9010d2",
+   "topic": "country_continent",
+   "question": "Rwanda is in which continent?",
+   "options": [
+    "Europe",
+    "Africa",
+    "North America",
+    "South America"
+   ],
+   "answer": 1,
+   "fact": "Rwanda is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1037"
+  },
+  {
+   "id": "775f794159",
+   "topic": "country_continent",
+   "question": "São Tomé and Príncipe is in which continent?",
+   "options": [
+    "South America",
+    "Europe",
+    "Africa",
+    "Oceania"
+   ],
+   "answer": 2,
+   "fact": "São Tomé and Príncipe is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1039"
+  },
+  {
+   "id": "d5371d55d9",
+   "topic": "country_continent",
+   "question": "Senegal is in which continent?",
+   "options": [
+    "Africa",
+    "Insular Oceania",
+    "North America",
+    "South America"
+   ],
+   "answer": 0,
+   "fact": "Senegal is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1041"
+  },
+  {
+   "id": "f9bb36cad4",
+   "topic": "country_continent",
+   "question": "Seychelles is in which continent?",
+   "options": [
+    "Africa",
+    "Insular Oceania",
+    "Asia",
+    "Eurasia"
+   ],
+   "answer": 0,
+   "fact": "Seychelles is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1042"
+  },
+  {
+   "id": "318ddf4927",
+   "topic": "country_continent",
+   "question": "Sierra Leone is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Asia",
+    "Africa",
+    "Europe"
+   ],
+   "answer": 2,
+   "fact": "Sierra Leone is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1044"
+  },
+  {
+   "id": "b130df8d31",
+   "topic": "country_continent",
+   "question": "Somalia is in which continent?",
+   "options": [
+    "North America",
+    "Oceania",
+    "Africa",
+    "Insular Oceania"
+   ],
+   "answer": 2,
+   "fact": "Somalia is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1045"
+  },
+  {
+   "id": "477733b0b2",
+   "topic": "country_continent",
+   "question": "Sudan is in which continent?",
+   "options": [
+    "Africa",
+    "Insular Oceania",
+    "Asia",
+    "South America"
+   ],
+   "answer": 0,
+   "fact": "Sudan is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1049"
+  },
+  {
+   "id": "ed67e34e13",
+   "topic": "country_continent",
+   "question": "Eswatini is in which continent?",
+   "options": [
+    "Oceania",
+    "North America",
+    "Africa",
+    "Asia"
+   ],
+   "answer": 2,
+   "fact": "Eswatini is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q1050"
+  },
+  {
+   "id": "fa531b6750",
+   "topic": "country_continent",
+   "question": "Kenya is in which continent?",
+   "options": [
+    "North America",
+    "Africa",
+    "Europe",
+    "Insular Oceania"
+   ],
+   "answer": 1,
+   "fact": "Kenya is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q114"
+  },
+  {
+   "id": "5a6d971cda",
+   "topic": "country_continent",
+   "question": "Ethiopia is in which continent?",
+   "options": [
+    "Europe",
+    "Eurasia",
+    "Africa",
+    "North America"
+   ],
+   "answer": 2,
+   "fact": "Ethiopia is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q115"
+  },
+  {
+   "id": "23a30128c9",
+   "topic": "country_continent",
+   "question": "Ghana is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "North America",
+    "Africa",
+    "South America"
+   ],
+   "answer": 2,
+   "fact": "Ghana is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q117"
+  },
+  {
+   "id": "5f74f4cdf3",
+   "topic": "country_continent",
+   "question": "Kosovo is in which continent?",
+   "options": [
+    "South America",
+    "Eurasia",
+    "Oceania",
+    "Europe"
+   ],
+   "answer": 3,
+   "fact": "Kosovo is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q1246"
+  },
+  {
+   "id": "19691cf3b5",
+   "topic": "country_continent",
+   "question": "France is in which continent?",
+   "options": [
+    "Europe",
+    "South America",
+    "Eurasia",
+    "Africa"
+   ],
+   "answer": 0,
+   "fact": "France is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q142"
+  },
+  {
+   "id": "18b05ddda4",
+   "topic": "country_continent",
+   "question": "United Kingdom is in which continent?",
+   "options": [
+    "Europe",
+    "Insular Oceania",
+    "Africa",
+    "Eurasia"
+   ],
+   "answer": 0,
+   "fact": "United Kingdom is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q145"
+  },
+  {
+   "id": "f1e84f1c8f",
+   "topic": "country_continent",
+   "question": "People's Republic of China is in which continent?",
+   "options": [
+    "North America",
+    "Europe",
+    "Africa",
+    "Asia"
+   ],
+   "answer": 3,
+   "fact": "People's Republic of China is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q148"
+  },
+  {
+   "id": "cb0e11b13f",
+   "topic": "country_continent",
+   "question": "Brazil is in which continent?",
+   "options": [
+    "South America",
+    "Europe",
+    "Oceania",
+    "North America"
+   ],
+   "answer": 0,
+   "fact": "Brazil is in which continent? Answer: South America.",
+   "source_url": "https://www.wikidata.org/wiki/Q155"
+  },
+  {
+   "id": "c2366377e4",
+   "topic": "country_continent",
+   "question": "Canada is in which continent?",
+   "options": [
+    "North America",
+    "Insular Oceania",
+    "Oceania",
+    "South America"
+   ],
+   "answer": 0,
+   "fact": "Canada is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q16"
+  },
+  {
+   "id": "678b08c1fa",
+   "topic": "country_continent",
+   "question": "Japan is in which continent?",
+   "options": [
+    "Asia",
+    "South America",
+    "Oceania",
+    "Africa"
+   ],
+   "answer": 0,
+   "fact": "Japan is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q17"
+  },
+  {
+   "id": "085d0159c5",
+   "topic": "country_continent",
+   "question": "Germany is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Europe",
+    "Eurasia",
+    "North America"
+   ],
+   "answer": 1,
+   "fact": "Germany is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q183"
+  },
+  {
+   "id": "82c4e7f578",
+   "topic": "country_continent",
+   "question": "Belarus is in which continent?",
+   "options": [
+    "Asia",
+    "Europe",
+    "South America",
+    "Insular Oceania"
+   ],
+   "answer": 1,
+   "fact": "Belarus is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q184"
+  },
+  {
+   "id": "0ff37dd8cb",
+   "topic": "country_continent",
+   "question": "Iceland is in which continent?",
+   "options": [
+    "Europe",
+    "South America",
+    "Asia",
+    "Insular Oceania"
+   ],
+   "answer": 0,
+   "fact": "Iceland is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q189"
+  },
+  {
+   "id": "bcd7c6d106",
+   "topic": "country_continent",
+   "question": "Estonia is in which continent?",
+   "options": [
+    "North America",
+    "Europe",
+    "South America",
+    "Insular Oceania"
+   ],
+   "answer": 1,
+   "fact": "Estonia is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q191"
+  },
+  {
+   "id": "3abe0b01e5",
+   "topic": "country_continent",
+   "question": "Norway is in which continent?",
+   "options": [
+    "Eurasia",
+    "North America",
+    "Europe",
+    "South America"
+   ],
+   "answer": 2,
+   "fact": "Norway is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q20"
+  },
+  {
+   "id": "ec11bbdd1f",
+   "topic": "country_continent",
+   "question": "Latvia is in which continent?",
+   "options": [
+    "South America",
+    "Insular Oceania",
+    "Eurasia",
+    "Europe"
+   ],
+   "answer": 3,
+   "fact": "Latvia is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q211"
+  },
+  {
+   "id": "9ef2071662",
+   "topic": "country_continent",
+   "question": "Ukraine is in which continent?",
+   "options": [
+    "South America",
+    "Insular Oceania",
+    "Oceania",
+    "Europe"
+   ],
+   "answer": 3,
+   "fact": "Ukraine is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q212"
+  },
+  {
+   "id": "3ae1c0f2c7",
+   "topic": "country_continent",
+   "question": "Czech Republic is in which continent?",
+   "options": [
+    "Oceania",
+    "Europe",
+    "Asia",
+    "South America"
+   ],
+   "answer": 1,
+   "fact": "Czech Republic is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q213"
+  },
+  {
+   "id": "8bf28b4e50",
+   "topic": "country_continent",
+   "question": "Slovakia is in which continent?",
+   "options": [
+    "Europe",
+    "North America",
+    "Asia",
+    "Africa"
+   ],
+   "answer": 0,
+   "fact": "Slovakia is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q214"
+  },
+  {
+   "id": "5b3c54af8e",
+   "topic": "country_continent",
+   "question": "Slovenia is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Europe",
+    "South America",
+    "Oceania"
+   ],
+   "answer": 1,
+   "fact": "Slovenia is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q215"
+  },
+  {
+   "id": "d9511fe0af",
+   "topic": "country_continent",
+   "question": "Moldova is in which continent?",
+   "options": [
+    "Asia",
+    "South America",
+    "Insular Oceania",
+    "Europe"
+   ],
+   "answer": 3,
+   "fact": "Moldova is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q217"
+  },
+  {
+   "id": "9002c77741",
+   "topic": "country_continent",
+   "question": "Romania is in which continent?",
+   "options": [
+    "Europe",
+    "South America",
+    "North America",
+    "Insular Oceania"
+   ],
+   "answer": 0,
+   "fact": "Romania is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q218"
+  },
+  {
+   "id": "9856a1c29e",
+   "topic": "country_continent",
+   "question": "Bulgaria is in which continent?",
+   "options": [
+    "Asia",
+    "Insular Oceania",
+    "Eurasia",
+    "Europe"
+   ],
+   "answer": 3,
+   "fact": "Bulgaria is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q219"
+  },
+  {
+   "id": "c9992c9168",
+   "topic": "country_continent",
+   "question": "Palestine is in which continent?",
+   "options": [
+    "North America",
+    "Asia",
+    "Insular Oceania",
+    "Oceania"
+   ],
+   "answer": 1,
+   "fact": "Palestine is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q219060"
+  },
+  {
+   "id": "5213675cd7",
+   "topic": "country_continent",
+   "question": "North Macedonia is in which continent?",
+   "options": [
+    "Europe",
+    "Oceania",
+    "Eurasia",
+    "South America"
+   ],
+   "answer": 0,
+   "fact": "North Macedonia is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q221"
+  },
+  {
+   "id": "aed055f731",
+   "topic": "country_continent",
+   "question": "Albania is in which continent?",
+   "options": [
+    "South America",
+    "North America",
+    "Europe",
+    "Asia"
+   ],
+   "answer": 2,
+   "fact": "Albania is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q222"
+  },
+  {
+   "id": "ecf4aa7a22",
+   "topic": "country_continent",
+   "question": "Croatia is in which continent?",
+   "options": [
+    "Oceania",
+    "Europe",
+    "South America",
+    "Insular Oceania"
+   ],
+   "answer": 1,
+   "fact": "Croatia is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q224"
+  },
+  {
+   "id": "a846dbfc04",
+   "topic": "country_continent",
+   "question": "Bosnia and Herzegovina is in which continent?",
+   "options": [
+    "North America",
+    "Europe",
+    "South America",
+    "Insular Oceania"
+   ],
+   "answer": 1,
+   "fact": "Bosnia and Herzegovina is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q225"
+  },
+  {
+   "id": "00f40d3264",
+   "topic": "country_continent",
+   "question": "Azerbaijan is in which continent?",
+   "options": [
+    "Africa",
+    "Eurasia",
+    "Asia",
+    "Oceania"
+   ],
+   "answer": 2,
+   "fact": "Azerbaijan is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q227"
+  },
+  {
+   "id": "4016c9614b",
+   "topic": "country_continent",
+   "question": "Andorra is in which continent?",
+   "options": [
+    "North America",
+    "Asia",
+    "Europe",
+    "Africa"
+   ],
+   "answer": 2,
+   "fact": "Andorra is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q228"
+  },
+  {
+   "id": "18203d0e67",
+   "topic": "country_continent",
+   "question": "Cyprus is in which continent?",
+   "options": [
+    "Asia",
+    "Europe",
+    "Insular Oceania",
+    "Eurasia"
+   ],
+   "answer": 1,
+   "fact": "Cyprus is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q229"
+  },
+  {
+   "id": "172e9eba96",
+   "topic": "country_continent",
+   "question": "Georgia is in which continent?",
+   "options": [
+    "Eurasia",
+    "South America",
+    "Europe",
+    "Africa"
+   ],
+   "answer": 2,
+   "fact": "Georgia is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q230"
+  },
+  {
+   "id": "f0af97cb5e",
+   "topic": "country_continent",
+   "question": "Malta is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Europe",
+    "Africa",
+    "South America"
+   ],
+   "answer": 1,
+   "fact": "Malta is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q233"
+  },
+  {
+   "id": "8a735a528e",
+   "topic": "country_continent",
+   "question": "Monaco is in which continent?",
+   "options": [
+    "Asia",
+    "Europe",
+    "Oceania",
+    "Africa"
+   ],
+   "answer": 1,
+   "fact": "Monaco is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q235"
+  },
+  {
+   "id": "7f8f4a1900",
+   "topic": "country_continent",
+   "question": "Montenegro is in which continent?",
+   "options": [
+    "North America",
+    "Asia",
+    "Europe",
+    "Oceania"
+   ],
+   "answer": 2,
+   "fact": "Montenegro is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q236"
+  },
+  {
+   "id": "75b73c7728",
+   "topic": "country_continent",
+   "question": "Vatican City is in which continent?",
+   "options": [
+    "Europe",
+    "South America",
+    "Eurasia",
+    "Insular Oceania"
+   ],
+   "answer": 0,
+   "fact": "Vatican City is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q237"
+  },
+  {
+   "id": "4fac22b486",
+   "topic": "country_continent",
+   "question": "San Marino is in which continent?",
+   "options": [
+    "South America",
+    "Asia",
+    "North America",
+    "Europe"
+   ],
+   "answer": 3,
+   "fact": "San Marino is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q238"
+  },
+  {
+   "id": "187a1f18ad",
+   "topic": "country_continent",
+   "question": "Cuba is in which continent?",
+   "options": [
+    "Africa",
+    "Asia",
+    "North America",
+    "Insular Oceania"
+   ],
+   "answer": 2,
+   "fact": "Cuba is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q241"
+  },
+  {
+   "id": "24c5e13869",
+   "topic": "country_continent",
+   "question": "Belize is in which continent?",
+   "options": [
+    "Africa",
+    "North America",
+    "Europe",
+    "Oceania"
+   ],
+   "answer": 1,
+   "fact": "Belize is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q242"
+  },
+  {
+   "id": "be7831f8fe",
+   "topic": "country_continent",
+   "question": "Barbados is in which continent?",
+   "options": [
+    "Oceania",
+    "North America",
+    "Eurasia",
+    "South America"
+   ],
+   "answer": 1,
+   "fact": "Barbados is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q244"
+  },
+  {
+   "id": "b09c0557ea",
+   "topic": "country_continent",
+   "question": "Indonesia is in which continent?",
+   "options": [
+    "Eurasia",
+    "North America",
+    "Africa",
+    "Asia"
+   ],
+   "answer": 3,
+   "fact": "Indonesia is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q252"
+  },
+  {
+   "id": "5f711e02a3",
+   "topic": "country_continent",
+   "question": "South Africa is in which continent?",
+   "options": [
+    "Eurasia",
+    "Asia",
+    "Insular Oceania",
+    "Africa"
+   ],
+   "answer": 3,
+   "fact": "South Africa is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q258"
+  },
+  {
+   "id": "ec5139f1ec",
+   "topic": "country_continent",
+   "question": "Algeria is in which continent?",
+   "options": [
+    "Africa",
+    "South America",
+    "Oceania",
+    "Europe"
+   ],
+   "answer": 0,
+   "fact": "Algeria is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q262"
+  },
+  {
+   "id": "1a32ae2068",
+   "topic": "country_continent",
+   "question": "Uzbekistan is in which continent?",
+   "options": [
+    "Asia",
+    "North America",
+    "Africa",
+    "South America"
+   ],
+   "answer": 0,
+   "fact": "Uzbekistan is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q265"
+  },
+  {
+   "id": "20c7a9798a",
+   "topic": "country_continent",
+   "question": "Ireland is in which continent?",
+   "options": [
+    "Oceania",
+    "North America",
+    "Asia",
+    "Europe"
+   ],
+   "answer": 3,
+   "fact": "Ireland is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q27"
+  },
+  {
+   "id": "395c87dbcd",
+   "topic": "country_continent",
+   "question": "Hungary is in which continent?",
+   "options": [
+    "Eurasia",
+    "Europe",
+    "Oceania",
+    "Insular Oceania"
+   ],
+   "answer": 1,
+   "fact": "Hungary is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q28"
+  },
+  {
+   "id": "e49d7163dd",
+   "topic": "country_continent",
+   "question": "Spain is in which continent?",
+   "options": [
+    "North America",
+    "Europe",
+    "South America",
+    "Eurasia"
+   ],
+   "answer": 1,
+   "fact": "Spain is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q29"
+  },
+  {
+   "id": "22858ce664",
+   "topic": "country_continent",
+   "question": "Chile is in which continent?",
+   "options": [
+    "Eurasia",
+    "Europe",
+    "South America",
+    "Oceania"
+   ],
+   "answer": 2,
+   "fact": "Chile is in which continent? Answer: South America.",
+   "source_url": "https://www.wikidata.org/wiki/Q298"
+  },
+  {
+   "id": "d8e1cadbe5",
+   "topic": "country_continent",
+   "question": "Kingdom of the Netherlands is in which continent?",
+   "options": [
+    "Europe",
+    "North America",
+    "Asia",
+    "South America"
+   ],
+   "answer": 0,
+   "fact": "Kingdom of the Netherlands is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q29999"
+  },
+  {
+   "id": "00c183faf5",
+   "topic": "country_continent",
+   "question": "United States is in which continent?",
+   "options": [
+    "North America",
+    "Eurasia",
+    "Africa",
+    "Insular Oceania"
+   ],
+   "answer": 0,
+   "fact": "United States is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q30"
+  },
+  {
+   "id": "b6e9231c71",
+   "topic": "country_continent",
+   "question": "Belgium is in which continent?",
+   "options": [
+    "Europe",
+    "South America",
+    "North America",
+    "Asia"
+   ],
+   "answer": 0,
+   "fact": "Belgium is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q31"
+  },
+  {
+   "id": "08e1ee4a55",
+   "topic": "country_continent",
+   "question": "Luxembourg is in which continent?",
+   "options": [
+    "Europe",
+    "Africa",
+    "Insular Oceania",
+    "Eurasia"
+   ],
+   "answer": 0,
+   "fact": "Luxembourg is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q32"
+  },
+  {
+   "id": "831f2ad691",
+   "topic": "country_continent",
+   "question": "Finland is in which continent?",
+   "options": [
+    "Oceania",
+    "Insular Oceania",
+    "Asia",
+    "Europe"
+   ],
+   "answer": 3,
+   "fact": "Finland is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q33"
+  },
+  {
+   "id": "c8b2408f6f",
+   "topic": "country_continent",
+   "question": "Singapore is in which continent?",
+   "options": [
+    "South America",
+    "Asia",
+    "North America",
+    "Europe"
+   ],
+   "answer": 1,
+   "fact": "Singapore is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q334"
+  },
+  {
+   "id": "0e3e170215",
+   "topic": "country_continent",
+   "question": "Sweden is in which continent?",
+   "options": [
+    "Oceania",
+    "Eurasia",
+    "Insular Oceania",
+    "Europe"
+   ],
+   "answer": 3,
+   "fact": "Sweden is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q34"
+  },
+  {
+   "id": "c8767356d3",
+   "topic": "country_continent",
+   "question": "Liechtenstein is in which continent?",
+   "options": [
+    "Eurasia",
+    "North America",
+    "Europe",
+    "Insular Oceania"
+   ],
+   "answer": 2,
+   "fact": "Liechtenstein is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q347"
+  },
+  {
+   "id": "d2428723f0",
+   "topic": "country_continent",
+   "question": "Poland is in which continent?",
+   "options": [
+    "Europe",
+    "Asia",
+    "North America",
+    "Insular Oceania"
+   ],
+   "answer": 0,
+   "fact": "Poland is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q36"
+  },
+  {
+   "id": "88f4704277",
+   "topic": "country_continent",
+   "question": "Lithuania is in which continent?",
+   "options": [
+    "Europe",
+    "Oceania",
+    "Asia",
+    "Insular Oceania"
+   ],
+   "answer": 0,
+   "fact": "Lithuania is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q37"
+  },
+  {
+   "id": "da421f7016",
+   "topic": "country_continent",
+   "question": "Italy is in which continent?",
+   "options": [
+    "Eurasia",
+    "Europe",
+    "North America",
+    "Insular Oceania"
+   ],
+   "answer": 1,
+   "fact": "Italy is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q38"
+  },
+  {
+   "id": "15bdbf2c06",
+   "topic": "country_continent",
+   "question": "Switzerland is in which continent?",
+   "options": [
+    "Eurasia",
+    "Europe",
+    "North America",
+    "Africa"
+   ],
+   "answer": 1,
+   "fact": "Switzerland is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q39"
+  },
+  {
+   "id": "39695b3eac",
+   "topic": "country_continent",
+   "question": "Bahrain is in which continent?",
+   "options": [
+    "Europe",
+    "Oceania",
+    "North America",
+    "Asia"
+   ],
+   "answer": 3,
+   "fact": "Bahrain is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q398"
+  },
+  {
+   "id": "0500ac7180",
+   "topic": "country_continent",
+   "question": "Armenia is in which continent?",
+   "options": [
+    "Asia",
+    "South America",
+    "Oceania",
+    "North America"
+   ],
+   "answer": 0,
+   "fact": "Armenia is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q399"
+  },
+  {
+   "id": "7a23e2fe22",
+   "topic": "country_continent",
+   "question": "Austria is in which continent?",
+   "options": [
+    "Europe",
+    "Asia",
+    "Africa",
+    "Oceania"
+   ],
+   "answer": 0,
+   "fact": "Austria is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q40"
+  },
+  {
+   "id": "2729c744f8",
+   "topic": "country_continent",
+   "question": "Serbia is in which continent?",
+   "options": [
+    "Africa",
+    "North America",
+    "Europe",
+    "Asia"
+   ],
+   "answer": 2,
+   "fact": "Serbia is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q403"
+  },
+  {
+   "id": "933c44fa20",
+   "topic": "country_continent",
+   "question": "Australia is in which continent?",
+   "options": [
+    "South America",
+    "Oceania",
+    "Europe",
+    "North America"
+   ],
+   "answer": 1,
+   "fact": "Australia is in which continent? Answer: Oceania.",
+   "source_url": "https://www.wikidata.org/wiki/Q408"
+  },
+  {
+   "id": "a675649f0f",
+   "topic": "country_continent",
+   "question": "Greece is in which continent?",
+   "options": [
+    "Europe",
+    "South America",
+    "Eurasia",
+    "North America"
+   ],
+   "answer": 0,
+   "fact": "Greece is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q41"
+  },
+  {
+   "id": "0db1a135a5",
+   "topic": "country_continent",
+   "question": "Argentina is in which continent?",
+   "options": [
+    "Oceania",
+    "Eurasia",
+    "South America",
+    "Asia"
+   ],
+   "answer": 2,
+   "fact": "Argentina is in which continent? Answer: South America.",
+   "source_url": "https://www.wikidata.org/wiki/Q414"
+  },
+  {
+   "id": "600ceb0285",
+   "topic": "country_continent",
+   "question": "Peru is in which continent?",
+   "options": [
+    "South America",
+    "Africa",
+    "North America",
+    "Eurasia"
+   ],
+   "answer": 0,
+   "fact": "Peru is in which continent? Answer: South America.",
+   "source_url": "https://www.wikidata.org/wiki/Q419"
+  },
+  {
+   "id": "3bf78c0c98",
+   "topic": "country_continent",
+   "question": "North Korea is in which continent?",
+   "options": [
+    "Africa",
+    "South America",
+    "Asia",
+    "Eurasia"
+   ],
+   "answer": 2,
+   "fact": "North Korea is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q423"
+  },
+  {
+   "id": "e1faad8cf1",
+   "topic": "country_continent",
+   "question": "Cambodia is in which continent?",
+   "options": [
+    "Asia",
+    "Oceania",
+    "Europe",
+    "Eurasia"
+   ],
+   "answer": 0,
+   "fact": "Cambodia is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q424"
+  },
+  {
+   "id": "6170ab98c9",
+   "topic": "country_continent",
+   "question": "Portugal is in which continent?",
+   "options": [
+    "Asia",
+    "Eurasia",
+    "South America",
+    "Europe"
+   ],
+   "answer": 3,
+   "fact": "Portugal is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q45"
+  },
+  {
+   "id": "4d52568ff6",
+   "topic": "country_continent",
+   "question": "Timor-Leste is in which continent?",
+   "options": [
+    "Oceania",
+    "Asia",
+    "South America",
+    "North America"
+   ],
+   "answer": 1,
+   "fact": "Timor-Leste is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q574"
+  },
+  {
+   "id": "5862659c8a",
+   "topic": "country_continent",
+   "question": "Chad is in which continent?",
+   "options": [
+    "South America",
+    "North America",
+    "Africa",
+    "Eurasia"
+   ],
+   "answer": 2,
+   "fact": "Chad is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q657"
+  },
+  {
+   "id": "6c509d043c",
+   "topic": "country_continent",
+   "question": "New Zealand is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "South America",
+    "Asia",
+    "Oceania"
+   ],
+   "answer": 3,
+   "fact": "New Zealand is in which continent? Answer: Oceania.",
+   "source_url": "https://www.wikidata.org/wiki/Q664"
+  },
+  {
+   "id": "ad04608743",
+   "topic": "country_continent",
+   "question": "India is in which continent?",
+   "options": [
+    "Europe",
+    "North America",
+    "Asia",
+    "Africa"
+   ],
+   "answer": 2,
+   "fact": "India is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q668"
+  },
+  {
+   "id": "3404d3b4e0",
+   "topic": "country_continent",
+   "question": "Tonga is in which continent?",
+   "options": [
+    "Europe",
+    "Eurasia",
+    "Oceania",
+    "South America"
+   ],
+   "answer": 2,
+   "fact": "Tonga is in which continent? Answer: Oceania.",
+   "source_url": "https://www.wikidata.org/wiki/Q678"
+  },
+  {
+   "id": "ec26d5db3a",
+   "topic": "country_continent",
+   "question": "Samoa is in which continent?",
+   "options": [
+    "Oceania",
+    "Africa",
+    "Insular Oceania",
+    "Eurasia"
+   ],
+   "answer": 0,
+   "fact": "Samoa is in which continent? Answer: Oceania.",
+   "source_url": "https://www.wikidata.org/wiki/Q683"
+  },
+  {
+   "id": "d6da3e2515",
+   "topic": "country_continent",
+   "question": "Vanuatu is in which continent?",
+   "options": [
+    "North America",
+    "Insular Oceania",
+    "Eurasia",
+    "South America"
+   ],
+   "answer": 1,
+   "fact": "Vanuatu is in which continent? Answer: Insular Oceania.",
+   "source_url": "https://www.wikidata.org/wiki/Q686"
+  },
+  {
+   "id": "f83c9964cd",
+   "topic": "country_continent",
+   "question": "Papua New Guinea is in which continent?",
+   "options": [
+    "Asia",
+    "North America",
+    "Insular Oceania",
+    "Oceania"
+   ],
+   "answer": 3,
+   "fact": "Papua New Guinea is in which continent? Answer: Oceania.",
+   "source_url": "https://www.wikidata.org/wiki/Q691"
+  },
+  {
+   "id": "8475b7f51f",
+   "topic": "country_continent",
+   "question": "Nauru is in which continent?",
+   "options": [
+    "Europe",
+    "Eurasia",
+    "Oceania",
+    "Asia"
+   ],
+   "answer": 2,
+   "fact": "Nauru is in which continent? Answer: Oceania.",
+   "source_url": "https://www.wikidata.org/wiki/Q697"
+  },
+  {
+   "id": "544df9c238",
+   "topic": "country_continent",
+   "question": "Federated States of Micronesia is in which continent?",
+   "options": [
+    "Eurasia",
+    "Oceania",
+    "South America",
+    "North America"
+   ],
+   "answer": 1,
+   "fact": "Federated States of Micronesia is in which continent? Answer: Oceania.",
+   "source_url": "https://www.wikidata.org/wiki/Q702"
+  },
+  {
+   "id": "b1a68a675d",
+   "topic": "country_continent",
+   "question": "Marshall Islands is in which continent?",
+   "options": [
+    "Africa",
+    "Oceania",
+    "Asia",
+    "Insular Oceania"
+   ],
+   "answer": 1,
+   "fact": "Marshall Islands is in which continent? Answer: Oceania.",
+   "source_url": "https://www.wikidata.org/wiki/Q709"
+  },
+  {
+   "id": "d00f39ced4",
+   "topic": "country_continent",
+   "question": "Mongolia is in which continent?",
+   "options": [
+    "Asia",
+    "North America",
+    "Europe",
+    "Oceania"
+   ],
+   "answer": 0,
+   "fact": "Mongolia is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q711"
+  },
+  {
+   "id": "3b8258c792",
+   "topic": "country_continent",
+   "question": "Fiji is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "South America",
+    "Asia",
+    "Oceania"
+   ],
+   "answer": 0,
+   "fact": "Fiji is in which continent? Answer: Insular Oceania.",
+   "source_url": "https://www.wikidata.org/wiki/Q712"
+  },
+  {
+   "id": "08679bf2d7",
+   "topic": "country_continent",
+   "question": "Venezuela is in which continent?",
+   "options": [
+    "Oceania",
+    "North America",
+    "South America",
+    "Europe"
+   ],
+   "answer": 2,
+   "fact": "Venezuela is in which continent? Answer: South America.",
+   "source_url": "https://www.wikidata.org/wiki/Q717"
+  },
+  {
+   "id": "92702a8c08",
+   "topic": "country_continent",
+   "question": "Suriname is in which continent?",
+   "options": [
+    "South America",
+    "Asia",
+    "Europe",
+    "North America"
+   ],
+   "answer": 0,
+   "fact": "Suriname is in which continent? Answer: South America.",
+   "source_url": "https://www.wikidata.org/wiki/Q730"
+  },
+  {
+   "id": "5476e7134f",
+   "topic": "country_continent",
+   "question": "Paraguay is in which continent?",
+   "options": [
+    "South America",
+    "Africa",
+    "Insular Oceania",
+    "Oceania"
+   ],
+   "answer": 0,
+   "fact": "Paraguay is in which continent? Answer: South America.",
+   "source_url": "https://www.wikidata.org/wiki/Q733"
+  },
+  {
+   "id": "2e9486b769",
+   "topic": "country_continent",
+   "question": "Guyana is in which continent?",
+   "options": [
+    "North America",
+    "Insular Oceania",
+    "Oceania",
+    "South America"
+   ],
+   "answer": 3,
+   "fact": "Guyana is in which continent? Answer: South America.",
+   "source_url": "https://www.wikidata.org/wiki/Q734"
+  },
+  {
+   "id": "f6136e8358",
+   "topic": "country_continent",
+   "question": "Ecuador is in which continent?",
+   "options": [
+    "Oceania",
+    "Eurasia",
+    "South America",
+    "Africa"
+   ],
+   "answer": 2,
+   "fact": "Ecuador is in which continent? Answer: South America.",
+   "source_url": "https://www.wikidata.org/wiki/Q736"
+  },
+  {
+   "id": "2c14e847b3",
+   "topic": "country_continent",
+   "question": "Colombia is in which continent?",
+   "options": [
+    "Oceania",
+    "South America",
+    "Insular Oceania",
+    "Europe"
+   ],
+   "answer": 1,
+   "fact": "Colombia is in which continent? Answer: South America.",
+   "source_url": "https://www.wikidata.org/wiki/Q739"
+  },
+  {
+   "id": "933979fe0b",
+   "topic": "country_continent",
+   "question": "Bolivia is in which continent?",
+   "options": [
+    "Europe",
+    "Eurasia",
+    "North America",
+    "South America"
+   ],
+   "answer": 3,
+   "fact": "Bolivia is in which continent? Answer: South America.",
+   "source_url": "https://www.wikidata.org/wiki/Q750"
+  },
+  {
+   "id": "cc1639b740",
+   "topic": "country_continent",
+   "question": "Trinidad and Tobago is in which continent?",
+   "options": [
+    "Africa",
+    "North America",
+    "Asia",
+    "South America"
+   ],
+   "answer": 1,
+   "fact": "Trinidad and Tobago is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q754"
+  },
+  {
+   "id": "dd1fea2129",
+   "topic": "country_continent",
+   "question": "Kingdom of Denmark is in which continent?",
+   "options": [
+    "South America",
+    "Europe",
+    "Oceania",
+    "Asia"
+   ],
+   "answer": 1,
+   "fact": "Kingdom of Denmark is in which continent? Answer: Europe.",
+   "source_url": "https://www.wikidata.org/wiki/Q756617"
+  },
+  {
+   "id": "8164927337",
+   "topic": "country_continent",
+   "question": "Saint Vincent and the Grenadines is in which continent?",
+   "options": [
+    "Oceania",
+    "Eurasia",
+    "Africa",
+    "North America"
+   ],
+   "answer": 3,
+   "fact": "Saint Vincent and the Grenadines is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q757"
+  },
+  {
+   "id": "2e7b710cce",
+   "topic": "country_continent",
+   "question": "Saint Lucia is in which continent?",
+   "options": [
+    "South America",
+    "Eurasia",
+    "North America",
+    "Africa"
+   ],
+   "answer": 2,
+   "fact": "Saint Lucia is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q760"
+  },
+  {
+   "id": "10613893ab",
+   "topic": "country_continent",
+   "question": "Saint Kitts and Nevis is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Africa",
+    "North America",
+    "Eurasia"
+   ],
+   "answer": 2,
+   "fact": "Saint Kitts and Nevis is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q763"
+  },
+  {
+   "id": "cb7e8ac831",
+   "topic": "country_continent",
+   "question": "Jamaica is in which continent?",
+   "options": [
+    "Africa",
+    "Eurasia",
+    "Oceania",
+    "North America"
+   ],
+   "answer": 3,
+   "fact": "Jamaica is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q766"
+  },
+  {
+   "id": "fbe7a85f0b",
+   "topic": "country_continent",
+   "question": "Grenada is in which continent?",
+   "options": [
+    "North America",
+    "Asia",
+    "Europe",
+    "Insular Oceania"
+   ],
+   "answer": 0,
+   "fact": "Grenada is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q769"
+  },
+  {
+   "id": "f5e06c49e7",
+   "topic": "country_continent",
+   "question": "Uruguay is in which continent?",
+   "options": [
+    "South America",
+    "Asia",
+    "Africa",
+    "Europe"
+   ],
+   "answer": 0,
+   "fact": "Uruguay is in which continent? Answer: South America.",
+   "source_url": "https://www.wikidata.org/wiki/Q77"
+  },
+  {
+   "id": "4c43c3727d",
+   "topic": "country_continent",
+   "question": "Guatemala is in which continent?",
+   "options": [
+    "North America",
+    "Africa",
+    "South America",
+    "Insular Oceania"
+   ],
+   "answer": 0,
+   "fact": "Guatemala is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q774"
+  },
+  {
+   "id": "2273fe7ebe",
+   "topic": "country_continent",
+   "question": "The Bahamas is in which continent?",
+   "options": [
+    "Africa",
+    "North America",
+    "Asia",
+    "South America"
+   ],
+   "answer": 1,
+   "fact": "The Bahamas is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q778"
+  },
+  {
+   "id": "0c3f0f99c5",
+   "topic": "country_continent",
+   "question": "Antigua and Barbuda is in which continent?",
+   "options": [
+    "Oceania",
+    "Africa",
+    "North America",
+    "Insular Oceania"
+   ],
+   "answer": 2,
+   "fact": "Antigua and Barbuda is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q781"
+  },
+  {
+   "id": "b1a8ff8be7",
+   "topic": "country_continent",
+   "question": "Honduras is in which continent?",
+   "options": [
+    "North America",
+    "Insular Oceania",
+    "South America",
+    "Eurasia"
+   ],
+   "answer": 0,
+   "fact": "Honduras is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q783"
+  },
+  {
+   "id": "a0a51ac233",
+   "topic": "country_continent",
+   "question": "Dominica is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "North America",
+    "Eurasia",
+    "Africa"
+   ],
+   "answer": 1,
+   "fact": "Dominica is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q784"
+  },
+  {
+   "id": "5b46b26ebd",
+   "topic": "country_continent",
+   "question": "Dominican Republic is in which continent?",
+   "options": [
+    "Africa",
+    "Insular Oceania",
+    "South America",
+    "North America"
+   ],
+   "answer": 3,
+   "fact": "Dominican Republic is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q786"
+  },
+  {
+   "id": "3182f5948e",
+   "topic": "country_continent",
+   "question": "Egypt is in which continent?",
+   "options": [
+    "Asia",
+    "Insular Oceania",
+    "Africa",
+    "Eurasia"
+   ],
+   "answer": 2,
+   "fact": "Egypt is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q79"
+  },
+  {
+   "id": "517cce90df",
+   "topic": "country_continent",
+   "question": "Haiti is in which continent?",
+   "options": [
+    "South America",
+    "Eurasia",
+    "North America",
+    "Asia"
+   ],
+   "answer": 2,
+   "fact": "Haiti is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q790"
+  },
+  {
+   "id": "9ab349952e",
+   "topic": "country_continent",
+   "question": "El Salvador is in which continent?",
+   "options": [
+    "Oceania",
+    "Africa",
+    "North America",
+    "Eurasia"
+   ],
+   "answer": 2,
+   "fact": "El Salvador is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q792"
+  },
+  {
+   "id": "1988297f29",
+   "topic": "country_continent",
+   "question": "Iran is in which continent?",
+   "options": [
+    "Asia",
+    "Oceania",
+    "Eurasia",
+    "South America"
+   ],
+   "answer": 0,
+   "fact": "Iran is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q794"
+  },
+  {
+   "id": "3ae582b096",
+   "topic": "country_continent",
+   "question": "Iraq is in which continent?",
+   "options": [
+    "Africa",
+    "Asia",
+    "North America",
+    "Insular Oceania"
+   ],
+   "answer": 1,
+   "fact": "Iraq is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q796"
+  },
+  {
+   "id": "25b8b63cf4",
+   "topic": "country_continent",
+   "question": "Costa Rica is in which continent?",
+   "options": [
+    "South America",
+    "Asia",
+    "Insular Oceania",
+    "North America"
+   ],
+   "answer": 3,
+   "fact": "Costa Rica is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q800"
+  },
+  {
+   "id": "92a75a7920",
+   "topic": "country_continent",
+   "question": "Israel is in which continent?",
+   "options": [
+    "North America",
+    "Asia",
+    "Insular Oceania",
+    "Africa"
+   ],
+   "answer": 1,
+   "fact": "Israel is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q801"
+  },
+  {
+   "id": "b7f2f343f9",
+   "topic": "country_continent",
+   "question": "Panama is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Oceania",
+    "Eurasia",
+    "North America"
+   ],
+   "answer": 3,
+   "fact": "Panama is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q804"
+  },
+  {
+   "id": "f3cf32e06e",
+   "topic": "country_continent",
+   "question": "Yemen is in which continent?",
+   "options": [
+    "North America",
+    "Asia",
+    "Insular Oceania",
+    "Europe"
+   ],
+   "answer": 1,
+   "fact": "Yemen is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q805"
+  },
+  {
+   "id": "3a855c5776",
+   "topic": "country_continent",
+   "question": "Jordan is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Eurasia",
+    "Europe",
+    "Asia"
+   ],
+   "answer": 3,
+   "fact": "Jordan is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q810"
+  },
+  {
+   "id": "005fb817e7",
+   "topic": "country_continent",
+   "question": "Nicaragua is in which continent?",
+   "options": [
+    "South America",
+    "North America",
+    "Europe",
+    "Eurasia"
+   ],
+   "answer": 1,
+   "fact": "Nicaragua is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q811"
+  },
+  {
+   "id": "b7c4fe9817",
+   "topic": "country_continent",
+   "question": "Kyrgyzstan is in which continent?",
+   "options": [
+    "Asia",
+    "Eurasia",
+    "North America",
+    "Insular Oceania"
+   ],
+   "answer": 0,
+   "fact": "Kyrgyzstan is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q813"
+  },
+  {
+   "id": "e58aee210a",
+   "topic": "country_continent",
+   "question": "Kuwait is in which continent?",
+   "options": [
+    "North America",
+    "Africa",
+    "Europe",
+    "Asia"
+   ],
+   "answer": 3,
+   "fact": "Kuwait is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q817"
+  },
+  {
+   "id": "bc62d0f3f1",
+   "topic": "country_continent",
+   "question": "Laos is in which continent?",
+   "options": [
+    "Eurasia",
+    "North America",
+    "Asia",
+    "Oceania"
+   ],
+   "answer": 2,
+   "fact": "Laos is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q819"
+  },
+  {
+   "id": "27b9f773a2",
+   "topic": "country_continent",
+   "question": "Lebanon is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Asia",
+    "South America",
+    "Oceania"
+   ],
+   "answer": 1,
+   "fact": "Lebanon is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q822"
+  },
+  {
+   "id": "90fcd7206b",
+   "topic": "country_continent",
+   "question": "Maldives is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Oceania",
+    "Europe",
+    "Asia"
+   ],
+   "answer": 3,
+   "fact": "Maldives is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q826"
+  },
+  {
+   "id": "4edce032b6",
+   "topic": "country_continent",
+   "question": "Malaysia is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Oceania",
+    "North America",
+    "Asia"
+   ],
+   "answer": 3,
+   "fact": "Malaysia is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q833"
+  },
+  {
+   "id": "d6d8a98bb2",
+   "topic": "country_continent",
+   "question": "Myanmar is in which continent?",
+   "options": [
+    "Oceania",
+    "North America",
+    "Asia",
+    "Africa"
+   ],
+   "answer": 2,
+   "fact": "Myanmar is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q836"
+  },
+  {
+   "id": "ae724c69b1",
+   "topic": "country_continent",
+   "question": "Nepal is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Asia",
+    "South America",
+    "Europe"
+   ],
+   "answer": 1,
+   "fact": "Nepal is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q837"
+  },
+  {
+   "id": "cd190b0d8d",
+   "topic": "country_continent",
+   "question": "Oman is in which continent?",
+   "options": [
+    "Eurasia",
+    "Oceania",
+    "Asia",
+    "Africa"
+   ],
+   "answer": 2,
+   "fact": "Oman is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q842"
+  },
+  {
+   "id": "e82b91a404",
+   "topic": "country_continent",
+   "question": "Pakistan is in which continent?",
+   "options": [
+    "Asia",
+    "Africa",
+    "Eurasia",
+    "North America"
+   ],
+   "answer": 0,
+   "fact": "Pakistan is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q843"
+  },
+  {
+   "id": "d856289793",
+   "topic": "country_continent",
+   "question": "Saudi Arabia is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Oceania",
+    "Eurasia",
+    "Asia"
+   ],
+   "answer": 3,
+   "fact": "Saudi Arabia is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q851"
+  },
+  {
+   "id": "c3a846b50f",
+   "topic": "country_continent",
+   "question": "Sri Lanka is in which continent?",
+   "options": [
+    "Asia",
+    "South America",
+    "Eurasia",
+    "Africa"
+   ],
+   "answer": 0,
+   "fact": "Sri Lanka is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q854"
+  },
+  {
+   "id": "207b4ef563",
+   "topic": "country_continent",
+   "question": "Syria is in which continent?",
+   "options": [
+    "Eurasia",
+    "Asia",
+    "Europe",
+    "Insular Oceania"
+   ],
+   "answer": 1,
+   "fact": "Syria is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q858"
+  },
+  {
+   "id": "b210200f02",
+   "topic": "country_continent",
+   "question": "Tajikistan is in which continent?",
+   "options": [
+    "Asia",
+    "Eurasia",
+    "Europe",
+    "Oceania"
+   ],
+   "answer": 0,
+   "fact": "Tajikistan is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q863"
+  },
+  {
+   "id": "b52f61bf42",
+   "topic": "country_continent",
+   "question": "Taiwan is in which continent?",
+   "options": [
+    "Africa",
+    "Asia",
+    "Insular Oceania",
+    "South America"
+   ],
+   "answer": 1,
+   "fact": "Taiwan is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q865"
+  },
+  {
+   "id": "88272ba88d",
+   "topic": "country_continent",
+   "question": "Thailand is in which continent?",
+   "options": [
+    "Asia",
+    "Africa",
+    "Insular Oceania",
+    "Europe"
+   ],
+   "answer": 0,
+   "fact": "Thailand is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q869"
+  },
+  {
+   "id": "0d9988bd7e",
+   "topic": "country_continent",
+   "question": "Turkmenistan is in which continent?",
+   "options": [
+    "Europe",
+    "Africa",
+    "Insular Oceania",
+    "Asia"
+   ],
+   "answer": 3,
+   "fact": "Turkmenistan is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q874"
+  },
+  {
+   "id": "fb02175b28",
+   "topic": "country_continent",
+   "question": "United Arab Emirates is in which continent?",
+   "options": [
+    "Eurasia",
+    "Insular Oceania",
+    "Asia",
+    "Europe"
+   ],
+   "answer": 2,
+   "fact": "United Arab Emirates is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q878"
+  },
+  {
+   "id": "5768f11c0f",
+   "topic": "country_continent",
+   "question": "Vietnam is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Asia",
+    "South America",
+    "Africa"
+   ],
+   "answer": 1,
+   "fact": "Vietnam is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q881"
+  },
+  {
+   "id": "1ef97cee94",
+   "topic": "country_continent",
+   "question": "South Korea is in which continent?",
+   "options": [
+    "North America",
+    "Eurasia",
+    "Asia",
+    "South America"
+   ],
+   "answer": 2,
+   "fact": "South Korea is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q884"
+  },
+  {
+   "id": "ff8761fb5b",
+   "topic": "country_continent",
+   "question": "Afghanistan is in which continent?",
+   "options": [
+    "Eurasia",
+    "Africa",
+    "Oceania",
+    "Asia"
+   ],
+   "answer": 3,
+   "fact": "Afghanistan is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q889"
+  },
+  {
+   "id": "b9bf133a5a",
+   "topic": "country_continent",
+   "question": "Bangladesh is in which continent?",
+   "options": [
+    "Europe",
+    "Eurasia",
+    "Oceania",
+    "Asia"
+   ],
+   "answer": 3,
+   "fact": "Bangladesh is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q902"
+  },
+  {
+   "id": "f354c72842",
+   "topic": "country_continent",
+   "question": "Mali is in which continent?",
+   "options": [
+    "Oceania",
+    "Asia",
+    "Africa",
+    "Europe"
+   ],
+   "answer": 2,
+   "fact": "Mali is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q912"
+  },
+  {
+   "id": "d08f77ee64",
+   "topic": "country_continent",
+   "question": "Angola is in which continent?",
+   "options": [
+    "Asia",
+    "Europe",
+    "North America",
+    "Africa"
+   ],
+   "answer": 3,
+   "fact": "Angola is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q916"
+  },
+  {
+   "id": "28c6ce800f",
+   "topic": "country_continent",
+   "question": "Bhutan is in which continent?",
+   "options": [
+    "Africa",
+    "South America",
+    "Asia",
+    "Europe"
+   ],
+   "answer": 2,
+   "fact": "Bhutan is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q917"
+  },
+  {
+   "id": "61ba012a6f",
+   "topic": "country_continent",
+   "question": "Brunei is in which continent?",
+   "options": [
+    "North America",
+    "Asia",
+    "Europe",
+    "Oceania"
+   ],
+   "answer": 1,
+   "fact": "Brunei is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q921"
+  },
+  {
+   "id": "884fa7ca07",
+   "topic": "country_continent",
+   "question": "Tanzania is in which continent?",
+   "options": [
+    "Africa",
+    "North America",
+    "Oceania",
+    "Europe"
+   ],
+   "answer": 0,
+   "fact": "Tanzania is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q924"
+  },
+  {
+   "id": "3ad09a3cca",
+   "topic": "country_continent",
+   "question": "Philippines is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "North America",
+    "Asia",
+    "Eurasia"
+   ],
+   "answer": 2,
+   "fact": "Philippines is in which continent? Answer: Asia.",
+   "source_url": "https://www.wikidata.org/wiki/Q928"
+  },
+  {
+   "id": "86535c9d3e",
+   "topic": "country_continent",
+   "question": "Central African Republic is in which continent?",
+   "options": [
+    "Africa",
+    "South America",
+    "Asia",
+    "Europe"
+   ],
+   "answer": 0,
+   "fact": "Central African Republic is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q929"
+  },
+  {
+   "id": "5f4177b746",
+   "topic": "country_continent",
+   "question": "Togo is in which continent?",
+   "options": [
+    "Oceania",
+    "Africa",
+    "Eurasia",
+    "North America"
+   ],
+   "answer": 1,
+   "fact": "Togo is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q945"
+  },
+  {
+   "id": "754782290a",
+   "topic": "country_continent",
+   "question": "Tunisia is in which continent?",
+   "options": [
+    "Europe",
+    "Africa",
+    "Asia",
+    "South America"
+   ],
+   "answer": 1,
+   "fact": "Tunisia is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q948"
+  },
+  {
+   "id": "76789b4c3f",
+   "topic": "country_continent",
+   "question": "Zambia is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Eurasia",
+    "Europe",
+    "Africa"
+   ],
+   "answer": 3,
+   "fact": "Zambia is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q953"
+  },
+  {
+   "id": "3db11e88b7",
+   "topic": "country_continent",
+   "question": "Zimbabwe is in which continent?",
+   "options": [
+    "Oceania",
+    "Insular Oceania",
+    "Africa",
+    "Asia"
+   ],
+   "answer": 2,
+   "fact": "Zimbabwe is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q954"
+  },
+  {
+   "id": "caa44c834f",
+   "topic": "country_continent",
+   "question": "South Sudan is in which continent?",
+   "options": [
+    "South America",
+    "Africa",
+    "North America",
+    "Asia"
+   ],
+   "answer": 1,
+   "fact": "South Sudan is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q958"
+  },
+  {
+   "id": "0baee45d7d",
+   "topic": "country_continent",
+   "question": "Mexico is in which continent?",
+   "options": [
+    "South America",
+    "North America",
+    "Europe",
+    "Oceania"
+   ],
+   "answer": 1,
+   "fact": "Mexico is in which continent? Answer: North America.",
+   "source_url": "https://www.wikidata.org/wiki/Q96"
+  },
+  {
+   "id": "86e7426f29",
+   "topic": "country_continent",
+   "question": "Benin is in which continent?",
+   "options": [
+    "Africa",
+    "South America",
+    "Asia",
+    "Eurasia"
+   ],
+   "answer": 0,
+   "fact": "Benin is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q962"
+  },
+  {
+   "id": "1a4c2b765f",
+   "topic": "country_continent",
+   "question": "Botswana is in which continent?",
+   "options": [
+    "Africa",
+    "North America",
+    "Oceania",
+    "Insular Oceania"
+   ],
+   "answer": 0,
+   "fact": "Botswana is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q963"
+  },
+  {
+   "id": "bf50318c3e",
+   "topic": "country_continent",
+   "question": "Burkina Faso is in which continent?",
+   "options": [
+    "North America",
+    "South America",
+    "Africa",
+    "Oceania"
+   ],
+   "answer": 2,
+   "fact": "Burkina Faso is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q965"
+  },
+  {
+   "id": "01d72f21c6",
+   "topic": "country_continent",
+   "question": "Burundi is in which continent?",
+   "options": [
+    "South America",
+    "North America",
+    "Insular Oceania",
+    "Africa"
+   ],
+   "answer": 3,
+   "fact": "Burundi is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q967"
+  },
+  {
+   "id": "636a97ef14",
+   "topic": "country_continent",
+   "question": "Comoros is in which continent?",
+   "options": [
+    "Europe",
+    "South America",
+    "North America",
+    "Africa"
+   ],
+   "answer": 3,
+   "fact": "Comoros is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q970"
+  },
+  {
+   "id": "8cb3d45094",
+   "topic": "country_continent",
+   "question": "Republic of the Congo is in which continent?",
+   "options": [
+    "Africa",
+    "North America",
+    "Oceania",
+    "Asia"
+   ],
+   "answer": 0,
+   "fact": "Republic of the Congo is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q971"
+  },
+  {
+   "id": "f3bc2fd918",
+   "topic": "country_continent",
+   "question": "Democratic Republic of the Congo is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Africa",
+    "Europe",
+    "Asia"
+   ],
+   "answer": 1,
+   "fact": "Democratic Republic of the Congo is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q974"
+  },
+  {
+   "id": "a12e6e08f9",
+   "topic": "country_continent",
+   "question": "Djibouti is in which continent?",
+   "options": [
+    "Africa",
+    "Eurasia",
+    "South America",
+    "North America"
+   ],
+   "answer": 0,
+   "fact": "Djibouti is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q977"
+  },
+  {
+   "id": "7e6fcb2517",
+   "topic": "country_continent",
+   "question": "Equatorial Guinea is in which continent?",
+   "options": [
+    "Eurasia",
+    "Europe",
+    "Africa",
+    "North America"
+   ],
+   "answer": 2,
+   "fact": "Equatorial Guinea is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q983"
+  },
+  {
+   "id": "e50629491f",
+   "topic": "country_continent",
+   "question": "Eritrea is in which continent?",
+   "options": [
+    "Insular Oceania",
+    "Africa",
+    "Eurasia",
+    "North America"
+   ],
+   "answer": 1,
+   "fact": "Eritrea is in which continent? Answer: Africa.",
+   "source_url": "https://www.wikidata.org/wiki/Q986"
   }
  ]
 }

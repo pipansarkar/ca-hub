@@ -55,6 +55,7 @@ def to_app(i: dict, lang: str) -> dict:
         "source_name": i["source_name"], "source_url": i["source_url"],
         "text": text, "mcqs": mcqs, "mcq": mcqs[0] if mcqs else None,
         "gk": [g[lang] for g in i.get("gk", []) if lang in g],
+        "importance": i.get("importance", 5),
     }
     if lang == "en":
         out["en"] = text  # older Today-app builds read "en"
