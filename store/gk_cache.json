@@ -893,5 +893,50 @@
 "mr": "भारतीय रिझर्व्ह बँक ची स्थापना: 1935"
 }
 ]
+},
+"organisation:True:national book trust": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:software technology parks of india": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:ministry of women and child development": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:ministry of skill development and entrepreneurship": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:all india institute of ayurveda": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:bureau of indian standards": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:ministry of power": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:ministry of commerce and industry": {
+"at": "2026-11-27",
+"facts": []
+},
+"organisation:True:competition commission of india": {
+"at": "2026-11-27",
+"facts": [
+{
+"en": "Headquarters of Competition Commission of India: New Delhi",
+"hi": "भारतीय प्रतिस्पर्धा आयोग का मुख्यालय: नई दिल्ली"
+},
+{
+"en": "Competition Commission of India was established in 2003",
+"hi": "भारतीय प्रतिस्पर्धा आयोग की स्थापना: 2003"
+}
+]
 }
 }

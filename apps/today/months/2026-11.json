@@ -2,6 +2,692 @@
  "month": "2026-11",
  "days": [
   {
+   "date": "2026-11-27",
+   "items": [
+    {
+     "id": "5a5f358d72cc",
+     "date": "2026-11-27",
+     "time": "2026-11-27T14:29+05:30",
+     "category": "culture",
+     "region": "national",
+     "state": "",
+     "tags": [
+      "UPSC",
+      "State PSC",
+      "SSC"
+     ],
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342468",
+     "text": {
+      "title": "Vice-President to Inaugurate Fifth Edition of Kashi Tamil Sangamam",
+      "one_liner": "The fifth edition of Kashi Tamil Sangamam will be held from November 28 to December 12, 2026, in Varanasi, focusing on the Thirukkural.",
+      "summary": "The fifth edition of Kashi Tamil Sangamam (KTS 5.0) will be inaugurated by Vice-President Shri C. P. Radhakrishnan in Varanasi, running from November 28 to December 12, 2026. Organized by the Ministry of Education with IIT Madras, BHU, and CICT, the event brings together 1,400 delegates from Tamil Nadu to celebrate civilisational ties. The theme for KTS 5.0 is “Thirukkural Payilvom – Thirukkural Abhyas Karen”. Participants will visit Varanasi, Prayagraj, and Ayodhya.",
+      "key_points": [
+       "Event Dates: November 28 to December 12, 2026",
+       "Venue: Varanasi, Uttar Pradesh",
+       "Number of Delegates: Around 1,400 participants from Tamil Nadu",
+       "Theme: Thirukkural Payilvom – Thirukkural Abhyas Karen"
+      ]
+     },
+     "mcqs": [
+      {
+       "question": "What is the theme of Kashi Tamil Sangamam 5.0?",
+       "options": [
+        "Ek Bharat Shreshtha Bharat",
+        "Thirukkural Payilvom – Thirukkural Abhyas Karen",
+        "Tamil Heritage and Culture",
+        "Wisdom of the Ages"
+       ],
+       "answer": 1,
+       "explanation": "The theme of Kashi Tamil Sangamam 5.0 is “Thirukkural Payilvom – Thirukkural Abhyas Karen”."
+      },
+      {
+       "question": "How many delegates are participating in Kashi Tamil Sangamam 5.0?",
+       "options": [
+        "1,000",
+        "1,200",
+        "1,400",
+        "2,000"
+       ],
+       "answer": 2,
+       "explanation": "The event brings together around 1,400 delegates from Tamil Nadu."
+      }
+     ],
+     "mcq": {
+      "question": "What is the theme of Kashi Tamil Sangamam 5.0?",
+      "options": [
+       "Ek Bharat Shreshtha Bharat",
+       "Thirukkural Payilvom – Thirukkural Abhyas Karen",
+       "Tamil Heritage and Culture",
+       "Wisdom of the Ages"
+      ],
+      "answer": 1,
+      "explanation": "The theme of Kashi Tamil Sangamam 5.0 is “Thirukkural Payilvom – Thirukkural Abhyas Karen”."
+     },
+     "gk": [
+      "Headquarters of Banaras Hindu University: Varanasi",
+      "Banaras Hindu University was established in 1916"
+     ],
+     "en": {
+      "title": "Vice-President to Inaugurate Fifth Edition of Kashi Tamil Sangamam",
+      "one_liner": "The fifth edition of Kashi Tamil Sangamam will be held from November 28 to December 12, 2026, in Varanasi, focusing on the Thirukkural.",
+      "summary": "The fifth edition of Kashi Tamil Sangamam (KTS 5.0) will be inaugurated by Vice-President Shri C. P. Radhakrishnan in Varanasi, running from November 28 to December 12, 2026. Organized by the Ministry of Education with IIT Madras, BHU, and CICT, the event brings together 1,400 delegates from Tamil Nadu to celebrate civilisational ties. The theme for KTS 5.0 is “Thirukkural Payilvom – Thirukkural Abhyas Karen”. Participants will visit Varanasi, Prayagraj, and Ayodhya.",
+      "key_points": [
+       "Event Dates: November 28 to December 12, 2026",
+       "Venue: Varanasi, Uttar Pradesh",
+       "Number of Delegates: Around 1,400 participants from Tamil Nadu",
+       "Theme: Thirukkural Payilvom – Thirukkural Abhyas Karen"
+      ]
+     }
+    },
+    {
+     "id": "41268423dc4e",
+     "date": "2026-11-27",
+     "time": "2026-11-27T14:29+05:30",
+     "category": "economy",
+     "region": "uttar_pradesh",
+     "state": "Uttar Pradesh",
+     "tags": [
+      "Bank",
+      "SSC",
+      "State PSC",
+      "Police Bharti"
+     ],
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342386",
+     "text": {
+      "title": "STPI Inaugurates its 75th Centre in Bareilly, Uttar Pradesh",
+      "one_liner": "Software Technology Parks of India launched its 75th centre in Bareilly, Uttar Pradesh, to strengthen the regional IT and startup ecosystem.",
+      "summary": "Software Technology Parks of India (STPI) inaugurated its 75th centre in Bareilly, Uttar Pradesh. Developed with an investment of approximately ₹18.25 crore on a 2-acre land parcel, the centre aims to support IT/ITeS enterprises, startups, and technology-led entrepreneurship in the Rohilkhand region. Out of STPI's 75 centres, 67 are situated in Tier-II and Tier-III cities to decentralise technology infrastructure.",
+      "key_points": [
+       "Centre Number: 75th STPI centre nationwide",
+       "Location: Bareilly, Uttar Pradesh",
+       "Investment: Approximately ₹18.25 crore",
+       "Land Area: 2-acre land parcel"
+      ]
+     },
+     "mcqs": [
+      {
+       "question": "Bareilly is the ___ centre of STPI in India.",
+       "options": [
+        "50th",
+        "67th",
+        "75th",
+        "100th"
+       ],
+       "answer": 2,
+       "explanation": "The inauguration marks Bareilly as STPI's 75th centre in the country."
+      },
+      {
+       "question": "What is the approximate investment made to develop the STPI Bareilly Centre?",
+       "options": [
+        "₹10.50 crore",
+        "₹18.25 crore",
+        "₹25.00 crore",
+        "₹30.15 crore"
+       ],
+       "answer": 1,
+       "explanation": "The Bareilly Centre was developed with an investment of approximately ₹18.25 crore."
+      }
+     ],
+     "mcq": {
+      "question": "Bareilly is the ___ centre of STPI in India.",
+      "options": [
+       "50th",
+       "67th",
+       "75th",
+       "100th"
+      ],
+      "answer": 2,
+      "explanation": "The inauguration marks Bareilly as STPI's 75th centre in the country."
+     },
+     "gk": [
+      "Headquarters of Ministry of Electronics and Information Technology: 20, Ashoka Road",
+      "Ministry of Electronics and Information Technology was established in 2016"
+     ],
+     "en": {
+      "title": "STPI Inaugurates its 75th Centre in Bareilly, Uttar Pradesh",
+      "one_liner": "Software Technology Parks of India launched its 75th centre in Bareilly, Uttar Pradesh, to strengthen the regional IT and startup ecosystem.",
+      "summary": "Software Technology Parks of India (STPI) inaugurated its 75th centre in Bareilly, Uttar Pradesh. Developed with an investment of approximately ₹18.25 crore on a 2-acre land parcel, the centre aims to support IT/ITeS enterprises, startups, and technology-led entrepreneurship in the Rohilkhand region. Out of STPI's 75 centres, 67 are situated in Tier-II and Tier-III cities to decentralise technology infrastructure.",
+      "key_points": [
+       "Centre Number: 75th STPI centre nationwide",
+       "Location: Bareilly, Uttar Pradesh",
+       "Investment: Approximately ₹18.25 crore",
+       "Land Area: 2-acre land parcel"
+      ]
+     }
+    },
+    {
+     "id": "1f8bcb78a125",
+     "date": "2026-11-27",
+     "time": "2026-11-27T14:29+05:30",
+     "category": "schemes",
+     "region": "uttarakhand",
+     "state": "Uttarakhand",
+     "tags": [
+      "UPSC",
+      "State PSC",
+      "Bank",
+      "SSC"
+     ],
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342417",
+     "text": {
+      "title": "MWCD and MSDE to Jointly Launch NAVYA 2.0 in Haridwar",
+      "one_liner": "The second phase of NAVYA will be launched in Haridwar to empower adolescent girls and young women across 100 districts.",
+      "summary": "The Ministry of Women and Child Development and the Ministry of Skill Development and Entrepreneurship are jointly launching NAVYA 2.0 in Haridwar, Uttarakhand. NAVYA 2.0 expands its reach to 100 districts across 24 States/UTs, broadening the eligible age group from 16–18 years to 16–25 years. The initiative offers vocational training in non-traditional job roles using the Skill India Digital Hub platform.",
+      "key_points": [
+       "Launch Date: November 28, 2026",
+       "Launch Venue: Uttarakhand Sanskrit Academy Auditorium, Haridwar",
+       "Coverage: 100 districts across 24 States/UTs",
+       "Target Age Group: 16 to 25 years"
+      ]
+     },
+     "mcqs": [
+      {
+       "question": "What is the expanded age group eligibility for NAVYA 2.0?",
+       "options": [
+        "14 to 20 years",
+        "16 to 25 years",
+        "18 to 30 years",
+        "21 to 35 years"
+       ],
+       "answer": 1,
+       "explanation": "The eligible age group for NAVYA 2.0 has been widened from 16–18 years to 16–25 years."
+      },
+      {
+       "question": "Where is the launch event of NAVYA 2.0 scheduled to take place?",
+       "options": [
+        "Dehradun, Uttarakhand",
+        "Haridwar, Uttarakhand",
+        "Sonbhadra, Uttar Pradesh",
+        "New Delhi"
+       ],
+       "answer": 1,
+       "explanation": "NAVYA 2.0 is launched at the Uttarakhand Sanskrit Academy Auditorium, Haridwar."
+      }
+     ],
+     "mcq": {
+      "question": "What is the expanded age group eligibility for NAVYA 2.0?",
+      "options": [
+       "14 to 20 years",
+       "16 to 25 years",
+       "18 to 30 years",
+       "21 to 35 years"
+      ],
+      "answer": 1,
+      "explanation": "The eligible age group for NAVYA 2.0 has been widened from 16–18 years to 16–25 years."
+     },
+     "gk": [],
+     "en": {
+      "title": "MWCD and MSDE to Jointly Launch NAVYA 2.0 in Haridwar",
+      "one_liner": "The second phase of NAVYA will be launched in Haridwar to empower adolescent girls and young women across 100 districts.",
+      "summary": "The Ministry of Women and Child Development and the Ministry of Skill Development and Entrepreneurship are jointly launching NAVYA 2.0 in Haridwar, Uttarakhand. NAVYA 2.0 expands its reach to 100 districts across 24 States/UTs, broadening the eligible age group from 16–18 years to 16–25 years. The initiative offers vocational training in non-traditional job roles using the Skill India Digital Hub platform.",
+      "key_points": [
+       "Launch Date: November 28, 2026",
+       "Launch Venue: Uttarakhand Sanskrit Academy Auditorium, Haridwar",
+       "Coverage: 100 districts across 24 States/UTs",
+       "Target Age Group: 16 to 25 years"
+      ]
+     }
+    },
+    {
+     "id": "eb133042843d",
+     "date": "2026-11-27",
+     "time": "2026-11-27T14:29+05:30",
+     "category": "reports_indices",
+     "region": "goa",
+     "state": "Goa",
+     "tags": [
+      "UPSC",
+      "State PSC",
+      "SSC"
+     ],
+     "source_name": "PIB Mumbai",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342471",
+     "text": {
+      "title": "National Conference on AYUSH Standardization Held at AIIA Goa",
+      "one_liner": "AIIA Goa hosted a national conference on AYUSH Standardization to discuss the Standard National Action Plan 2027–32.",
+      "summary": "The All India Institute of Ayurveda (AIIA), Goa, in collaboration with the Bureau of Indian Standards (BIS), hosted a national-level conference on 'AYUSH Standardization – Standard National Action Plan (SNAP) 2027–32'. Stakeholders representing Ayurveda, Yoga and Naturopathy, Unani, Siddha, Sowa-Rigpa, and Homoeopathy discussed standardisation strategies to ensure quality, safety, and widespread recognition for traditional healthcare systems.",
+      "key_points": [
+       "Host Institution: All India Institute of Ayurveda (AIIA), Goa",
+       "Collaborating Partner: Ayurveda Department of the Bureau of Indian Standards (BIS)",
+       "Conference Topic: Standard National Action Plan (SNAP) 2027–32",
+       "Date of Event: November 26, 2024"
+      ]
+     },
+     "mcqs": [
+      {
+       "question": "Which institution hosted the conference on AYUSH Standardization for SNAP 2027–32?",
+       "options": [
+        "AIIA New Delhi",
+        "AIIA Goa",
+        "BIS Delhi",
+        "AIIMS New Delhi"
+       ],
+       "answer": 1,
+       "explanation": "The All India Institute of Ayurveda (AIIA), Goa, hosted the national-level conference."
+      },
+      {
+       "question": "Which department of BIS collaborated with AIIA Goa for the AYUSH standardization conference?",
+       "options": [
+        "Ayurveda Department",
+        "Traditional Medicine Wing",
+        "Healthcare Bureau",
+        "Standardization Directorate"
+       ],
+       "answer": 0,
+       "explanation": "The event was organized in collaboration with the Ayurveda Department of the Bureau of Indian Standards (BIS)."
+      }
+     ],
+     "mcq": {
+      "question": "Which institution hosted the conference on AYUSH Standardization for SNAP 2027–32?",
+      "options": [
+       "AIIA New Delhi",
+       "AIIA Goa",
+       "BIS Delhi",
+       "AIIMS New Delhi"
+      ],
+      "answer": 1,
+      "explanation": "The All India Institute of Ayurveda (AIIA), Goa, hosted the national-level conference."
+     },
+     "gk": [],
+     "en": {
+      "title": "National Conference on AYUSH Standardization Held at AIIA Goa",
+      "one_liner": "AIIA Goa hosted a national conference on AYUSH Standardization to discuss the Standard National Action Plan 2027–32.",
+      "summary": "The All India Institute of Ayurveda (AIIA), Goa, in collaboration with the Bureau of Indian Standards (BIS), hosted a national-level conference on 'AYUSH Standardization – Standard National Action Plan (SNAP) 2027–32'. Stakeholders representing Ayurveda, Yoga and Naturopathy, Unani, Siddha, Sowa-Rigpa, and Homoeopathy discussed standardisation strategies to ensure quality, safety, and widespread recognition for traditional healthcare systems.",
+      "key_points": [
+       "Host Institution: All India Institute of Ayurveda (AIIA), Goa",
+       "Collaborating Partner: Ayurveda Department of the Bureau of Indian Standards (BIS)",
+       "Conference Topic: Standard National Action Plan (SNAP) 2027–32",
+       "Date of Event: November 26, 2024"
+      ]
+     }
+    },
+    {
+     "id": "3de01a085c85",
+     "date": "2026-11-27",
+     "time": "2026-11-27T14:29+05:30",
+     "category": "polity",
+     "region": "national",
+     "state": "",
+     "tags": [
+      "UPSC",
+      "SSC",
+      "State PSC",
+      "Railways"
+     ],
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342431",
+     "text": {
+      "title": "Two-day Power Ministers’ Conference begins in New Delhi",
+      "one_liner": "The two-day Power Ministers’ Conference commenced in New Delhi on November 27, 2026, chaired by Union Minister Shri Manohar Lal.",
+      "summary": "The two-day Power Ministers’ Conference began in New Delhi, bringing together Power Ministers, senior officials, and electricity regulators from 28 states and 8 union territories. Chaired by Union Minister Shri Manohar Lal, the conference focuses on strengthening energy security, improving power infrastructure, and accelerating sectoral reforms. Discussions include smart meters, financial viability of DISCOMs, and nuclear sites. India's installed capacity reached about 563 GW, with over 55% from non-fossil sources.",
+      "key_points": [
+       "Conference dates: November 27-28, 2026, held in New Delhi.",
+       "Chaired by Shri Manohar Lal, Union Minister of Power and Housing & Urban Affairs.",
+       "India's installed capacity is about 563 GW, with over 55% from non-fossil sources.",
+       "Power sector presents an investment opportunity of Rs 200 lakh crores over the next two decades."
+      ]
+     },
+     "mcqs": [
+      {
+       "question": "Where was the two-day Power Ministers’ Conference held?",
+       "options": [
+        "Mumbai",
+        "New Delhi",
+        "Bengaluru",
+        "Hyderabad"
+       ],
+       "answer": 1,
+       "explanation": "The two-day Power Ministers’ Conference commenced in New Delhi on November 27, 2026."
+      },
+      {
+       "question": "What is India's current installed power capacity as noted in the conference?",
+       "options": [
+        "About 563 GW",
+        "About 450 GW",
+        "About 600 GW",
+        "About 500 GW"
+       ],
+       "answer": 0,
+       "explanation": "India’s installed capacity is now about 563 GW, with more than 55% being non-fossil."
+      }
+     ],
+     "mcq": {
+      "question": "Where was the two-day Power Ministers’ Conference held?",
+      "options": [
+       "Mumbai",
+       "New Delhi",
+       "Bengaluru",
+       "Hyderabad"
+      ],
+      "answer": 1,
+      "explanation": "The two-day Power Ministers’ Conference commenced in New Delhi on November 27, 2026."
+     },
+     "gk": [],
+     "en": {
+      "title": "Two-day Power Ministers’ Conference begins in New Delhi",
+      "one_liner": "The two-day Power Ministers’ Conference commenced in New Delhi on November 27, 2026, chaired by Union Minister Shri Manohar Lal.",
+      "summary": "The two-day Power Ministers’ Conference began in New Delhi, bringing together Power Ministers, senior officials, and electricity regulators from 28 states and 8 union territories. Chaired by Union Minister Shri Manohar Lal, the conference focuses on strengthening energy security, improving power infrastructure, and accelerating sectoral reforms. Discussions include smart meters, financial viability of DISCOMs, and nuclear sites. India's installed capacity reached about 563 GW, with over 55% from non-fossil sources.",
+      "key_points": [
+       "Conference dates: November 27-28, 2026, held in New Delhi.",
+       "Chaired by Shri Manohar Lal, Union Minister of Power and Housing & Urban Affairs.",
+       "India's installed capacity is about 563 GW, with over 55% from non-fossil sources.",
+       "Power sector presents an investment opportunity of Rs 200 lakh crores over the next two decades."
+      ]
+     }
+    },
+    {
+     "id": "b56ca06392cf",
+     "date": "2026-11-27",
+     "time": "2026-11-27T14:29+05:30",
+     "category": "economy",
+     "region": "national",
+     "state": "",
+     "tags": [
+      "UPSC",
+      "Bank",
+      "SSC",
+      "State PSC"
+     ],
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342421",
+     "text": {
+      "title": "India’s Growth Story Remains Strong Amid Global Uncertainties: Piyush Goyal",
+      "one_liner": "Union Minister Shri Piyush Goyal stated at the India Debt Capital Market Summit 2026 that India's growth remains strong and resilient.",
+      "summary": "Union Minister of Commerce and Industry Shri Piyush Goyal addressed the India Debt Capital Market Summit 2026, highlighting India's economic performance, sustained reforms, and expanding trade opportunities. He noted that India delivered 7.8% growth in the first quarter of the current financial year, with exports reaching USD 570 billion in the first seven months. Goyal emphasized the vision of Viksit Bharat 2047 and the goal of becoming a USD 30 trillion economy.",
+      "key_points": [
+       "India delivered 7.8% growth in the first quarter of the current financial year.",
+       "Exports reached USD 570 billion in the first seven months of the year.",
+       "Credit growth stood at about 19 per cent.",
+       "October recorded a record performance for exports at USD 90 billion in a single month."
+      ]
+     },
+     "mcqs": [
+      {
+       "question": "At which event did Union Minister Shri Piyush Goyal highlight India's strong economic growth?",
+       "options": [
+        "India Global Forum 2026",
+        "India Debt Capital Market Summit 2026",
+        "National Economic Summit 2026",
+        "Global Fintech Fest 2026"
+       ],
+       "answer": 1,
+       "explanation": "Shri Piyush Goyal addressed the India Debt Capital Market Summit 2026."
+      },
+      {
+       "question": "What was India's export value in the first seven months of the financial year mentioned by the Minister?",
+       "options": [
+        "USD 570 billion",
+        "USD 90 billion",
+        "USD 700 billion",
+        "USD 1 trillion"
+       ],
+       "answer": 0,
+       "explanation": "Exports had already reached USD 570 billion in the first seven months of the year."
+      }
+     ],
+     "mcq": {
+      "question": "At which event did Union Minister Shri Piyush Goyal highlight India's strong economic growth?",
+      "options": [
+       "India Global Forum 2026",
+       "India Debt Capital Market Summit 2026",
+       "National Economic Summit 2026",
+       "Global Fintech Fest 2026"
+      ],
+      "answer": 1,
+      "explanation": "Shri Piyush Goyal addressed the India Debt Capital Market Summit 2026."
+     },
+     "gk": [],
+     "en": {
+      "title": "India’s Growth Story Remains Strong Amid Global Uncertainties: Piyush Goyal",
+      "one_liner": "Union Minister Shri Piyush Goyal stated at the India Debt Capital Market Summit 2026 that India's growth remains strong and resilient.",
+      "summary": "Union Minister of Commerce and Industry Shri Piyush Goyal addressed the India Debt Capital Market Summit 2026, highlighting India's economic performance, sustained reforms, and expanding trade opportunities. He noted that India delivered 7.8% growth in the first quarter of the current financial year, with exports reaching USD 570 billion in the first seven months. Goyal emphasized the vision of Viksit Bharat 2047 and the goal of becoming a USD 30 trillion economy.",
+      "key_points": [
+       "India delivered 7.8% growth in the first quarter of the current financial year.",
+       "Exports reached USD 570 billion in the first seven months of the year.",
+       "Credit growth stood at about 19 per cent.",
+       "October recorded a record performance for exports at USD 90 billion in a single month."
+      ]
+     }
+    },
+    {
+     "id": "bc1e15961c5a",
+     "date": "2026-11-27",
+     "time": "2026-11-27T14:29+05:30",
+     "category": "economy",
+     "region": "national",
+     "state": "",
+     "tags": [
+      "UPSC",
+      "Bank",
+      "SSC",
+      "State PSC"
+     ],
+     "source_name": "PIB Delhi",
+     "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2342455",
+     "text": {
+      "title": "CCI Approves Combination Involving Samara AIFs and Associated Road Carriers",
+      "one_liner": "The CCI approved a proposed combination involving Samara AIFs, Calyx Container Terminals, and Associated Road Carriers.",
+      "summary": "The Competition Commission of India (CCI) approved the proposed combination involving Samara Alternate Investment Fund – Scheme I LVF, Samara Alternate Investment Fund III India, Calyx Container Terminals Private Limited, and Associated Road Carriers Limited. The transaction involves the acquisition of a stake by Samara AIFs in Calyx, Calyx acquiring a stake in Associated Road Carriers (ARC), and the subsequent merger of Calyx with and into ARC.",
+      "key_points": [
+       "Samara AIFs are Category II alternative investment funds registered with SEBI.",
+       "Calyx Container Terminals is engaged in providing container freight station facilities in India since 2006.",
+       "Associated Road Carriers Limited is engaged in logistics and surface transportation services since 1972.",
+       "Combination includes the merger of Calyx with and into ARC."
+      ]
+     },
+     "mcqs": [
+      {
+       "question": "Which regulatory body approved the combination involving Samara AIFs and Associated Road Carriers?",
+       "options": [
+        "Reserve Bank of India",
+        "Securities and Exchange Board of India",
+        "Competition Commission of India",
+        "Insurance Regulatory and Development Authority"
+       ],
+       "answer": 2,
+       "explanation": "The Competition Commission of India (CCI) approved the proposed combination."
+      },
+      {
+       "question": "In which year was Associated Road Carriers Limited (ARC) incorporated in India?",
+       "options": [
+        "1972",
+        "2006",
+        "1991",
+        "1985"
+       ],
+       "answer": 0,
+       "explanation": "ARC is an unlisted public limited company incorporated in 1972 in India."
+      }
+     ],
+     "mcq": {
+      "question": "Which regulatory body approved the combination involving Samara AIFs and Associated Road Carriers?",
+      "options": [
+       "Reserve Bank of India",
+       "Securities and Exchange Board of India",
+       "Competition Commission of India",
+       "Insurance Regulatory and Development Authority"
+      ],
+      "answer": 2,
+      "explanation": "The Competition Commission of India (CCI) approved the proposed combination."
+     },
+     "gk": [
+      "Headquarters of Competition Commission of India: New Delhi",
+      "Competition Commission of India was established in 2003",
+      "Headquarters of Securities and Exchange Board of India: Mumbai",
+      "Securities and Exchange Board of India was established in 1992"
+     ],
+     "en": {
+      "title": "CCI Approves Combination Involving Samara AIFs and Associated Road Carriers",
+      "one_liner": "The CCI approved a proposed combination involving Samara AIFs, Calyx Container Terminals, and Associated Road Carriers.",
+      "summary": "The Competition Commission of India (CCI) approved the proposed combination involving Samara Alternate Investment Fund – Scheme I LVF, Samara Alternate Investment Fund III India, Calyx Container Terminals Private Limited, and Associated Road Carriers Limited. The transaction involves the acquisition of a stake by Samara AIFs in Calyx, Calyx acquiring a stake in Associated Road Carriers (ARC), and the subsequent merger of Calyx with and into ARC.",
+      "key_points": [
+       "Samara AIFs are Category II alternative investment funds registered with SEBI.",
+       "Calyx Container Terminals is engaged in providing container freight station facilities in India since 2006.",
+       "Associated Road Carriers Limited is engaged in logistics and surface transportation services since 1972.",
+       "Combination includes the merger of Calyx with and into ARC."
+      ]
+     }
+    },
+    {
+     "id": "9472e14ba760",
+     "date": "2026-11-27",
+     "time": "2026-11-27T14:29+05:30",
+     "category": "banking",
+     "region": "national",
+     "state": "",
+     "tags": [
+      "Bank",
+      "SSC",
+      "UPSC",
+      "State PSC"
+     ],
+     "source_name": "RBI",
+     "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64055",
+     "text": {
+      "title": "Government Stock Auction Results Announced by RBI",
+      "one_liner": "The Reserve Bank of India released the cut-off and auction results for Government Stock and Sovereign Green Bonds.",
+      "summary": "The Reserve Bank of India published the auction results for Government Stock and Government Sovereign Green Bonds (SGrB). The auction included 6.20% GS 2029, 6.57% GS 2033, 7.63% GS 2056, and 7.50% GOI SGrB 2056 with notified amounts of ₹9,000 crore, ₹12,000 crore, ₹9,000 crore, and ₹3,000 crore respectively. Full notified amounts were accepted for 6.57% GS 2033, 7.63% GS 2056, and 7.50% GOI SGrB 2056, with nil devolvement on Primary Dealers.",
+      "key_points": [
+       "Notified amount for 6.57% GS 2033 was ₹12,000 crore and was fully accepted.",
+       "Notified amount for 7.63% GS 2056 was ₹9,000 crore and was fully accepted.",
+       "Notified amount for 7.50% GOI SGrB 2056 was ₹3,000 crore and was fully accepted.",
+       "Devolvement on Primary Dealers was NIL across all categories."
+      ]
+     },
+     "mcqs": [
+      {
+       "question": "What was the notified amount for 6.57% GS 2033 in the RBI auction results?",
+       "options": [
+        "₹9,000 crore",
+        "₹12,000 crore",
+        "₹3,000 crore",
+        "₹5,000 crore"
+       ],
+       "answer": 1,
+       "explanation": "The notified amount for 6.57% GS 2033 was ₹12,000 crore."
+      },
+      {
+       "question": "What was the devolvement on Primary Dealers for the auctioned Government Stocks?",
+       "options": [
+        "100 percent",
+        "NIL",
+        "₹500 crore",
+        "₹1,000 crore"
+       ],
+       "answer": 1,
+       "explanation": "Devolvement on Primary Dealers was reported as NIL for all listed securities."
+      }
+     ],
+     "mcq": {
+      "question": "What was the notified amount for 6.57% GS 2033 in the RBI auction results?",
+      "options": [
+       "₹9,000 crore",
+       "₹12,000 crore",
+       "₹3,000 crore",
+       "₹5,000 crore"
+      ],
+      "answer": 1,
+      "explanation": "The notified amount for 6.57% GS 2033 was ₹12,000 crore."
+     },
+     "gk": [
+      "Headquarters of Reserve Bank of India: Mumbai",
+      "Reserve Bank of India was established in 1935"
+     ],
+     "en": {
+      "title": "Government Stock Auction Results Announced by RBI",
+      "one_liner": "The Reserve Bank of India released the cut-off and auction results for Government Stock and Sovereign Green Bonds.",
+      "summary": "The Reserve Bank of India published the auction results for Government Stock and Government Sovereign Green Bonds (SGrB). The auction included 6.20% GS 2029, 6.57% GS 2033, 7.63% GS 2056, and 7.50% GOI SGrB 2056 with notified amounts of ₹9,000 crore, ₹12,000 crore, ₹9,000 crore, and ₹3,000 crore respectively. Full notified amounts were accepted for 6.57% GS 2033, 7.63% GS 2056, and 7.50% GOI SGrB 2056, with nil devolvement on Primary Dealers.",
+      "key_points": [
+       "Notified amount for 6.57% GS 2033 was ₹12,000 crore and was fully accepted.",
+       "Notified amount for 7.63% GS 2056 was ₹9,000 crore and was fully accepted.",
+       "Notified amount for 7.50% GOI SGrB 2056 was ₹3,000 crore and was fully accepted.",
+       "Devolvement on Primary Dealers was NIL across all categories."
+      ]
+     }
+    },
+    {
+     "id": "b38bcb9643fa",
+     "date": "2026-11-27",
+     "time": "2026-11-27T14:29+05:30",
+     "category": "banking",
+     "region": "national",
+     "state": "",
+     "tags": [
+      "Bank",
+      "UPSC",
+      "State PSC",
+      "SSC"
+     ],
+     "source_name": "RBI",
+     "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64054",
+     "text": {
+      "title": "RBI Conducts 3-day Variable Rate Repo Auction on November 27, 2026",
+      "one_liner": "The Reserve Bank of India conducted a 3-day Variable Rate Repo auction on November 27, 2026, allotting 75,006 crore rupees.",
+      "summary": "The Reserve Bank of India announced the results of the 3-day Variable Rate Repo auction held on November 27, 2026. Against a notified amount of 75,000 crore rupees, total bids worth 1,35,656 crore rupees were received. An amount of 75,006 crore rupees was successfully allotted. The cut-off rate was recorded at 5.60 percent with a weighted average rate of 5.66 percent, and the partial allotment percentage of bids received at the cut-off rate was 0.42 percent.",
+      "key_points": [
+       "Auction Date: November 27, 2026",
+       "Notified Amount: 75,000 crore rupees",
+       "Amount Allotted: 75,006 crore rupees",
+       "Cut off Rate: 5.60 percent"
+      ]
+     },
+     "mcqs": [
+      {
+       "question": "What was the notified amount for the 3-day Variable Rate Repo auction held on November 27, 2026?",
+       "options": [
+        "50,000 crore rupees",
+        "75,000 crore rupees",
+        "1,00,000 crore rupees",
+        "1,35,656 crore rupees"
+       ],
+       "answer": 1,
+       "explanation": "The notified amount for the 3-day Variable Rate Repo auction was 75,000 crore rupees."
+      },
+      {
+       "question": "What was the cut-off rate for the RBI's Variable Rate Repo auction held on November 27, 2026?",
+       "options": [
+        "5.50 percent",
+        "5.60 percent",
+        "5.66 percent",
+        "6.00 percent"
+       ],
+       "answer": 1,
+       "explanation": "The cut-off rate for the 3-day Variable Rate Repo auction was 5.60 percent."
+      }
+     ],
+     "mcq": {
+      "question": "What was the notified amount for the 3-day Variable Rate Repo auction held on November 27, 2026?",
+      "options": [
+       "50,000 crore rupees",
+       "75,000 crore rupees",
+       "1,00,000 crore rupees",
+       "1,35,656 crore rupees"
+      ],
+      "answer": 1,
+      "explanation": "The notified amount for the 3-day Variable Rate Repo auction was 75,000 crore rupees."
+     },
+     "gk": [
+      "Headquarters of Reserve Bank of India: Mumbai",
+      "Reserve Bank of India was established in 1935"
+     ],
+     "en": {
+      "title": "RBI Conducts 3-day Variable Rate Repo Auction on November 27, 2026",
+      "one_liner": "The Reserve Bank of India conducted a 3-day Variable Rate Repo auction on November 27, 2026, allotting 75,006 crore rupees.",
+      "summary": "The Reserve Bank of India announced the results of the 3-day Variable Rate Repo auction held on November 27, 2026. Against a notified amount of 75,000 crore rupees, total bids worth 1,35,656 crore rupees were received. An amount of 75,006 crore rupees was successfully allotted. The cut-off rate was recorded at 5.60 percent with a weighted average rate of 5.66 percent, and the partial allotment percentage of bids received at the cut-off rate was 0.42 percent.",
+      "key_points": [
+       "Auction Date: November 27, 2026",
+       "Notified Amount: 75,000 crore rupees",
+       "Amount Allotted: 75,006 crore rupees",
+       "Cut off Rate: 5.60 percent"
+      ]
+     }
+    }
+   ]
+  },
+  {
    "date": "2026-11-26",
    "items": [
     {
