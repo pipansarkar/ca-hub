@@ -92,7 +92,10 @@ most important first. Keep: schemes and missions, appointments, awards, MoUs/agr
 reports and indices, defence exercises, economy/RBI data, science and space, sports results,
 environment, important days, firsts, and notable state-level news from ANY state or UT (state schemes,
 projects, state firsts, awards, GI tags, festivals of exam value). Aim for a mix of national and state news. Skip: greetings, condolences, photo posts, film screenings, routine meetings,
-speeches without new facts, political criticism, crime, duplicates of the same event."""
+speeches without new facts, political criticism, crime, duplicates of the same event, and routine RBI
+notices (weekly statistical supplement, money market operations, results or announcements of T-bill,
+G-sec, SDL or VRR/VRRR auctions). Keep RBI policy decisions, new rules/directions, penalties on banks and
+appointments."""
 
 CORE_SYS = AUDIENCE + f"""
 For each official release, write exam notes in English. The source may be Hindi, Marathi or English.
