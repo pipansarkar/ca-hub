@@ -1,5 +1,604 @@
 [
  {
+  "id": "5d3619f7e0e9",
+  "date": "2026-11-28",
+  "time": "2026-11-28T13:50+05:30",
+  "region": "national",
+  "category": "international",
+  "tags": [
+   "UPSC",
+   "SSC",
+   "State PSC"
+  ],
+  "source_name": "MEA",
+  "source_url": "https://www.mea.gov.in/press-releases?dtl/42012/Joint_Press_Release_12th_IndiaEU_Foreign_Policy_and_Security_Consultations",
+  "answers": [
+   1,
+   2
+  ],
+  "langs": {
+   "en": {
+    "title": "12th India-EU Foreign Policy and Security Consultations Held in New Delhi",
+    "one_liner": "India and the European Union held their 12th Foreign Policy and Security Consultations in New Delhi on 27 November 2026.",
+    "summary": "India and the European Union conducted the 12th India-EU Foreign Policy and Security Consultations in New Delhi on 27 November 2026. The discussions reviewed strategic partnership momentum under the Towards 2030 Comprehensive Strategic Agenda and reaffirmed commitment to the UN Charter. Both sides addressed regional and global developments, security cooperation including maritime safety, cyber and hybrid threats, counterterrorism, and the situation in Ukraine, agreeing to hold the next edition in Brussels.",
+    "points": [
+     "Meeting held on 27 November 2026 in New Delhi.",
+     "Co-chaired by Shri Sibi George from MEA and Mr. Olof Skoog from European External Action Service.",
+     "Reviewed cooperation under the India-EU Security and Defence Partnership.",
+     "Agreed to hold the next consultations in Brussels next year."
+    ],
+    "static_gk": "The European Union has its headquarters in Brussels, Belgium.",
+    "mcqs": [
+     {
+      "question": "Where was the 12th India-EU Foreign Policy and Security Consultations held?",
+      "options": [
+       "Brussels",
+       "New Delhi",
+       "Paris",
+       "Vienna"
+      ],
+      "explanation": "The 12th India-EU Foreign Policy and Security Consultations were held in New Delhi on 27 November 2026."
+     },
+     {
+      "question": "Who co-chaired the 12th India-EU Foreign Policy and Security Consultations from the Indian side?",
+      "options": [
+       "Dr S. Jaishankar",
+       "Mr. Olof Skoog",
+       "Shri Sibi George",
+       "Vice Admiral S N Ghormade"
+      ],
+      "explanation": "The meeting was co-chaired by Shri Sibi George, Secretary (West) of the Ministry of External Affairs."
+     }
+    ]
+   },
+   "bn": {
+    "title": "নতুন দিল্লিতে দ্বাদশ ভারত-ইইউ বিদেশ নীতি ও সুরক্ষা সংক্রান্ত আলোচনা অনুষ্ঠিত",
+    "one_liner": "ভারত এবং ইউরোপীয় ইউনিয়ন (European Union) ২৭ নভেম্বর ২০২৬ তারিখে নতুন দিল্লিতে তাদের দ্বাদশ বিদেশ নীতি ও সুরক্ষা সংক্রান্ত আলোচনা অনুষ্ঠিত করেছে।",
+    "summary": "ভারত এবং ইউরোপীয় ইউনিয়ন ২৭ নভেম্বর ২০২৬ তারিখে নতুন দিল্লিতে দ্বাদশ ভারত-ইইউ বিদেশ নীতি ও সুরক্ষা সংক্রান্ত আলোচনা পরিচালনা করেছে। আলোচনায় টুওয়ার্ডস ২০৩০ কম্প্রিহেনসিভ স্ট্র্যাটেজিক এজেন্ডা (Towards 2030 Comprehensive Strategic Agenda)-র অধীনে কৌশলগত অংশীদারিত্বের অগ্রগতি পর্যালোচনা করা হয় এবং রাষ্ট্রসংঘের সনদের (UN Charter) প্রতি প্রতিশ্রুতি পুনর্ব্যক্ত করা হয়। উভয় পক্ষ আঞ্চলিক ও বৈশ্বিক উন্নয়ন, সমুদ্র নিরাপত্তা সহ নিরাপত্তা সহযোগিতা, সাইবার ও হাইব্রিড হুমকি, সন্ত্রাসবাদ দমন এবং ইউক্রেনের পরিস্থিতি নিয়ে আলোচনা করে এবং আগামী অধিবেশন ব্রাসেলসে (Brussels) অনুষ্ঠিত করতে সম্মত হয়।",
+    "points": [
+     "বৈঠকটি ২৭ নভেম্বর ২০২৬ তারিখে নতুন দিল্লিতে অনুষ্ঠিত হয়।",
+     "বিদেশ মন্ত্রকের শ্রী সিবি জর্জ এবং ইউরোপীয় এক্সটার্নাল অ্যাকশন সার্ভিস (European External Action Service)-এর মি. ওলোফ স্কুগ যৌথভাবে এই বৈঠকের সভাপতিত্ব করেন।",
+     "ভারত-ইইউ সুরক্ষা ও প্রতিরক্ষা অংশীদারিত্ব (India-EU Security and Defence Partnership)-এর অধীনে সহযোগিতা পর্যালোচনা করা হয়।",
+     "আগামী বছর ব্রাসেলসে পরবর্তী আলোচনা অনুষ্ঠিত করতে সম্মত হয়।"
+    ],
+    "static_gk": "ইউরোপীয় ইউনিয়নের (European Union) সদর দফতর বেলজিয়ামের ব্রাসেলসে অবস্থিত।",
+    "mcqs": [
+     {
+      "question": "দ্বাদশ ভারত-ইইউ বিদেশ নীতি ও সুরক্ষা সংক্রান্ত আলোচনা কোথায় অনুষ্ঠিত হয়েছিল?",
+      "options": [
+       "ব্রাসেলস",
+       "নতুন দিল্লি",
+       "প্যারিস",
+       "ভিয়েনা"
+      ],
+      "explanation": "দ্বাদশ ভারত-ইইউ বিদেশ নীতি ও সুরক্ষা সংক্রান্ত আলোচনা ২৭ নভেম্বর ২০২৬ তারিখে নতুন দিল্লিতে অনুষ্ঠিত হয়েছিল।"
+     },
+     {
+      "question": "ভারতীয় পক্ষের হয়ে দ্বাদশ ভারত-ইইউ বিদেশ নীতি ও সুরক্ষা সংক্রান্ত আলোচনায় কে যৌথভাবে সভাপতিত্ব করেছিলেন?",
+      "options": [
+       "ডা. এস জয়শঙ্কর",
+       "মি. ওলোফ স্কুগ",
+       "শ্রী সিবি জর্জ",
+       "ভাইস অ্যাডমিরাল এস এন ঘোরমড়ে"
+      ],
+      "explanation": "বৈঠকটিতে বিদেশ মন্ত্রকের সচিব (পশ্চিম) শ্রী সিবি জর্জ যৌথভাবে সভাপতিত্ব করেছিলেন।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "नई दिल्ली में 12वीं भारत-ईयू विदेश नीति और सुरक्षा परामर्श आयोजित",
+    "one_liner": "भारत और यूरोपीय संघ (European Union) ने 27 नवंबर 2026 को नई दिल्ली में अपना 12वां विदेश नीति और सुरक्षा परामर्श आयोजित किया।",
+    "summary": "भारत और यूरोपीय संघ (European Union) ने 27 नवंबर 2026 को नई दिल्ली में 12वें भारत-ईयू विदेश नीति और सुरक्षा परामर्श का संचालन किया। चर्चाओं में 'टुवर्ड्स 2030 कॉम्प्रिहेंसिव स्ट्रेटेजिक एजेंडा' (Towards 2030 Comprehensive Strategic Agenda) के तहत रणनीतिक साझेदारी की गति की समीक्षा की गई और संयुक्त राष्ट्र चार्टर (UN Charter) के प्रति प्रतिबद्धता दोहराई गई। दोनों पक्षों ने क्षेत्रीय और वैश्विक विकास, समुद्री सुरक्षा, साइबर और हाइब्रिड खतरों, आतंकवाद-रोधी और यूक्रेन की स्थिति सहित सुरक्षा सहयोग पर चर्चा की, और अगला संस्करण ब्रुसेल्स में आयोजित करने पर सहमति व्यक्त की।",
+    "points": [
+     "बैठक 27 नवंबर 2026 को नई दिल्ली में आयोजित की गई।",
+     "विदेश मंत्रालय (Ministry of External Affairs) के श्री सिबी जॉर्ज और यूरोपीय बाहरी कार्रवाई सेवा (European External Action Service) के श्री ओलोफ स्कोलग द्वारा सह-अध्यक्षता की गई।",
+     "भारत-ईयू सुरक्षा और रक्षा साझेदारी (India-EU Security and Defence Partnership) के तहत सहयोग की समीक्षा की गई।",
+     "अगले साल ब्रुसेल्स में अगला परामर्श आयोजित करने पर सहमति हुई।"
+    ],
+    "static_gk": "यूरोपीय संघ (European Union) का मुख्यालय ब्रुसेल्स, बेल्जियम में है।",
+    "mcqs": [
+     {
+      "question": "12वीं भारत-ईयू विदेश नीति और सुरक्षा परामर्श कहाँ आयोजित किया गया था?",
+      "options": [
+       "ब्रुसेल्स",
+       "नई दिल्ली",
+       "पेरिस",
+       "वियना"
+      ],
+      "explanation": "12वीं भारत-ईयू विदेश नीति और सुरक्षा परामर्श 27 नवंबर 2026 को नई दिल्ली में आयोजित किए गए थे।"
+     },
+     {
+      "question": "भारतीय पक्ष से 12वीं भारत-ईयू विदेश नीति और सुरक्षा परामर्श की सह-अध्यक्षता किसने की?",
+      "options": [
+       "डॉ. एस. जयशंकर",
+       "श्री ओलोफ स्कोलग",
+       "श्री सिबी जॉर्ज",
+       "वाइस एडमिरल एस. एन. घोरमडे"
+      ],
+      "explanation": "बैठक की सह-अध्यक्षता विदेश मंत्रालय (Ministry of External Affairs) के सचिव (पश्चिम) श्री सिबी जॉर्ज ने की।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "नवी दिल्ली येथे १२ वी भारत-युरोपियन युनियन परराष्ट्र धोरण आणि सुरक्षा सल्लामसलत पार पडली",
+    "one_liner": "भारत आणि युरोपियन युनियनने (European Union) २७ नोव्हेंबर २०२६ रोजी नवी दिल्ली येथे त्यांची १२ वी परराष्ट्र धोरण आणि सुरक्षा सल्लामसलत पार पाडली.",
+    "summary": "भारत आणि युरोपियन युनियनने (European Union) २७ नोव्हेंबर २०२६ रोजी नवी दिल्ली येथे १२ वी भारत-युरोपियन युनियन परराष्ट्र धोरण आणि सुरक्षा सल्लामसलत घेतली. या चर्चेत 'टुवर्ड्स २०३० सर्वसमावेशक धोरणात्मक अजेंडा' (Towards 2030 Comprehensive Strategic Agenda) अंतर्गत धोरणात्मक भागीदारीच्या गतीचा आढावा घेण्यात आला आणि युनोच्या सनदेवरील (UN Charter) प्रतिबद्धतेचा पुनरुच्चार करण्यात आला. दोन्ही बाजूंनी प्रादेशिक व जागतिक घडामोडी, सागरी सुरक्षितता, सायबर आणि हायब्रिड धोके, दहशतवादविरोधी उपाय आणि युक्रेनमधील परिस्थिती यासह सुरक्षा सहकार्यावर चर्चा केली आणि पुढील आवृत्ती ब्रुसेल्स (Brussels) येथे घेण्याचे मान्य केले.",
+    "points": [
+     "बैठक २७ नोव्हेंबर २०२६ रोजी नवी दिल्ली येथे पार पडली.",
+     "परराष्ट्र मंत्रालयाचे (MEA) श्री सिबी जॉर्ज आणि युरोपियन External Action Service चे श्री ओलोफ स्स्कूग यांच्या सह-अध्यक्षतेखाली बैठक झाली.",
+     "भारत-युरोपियन युनियन (European Union) सुरक्षा आणि संरक्षण भागीदारी अंतर्गत सहकार्याचा आढावा घेतला.",
+     "पुढील सल्लामसलत पुढील वर्षी ब्रुसेल्स (Brussels) येथे घेण्याचे मान्य केले."
+    ],
+    "static_gk": "युरोपियन युनियनचे (European Union) मुख्यालय बेल्जियममधील ब्रुसेल्स (Brussels) येथे आहे.",
+    "mcqs": [
+     {
+      "question": "१२ वी भारत-युरोपियन युनियन परराष्ट्र धोरण आणि सुरक्षा सल्लामसलत कुठे आयोजित करण्यात आली होती?",
+      "options": [
+       "ब्रुसेल्स (Brussels)",
+       "नवी दिल्ली",
+       "पॅरिस",
+       "व्हिएन्ना"
+      ],
+      "explanation": "१२ वी भारत-युरोपियन युनियन परराष्ट्र धोरण आणि सुरक्षा सल्लामसलत २७ नोव्हेंबर २०२६ रोजी नवी दिल्ली येथे आयोजित करण्यात आली होती."
+     },
+     {
+      "question": "भारतीय बाजूने १२ वी भारत-युरोपियन युनियन परराष्ट्र धोरण आणि सुरक्षा सल्लामसलतीचे सह-अध्यक्षपद कोनी भूषवले?",
+      "options": [
+       "डॉ. एस. जयशंकर",
+       "श्री. ओलोफ स्स्कूग",
+       "श्री सिबी जॉर्ज",
+       "व्हाईस Admiral एस. एन. घोरपडे"
+      ],
+      "explanation": "परराष्ट्र मंत्रालयाचे सचिव (पश्चिम) श्री सिबी जॉर्ज यांनी या बैठकीचे सह-अध्यक्षपद भूषवले."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Ministry of External Affairs",
+    "short": "MEA",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "European Union",
+    "short": "EU",
+    "kind": "organisation",
+    "indian": false
+   },
+   {
+    "name": "United Nations",
+    "short": "UN",
+    "kind": "organisation",
+    "indian": false
+   }
+  ],
+  "importance": 8,
+  "gk": [
+   {
+    "en": "Ministry of External Affairs was established in 1946",
+    "bn": "বিদেশ মন্ত্রক প্রতিষ্ঠিত হয় 1946 সালে",
+    "hi": "विदेश मन्त्रालय की स्थापना: 1946",
+    "mr": "परराष्ट्र मंत्रालय (भारत) ची स्थापना: 1946"
+   },
+   {
+    "en": "Headquarters of European Union: Brussels",
+    "bn": "ইউরোপীয় ইউনিয়ন-এর সদর দপ্তর: ব্রাসেলস",
+    "hi": "यूरोपीय संघ का मुख्यालय: ब्रसेल्स",
+    "mr": "युरोपीय संघ चे मुख्यालय: ब्रसेल्स"
+   },
+   {
+    "en": "European Union was established in 1993",
+    "bn": "ইউরোপীয় ইউনিয়ন প্রতিষ্ঠিত হয় 1993 সালে",
+    "hi": "यूरोपीय संघ की स्थापना: 1993",
+    "mr": "युरोपीय संघ ची स्थापना: 1993"
+   },
+   {
+    "en": "Headquarters of United Nations: New York City",
+    "bn": "জাতিসংঘ-এর সদর দপ্তর: নিউ ইয়র্ক সিটি",
+    "hi": "संयुक्त राष्ट्र का मुख्यालय: न्यूयॉर्क नगर",
+    "mr": "संयुक्त राष्ट्रे चे मुख्यालय: न्यू यॉर्क शहर"
+   },
+   {
+    "en": "United Nations was established in 1945",
+    "bn": "জাতিসংঘ প্রতিষ্ঠিত হয় 1945 সালে",
+    "hi": "संयुक्त राष्ट्र की स्थापना: 1945",
+    "mr": "संयुक्त राष्ट्रे ची स्थापना: 1945"
+   }
+  ]
+ },
+ {
+  "id": "2e915d8c4d9f",
+  "date": "2026-11-28",
+  "time": "2026-11-28T13:50+05:30",
+  "region": "national",
+  "category": "international",
+  "tags": [
+   "UPSC",
+   "State PSC",
+   "SSC"
+  ],
+  "source_name": "MEA",
+  "source_url": "https://www.mea.gov.in/press-releases?dtl/42010/25th_Meeting_of_the_IORA_Council_of_Ministers",
+  "answers": [
+   2,
+   2
+  ],
+  "langs": {
+   "en": {
+    "title": "25th Meeting of the IORA Council of Ministers Held in New Delhi",
+    "one_liner": "India chaired the 25th Meeting of the IORA Council of Ministers in New Delhi, announcing two new Centres of Excellence.",
+    "summary": "India hosted the 25th Meeting of the Council of Ministers of the Indian Ocean Rim Association in New Delhi on 27 November 2026 under its Chairship period of 2025-2027. Dr S. Jaishankar chaired the event attended by 23 Member States and 12 Dialogue Partners. India announced the establishment of two IORA Centres of Excellence—the Digital Innovation Hub at CSIR-NIO in Goa and the Centre of Excellence in Maritime Law at RRU, Gujarat, along with a USD 500,000 grant.",
+    "points": [
+     "Meeting held on 27 November 2026 in New Delhi under India's chairship.",
+     "Chaired by External Affairs Minister Dr S. Jaishankar.",
+     "Announced establishment of IORA Digital Innovation Hub in Goa and Maritime Law Centre in Gujarat.",
+     "India announced a financial grant of USD 500,000 for institutional capacity-building."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "What is India's chairship period for the Indian Ocean Rim Association?",
+      "options": [
+       "2023-2025",
+       "2024-2026",
+       "2025-2027",
+       "2026-2028"
+      ],
+      "explanation": "India is the current Chair of IORA for the period 2025–2027."
+     },
+     {
+      "question": "How much grant did India announce towards IORA capacity-building?",
+      "options": [
+       "USD 100,000",
+       "USD 250,000",
+       "USD 500,000",
+       "USD 1,000,000"
+      ],
+      "explanation": "India announced a grant of USD 500,000 towards the Association's institutional and financial capacity-building."
+     }
+    ]
+   },
+   "bn": {
+    "title": "নতুন দিল্লিতে আইওআরএ পরিষদ মন্ত্রীদের ২৫তম বৈঠক অনুষ্ঠিত",
+    "one_liner": "ভারত নতুন দিল্লিতে ইন্ডিয়ান ওশান রিম অ্যাসোসিয়েশন (Indian Ocean Rim Association বা IORA)-এর মন্ত্রিপরিষদের ২৫তম বৈঠকের সভাপতিত্ব করেছে এবং দুটি নতুন উৎকর্ষ কেন্দ্র (Centres of Excellence) ঘোষণা করেছে।",
+    "summary": "ভারত ২০২৫-২০২৭ সালের তার চেয়ারশিপ মেয়াদে ২৭ নভেম্বর ২০২৬ তারিখে নতুন দিল্লিতে ইন্ডিয়ান ওশান রিম অ্যাসোসিয়েশনের মন্ত্রিপরিষদের ২৫তম বৈঠকের আয়োজন করে। ২৩টি সদস্য রাষ্ট্র এবং ১২ জন সংলাপ অংশীদারের উপস্থিতিতে ডা. এস জয়শঙ্কর এই অনুষ্ঠানের সভাপতিত্ব করেন। ভারত দুটি আইওআরএ উৎকর্ষ কেন্দ্র স্থাপনের ঘোষণা করে—গোয়ার সিএসআইআর-এনআইও (CSIR-NIO)-তে ডিজিটাল ইনোভেশন হাব এবং গুজরাটের আরআরইউ (RRU)-তে মেরিটাইম ল-এর উৎকর্ষ কেন্দ্র, সেই সঙ্গে ৫০০,০০০ মার্কিন ডলার অনুদান ঘোষণা করে।",
+    "points": [
+     "ভারতের চেয়ারশিপের অধীনে ২৭ নভেম্বর ২০২৬ তারিখে নতুন দিল্লিতে বৈঠকটি অনুষ্ঠিত হয়।",
+     "বিদেশমন্ত্রী ডা. এস জয়শঙ্কর এর সভাপতিত্ব করেন।",
+     "গোয়ায় আইওআরএ ডিজিটাল ইনোভেশন হাব এবং গুজরাটে মেরিটাইম ল সেন্টার প্রতিষ্ঠার ঘোষণা করা হয়।",
+     "প্রাতিষ্ঠানিক সক্ষমতা বৃদ্ধির জন্য ভারত ৫০০,০০০ মার্কিন ডলার আর্থিক অনুদান ঘোষণা করে।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "ইন্ডিয়ান ওশান রিম অ্যাসোসিয়েশনের জন্য ভারতের চেয়ারশিপের মেয়াদ কত?",
+      "options": [
+       "২০২৩-২০২৫",
+       "২০২৪-২০২৬",
+       "২০২৫-২০২৭",
+       "২০২৬-২০২৮"
+      ],
+      "explanation": "ভারত ২০২৫-২০২৭ মেয়াদের জন্য বর্তমান আইওআরএ চেয়ার।"
+     },
+     {
+      "question": "আইওআরএ সক্ষমতা বৃদ্ধির জন্য ভারত কত অনুদান ঘোষণা করেছে?",
+      "options": [
+       "১০০,০০০ মার্কিন ডলার",
+       "২৫০,০০০ মার্কিন ডলার",
+       "৫০০,০০০ মার্কিন ডলার",
+       "১,০০০,০০০ মার্কিন ডলার"
+      ],
+      "explanation": "সংস্থার প্রাতিষ্ঠানিক ও আর্থিক সক্ষমতা বৃদ্ধির জন্য ভারত ৫০০,০০০ মার্কিন ডলার অনুদান ঘোষণা করেছে।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "नई दिल्ली में आईओआरए मंत्रिपरिषद की 25वीं बैठक आयोजित",
+    "one_liner": "भारत ने नई दिल्ली में हिंद महासागर रिम एसोसिएशन (Indian Ocean Rim Association - IORA) की मंत्रिपरिषद की 25वीं बैठक की अध्यक्षता की और दो नए उत्कृष्टता केंद्रों (Centres of Excellence) की घोषणा की।",
+    "summary": "भारत ने 2025-2027 की अपनी अध्यक्षता अवधि के तहत 27 नवंबर 2026 को नई दिल्ली में हिंद महासागर रिम एसोसिएशन (Indian Ocean Rim Association - IORA) की मंत्रिपरिषद की 25वीं बैठक की मेजबानी की। डॉ. एस. जयशंकर ने इस कार्यक्रम की अध्यक्षता की जिसमें 23 सदस्य राज्यों और 12 संवाद साझेदारों ने भाग लिया। भारत ने दो आईओआरए उत्कृष्टता केंद्रों (IORA Centres of Excellence)—गोवा में सीएसआईआर-एनआईओ (CSIR-NIO) में डिजिटल इनोवेशन हब और गुजरात में आरआरयू (RRU) में मैरीटाइम लॉ में उत्कृष्टता केंद्र की स्थापना की घोषणा की, साथ ही 500,000 अमेरिकी डॉलर के अनुदान की भी घोषणा की।",
+    "points": [
+     "भारत की अध्यक्षता में 27 नवंबर 2026 को नई दिल्ली में बैठक आयोजित की गई।",
+     "विदेश मंत्री डॉ. एस. जयशंकर द्वारा अध्यक्षता की गई।",
+     "गोवा में आईओआरए डिजिटल इनोवेशन हब और गुजरात में मैरीटाइम लॉ सेंटर की स्थापना की घोषणा की गई।",
+     "भारत ने संस्थागत क्षमता निर्माण के लिए 500,000 अमेरिकी डॉलर के वित्तीय अनुदान की घोषणा की।"
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "हिंद महासागर रिम एसोसिएशन (Indian Ocean Rim Association - IORA) के लिए भारत की अध्यक्षता की अवधि क्या है?",
+      "options": [
+       "2023-2025",
+       "2024-2026",
+       "2025-2027",
+       "2026-2028"
+      ],
+      "explanation": "भारत 2025-2027 की अवधि के लिए IORA का वर्तमान अध्यक्ष है।"
+     },
+     {
+      "question": "भारत ने IORA क्षमता-निर्माण के लिए कितना अनुदान देने की घोषणा की?",
+      "options": [
+       "100,000 अमेरिकी डॉलर",
+       "250,000 अमेरिकी डॉलर",
+       "500,000 अमेरिकी डॉलर",
+       "1,000,000 अमेरिकी डॉलर"
+      ],
+      "explanation": "भारत ने एसोसिएशन के संस्थागत और वित्तीय क्षमता-निर्माण की दिशा में 500,000 अमेरिकी डॉलर के अनुदान की घोषणा की।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "नवी दिल्ली येथे IORA च्या मंत्री परिषदेची २५ वी बैठक पार पडली",
+    "one_liner": "भारताने नवी दिल्ली येथे IORA च्या मंत्री परिषदेच्या २५ व्या बैठकीचे अध्यक्षपद भूषवले आणि दोन नवीन उत्कृष्टता केंद्रांची घोषणा केली.",
+    "summary": "भारताने २०२५-२०२७ या अध्यक्षीय कालावधीत २७ नोव्हेंबर २०२६ रोजी नवी दिल्ली येथे इंडियन ओशन रिम असोसिएशनच्या (Indian Ocean Rim Association - IORA) मंत्री परिषदेच्या २५ व्या बैठकीचे आयोजन केले. २३ सदस्य देश आणि १२ संवाद भागीदार यांच्या उपस्थितीत झालेल्या या कार्यक्रमाचे अध्यक्षपद डॉ. एस. जयशंकर यांनी भूषवले. भारताने दोन IORA उत्कृष्टता केंद्रांची स्थापना करण्याची घोषणा केली—गोव्यातील CSIR-NIO येथे डिजिटल इनोव्हेशन हब आणि गुजरातच्या RRU येथे सागरी कायद्यातील उत्कृष्टता केंद्र (Centre of Excellence in Maritime Law), तसेच ५००,००० अमेरिकन डॉलरचे अनुदान जाहीर केले.",
+    "points": [
+     "भारताच्या अध्यक्षतेखाली २७ नोव्हेंबर २०२६ रोजी नवी दिल्ली येथे बैठक पार पडली.",
+     "परराष्ट्र मंत्री डॉ. एस. जयशंकर यांच्या अध्यक्षतेखाली बैठक झाली.",
+     "गोव्यामध्ये IORA डिजिटल इनोव्हेशन हब आणि गुजरातमध्ये सागरी कायदा केंद्र स्थापन करण्याची घोषणा केली.",
+     "संस्थेच्या क्षमता-बांधणीसाठी भारताने ५००,००० अमेरिकन डॉलरच्या आर्थिक अनुदानाची घोषणा केली."
+    ],
+    "static_gk": "",
+    "mcqs": [
+     {
+      "question": "इंडियन ओशन रिम असोसिएशनसाठी (Indian Ocean Rim Association - IORA) भारताचा अध्यक्षपदाचा काळ कोणता आहे?",
+      "options": [
+       "२०२३-२०२५",
+       "२०२४-२०२६",
+       "२०२५-२०२७",
+       "२०२६-२०२८"
+      ],
+      "explanation": "भारत २०२५-२०२७ या कालावधीसाठी IORA चा सध्याचा अध्यक्ष आहे."
+     },
+     {
+      "question": "IORA च्या क्षमता-बांधणीसाठी भारताने किती अनुदानाची घोषणा केली?",
+      "options": [
+       "१००,००० अमेरिकन डॉलर",
+       "२५०,००० अमेरिकन डॉलर",
+       "५००,००० अमेरिकन डॉलर",
+       "१,०००,००० अमेरिकन डॉलर"
+      ],
+      "explanation": "भारताने संस्थेच्या संस्थात्मक आणि आर्थिक क्षमता-बांधणीसाठी ५००,००० अमेरिकन डॉलर अनुदानाची घोषणा केली."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Indian Ocean Rim Association",
+    "short": "IORA",
+    "kind": "organisation",
+    "indian": false
+   },
+   {
+    "name": "Council of Scientific and Industrial Research",
+    "short": "CSIR",
+    "kind": "organisation",
+    "indian": true
+   },
+   {
+    "name": "Rashtriya Raksha University",
+    "short": "RRU",
+    "kind": "organisation",
+    "indian": true
+   }
+  ],
+  "importance": 8,
+  "gk": [
+   {
+    "en": "Headquarters of Council of Scientific and Industrial Research: New Delhi",
+    "bn": "বৈজ্ঞানিক তথা আয়োগিক অনুসন্ধান পরিষদ-এর সদর দপ্তর: নয়াদিল্লি",
+    "hi": "वैज्ञानिक एवं औद्योगिक अनुसंधान परिषद का मुख्यालय: नई दिल्ली",
+    "mr": "वैज्ञानिक आणि औद्योगिक संशोधन महामंडळ चे मुख्यालय: नवी दिल्ली"
+   },
+   {
+    "en": "Council of Scientific and Industrial Research was established in 1942",
+    "bn": "বৈজ্ঞানিক তথা আয়োগিক অনুসন্ধান পরিষদ প্রতিষ্ঠিত হয় 1942 সালে",
+    "hi": "वैज्ञानिक एवं औद्योगिक अनुसंधान परिषद की स्थापना: 1942",
+    "mr": "वैज्ञानिक आणि औद्योगिक संशोधन महामंडळ ची स्थापना: 1942"
+   }
+  ]
+ },
+ {
+  "id": "7d687154a197",
+  "date": "2026-11-28",
+  "time": "2026-11-28T13:50+05:30",
+  "region": "national",
+  "category": "international",
+  "tags": [
+   "UPSC",
+   "SSC",
+   "Railways"
+  ],
+  "source_name": "MEA",
+  "source_url": "https://www.mea.gov.in/press-releases?dtl/42006/Joint_Press_Statement_8th_NSAlevel_meeting_of_the_Colombo_Security_Conclave",
+  "answers": [
+   2,
+   0
+  ],
+  "langs": {
+   "en": {
+    "title": "8th NSA-Level Meeting of the Colombo Security Conclave Hosted by Maldives",
+    "one_liner": "The 8th NSA-level meeting of the Colombo Security Conclave was hosted by Maldives on 25 November 2026.",
+    "summary": "The 8th National Security Advisor Level Meeting of the Colombo Security Conclave took place at Villa Nautica Paradise Island in the Maldives on 25 November 2026. Delegations from member states including Maldives, India, Mauritius, and Sri Lanka signed agreed minutes and adopted the Roadmap of Cooperation for 2026-2027 across five pillars. Australia and Malaysia participated as guests, and Vice Admiral S N Ghormade presented reviews as the first Secretary General of the Conclave.",
+    "points": [
+     "Hosted by Maldives on 25 November 2026 at Villa Nautica Paradise Island.",
+     "Indian delegation led by National Security Adviser Shri Ajit Doval.",
+     "Adopted the Roadmap of Cooperation for 2026–2027 across five security pillars.",
+     "Australia and Malaysia participated as Guests in the meeting."
+    ],
+    "static_gk": "The Colombo Security Conclave includes nations like India, Sri Lanka, Maldives, and Mauritius as members.",
+    "mcqs": [
+     {
+      "question": "Which country hosted the 8th NSA-level meeting of the Colombo Security Conclave?",
+      "options": [
+       "India",
+       "Sri Lanka",
+       "Maldives",
+       "Mauritius"
+      ],
+      "explanation": "The 8th National Security Advisor Level Meeting of the Colombo Security Conclave was hosted by Maldives on 25 November 2026."
+     },
+     {
+      "question": "Which countries participated as Guests at the 8th NSA-level meeting of the Colombo Security Conclave?",
+      "options": [
+       "Australia and Malaysia",
+       "Japan and USA",
+       "France and Germany",
+       "Singapore and Indonesia"
+      ],
+      "explanation": "Australia and Malaysia participated as Guests in the 8th NSA-level meeting."
+     }
+    ]
+   },
+   "bn": {
+    "title": "মালদ্বীপ কর্তৃক আয়োজিত কলম্বো সিকিউরিটি কনক্লেভের ৮ম এনএসএ-স্তরের বৈঠক",
+    "one_liner": "মালদ্বীপ ২৫ নভেম্বর ২০২৬ তারিখে কলম্বো সিকিউরিটি কনক্লেভ (Colombo Security Conclave)-এর ৮ম এনএসএ-স্তরের বৈঠকের আয়োজন করে।",
+    "summary": "কলম্বো সিকিউরিটি কনক্লেভের ৮ম জাতীয় নিরাপত্তা উপদেষ্টা স্তরের বৈঠকটি ২৫ নভেম্বর ২০২৬ তারিখে মালদ্বীপের ভিলা নৌটিকা প্যারাডাইস আইল্যান্ডে অনুষ্ঠিত হয়। মালদ্বীপ, ভারত, মরিশাস এবং শ্রীলঙ্কা সহ সদস্য রাষ্ট্রগুলির প্রতিনিধিদল সম্মত কার্যবিবরণীতে স্বাক্ষর করে এবং পাঁচটি স্তম্ভ জুড়ে ২০২৬-২০২৭ সালের সহযোগিতার রোডম্যাপ গ্রহণ করে। অস্ট্রেলিয়া ও মালয়েশিয়া অতিথি হিসেবে অংশগ্রহণ করে এবং কনক্লেভের প্রথম সেক্রেটারি জেনারেল হিসেবে ভাইস অ্যাডমিরাল এস এন ঘোরমড়ে পর্যালোচনা পেশ করেন।",
+    "points": [
+     "২৫ নভেম্বর ২০২৬ তারিখে ভিলা নৌটিকা প্যারাডাইস আইল্যান্ডে মালদ্বীপ এটি আয়োজন করে।",
+     "জাতীয় নিরাপত্তা উপদেষ্টা শ্রী অজিত ডোভালের নেতৃত্বে ভারতীয় প্রতিনিধিদল অংশগ্রহণ করে।",
+     "পাঁচটি সুরক্ষা স্তম্ভ জুড়ে ২০২৬-২০২৭ সালের সহযোগিতার রোডম্যাপ গৃহীত হয়।",
+     "বৈঠকে অতিথি হিসেবে অস্ট্রেলিয়া ও মালয়েশিয়া অংশগ্রহণ করেছিল।"
+    ],
+    "static_gk": "কলম্বো সিকিউরিটি কনক্লেভে ভারত, শ্রীলঙ্কা, মালদ্বীপ এবং মরিশাসের মতো দেশগুলি সদস্য হিসেবে অন্তর্ভুক্ত রয়েছে।",
+    "mcqs": [
+     {
+      "question": "কোন দেশ কলম্বো সিকিউরিটি কনক্লেভের ৮ম এনএসএ-স্তরের বৈঠকের আয়োজন করেছিল?",
+      "options": [
+       "ভারত",
+       "শ্রীলঙ্কা",
+       "মালদ্বীপ",
+       "মরিশাস"
+      ],
+      "explanation": "কলম্বো সিকিউরিটি কনক্লেভের ৮ম জাতীয় নিরাপত্তা উপদেষ্টা স্তরের বৈঠকটি ২৫ নভেম্বর ২০২৬ তারিখে মালদ্বীপ আয়োজন করেছিল।"
+     },
+     {
+      "question": "কলম্বো সিকিউরিটি কনক্লেভের ৮ম এনএসএ-স্তরের বৈঠকে কোন দেশগুলি অতিথি হিসেবে অংশগ্রহণ করেছিল?",
+      "options": [
+       "অস্ট্রেলিয়া এবং মালয়েশিয়া",
+       "জাপান এবং মার্কিন যুক্তরাষ্ট্র",
+       "ফ্রান্স এবং জার্মানি",
+       "সিঙ্গাপুর এবং ইন্দোনেশিয়া"
+      ],
+      "explanation": "অস্ট্রেলিয়া এবং মালয়েশিয়া ৮ম এনএসএ-স্তরের বৈঠকে অতিথি হিসেবে অংশগ্রহণ করেছিল।"
+     }
+    ]
+   },
+   "hi": {
+    "title": "मालदीव द्वारा कोलंबो सुरक्षा सम्मेलन की 8वीं एनएसए-स्तरीय बैठक की मेजबानी की गई",
+    "one_liner": "कोलंबो सुरक्षा सम्मेलन की 8वीं एनएसए-स्तरीय बैठक 25 नवंबर 2026 को मालदीव द्वारा आयोजित की गई।",
+    "summary": "कोलंबो सुरक्षा सम्मेलन (Colombo Security Conclave) की 8वीं राष्ट्रीय सुरक्षा सलाहकार (NSA) स्तर की बैठक 25 नवंबर 2026 को मालदीव के विला नौटिका पैराडाइज आइलैंड में हुई। मालदीव, भारत, मॉरीशस और श्रीलंका सहित सदस्य देशों के प्रतिनिधिमंडलों ने पांच स्तंभों पर 2026-2027 के लिए सहयोग के रोडमैप पर हस्ताक्षर किए और उसे अपनाया। ऑस्ट्रेलिया और मलेशिया ने अतिथियों के रूप में भाग लिया, और वाइस एडमिरल एस. एन. घोरमडे ने सम्मेलन के पहले महासचिव के रूप में समीक्षा प्रस्तुत की।",
+    "points": [
+     "25 नवंबर 2026 को विला नौटिका पैराडाइज आइलैंड में मालदीव द्वारा मेजबानी की गई।",
+     "भारतीय प्रतिनिधिमंडल का नेतृत्व राष्ट्रीय सुरक्षा सलाहकार श्री अजीत डोभाल ने किया।",
+     "पाँच सुरक्षा स्तंभों पर 2026-2027 के लिए सहयोग का रोडमैप अपनाया गया।",
+     "ऑस्ट्रेलिया और मलेशिया ने बैठक में अतिथियों के रूप में भाग लिया।"
+    ],
+    "static_gk": "कोलंबो सुरक्षा सम्मेलन (Colombo Security Conclave) में भारत, श्रीलंका, मालदीव और मॉरीशस जैसे देश सदस्य के रूप में शामिल हैं।",
+    "mcqs": [
+     {
+      "question": "कोलंबो सुरक्षा सम्मेलन की 8वीं एनएसए-स्तरीय बैठक की मेजबानी किस देश ने की?",
+      "options": [
+       "भारत",
+       "श्रीलंका",
+       "मालदीव",
+       "मॉरीशस"
+      ],
+      "explanation": "कोलंबो सुरक्षा सम्मेलन की 8वीं राष्ट्रीय सुरक्षा सलाहकार स्तर की बैठक 25 नवंबर 2026 को मालदीव द्वारा आयोजित की गई थी।"
+     },
+     {
+      "question": "कोलंबो सुरक्षा सम्मेलन की 8वीं एनएसए-स्तरीय बैठक में किन देशों ने अतिथियों के रूप में भाग लिया?",
+      "options": [
+       "ऑस्ट्रेलिया और मलेशिया",
+       "जापान और यूएसए",
+       "फ्रांस और जर्मनी",
+       "सिंगापुर और इंडोनेशिया"
+      ],
+      "explanation": "ऑस्ट्रेलिया और मलेशिया ने 8वीं एनएसए-स्तरीय बैठक में अतिथियों के रूप में भाग लिया।"
+     }
+    ]
+   },
+   "mr": {
+    "title": "मालदीवच्या आधिपत्याखाली कोलंबो सुरक्षा कॉन्क्लेव्हची ८ वी राष्ट्रीय सुरक्षा सल्लागार (NSA) स्तरावरील बैठक आयोजित",
+    "one_liner": "मालदीवने २५ नोव्हेंबर २०२६ रोजी कोलंबो सुरक्षा कॉन्क्लेव्हची ८ वी NSA-स्तरीय बैठक आयोजित केली.",
+    "summary": "कोलंबो सुरक्षा कॉन्क्लेव्हची (Colombo Security Conclave) ८ वी राष्ट्रीय सुरक्षा सल्लागार स्तरावरील बैठक २५ नोव्हेंबर २०२६ रोजी मालदीवमधील विला नॉटिका पॅराडाईज बेटावर झाली. मालदीव, भारत, मॉरिशस आणि श्रीलंका या सदस्य देशांच्या शिष्टमंडळांनी मान्यताप्राप्त इतिवृत्तावर स्वाक्षरी केली आणि पाच स्तंभांवर आधारित २०२६-२०२७ चा सहकार्य आराखडा (Roadmap of Cooperation) स्वीकारला. ऑस्ट्रेलिया आणि मलेशिया पाहुणे म्हणून सहभागी झाले होते आणि कॉन्क्लेव्हचे पहिले सरचिटणीस म्हणून व्हाईस Admiral एस. एन. घोरपडे यांनी आढावा सादर केला.",
+    "points": [
+     "२५ नोव्हेंबर २०२६ रोजी मालदीवमधील विला नॉटिका पॅराडाईज बेटावर आयोजित.",
+     "भारतीय शिष्टमंडळाचे नेतृत्व राष्ट्रीय सुरक्षा सल्लागार श्री अजित डोवाल यांनी केले.",
+     "पाच सुरक्षा स्तंभांवर आधारित २०२६-२०२७ चा सहकार्य आराखडा (Roadmap of Cooperation) स्वीकारला.",
+     "या बैठकीत ऑस्ट्रेलिया आणि मलेशिया पाहुणे म्हणून सहभागी झाले होते."
+    ],
+    "static_gk": "कोलंबो सुरक्षा कॉन्क्लेव्हमध्ये (Colombo Security Conclave) भारत, श्रीलंका, मालदीव आणि मॉरिशस यांसारखे देश सदस्य म्हणून समाविष्ट आहेत.",
+    "mcqs": [
+     {
+      "question": "कोलंबो सुरक्षा कॉन्क्लेव्हची ८ वी NSA-स्तरीय बैठक कोणत्या देशाने आयोजित केली होती?",
+      "options": [
+       "भारत",
+       "श्रीलंका",
+       "मालदीव",
+       "मॉरिशस"
+      ],
+      "explanation": "कोलंबो सुरक्षा कॉन्क्लेव्हची ८ वी राष्ट्रीय सुरक्षा सल्लागार स्तरावरील बैठक २५ नोव्हेंबर २०२६ रोजी मालदीवद्वारे आयोजित करण्यात आली होती."
+     },
+     {
+      "question": "कोलंबो सुरक्षा कॉन्क्लेव्हच्या ८ व्या NSA-स्तरीय बैठकीत पाहुणे म्हणून कोणत्या देशांनी सहभाग घेतला होता?",
+      "options": [
+       "ऑस्ट्रेलिया आणि मलेशिया",
+       "जपान आणि अमेरिका",
+       "फ्रान्स आणि जर्मनी",
+       "सिंगापूर आणि इंडोनेशिया"
+      ],
+      "explanation": "८ व्या NSA-स्तरीय बैठकीत ऑस्ट्रेलिया आणि मलेशिया यांनी पाहुणे म्हणून सहभाग घेतला होता."
+     }
+    ]
+   }
+  },
+  "entities": [
+   {
+    "name": "Colombo Security Conclave",
+    "short": "CSC",
+    "kind": "organisation",
+    "indian": false
+   },
+   {
+    "name": "Maldives",
+    "short": "",
+    "kind": "country",
+    "indian": false
+   },
+   {
+    "name": "India",
+    "short": "",
+    "kind": "country",
+    "indian": true
+   }
+  ],
+  "importance": 7,
+  "gk": [
+   {
+    "en": "Headquarters of Congregation of the Holy Cross: Rome",
+    "bn": "পবিত্র ক্রুশ সন্ন্যাস সংঘ-এর সদর দপ্তর: রোম"
+   },
+   {
+    "en": "Congregation of the Holy Cross was established in 1837",
+    "bn": "পবিত্র ক্রুশ সন্ন্যাস সংঘ প্রতিষ্ঠিত হয় 1837 সালে"
+   },
+   {
+    "en": "Capital of Maldives: Malé",
+    "bn": "মালদ্বীপ-এর রাজধানী: মালে",
+    "hi": "मालदीव की राजधानी: माले",
+    "mr": "मालदीव ची राजधानी: माले"
+   },
+   {
+    "en": "Currency of Maldives: Maldivian rufiyaa",
+    "bn": "মালদ্বীপ-এর মুদ্রা: মালদ্বীপীয় রুফিয়াহ",
+    "hi": "मालदीव की मुद्रा: मालदीवी रुफिया",
+    "mr": "मालदीव चे चलन: मालदीवी रुफिया"
+   }
+  ]
+ },
+ {
   "id": "18b35ac14b8c",
   "date": "2026-11-28",
   "time": "2026-11-28T03:05+05:30",

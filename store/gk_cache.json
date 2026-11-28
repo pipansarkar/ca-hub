@@ -1049,5 +1049,56 @@
 "organisation:True:small industries development bank of india": {
 "at": "2026-11-27",
 "facts": []
+},
+"organisation:False:united nations": {
+"at": "2026-11-28",
+"facts": [
+{
+"en": "Headquarters of United Nations: New York City",
+"bn": "জাতিসংঘ-এর সদর দপ্তর: নিউ ইয়র্ক সিটি",
+"hi": "संयुक्त राष्ट्र का मुख्यालय: न्यूयॉर्क नगर",
+"mr": "संयुक्त राष्ट्रे चे मुख्यालय: न्यू यॉर्क शहर"
+},
+{
+"en": "United Nations was established in 1945",
+"bn": "জাতিসংঘ প্রতিষ্ঠিত হয় 1945 সালে",
+"hi": "संयुक्त राष्ट्र की स्थापना: 1945",
+"mr": "संयुक्त राष्ट्रे ची स्थापना: 1945"
+}
+]
+},
+"organisation:True:rashtriya raksha university": {
+"at": "2026-11-28",
+"facts": []
+},
+"organisation:False:colombo security conclave": {
+"at": "2026-11-28",
+"facts": [
+{
+"en": "Headquarters of Congregation of the Holy Cross: Rome",
+"bn": "পবিত্র ক্রুশ সন্ন্যাস সংঘ-এর সদর দপ্তর: রোম"
+},
+{
+"en": "Congregation of the Holy Cross was established in 1837",
+"bn": "পবিত্র ক্রুশ সন্ন্যাস সংঘ প্রতিষ্ঠিত হয় 1837 সালে"
+}
+]
+},
+"country:False:maldives": {
+"at": "2026-11-28",
+"facts": [
+{
+"en": "Capital of Maldives: Malé",
+"bn": "মালদ্বীপ-এর রাজধানী: মালে",
+"hi": "मालदीव की राजधानी: माले",
+"mr": "मालदीव ची राजधानी: माले"
+},
+{
+"en": "Currency of Maldives: Maldivian rufiyaa",
+"bn": "মালদ্বীপ-এর মুদ্রা: মালদ্বীপীয় রুফিয়াহ",
+"hi": "मालदीव की मुद्रा: मालदीवी रुफिया",
+"mr": "मालदीव चे चलन: मालदीवी रुफिया"
+}
+]
 }
 }
