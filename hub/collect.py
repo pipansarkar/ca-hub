@@ -108,9 +108,12 @@ def mea_list() -> list:
     """(link, title, body) of recent MEA press releases (international relations)."""
     base = "https://www.mea.gov.in/FrontEnd/"
     hdr = {**UA, "X-Requested-With": "XMLHttpRequest"}
-    page = requests.get(base + "FetchPublicationListingData", headers=hdr, timeout=40, params={
+    r = requests.get(base + "FetchPublicationListingData", headers=hdr, timeout=40, params={
         "publicationId": 51, "page": 1, "PageSize": 20, "PLngId": 1, "SortBy": "", "KeywordName": "",
-        "DateRange": "", "IsInternalMEA": "false"}).text
+        "DateRange": "", "IsInternalMEA": "false"})
+    page = r.text
+    if "pressReleaseList" not in page:
+        print(f"[mea] unexpected response: HTTP {r.status_code}, {len(page)} bytes: {page[:160]!r}", file=sys.stderr)
     out = []
     rows = re.findall(r'class="date">([^<]+)</span>.*?<a href="(/press-releases\?dtl/\d+/[^"]*)">\s*([^<]+?)\s*</a>',
                       page, re.S)
